@@ -4,7 +4,7 @@ Here you can find guides, strategies and reviews on all things competitive Inasu
 
 ### Directory
 
-[Dash Cancelling](https://youtu.be/69EhruAC3yQ)
+[Fundamentals](dash.md) 
 
 - Bulleted
 - List
