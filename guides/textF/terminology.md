@@ -1,3 +1,5 @@
+### Common Terminology
+
 _Nomash_: short for the japanese form of "normal shoot" (**nōma**ru **sh**ūto), which refers to scoring without hissatsu shoots
 
 _Chain_: refers to shoot chaining
