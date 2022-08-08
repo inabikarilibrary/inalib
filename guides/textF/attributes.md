@@ -1,14 +1,16 @@
-#There are 5 different attributes in this game:
+###### There are 5 different attributes (or elements) in this game:
 
-<mark > _Wood_ </mark>
+_Wood_ ![Wood_Icon](https://user-images.githubusercontent.com/110833255/183467367-437757e4-56a8-4052-b061-9202dfaaa924.png)
 
-<mark > _Wind_ </mark>
 
-<mark > _Earth_ </mark>
+_Wind_
 
-<mark > _Fire_ </mark>
+_Earth_
 
-<mark > _Void_ </mark>
+_Fire_
+
+_Void_
+
 
 
 NOTE: There are no Void attribute players in the game
