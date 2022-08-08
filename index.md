@@ -15,7 +15,7 @@ Here you can find guides, strategies and reviews on all things competitive Inasu
 
 ### Resources
 
-- [Playing Online Setup Tutorials](resources/setup.md)
+- [Playing Online Setup Tutorial](https://youtu.be/EI-9d82199s)
 
 - [German Guide](resources/german.md)
 
