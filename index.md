@@ -1,18 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to hahaha
+Here you can find guides, strategies and reviews on all things competitive Inasuto!
 
-Welcome to Raimon University! Here you can find guides, strategies and reviews on all things competitive Inasuto!
 
+### Directory
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+[Dash Cancelling](https://youtu.be/69EhruAC3yQ)
 
 - Bulleted
 - List
