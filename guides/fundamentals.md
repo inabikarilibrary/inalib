@@ -1,4 +1,4 @@
-### Common Terminology
+### Fundamentals
 
 [Common Terminology](textF/terminology.md)
 
