@@ -1,10 +1,7 @@
 ## Welcome to GitHub Pages
 
-Hello World!
+Welcome to Raimon University! Here you can find guides, strategies and reviews on all things competitive Inasuto!
 
-You can use the [editor on GitHub](https://github.com/Baamsushii/raimonu/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
