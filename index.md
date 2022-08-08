@@ -5,6 +5,6 @@ Here you can find guides, strategies and reviews on all things competitive Inasu
 ### Directory
 
 ## Guides and Concepts
-[Fundamentals](dash.md) 
+[Fundamentals](guides/fundamentals.md) 
 
-Advanced 
+[Advanced](guides/advanced.md) 
