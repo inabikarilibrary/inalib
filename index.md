@@ -6,4 +6,5 @@ Here you can find guides, strategies and reviews on all things competitive Inasu
 
 ## Guides and Concepts
 [Fundamentals](dash.md) 
+
 Advanced 
