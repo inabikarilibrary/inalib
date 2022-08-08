@@ -4,7 +4,7 @@ Here you can find guides, strategies and reviews on all things competitive Inasu
 
 ### Directory
 
-[Fundamentals](docs/dash.md) 
+[Fundamentals](dash.md) 
 
 - Bulleted
 - List
