@@ -4,19 +4,18 @@ Here you can find guides, strategies and reviews on all things competitive Inasu
 
 ## Directory
 
-### Techniques, Knowledge and Concepts
+### Techniques, Concepts and Game Knowledge
 
 - [Fundamentals](guides/fundamentals.md) 
 
 - [Advanced](guides/advanced.md) 
 
-- [Tier List (Japanese)](http://parabako.blog.fc2.com/blog-entry-403.html) 
-
-
 ### Resources
 
 - [Playing Online Setup Tutorial](https://youtu.be/EI-9d82199s)
 
+- [Tier List (Japanese)](http://parabako.blog.fc2.com/blog-entry-403.html) 
+
 - [German Guide](resources/german.md) 
 
-- 
+
