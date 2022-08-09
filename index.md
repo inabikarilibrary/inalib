@@ -16,6 +16,6 @@ Here you can find guides, strategies and reviews on all things competitive Inasu
 
 - [Tier List (Japanese)](http://parabako.blog.fc2.com/blog-entry-403.html) 
 
-- [German Guide](resources/german.md) 
+- [German Guide (Word document)](resources/german.md) 
 
 
