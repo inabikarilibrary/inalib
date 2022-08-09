@@ -4,6 +4,8 @@
 
 [Attributes](textF/attributes.md)
 
+[Stats](textF/stats.md)
+
 [The Different Playstyles]
 
 [Charge Times]
