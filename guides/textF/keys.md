@@ -25,11 +25,8 @@ While these keys can be set before an online match in the team building section,
 there is a bug that occurs in online play where the keys have no effect in the first half, and they only work in the second half.
 Because of this, where you put your keys in the first half does not matter, and key allocations begin only during halftime in preparation for the second half.
 
-In competitive play, the most common key stats are Body <img width="17" alt="body jp" src="https://user-images.githubusercontent.com/110833255/183716073-3c086dc1-5b21-4431-8b91-d30f05e9f536.png"> 
-and Guard <img width="17" alt="guard jp" src="https://user-images.githubusercontent.com/110833255/183716200-ecdc39e5-95e8-442e-ba14-9be9ce537895.png">
-. Kick <img width="17" alt="kick jp" src="https://user-images.githubusercontent.com/110833255/183716385-ad411179-b22d-40a9-860f-71bd76748e66.png">
-and Catch <img width="22" alt="catch jp" src="https://user-images.githubusercontent.com/110833255/183716476-77cb4545-c311-4de5-9db2-0b2687a37bcd.png">
-are also used but are relatively rarer.
+In competitive play, the most common key stats are Body and Guard.
+Kick and Catch are also used but are relatively rarer.
 
 Since key allocation has no restrictions, the combinations of which stats to increase is flexible and is done according to the situation of the match. 
 
@@ -61,26 +58,20 @@ Nomash teams typically use Body and Guard keys, while Chain teams usually use Ki
 
 <img width="503" alt="chain and nomash team" src="https://user-images.githubusercontent.com/110833255/183723726-8b9b1f6c-525b-450d-b463-ab39fd9bd22f.png">
 
-R Tenma <img width="42" alt="rtenma" src="https://user-images.githubusercontent.com/110833255/183724595-d758e22a-1592-4d8a-90cd-769ca0a693b0.png">
-and Kinako <img width="41" alt="kinako" src="https://user-images.githubusercontent.com/110833255/183724641-2a0b386f-5f6b-44bf-b90a-448c57d4ef0a.png">
-are most commonly used for Body keys.
+R Tenma and Kinako are most commonly used for Body keys.
 
-Kirino  <img width="41" alt="kirino" src="https://user-images.githubusercontent.com/110833255/183724778-c7da87a3-26f6-4508-892e-292e14beca89.png">
-and Tasuke <img width="43" alt="tasuke" src="https://user-images.githubusercontent.com/110833255/183724818-6668926a-7064-4b96-8581-38a7fe357194.png">
-are most commonly used for Guard keys, although R2 Fubuki <img width="41" alt="r2 fubuki" src="https://user-images.githubusercontent.com/110833255/183724882-27dc10d8-0aaa-41c7-925c-6bdd4c87f904.png">
-is often used in Chain teams as well. 
+Kirino and Tasuke are most commonly used for Guard keys, although R2 Fubuki is often used in Chain teams as well. 
 
-Catch is usually done with Gocker <img width="44" alt="gocker" src="https://user-images.githubusercontent.com/110833255/183725018-6037dafb-35fa-4b82-b6ed-e0960736d0b7.png">
-and Torb <img width="52" alt="torb" src="https://user-images.githubusercontent.com/110833255/183725152-be139dfe-12eb-4a3f-a89e-dbbe9b881740.png">.
+Catch is usually done with Gocker and Torb.
 
-Kick has many common and viable keymen, and examples include Yuuichi <img width="40" alt="yuuchi" src="https://user-images.githubusercontent.com/110833255/183725266-e73d883e-62aa-49b7-9366-730763cfa8c4.png">
-and Atsuya <img width="43" alt="atsuya" src="https://user-images.githubusercontent.com/110833255/183725303-4505b8be-828d-404f-beb6-5bb236e78828.png">.
+Kick has many common and viable keymen, and examples include Yuuichi and Atsuya. 
 
 Here is a list of all +4 keymen, as well as +2 Body +2 Guard keymen, some of whom are commonly used (such as R1 Endou):
 
 ![keys](https://user-images.githubusercontent.com/110833255/183725767-da4aac93-6683-4700-adf2-5e474719678d.png)
 
-
+[Return to Fundamentals page](guides/fundamentals.md)
+[Return to Homepage](index.md)
 
 
 
