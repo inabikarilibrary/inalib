@@ -35,7 +35,7 @@ Here we have Afuro Terumi (Aphrodi/Byron Love)'s charge profile and charge times
 
 Since he has a "Boy MF Slow" charge profile, his charge time is B without the ball, and A with the ball. What exactly does this mean?
 
-When Aphrodi is in possession of the ball (walking or running with it), it takes 5 minutes and 33 seconds of in-game time for his gauge to fill from zero to maximum. 
+When Aphrodi is in possession of the ball, it takes 5 minutes and 33 seconds of in-game time for his gauge to fill from zero to maximum. 
 
 Likewise, when Aphrodi is not in possession of the ball, it takes 8 minutes and 20 seconds of in-game time for his gauge to do the same. 
 
