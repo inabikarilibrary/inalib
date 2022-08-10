@@ -1,4 +1,4 @@
-### Fundamentals
+## Fundamentals
 
 [Common Terminology](textF/terminology.md)
 
@@ -10,6 +10,6 @@
 
 [Charge Times]
 
-[Halftime Items]
+[Halftime Items](textF/halfitems.md)
 
 [Keys](textF/keys.md)
