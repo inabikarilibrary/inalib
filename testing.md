@@ -1,7 +1,7 @@
 ---
 layout: post
 title: testing testing
-permalink: /https://inabikarilibrary.github.io/inalib/test/
+permalink: https://inabikarilibrary.github.io/inalib/test/
 ---
 
 tetetetetetet
