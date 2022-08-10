@@ -1,5 +1,5 @@
-# Welcome to RU
-Here you can find guides, strategies and reviews on all things competitive Inasuto!
+# Welcome to Inabikari Library! 
+Here you can find guides, strategies and all things competitive IE GO Strikers 2013!
 
 
 ## Directory
