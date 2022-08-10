@@ -16,6 +16,8 @@ Here you can find guides, strategies and all things competitive IE GO Strikers 2
 
 - [Tier List (Japanese)](http://parabako.blog.fc2.com/blog-entry-403.html) 
 
+- [Complete Database](https://docs.google.com/spreadsheets/d/1-wqtP8WlF6WeK71Gd3IHHqZsekycYrZYSfF4eKlCP1E/edit#gid=229441547)
+
 - [German Guide (Word document)](resources/german.md) 
 
 
