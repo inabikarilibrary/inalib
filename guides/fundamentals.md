@@ -8,7 +8,7 @@
 
 [The Different Playstyles]
 
-[Charge Times](textF/charge.md)
+[Charge Profiles](textF/charge.md)
 
 [Halftime Items](textF/halfitems.md)
 
