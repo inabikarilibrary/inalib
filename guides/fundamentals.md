@@ -1,6 +1,6 @@
 ## Fundamentals
 
-[Common Terminology](textF/terminology.md)
+[Common Terminology (WIP)](textF/terminology.md)
 
 [Attributes](textF/attributes.md)
 
