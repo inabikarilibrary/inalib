@@ -1,3 +1,5 @@
+[Click here for the video version of this guide](https://youtu.be/pOokV3RxZsw)
+
 # What are halftime items? 
 
 Halftime items are consumable items that can be given to players to give them certain benefits.
