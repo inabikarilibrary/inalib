@@ -41,3 +41,6 @@ Likewise, when Aphrodi is not in possession of the ball, it takes 8 minutes and 
 
 Because charge times, and thus charge profiles by extension, dictates how often players can use hissatsu techniques (or how often they get free catch hissatsus in the case of GKs),
 they play a large factor in determining the strength and viability of a player.
+
+The list of charge profiles and charge times of each player in the game can be found in the complete database here: 
+[Complete Database](https://docs.google.com/spreadsheets/d/1-wqtP8WlF6WeK71Gd3IHHqZsekycYrZYSfF4eKlCP1E/edit#gid=1187411320)
