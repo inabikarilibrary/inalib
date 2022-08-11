@@ -6,7 +6,7 @@
 
 [Stats](textF/stats.md)
 
-[The Different Playstyles]
+[An Overview of the Playstyles](textF/playstyles.md)
 
 [Charge Profiles](textF/charge.md)
 
