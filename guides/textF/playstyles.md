@@ -1,7 +1,7 @@
 # An Overview of the Playstyles
 
 There are 3 different playstyles that exist in competitive: 
-- [Chain](textF/chain.md)
+- [Chain](chain.md)
 - [Nomash](textF/nomash.md)
 - [Hybrid](textF/hybrid.md)
 
