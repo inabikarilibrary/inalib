@@ -33,7 +33,7 @@ ILJ Hiroto, ILJ Goeunji, and Shindou fulfills this role in picture 1, 2 and 3 re
 
 Here is a subjective tier list for chain shooters made by Paraly: 
 
-<img width="480" alt="chain FW tier list" src=https://user-images.githubusercontent.com/110833255/184208272-6f2f027c-85c2-44dd-93ae-083794e825d0.png>
+<img width="480" alt="chain FW tier list" src="https://user-images.githubusercontent.com/110833255/184208272-6f2f027c-85c2-44dd-93ae-083794e825d0.png">
 
 
 Because the GK meta consists of two Earth GKs (Endou and Shinsuke) and Senguuji (Fire attribute), 
