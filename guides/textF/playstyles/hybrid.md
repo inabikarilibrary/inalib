@@ -27,7 +27,7 @@ as opposed to from all sides of the field when playing Chain.
 
 ## Difficulty
 
-As a result, hybrid is considered to be the most difficult out of the 3 playstyles. 
+As a result, Hybrid is considered to be the most difficult out of the 3 playstyles. 
 It involves utilizing the techniques required of Nomash together with the timings required of Chain. 
 
 It is often recommended to understand both playstyles at a high level first before learning Hybrid. 
