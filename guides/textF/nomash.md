@@ -1,6 +1,6 @@
 # Nomash
 
-NOTE: In this article, “Nomash” with a capital “N” refers to the playstyle as a whole, 
+###### NOTE: In this article, “Nomash” with a capital “N” refers to the playstyle as a whole, 
 while “nomash” without any capitalizations refers to the literal meaning of the term.
 
 Derived from the Japanese form of “normal shoot”, this playstyle mostly does not use shoot hissatsus to score. 
@@ -60,7 +60,6 @@ Here is a subjective tier list made by Paraly:
 <img width="480" alt="tier list FW" src="https://user-images.githubusercontent.com/110833255/184293071-e9a88204-5cb9-4d7d-8536-b499d0ebbe59.png"> 
 
 <img width="480" alt="tier list MF" src="https://user-images.githubusercontent.com/110833255/184293146-da16dec3-d7e1-44fa-8ea7-f322f000277a.png">
-
 
 NOTE: Fubuki <img width="42" alt="r2 fubuki" src="https://user-images.githubusercontent.com/110833255/184293332-619649af-5471-4961-8d26-e196bc067ff6.png">
 is typically played in Chain/Hybrid teams as a chain starter and +4 Guard keyman. 
