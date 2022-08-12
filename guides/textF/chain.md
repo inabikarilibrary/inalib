@@ -1,6 +1,6 @@
 # Chain 
 
-NOTE: In this article, “Chain” with a capital “C” refers to the playstyle as a whole, while “chain” without any capitalizations refers to the literal meaning of the term.
+###### NOTE: In this article, “Chain” with a capital “C” refers to the playstyle as a whole, while “chain” without any capitalizations refers to the literal meaning of the term.
 
 This playstyle is the closest you can get to playing “normally” and “as intended” in competitive gameplay,
 and it is the most beginner-friendly out of the 3 playstyles. 
