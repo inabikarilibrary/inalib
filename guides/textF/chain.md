@@ -26,7 +26,7 @@ Here are some of the meta/viable team compositions for Chain:
 
 There are (almost) always at least 2 chain shooters used in a team, and they are played as the front 2 FWs.
 
-Often times a third chainer is played at the position behind the main 2 (e.g. behind Hakuryuu and Canon in the 3rd picture). 
+Often times a third chainer is played at the position behind the main 2 (e.g. behind Fideo and Canon in the 3rd picture). 
 Their purpose is to facilitate chains done through the middle by increasing the power of the final shot, and prevent potential interruptions due to SBs before the ball reaches the main chainers. 
 ILJ Hiroto, ILJ Goeunji, and Shindou fulfills this role in picture 1, 2 and 3 respectively.
 
