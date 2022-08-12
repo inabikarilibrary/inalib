@@ -1,6 +1,18 @@
 ### Common Terminology
 
-_Nomash_: short for the japanese form of "normal shoot" (**nōma**ru **sh**ūto), which refers to scoring without hissatsu shoots
+_GK_: goalkeeper
+
+_DF_: defender
+
+_MF_: midfielder
+
+_FW_: forward
+
+_SH hissatsu_: shoot hissatsu techniques
+
+_OF hissatsu_: dribble hissatsu techniques
+
+_Nomash_: short for the japanese form of "normal shoot" (**nōma**ru **sh**ūto), which refers to scoring without SH hissatsus
 
 _Chain_: refers to shoot chaining
 
@@ -17,4 +29,6 @@ _RNG_: short for Random Number Generator, usually used to refer to the random nu
 _Dash Nomash_: a type of nomash technique that involves evading the enemy goalkeeper with a dash in order to score
 
 _Nogoal_: the act of failing a nomash (usually a dash nomash)
+
+_Chain Starter_: a player that shoots the SH hissatsu that initiates a chain
 
