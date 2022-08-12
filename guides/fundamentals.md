@@ -1,15 +1,15 @@
 ## Fundamentals
 
-[Common Terminology (WIP)](textF/terminology.md)
+- [Common Terminology (WIP)](textF/terminology.md)
 
-[Attributes](textF/attributes.md)
+- [Attributes](textF/attributes.md)
 
-[Stats](textF/stats.md)
+- [Stats](textF/stats.md)
 
-[An Overview of the Playstyles](textF/overviewps.md)
+- [An Overview of the Playstyles](textF/overviewps.md)
 
-[Charge Profiles](textF/charge.md)
+- [Charge Profiles](textF/charge.md)
 
-[Halftime Items](textF/halfitems.md)
+- [Halftime Items](textF/halfitems.md)
 
-[Keys](textF/keys.md)
+- [Keys](textF/keys.md)
