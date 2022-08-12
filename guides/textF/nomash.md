@@ -1,7 +1,6 @@
 # Nomash
 
-###### NOTE: In this article, “Nomash” with a capital “N” refers to the playstyle as a whole, 
-while “nomash” without any capitalizations refers to the literal meaning of the term.
+###### NOTE: In this article, “Nomash” with a capital “N” refers to the playstyle as a whole, while “nomash” without any capitalizations refers to the literal meaning of the term.
 
 Derived from the Japanese form of “normal shoot”, this playstyle mostly does not use shoot hissatsus to score. 
 Instead, it relies on using normal shots and abusing mechanics that “evade” the enemy GK in order to score. 
