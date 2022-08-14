@@ -19,6 +19,8 @@ Each player grants a specified increase in one or two stats.
 If it’s one stat, the increase will be +4 (e.g. +4 Kick),
 and if it’s two stats, the increase will be +2 for each (e.g. +2 Control +2 Speed).
 
+An increase of +n in a specific stat with keys will translate to an increase of `n * 5` in the actual designated stat for the whole team.
+
 ## Keys in competitive play
 
 While these keys can be set before an online match in the team building section,
