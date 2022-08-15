@@ -18,7 +18,7 @@ Here you can find guides, strategies and all things competitive IE GO Strikers 2
 
 - [Complete Database](https://docs.google.com/spreadsheets/d/1-wqtP8WlF6WeK71Gd3IHHqZsekycYrZYSfF4eKlCP1E/edit#gid=229441547)
 
-- [German Beginner Guide](https://github.com/inabikarilibrary/inalib/files/9336195/inast.german.guide.pdf)
+- [German Beginner Guide (PDF Document)](https://github.com/inabikarilibrary/inalib/files/9336195/inast.german.guide.pdf)
 
 
 
