@@ -55,6 +55,7 @@ This is useful because the player will comparatively lose very little of their g
 You can also choose to take longer to switch to a different player, and as such this technique is usually a better alternative than manually closing the circle as it can serve the same function.
 
 Deciding the speed of your DF GAs depends on what your strategy is. It can range from near instantaneous to a second long.
+
 If you expect to use that player very soon (e.g. you believe you will get the ball very quickly and transition into a chain shot with Canon) in the future, the quick GA may be the better option to ensure your player is already charged. 
 
 Similarly, if you think you will not get the ball anytime soon, it may be better to let your player lose more of their gauge so that they are charged further in the future, instead of having their gauge reset to halfway. 
