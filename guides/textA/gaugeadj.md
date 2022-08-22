@@ -1,5 +1,7 @@
 # Gauge Adjustment
 
+<img src ="https://user-images.githubusercontent.com/110833255/185873538-b11af3b6-6c3c-43c5-a039-1e24c5b54da2.gif" width ="480" height ="270" />
+
 Gauge adjustment (GA) is a technique used to maintain a player's gauge at maximum (charged). 
 
 
@@ -8,6 +10,8 @@ Gauge adjustment (GA) is a technique used to maintain a player's gauge at maximu
 
 When a player's gauge reaches maximum, it remains that way for approximately 5 _in-game_ minutes. 
 After 5 minutes of being charged, the player's gauge will reset back to halfway. 
+
+<img width="80" alt="Screenshot 2022-08-22 152637" src="https://user-images.githubusercontent.com/110833255/185875603-f48bfef2-2e71-4522-8edf-15c1c9dda76a.png"> ~5 minutes later -> <img width="80" alt="gauge" src="https://user-images.githubusercontent.com/110833255/185875763-24f8009f-4e7d-4bcd-82bb-ec4b05e2b4b3.png">
 
 The purpose of GA is essentially to reset those 5 minutes. 
 For instance, if Aphrodi's gauge has been at maximum for 3 minutes, doing gauge adjustment with him will allow him to be charged for _another_ 5 minutes.
@@ -33,21 +37,32 @@ So when you have the ball and start a chain, Canon is still ready to use God Can
 
 In general, there are two ways to do gauge adjustment and it depends on whether the player has a DF or OF hissatsu (or both). 
 
-If a player has a DF hissatsu, GA can be done when you do NOT have the ball (when the opponent has the ball). 
+If a player has a DF hissatsu, GA can be done when you do NOT have possession of the ball.
 You open the circle first, as if to use a DF hissatsu, and then quickly close it again. 
 
 However, if you open and close manually, your player will lose a decent amount of their gauge and will take more time to become charged again. 
 As such, this motion can be done faster by switching to a different player, instead of manually closing the circle. 
 
-This is useful because the player will comparitively lose very little of their gauge, and they will become charged again almost instantly.
 
-Deciding between normal and quick DF GAs depends on what your strategy is. 
+<img src ="https://user-images.githubusercontent.com/110833255/185876290-e5203da7-f66c-4b1c-9bba-f420006e9ae6.gif" width ="480" height ="270" />
+     
+<img width ="360" src="https://user-images.githubusercontent.com/110833255/185877108-8f3d75ec-62dd-4ce1-9547-30a149ffcf1e.jpg"> switch players -> <img width ="360" src="https://user-images.githubusercontent.com/110833255/185877612-5a0ffdbc-5d50-43d6-a739-03e03cdf9bcd.jpg"> 
+
+     
+This is useful because the player will comparatively lose very little of their gauge, and they will become charged again almost instantly.
+
+You can also choose to take longer to switch to a different player, and as such this technique is usually a better alternative than manually closing the circle as it can also serve the same function.
+
+Deciding the speed of your DF GAs depends on what your strategy is. It can range from near instantaneous to a second long.
 If you expect to use that player very soon (e.g. you believe you will get the ball very quickly and transition into a chain shot with Canon) in the future, the quick GA may be the better option to ensure your player is already charged. 
 
 Similarly, if you think you will not get the ball anytime soon, it may be better to let your player lose more of their gauge so that they are charged further in the future, instead of having their gauge reset to halfway. 
+ 
+If the player has an OF hissatsu, GA can be done when that _same player_ has the ball.
 
-If a player has an OF hissatsu, GA can be done when that _same player_ has the ball. 
-Similar to the manual GA with a DF hissatsu, you open the circle first (can only be done when you have the ball, obviously), and then quickly close it again.
+Similar to manual DF GAs, you open the circle first (can only be done when you have the ball, obviously), and then quickly close it again.
+
+<img src ="https://user-images.githubusercontent.com/110833255/185879841-62e4c519-fa50-4be6-89d5-3bb0e391c921.gif" width ="480" height ="270" />
 
 This method also suffers/benefits from the loss of a considerable amount of the player's gauge, so a quicker method exists as well. 
 
@@ -55,11 +70,16 @@ However, instead of switching to a different player, this one is done differentl
 While having the ball, pass it to another player. But just before the ball is passed, open the circle. 
 When the ball is passed and leaves your player, the opened circle will automatically close. 
 
+<img src ="https://user-images.githubusercontent.com/110833255/185879635-c2889950-c742-4bea-a30f-08f9ff4a704e.gif" width ="480" height ="270" />
+
 ###### NOTE: this method but with a DF hissatsu can also be done under certain, situational scenarios. 
 
-Deciding between normal and fast OF GAs follows the same thought process as with DF GAs, although OF GAs is more commonly used with defenders. 
+<img src ="https://user-images.githubusercontent.com/110833255/185879874-8f4bdddc-612d-438a-bbea-2da0beb939cf.gif" width ="360" height ="220" />
 
-Players with both a DF and OF hissatsu are able to do GA with both methods. 
+
+Deciding between normal and fast OF GAs follows the same thought process as with DF GAs, although OF GAs are more commonly used with defenders. 
+
+Players with both DF and OF hissatsu are able to do GA with both methods. 
 
 ## Competitive importance
 
