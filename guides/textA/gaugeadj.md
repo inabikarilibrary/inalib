@@ -98,4 +98,4 @@ Canon's access to Block Circus which allows him to GA when the opponent has the 
 
 The most powerful dribblers all have the ability to uncharge with DF hissatsus, with the exception of Mark Kruger. 
 
-For defensive players, the opposite applies. However, the ability to uncharge with an OF hissatsu is not as important for defenders as it is for attackers to uncharge with a DF hissatsu. As such, whether or not a defender has access to an OF hissatsu does not contribute to their overall strength _as much_.
+For defensive players, the opposite applies. However, the ability to uncharge with an OF hissatsu is not as important for defenders as it is for attackers' ability to uncharge with a DF hissatsu. As such, whether or not a defender has access to an OF hissatsu does not contribute to their overall strength _as much_.
