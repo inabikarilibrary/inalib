@@ -50,9 +50,9 @@ As such, this motion can be done faster by switching to a different player, inst
 <img width ="300" src="https://user-images.githubusercontent.com/110833255/185877108-8f3d75ec-62dd-4ce1-9547-30a149ffcf1e.jpg"> switch players -> <img width ="300" src="https://user-images.githubusercontent.com/110833255/185877612-5a0ffdbc-5d50-43d6-a739-03e03cdf9bcd.jpg"> 
 
      
-This is useful because the player will comparatively lose very little of their gauge, and they will become charged again almost instantly.
+This is useful because the player will comparatively lose very little of their gauge, and they will become charged again almost instantly if you do it very quickly.
 
-You can also choose to take longer to switch to a different player, and as such this technique is usually a better alternative than manually closing the circle as it can also serve the same function.
+You can also choose to take longer to switch to a different player, and as such this technique is usually a better alternative than manually closing the circle as it can serve the same function.
 
 Deciding the speed of your DF GAs depends on what your strategy is. It can range from near instantaneous to a second long.
 If you expect to use that player very soon (e.g. you believe you will get the ball very quickly and transition into a chain shot with Canon) in the future, the quick GA may be the better option to ensure your player is already charged. 
