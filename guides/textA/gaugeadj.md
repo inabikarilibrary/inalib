@@ -91,7 +91,7 @@ For attacking players (e.g. chain shooters, dribblers), DF GAs are much more imp
 This is because while you have the ball, you mostly want to use your charged players to use their OF/SH hissatsus. Uncharging via OF GAs contradicts that.
 
 On the contrary, while you do not have the ball, you are only able to use DF hissatsus (excluding the GK) and not offensive hissatsus. 
-As a result, GAing your forwards allows them to be charged _when you have the ball_. 
+As a result, GAing your attackers allows them to be charged _when you have the ball_. 
 
 Because of this, the ability to uncharge with a DF hissatsu is considered a substantial benefit for attackers, especially for chain shooters. 
 Canon's access to Block Circus which allows him to GA when the opponent has the ball gives him a huge advantage over most other chainers (Fideo and Gouenji do not have DF hissatsus, for example). 
