@@ -41,6 +41,7 @@ If a player has a DF hissatsu, GA can be done when you do NOT have possession of
 You open the circle first, as if to use a DF hissatsu, and then quickly close it again. 
 
 However, if you open and close manually, your player will lose a decent amount of their gauge and will take more time to become charged again. 
+
 As such, this motion can be done faster by switching to a different player, instead of manually closing the circle. 
 
 
