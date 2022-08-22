@@ -46,7 +46,7 @@ As such, this motion can be done faster by switching to a different player, inst
 
 <img src ="https://user-images.githubusercontent.com/110833255/185876290-e5203da7-f66c-4b1c-9bba-f420006e9ae6.gif" width ="480" height ="270" />
      
-<img width ="360" src="https://user-images.githubusercontent.com/110833255/185877108-8f3d75ec-62dd-4ce1-9547-30a149ffcf1e.jpg"> switch players -> <img width ="360" src="https://user-images.githubusercontent.com/110833255/185877612-5a0ffdbc-5d50-43d6-a739-03e03cdf9bcd.jpg"> 
+<img width ="300" src="https://user-images.githubusercontent.com/110833255/185877108-8f3d75ec-62dd-4ce1-9547-30a149ffcf1e.jpg"> switch players -> <img width ="300" src="https://user-images.githubusercontent.com/110833255/185877612-5a0ffdbc-5d50-43d6-a739-03e03cdf9bcd.jpg"> 
 
      
 This is useful because the player will comparatively lose very little of their gauge, and they will become charged again almost instantly.
