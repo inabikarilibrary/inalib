@@ -88,7 +88,7 @@ Players with both DF and OF hissatsu are able to do GA with both methods.
 As we can see, GA is important in competitive play. Which method is more important depends on the position of the player. 
 
 For attacking players (e.g. chain shooters, dribblers), DF GAs are much more important. 
-This is because while you have the ball, you mostly want to use your charged players to use their OF/SH hissatsus. Uncharging via GA contradicts that.
+This is because while you have the ball, you mostly want to use your charged players to use their OF/SH hissatsus. Uncharging via OF GAs contradicts that.
 
 On the contrary, while you do not have the ball, you are only able to use DF hissatsus (excluding the GK) and not offensive hissatsus. 
 As a result, GAing your forwards allows them to be charged _when you have the ball_. 
