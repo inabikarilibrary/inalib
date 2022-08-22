@@ -42,7 +42,7 @@ You open the circle first, as if to use a DF hissatsu, and then quickly close it
 
 However, if you open and close manually, your player will lose a decent amount of their gauge and will take more time to become charged again. 
 
-As such, this motion can be done faster by switching to a different player, instead of manually closing the circle. 
+As such, this motion can be done faster by switching to a different player, instead of manually closing the circle. Switching players automatically closes the circle.
 
 
 <img src ="https://user-images.githubusercontent.com/110833255/185876290-e5203da7-f66c-4b1c-9bba-f420006e9ae6.gif" width ="480" height ="270" />
