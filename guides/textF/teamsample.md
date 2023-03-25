@@ -1,4 +1,4 @@
-**Team Samples for Beginners**
+# Team Samples for Beginners (Xtreme)
 
 - [Chain](teamsamples/ChainSamples.md)
 - [Nomash](teamsamples/NomashSamples.md)
