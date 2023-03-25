@@ -6,15 +6,16 @@
 - Aside from their strongest chain shooting move, remove all other Lvl1/2 chain moves (labelled with a 'C' next to the name) for your front 3 players
 - Remove Sakuma's Lvl3 shooting move 'Koutei Penguin 1gou'
 - Remove Saru's Lvl1 shooting move 'Mach Wind'
-- You may notice that the teams have basically identical 
+- During halftime, substitute Gamma with Saru
+- You may notice that the teams have basically the same 5 players in the backline. I personally think this core is the most consistent and versatile, and is easy to use for new players 
 
-Team 1: Standard 
+****Team 1: Standard**** 
 
 <img width="600" alt="standard chain" src="https://user-images.githubusercontent.com/110833255/227714846-48e16e51-97ae-4bc2-abde-f581b4dcffc5.png">
 
 This is a very standard team created by Paraly. It boasts solid power, coverage and is easy to pilot as you do not need to make any halftime adjustments to your front 3 chainers. Canon and Gouenji also have good synergy as a chain duo. Alternatively, Canon can be replaced with Fideo if you prefer better versatility.
 
-Team 2: Opening Shindou
+****Team 2: Opening Shindou****
 
 <img width="600" alt="shindou opening" src="https://user-images.githubusercontent.com/110833255/227714858-a11e50e4-5b20-4f6d-8d45-af6942d4e98f.png">
 
@@ -26,7 +27,7 @@ Because the match is still so early in its beginning, none of your opponent's de
 
 During halftime, substitute Shindou with Fideo and play as normal. 
 
-Team 3: 3x Gouenji
+****Team 3: 3x Gouenji****
 
 <img width="600" alt="3x gouenji" src="https://user-images.githubusercontent.com/110833255/227714862-89cd7451-e8c7-4f91-bd90-ed96b4cf5cce.png">
 
