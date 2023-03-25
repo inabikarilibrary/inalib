@@ -8,6 +8,8 @@
 
 - [An Overview of the Playstyles](textF/overviewps.md)
 
+- [Team Samples for Beginners (Xtreme)](textF/teamsample.md) 
+
 - [Charge Profiles](textF/charge.md)
 
 - [Halftime Items](textF/halfitems.md)
