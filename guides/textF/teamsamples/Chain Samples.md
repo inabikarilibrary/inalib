@@ -7,7 +7,7 @@
 - Remove Sakuma's Lvl3 shooting move 'Koutei Penguin 1gou'
 - Remove Saru's Lvl1 shooting move 'Mach Wind'
 - During halftime, substitute Gamma with Saru
-- You may notice that the teams have basically the same 5 players in the backline. I personally think this core is the most consistent and versatile, and is easy to use for new players 
+- You may notice that the teams have basically the same 5 players in the backline (and GK). I personally think this core is the most consistent and versatile, and is easy to use for new players 
 
 ****Team 1: Standard**** 
 
