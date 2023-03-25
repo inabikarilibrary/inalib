@@ -1,3 +1,5 @@
+# Nomash team samples for beginners
+
 **IMPORTANT: All of these teams are teams that I believe are the most beginner-friendly, and as such it is subject to personal opinion.**
 
 ***Guidelines for all teams:***
