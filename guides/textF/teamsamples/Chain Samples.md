@@ -1,6 +1,6 @@
-**IMPORTANT: All of these teams are teams that I believe are the most beginner-friendly, and as such it is subject to personal opinion.
+**IMPORTANT: All of these teams are teams that I believe are the most beginner-friendly, and as such it is subject to personal opinion.**
 
-***Guidelines for all teams:
+***Guidelines for all teams:***
 - Use 'Deep Jungle' as the defense move for Torb, Kazemaru and Sakuma 
 - Use 'Maximum Fire' as the chain move for Gouenji and Genius
 - Aside from their strongest chain shooting move, remove all other Lvl1/2 chain moves (labelled with a 'C' next to the name) for your front 3 players
