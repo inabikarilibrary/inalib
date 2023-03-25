@@ -17,13 +17,13 @@ This is a very standard team created by Paraly. It boasts solid power, coverage 
 
 ****Team 2: Opening Shindou****
 
-<img width="600" alt="shindou opening" src="https://user-images.githubusercontent.com/110833255/227714858-a11e50e4-5b20-4f6d-8d45-af6942d4e98f.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/110833255/227719176-d6e5451e-f322-4e53-ad57-d4c7d11418b2.png">
 
 A strat originating from way back in the vanilla days, the Shindou Opening allows you to cheese a lot of free early goals. When you have the kickoff in the 1st half, the procedure is simple: 
 
 Pass to Shindou and miximax him, then pass it down to Gamma and miximax him too. Shoot with Gamma's Lvl3 shooting move 'Gamma Strike' and chain with Shindou.
 
-Because the match is still so early in its beginning, none of your opponent's defenders are charged to block the shot. This is a near-guaranteed goal against almost every goalkeeper except for Senguuji and Genda, who are Shindou counters. Genius will complete the duo as he is counters Senguuji and is solid against Genda. It is not as straightforward if your opponent gets the 1st half kickoff, however this strat can still be very effective even then. 
+Because the match is still so early in its beginning, none of your opponent's defenders are charged to block the shot. This is a near-guaranteed goal against almost every goalkeeper except for Senguuji and Genda, who are Shindou counters. Genius will complete the duo as he is counters Senguuji and is solid against Genda. Zanark is placed as a side MF to punish Senguuji and Genda as well. Although it is not as straightforward if your opponent gets the 1st half kickoff, this strat can still be very effective.
 
 During halftime, substitute Shindou with Fideo and play as normal. 
 
