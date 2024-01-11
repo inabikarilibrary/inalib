@@ -25,4 +25,4 @@
 - [JPNイナスト窓](https://discord.gg/D2XsqCagAw)
 
 
-##### [Return](index.md)
+##### [Return](/index.md)
