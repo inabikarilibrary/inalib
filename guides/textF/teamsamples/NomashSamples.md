@@ -37,6 +37,6 @@ and use him as a chainer once his miximax runs out. You may also give Shuu the s
 powerful shoot that can score against many goalkeepers. 
 
 
-###### [Return](/guides/textF/teamsample.md)
+###### [Return](https://inabikarilibrary.github.io/inalib/guides/textF/teamsample.html)
 
-###### [Home](/index.md)
+###### [Home](https://inabikarilibrary.github.io/inalib/)
