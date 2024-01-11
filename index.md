@@ -14,9 +14,19 @@ Here you can find guides, strategies and all things competitive IE GO Strikers 2
 
 - [Playing Online Setup Tutorial](https://youtu.be/EI-9d82199s)
 
-- [Tier List (Japanese)](http://parabako.blog.fc2.com/blog-entry-403.html) 
+- [Xtreme Mod Installation Guide](https://xtreme13.com/install.html)
 
-- [Complete Database](https://docs.google.com/spreadsheets/d/1-wqtP8WlF6WeK71Gd3IHHqZsekycYrZYSfF4eKlCP1E/edit#gid=229441547)
+- [Tier List (Vanilla) (in Japanese)](http://parabako.blog.fc2.com/blog-entry-403.html)
+
+- [Tier List (Xtreme)](https://youtu.be/09ZyP1nTD6k?si=84wyqy9D_AQNjhfZ)
+
+- [Complete Database (Vanilla)](https://docs.google.com/spreadsheets/d/1-wqtP8WlF6WeK71Gd3IHHqZsekycYrZYSfF4eKlCP1E/edit#gid=229441547)
+  
+- [Complete Database (Xtreme)](https://docs.google.com/spreadsheets/d/1zlJEGJU_2hSrA5Kb5uGwMasL0mgQM4_x8tNuK0g1Xdk/edit#gid=1187411320)
+
+- [Competitive Community Discord Server (Ragnarok)](https://discord.gg/Q86CRCNmcX)
+
+- [Xtreme Mod Discord Server](https://discord.gg/cH8Xd3mjQ6)
 
 - [German Beginner Guide (PDF Document)](https://github.com/inabikarilibrary/inalib/files/9336195/inast.german.guide.pdf)
 
