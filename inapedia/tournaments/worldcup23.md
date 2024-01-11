@@ -7,7 +7,7 @@ The tournament was won by Team Japan.
 
 | Place | Team | Players |
 | - | - | - |
-| 1st | Japan | [Paraly](/inapedia/players/japanese/paraly.md) / [Infi](players/japanese/infi.md) / [Miya](players/japanese/miya.md) / as7_9 / Raufuro |
+| 1st | Japan | [Paraly](inapedia/players/japanese/paraly.md) / [Infi](players/japanese/infi.md) / [Miya](players/japanese/miya.md) / as7_9 / Raufuro |
 | 2nd | France | Vivi / Alexisl / Azyck / Mathiuze / nayth |
 | 3rd | Maghreb | $elow / Abdel / Luxie / Pinguin / Saikyoo11 |
 | 4th | Southeast Asia | Baamsushi / Minh / Zuky |
