@@ -1,4 +1,4 @@
-****List of MAIN Competitive Discord Servers****
+****List of MAIN Community Discord Servers****
 
 **International**
 
