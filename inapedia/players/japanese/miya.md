@@ -1,7 +1,7 @@
 ******Miya******
 
-Miya is a Japanese player.
-His Nomash gameplay is characterized by his aggression and speed. 
+Miya is a Japanese player, maining Nomash.
+His gameplay is characterized by his aggression and speed. 
 He was considered one of the strongest players in the world at for a long period of time.
 
 ****Achievements****
