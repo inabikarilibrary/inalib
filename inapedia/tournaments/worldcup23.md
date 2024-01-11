@@ -23,3 +23,7 @@ The tournament was won by Team Japan.
 | 13th | Benelux | KKOJJGSS / Kireo / Nayel / Noxyne / Wawa |
 | 13th | Eastern Europe | Kemal / CatalinW / GAMMA24 |
 | 13th | Portugal | Foxi / Kake / Sr. Quax / Xeduh |
+
+****Final Bracket****
+
+![image](https://github.com/inabikarilibrary/inalib/assets/110833255/ed9e88f5-dcbc-4d01-a041-eb963efb6c9a)
