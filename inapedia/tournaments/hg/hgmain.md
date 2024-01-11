@@ -6,5 +6,5 @@ Hades Garden is an international tournament series. Its editions have been both 
 - Hades Garden #1
 - Hades Garden #2
 - Hades Garden #3
-- [Hades Garden #4](hg/hg4.md)
-- [Hades Garden #5](hg/hg5.md)
+- [Hades Garden #4](/hg/hg4.md)
+- [Hades Garden #5](/hg/hg5.md)
