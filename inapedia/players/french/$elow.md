@@ -2,6 +2,8 @@
 
 $elow is a French player, maining Nomash.
 
+****Achievements****
+
 | Date | Place | Tournament | Tier |
 | - | - | - | - |
 | 31/08/2023 | 5th | Hades Garden #5 | Major |
