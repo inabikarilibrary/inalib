@@ -16,4 +16,4 @@
 
 - [Keys](textF/keys.md)
 
-###### [Return](/index.md)
+###### [Return](https://inabikarilibrary.github.io/inalib/)
