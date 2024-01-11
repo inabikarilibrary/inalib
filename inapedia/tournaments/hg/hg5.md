@@ -16,7 +16,7 @@ Hades Garden #5 is the fifth edition of the Hades Garden tournament series.
 ****Standings****
 | Place | Player |
 | - | - |
-| 1st | flag1=jp Paraly |
+| 1st | flag="jp" Paraly |
 | 2nd | Miya |
 | 3rd | Chuck |
 | 4th | Eshin | 
