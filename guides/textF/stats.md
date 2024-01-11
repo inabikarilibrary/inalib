@@ -23,3 +23,7 @@ Kick --- Guard
 Body --- Speed
 
 Control --- Catch
+
+###### [Return](/guides/fundamentals.md)
+
+###### [Home](/index.md)
