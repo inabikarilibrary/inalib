@@ -3,6 +3,8 @@
 Alexisl is a French player, maining Nomash. 
 He is widely considered as one of the best players in the world.
 
+****Achievements****
+
 | Date | Place | Tournament | Tier |
 | - | - | - | - |
 | 31/08/2023 | 5th | Hades Garden #5 | Major |
