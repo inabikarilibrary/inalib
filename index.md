@@ -24,9 +24,7 @@ Here you can find guides, strategies and all things competitive IE GO Strikers 2
   
 - [Complete Database (Xtreme)](https://docs.google.com/spreadsheets/d/1zlJEGJU_2hSrA5Kb5uGwMasL0mgQM4_x8tNuK0g1Xdk/edit#gid=1187411320)
 
-- [Competitive Community Discord Server (Ragnarok)](https://discord.gg/Q86CRCNmcX)
-  
-- [Xtreme Mod Discord Server](https://discord.gg/cH8Xd3mjQ6)
+- [Community Discord Servers](content/discordList.md)
   
 - [List of Content Creators](content/youtuberList.md)
 
