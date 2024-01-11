@@ -9,7 +9,7 @@ He plays all 3 playstyles at the highest level.
 | Date | Place | Tournament | Tier | Region |
 | - | - | - | - | - |
 | 31/08/2023 | 1st | Hades Garden #5 | Major | International |
-| 30/07/2023 | 1st | [Inazuma Eleven Strikers World Cup 2023](tournaments/worldcup.md) | World Cup | International |
+| 30/07/2023 | 1st | [Inazuma Eleven Strikers World Cup 2023](/inapedia/tournaments/worldcup.md) | World Cup | International |
 | 12/05/2023 | 1st | Hades Garden #4 | Minor | International |
 | 27/03/2023 | 1st | Hades Garden #3 | Minor | International |
 | 13/06/2022 | 1st | Ragnarok Strikers #4 | Major | International |
