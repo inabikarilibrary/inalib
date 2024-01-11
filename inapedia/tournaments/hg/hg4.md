@@ -1,7 +1,7 @@
 # Hades Garden 4
 
 Hades Garden #4 is the fourth edition of the 
-[Hades Garden](/hg/hgmain.md) tournament series.
+[Hades Garden](hgmain.md) tournament series.
 26 players participated.
 
 Tier: Minor
