@@ -32,3 +32,8 @@ _Nogoal_: the act of failing a nomash (usually a dash nomash)
 
 _Chain Starter_: a player that shoots the SH hissatsu that initiates a chain
 
+###### [Return](/guides/fundamentals.md)
+
+###### [Home](/index.md)
+
+
