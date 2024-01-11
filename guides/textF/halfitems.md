@@ -33,3 +33,6 @@ In other words, the time it takes for their gauge to reach maximum is reduced.
 
 ![candies](https://user-images.githubusercontent.com/110833255/183863471-eee6e297-2ef7-4bdb-8fa6-37a1e621b4ea.png)
 
+###### [Return](/guides/fundamentals.md)
+
+###### [Home](/index.md)
