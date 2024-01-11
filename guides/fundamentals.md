@@ -12,6 +12,6 @@
 
 - [Charge Profiles](textF/charge.md)
 
-- [Halftime Items](textF/halfitems.md)
+- [Halftime Items (Vanilla)](textF/halfitems.md)
 
 - [Keys](textF/keys.md)
