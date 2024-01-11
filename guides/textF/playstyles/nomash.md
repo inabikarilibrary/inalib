@@ -82,4 +82,6 @@ such as High Jump and Through Ball Shoot.
 
 As of the time of this writing, Nomash is the most commonly used playstyle out of the 3. This is especially true at the highest level where almost all top players main Nomash. 
 
+###### [Return](/guides/textF/overviewps.md)
 
+###### [Home](/index.md)
