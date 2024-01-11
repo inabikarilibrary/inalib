@@ -17,7 +17,7 @@ The tournament was won by Team Japan.
 | 5th | Italy | Filo / Aaronash / Giu / Giovix-64 / marinucci79 |
 | 9th | Brazil | Hikky / jppb2005 / nicolau / Panda / YeppON |
 | 9th | Poland | Kobr3X / Bachor / Kazuma Ito / Skrecik / terewsant |
-| 9th | DACH | [Milozaki](/inapedia/players/germany/milozaki.md) / Dani11 / Skipper / [Haku](/inapedia/players/germany/haku.md) / Kaiser |
+| 9th | DACH | [Milozaki](/inapedia/players/german/milozaki.md) / Dani11 / Skipper / [Haku](/inapedia/players/german/haku.md) / Kaiser |
 | 9th | Spain | Teca / Jorge Lorenzo / Naka / Polakito / Unaii |
 | 13th | Latin America | Rodrift / SpaceGenesis / Dante Froste / 585zeno / Killian11 |
 | 13th | Benelux | KKOJJGSS / Kireo / Nayel / Noxyne / Wawa |
