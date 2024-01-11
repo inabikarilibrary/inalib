@@ -26,6 +26,8 @@ Here you can find guides, strategies and all things competitive IE GO Strikers 2
 
 - [Competitive Community Discord Server (Ragnarok)](https://discord.gg/Q86CRCNmcX)
 
+- [List of Content Creators](content/youtuberList.md)
+
 - [Xtreme Mod Discord Server](https://discord.gg/cH8Xd3mjQ6)
 
 - [German Beginner Guide (PDF Document)](https://github.com/inabikarilibrary/inalib/files/9336195/inast.german.guide.pdf)
