@@ -6,7 +6,7 @@ Hybrid is a combination of the Nomash and Chain playstyles. In other words, Hybr
 
 ## Team Compositions
 
-Here are some of the meta team compositions for hybrid: 
+Here are some of the meta team compositions for hybrid (Vanilla): 
 
 <img width="480" alt="team comp 1" src="https://user-images.githubusercontent.com/110833255/184295293-d1633e1f-e6e6-464e-9dc3-29f80d27cc90.png">
 
@@ -35,4 +35,3 @@ It is often recommended to understand both playstyles at a high level first befo
 ## Usage Rate
 
 There are very few Hybrid users from the beginner to middle skill range, and it is mostly used in upper-middle levels and above. 
-As of the time of writing, Hybrid has been seeing a rise in usage at higher levels of play. 
