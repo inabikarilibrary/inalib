@@ -1,4 +1,4 @@
-******Hades Garden #4******
+# Hades Garden 4
 
 Hades Garden #4 is the fourth edition of the 
 [Hades Garden](/hg/hgmain.md) tournament series.
@@ -6,17 +6,17 @@ Hades Garden #4 is the fourth edition of the
 
 Tier: Minor
 
-****Overview****
+## Overview
 
-**Schedule**
+### Schedule
 - May 6th, 2023 to May 12th, 2023
 
-**Format**
+### Format
 - Standard rules
 - Double Elimination
 - All matches are Bo1
 
-**Standings**
+### Standings
 | Place | Player |
 | - | - |
 | 1st | [Paraly](/inapedia/players/japanese/paraly.md) |
@@ -36,10 +36,10 @@ Tier: Minor
 | 13th | [nicolau](/inapedia/players/brazilian/nicolau.md) |
 | 13th | [Saikyoo11](/inapedia/players/french/saikyoo11.md) |
 
-**Bracket**
+## Bracket
 - [Challonge](https://challonge.com/gwe99c4t)
 
-**Gallery**
+## Gallery
 
 ![image](https://github.com/inabikarilibrary/inalib/assets/110833255/8a5a0c21-977a-43e0-9f98-a89040ccb441)
 
