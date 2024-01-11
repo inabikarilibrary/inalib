@@ -1,9 +1,24 @@
-******Inazuma Eleven Strikers World Cup 2023******
+# Inazuma Eleven Strikers World Cup 2023
 
-The *Inazuma Eleven Strikers World Cup 2023* was the 2023 edition of the Inazuma Eleven Strikers World Cup series.
-The tournament was won by Team Japan. 
+The Inazuma Eleven Strikers World Cup 2023 was the 2023 edition of the Inazuma Eleven Strikers World Cup series.
+The tournament was won by **Team Japan**. 
 
-**Standings**
+## Overview
+
+### Group Stage Format
+- Standard rules
+- 4 groups of 4
+- Top 2 advances to knockout stage
+  -  1st place advances as Seed 1
+  -  2nd place advances as Seed 2
+- Matches are 3v3; Bo3
+
+### Knockout Stage Format
+- Standard rules
+- Single Elimination
+- Matches are 5v5; Bo5
+
+### Standings
 
 | Place | Team | Players |
 | - | - | - |
@@ -24,6 +39,6 @@ The tournament was won by Team Japan.
 | 13th | Eastern Europe | Kemal / CatalinW / GAMMA24 |
 | 13th | Portugal | Foxi / Kake / Sr. Quax / Xeduh |
 
-****Final Bracket****
+### Final Bracket
 
 ![image](https://github.com/inabikarilibrary/inalib/assets/110833255/ed9e88f5-dcbc-4d01-a041-eb963efb6c9a)
