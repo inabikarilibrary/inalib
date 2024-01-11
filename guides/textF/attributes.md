@@ -20,8 +20,8 @@ Wood beats Wind, Wind beats Earth, Earth beats Fire, and Fire beats wood. Void i
 
 ![Elements](https://user-images.githubusercontent.com/110833255/183467617-767ef64a-9238-42b7-b3b3-766136aaa84f.png)
 
-###### [Return](/guides/fundamentals.md)
+###### [Return](https://inabikarilibrary.github.io/inalib/guides/fundamentals.html)
 
-###### [Home](/index.md)
+###### [Home](https://inabikarilibrary.github.io/inalib/guides/advanced.html)
 
 NOTE: There are no Void attribute players in the game
