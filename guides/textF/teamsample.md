@@ -5,6 +5,6 @@
 
 *NOTE: samples for hybrid are not listed here as it is not a recommended playstyle for beginners
 
-###### [Return](/guides/fundamentals.md)
+###### [Return](https://inabikarilibrary.github.io/inalib/guides/fundamentals.html)
 
-###### [Home](/index.md)
+###### [Home](https://inabikarilibrary.github.io/inalib/)
