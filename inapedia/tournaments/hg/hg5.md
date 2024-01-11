@@ -1,19 +1,19 @@
-******Hades Garden #5******
+# Hades Garden #5
 
-Hades Garden #5 is the fifth edition of the Hades Garden tournament series.
+Hades Garden #5 is the fifth edition of the [Hades Garden](hgmain.md) tournament series.
 65 players participated.
 
-****Overview****
+## Overview
 
-**Schedule**
+### Schedule
 - August 12th, 2023 to August 31st, 2023
 
-**Format**
+### Format
 - Standard rules
 - Double Elimination
 - All matches are Bo1
 
-****Standings****
+### Standings
 | Place | Player |
 | - | - |
 | 1st | [Paraly](/inapedia/players/japanese/paraly.md) |
@@ -33,9 +33,9 @@ Hades Garden #5 is the fifth edition of the Hades Garden tournament series.
 | 13th | [Giu](/inapedia/players/italian/giu.md) |
 | 13th | [Kev'nox](/inapedia/players/french/kevnox.md) |
 
-****Bracket****
+### Bracket
 - [Challonge](https://challonge.com/ythg4qy3)
 
-****Gallery****
+### Gallery
 ![image](https://github.com/inabikarilibrary/inalib/assets/110833255/0e8c21b4-680d-41b0-be68-bdbc9778c959)
 
