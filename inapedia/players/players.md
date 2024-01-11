@@ -2,7 +2,7 @@
 
 ****Japan****
 
-- [Paraly](/players/japanese/paraly.md)
+- [Paraly](japanese/paraly.md)
 - [Infi](/japanese/infi.md)
 - [Miya](/japanese/miya.md)
 
