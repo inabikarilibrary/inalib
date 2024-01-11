@@ -34,7 +34,7 @@ Hades Garden #5 is the fifth edition of the Hades Garden tournament series.
 | 13th | [Kev'nox](/inapedia/players/french/kevnox.md) |
 
 ****Bracket****
-<iframe src="https://challonge.com/fr/ythg4qy3/module" width="100%" height="500" frameborder="0" scrolling="auto" allowtransparency="true"></iframe>
+!iframe src="https://challonge.com/fr/ythg4qy3/module" width="100%" height="500" frameborder="0" scrolling="auto" allowtransparency="true"
 
 ****Gallery****
 ![image](https://github.com/inabikarilibrary/inalib/assets/110833255/0e8c21b4-680d-41b0-be68-bdbc9778c959)
