@@ -25,7 +25,7 @@ There are many techniques that utilize these kinds of mechanics (or bugs, as som
 
 ## Team Compositions
 
-Here are some of the meta team compositions for nomash:
+Here are some of the meta team compositions for nomash (Vanilla):
 
 <img width="480" alt="team comp 1" src="https://user-images.githubusercontent.com/110833255/184292767-375f3d30-9577-48fe-9851-b4dfd58876e4.png">
 
@@ -54,7 +54,7 @@ This is because basically every competitive team uses DJ as their defense.
 All 5 of the aforementioned players either win or are equal against the DJ users (Torb, ILJ Kazemaru, ILJ Sakuma, JPN/ILJ Tsunami) with the exception of Kabeyama, 
 who is rarely used. 
 
-Here is a subjective tier list made by Paraly:
+Here is a subjective tier list made by Paraly (Vanilla):
 
 <img width="480" alt="tier list FW" src="https://user-images.githubusercontent.com/110833255/184293071-e9a88204-5cb9-4d7d-8536-b499d0ebbe59.png"> 
 
@@ -80,7 +80,6 @@ such as High Jump and Through Ball Shoot.
 
 ## Usage Rate
 
-As of the time of this writing, Nomash is likely the most commonly used playstyle out of the 3. 
-However, Hybrid has also been seeing a rise in usage at higher levels of play.
+As of the time of this writing, Nomash is the most commonly used playstyle out of the 3. This is especially true at the highest level where almost all top players main Nomash. 
 
 
