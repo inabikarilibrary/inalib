@@ -25,7 +25,7 @@ A strat originating from way back in the vanilla days, the Shindou Opening allow
 
 Pass to Shindou and miximax him, then pass it down to Gamma and miximax him too. Shoot with Gamma's Lvl3 shooting move 'Gamma Strike' and chain with Shindou.
 
-Because the match is still so early in its beginning, none of your opponent's defenders are charged to block the shot. This is a near-guaranteed goal against almost every goalkeeper except for Senguuji and Genda, who are Shindou counters. Genius will complete the duo as he is counters Senguuji and is solid against Genda. Zanark is placed as a side MF to punish Senguuji and Genda as well. Although it is not as straightforward if your opponent gets the 1st half kickoff, this strat can still be very effective.
+Because the match is still so early in its beginning, none of your opponent's defenders are charged to block the shot. This is a near-guaranteed goal against almost every goalkeeper except for Senguuji and Genda, who are Shindou counters. Genius will complete the duo as he counters Senguuji and is solid against Genda. Zanark is placed as a side MF to punish Senguuji and Genda as well. Although it is not as straightforward if your opponent gets the 1st half kickoff, this strat can still be very effective.
 
 During halftime, substitute Shindou with Fideo and play as normal. 
 
@@ -33,5 +33,5 @@ During halftime, substitute Shindou with Fideo and play as normal.
 
 <img width="600" alt="3x gouenji" src="https://user-images.githubusercontent.com/110833255/227714862-89cd7451-e8c7-4f91-bd90-ed96b4cf5cce.png">
 
-As the name suggests, this team uses 3 Gouenjis as the front 3: 1st Raimon Gouenji, Fifth Sector Gouenji (Ishido), and Legend Japan Gouenji. This strat involves brute forcing your way through the enemy defense and goalkeeper. R1 Gouenji's S charging time allows for 3x/4x chains through the middle to be done more often, which allows the final shot to be strong enough to beat even Endou and Shinsuke, Gouenji's counters. Even a Gamma Strike into Maximum Fire can be enough to score against Endou and Shinsuke with decent rng. 
+As the name suggests, this team uses 3 Gouenjis as the front 3: 1st Raimon Gouenji, Fifth Sector Gouenji (Ishido), and Legend Japan Gouenji. This strat involves brute forcing your way through the enemy defense and goalkeeper. R1 Gouenji's S charging time allows for 2x/3x chains through the middle to be done more often, which allows the final shot to be strong enough to beat even Endou and Shinsuke, Gouenji's counters. Even a Gamma Strike into Maximum Fire can be enough to score against Endou and Shinsuke with decent rng. 
 
