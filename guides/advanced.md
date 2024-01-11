@@ -8,6 +8,8 @@
 
 - [Gauge Adjustment](textA/gaugeadj.md)
 
+- [Slip Chaining](https://youtu.be/sca8kGSt-_I?si=bkN4MCSjN5Kwf1mm)
+
 - [Hissatsu Calculations and Calculator](https://dosinazuma.wordpress.com/2022/04/10/inazuma-eleven-go-strikers-2013-calculations-and-calculator-v4/)
 
 - [Rapid Circle Opening for SBing](https://youtu.be/Ky0uQSDvYI8)
