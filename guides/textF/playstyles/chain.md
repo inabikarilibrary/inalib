@@ -17,7 +17,7 @@ Because of this, strong chainers with a high kick stat and LVL3 chain shot are k
 
 ## Team Compositions
 
-Here are some of the meta/viable team compositions for Chain: 
+Here are some of the meta/viable team compositions for Chain (Vanilla): 
 
 <img width="480" alt="team comp 2" src="https://user-images.githubusercontent.com/110833255/184203312-e75241e3-5ab9-4c2b-b5cc-e6744979927f.png"> 
 <img width="480" alt="team comp 2" src="https://user-images.githubusercontent.com/110833255/184203085-81c08b6c-fcc8-4fe6-a5e8-4cea649a26b1.png">
