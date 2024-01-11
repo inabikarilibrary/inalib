@@ -35,3 +35,7 @@ It is often recommended to understand both playstyles at a high level first befo
 ## Usage Rate
 
 There are very few Hybrid users from the beginner to middle skill range, and it is mostly used in upper-middle levels and above. 
+
+###### [Return](/guides/textF/overviewps.md)
+
+###### [Home](/index.md)
