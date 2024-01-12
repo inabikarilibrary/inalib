@@ -34,7 +34,7 @@ Tier: Major
 |13th|[Skipper](/inapedia/players/austrian/skipper.md)|
 |13th|[Hikky](/inapedia/players/brazilian/hikky.md)|
 |13th|[$elow](/inapedia/players/french/$elow.md)|
-|13th|[Baptiste](/inapedia/players/french/baptiste)|
+|13th|[Baptiste](/inapedia/players/french/baptiste.md)|
 
 ### Bracket
 - [Challonge](https://challonge.com/azrwmhse)
