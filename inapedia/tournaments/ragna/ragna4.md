@@ -1,6 +1,6 @@
 # Ragnarok Strikers #4
 
-Ragnarok Strikers #4 was the third edition of the [Ragnarok Strikers](ragnamain.md) tournament series.
+Ragnarok Strikers #4 was the fourth edition of the [Ragnarok Strikers](ragnamain.md) tournament series.
 64 players participated.
 
 Tier: Major
