@@ -3,6 +3,8 @@
 Hades Garden #5 is the fifth edition of the [Hades Garden](hgmain.md) tournament series.
 65 players participated.
 
+Tier: Major
+
 ## Overview
 
 ### Schedule
