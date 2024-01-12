@@ -12,7 +12,7 @@ Tier: Minor
 
 ### Format
 - Standard rules
-- Double Elimination
+- Single Elimination
 - All matches are Bo1
 
 ### Standings
