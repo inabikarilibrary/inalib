@@ -24,6 +24,7 @@ Tier: Minor
 |3rd|[Kinun](/inapedia/players/belgian/kinun.md)|
 |4th|[Rodrift](/inapedia/players/peruvian/rodrift.md)|
 |5th|[AS](/inapedia/players/french/as.md)|
+|5th|[Eath](/inapedia/players/belgian/eath.md)|
 |5th|[Haku](/inapedia/players/german/haku.md)|
 |5th|[Marcel](/inapedia/players/dutch/marcel.md)|
 
