@@ -3,6 +3,8 @@
 Hades Garden #3 is the third edition of the [Hades Garden](hgmain.md) tournament series.
 20 players participated.
 
+Tier: Minor
+
 ## Overview
 
 ### Schedule
@@ -25,10 +27,6 @@ Hades Garden #3 is the third edition of the [Hades Garden](hgmain.md) tournament
 | 5th | [Infi](/inapedia/players/japanese/infi.md) |
 | 7th | [Aaronash](/inapedia/players/italian/aaronash.md) |
 | 7th | [Nyl](/inapedia/players/uk/nyl.md) |
-| 9th | [Alexisl](/inapedia/players/french.md) |
-| 9th | [Giu](/inapedia/players/italian/giu.md) |
-| 9th | Gravity |
-| 9th | [matcha](/inapedia/players/chinese/matcha.md) |
 
 ### Bracket
 - [Challonge](https://challonge.com/jd65u5ed)
