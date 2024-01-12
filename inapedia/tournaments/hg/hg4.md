@@ -27,14 +27,6 @@ Tier: Minor
 | 5th | [Skipper](/inapedia/players/austrian/skipper.md) |
 | 7th | [filo](/inapedia/players/italian/filo.md) |
 | 7th | [Nyl](/inapedia/players/uk/nyl.md) |
-| 9th | [Aaronash](/inapedia/players/italian/aaronash.md) |
-| 9th | [Caleb](/inapedia/players/bulgarian/caleb.md) |
-| 9th | [CatalinW](/inapedia/players/romanian/catalinw.md) |
-| 9th | [matcha](/inapedia/players/chinese/matcha.md) |
-| 13th | [Giu](/inapedia/players/italian/giu.md) |
-| 13th | [Kev'nox](/inapedia/players/french/kevnox.md) |
-| 13th | [nicolau](/inapedia/players/brazilian/nicolau.md) |
-| 13th | [Saikyoo11](/inapedia/players/french/saikyoo11.md) |
 
 ## Bracket
 - [Challonge](https://challonge.com/gwe99c4t)
