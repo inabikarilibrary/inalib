@@ -7,7 +7,7 @@ He is often considered one of the best players in the world.
 
 | Date | Place | Tournament | Tier |
 | - | - | - | - |
-| 16/09/2023 | 5th | [Area Holy Road #2](/inapedia/tournaments/misc/holyroad2.md) | Minor |
+| 16/09/2023 | 5th | [Area Holy Road #2](/inapedia/tournaments/misc/holyroad2.md) | Major |
 | 30/07/2023 | 2nd | [Inazuma Eleven Strikers World Cup 2023](/inapedia/tournaments/worldcup23.md) | World Cup |
 | 07/2023 | 3rd | [Orfeo Inazuma Strikers World Cup 2023 Warm Up](/inapedia/tournaments/misc/orfeowc.md) | Major |
 | 24/06/2023 | 5th | [RTAXV5](/inapedia/tournaments/rtaxv/rtaxv5.md) | Minor |
