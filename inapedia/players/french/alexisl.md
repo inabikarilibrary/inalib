@@ -11,7 +11,7 @@ He is widely considered as one of the best players in the world.
 | 19/11/2023 | 4th | [Ragnarok Strikers Xtreme #7](inapedia/tournaments/ragna/ragnax7.md) | Major |
 | 08/2023 | 5th | [RTAXV7](/inapedia/tournaments/rtaxv/rtaxv7.md) | Minor |
 | 06/10/2023 | 3rd | [Hades Garden #6](/inapedia/tournaments/hg/hg6.md) | Major |
-| 16/09/2023 | 2nd | [Area Holy Road #2](/inapedia/tournaments/misc/holyroad2.md) | Minor | 
+| 16/09/2023 | 2nd | [Area Holy Road #2](/inapedia/tournaments/misc/holyroad2.md) | Major | 
 | 07/09/2023 | 4th | [Ragnarok Strikers Xtreme #6](/inapedia/tournaments/ragna/ragnax6.md) | Major
 | 31/08/2023 | 5th | [Hades Garden #5](/inapedia/tournaments/hg/hg5.md) | Major |
 | 30/07/2023 | 2nd | [Inazuma Eleven Strikers World Cup 2023](/inapedia/tournaments/worldcup23.md) | World Cup |
