@@ -23,9 +23,9 @@ He is widely considered as one of the best players in the world.
 | 04/05/2023 | 3rd | [Ragnarok Strikers Xtreme #4](/inapedia/tournaments/ragna/ragnax4.md) | Major |
 | 04/03/2023 | 2nd | [RTAXV2](/inapedia/tournaments/rtaxv/rtaxv2.md) | Minor |
 | 21/02/2023 | 5th | [Ragnarok Strikers Xtreme #3](/inapedia/tournaments/ragna/ragnax3.md) | Minor |
-| 01/2023 | 2nd | [RTAXV1](inapedia/tournaments/rtaxv/rtaxv1.md) | Minor|
-| 04/12/2023 | 5th | [Ragnarok Strikers Xtreme #2](inapedia/tournaments/ragna/ragnax2.md) | Major |
-| 02/10/2022 | 7th | [Ragnarok Strikers Xtreme #1](inapedia/tournaments/ragna/ragnax1.md) | Major |
+| 01/2023 | 2nd | [RTAXV1](/inapedia/tournaments/rtaxv/rtaxv1.md) | Minor|
+| 04/12/2023 | 5th | [Ragnarok Strikers Xtreme #2](/inapedia/tournaments/ragna/ragnax2.md) | Major |
+| 02/10/2022 | 7th | [Ragnarok Strikers Xtreme #1](/inapedia/tournaments/ragna/ragnax1.md) | Major |
 | 24/07/2022 | 9th | [Ragnarok Strikers #5](/inapedia/tournaments/ragna/ragna5.md) | Major |
 | 13/06/2022 | 9th | [Ragnarok Strikers #4](/inapedia/tournaments/ragna/ragna4.md) | Major |
 
