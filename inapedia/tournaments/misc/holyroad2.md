@@ -3,7 +3,7 @@
 Area Holy Road #2 was a tournament held in the Area discord server.
 40 players participated.
 
-Tier: Minor
+Tier: Major
 
 ## Overview
 
