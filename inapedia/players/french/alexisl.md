@@ -7,6 +7,7 @@ He is widely considered as one of the best players in the world.
 
 | Date | Place | Tournament | Tier |
 | - | - | - | - |
+| 06/01/2024 | 2nd | [Zenith](/inapedia/tournaments/misc/zenith.md) | Major |
 | 19/11/2023 | 4th | [Ragnarok Strikers Xtreme #7](inapedia/tournaments/ragna/ragnax7.md) | Major |
 | 08/2023 | 5th | [RTAXV7](/inapedia/tournaments/rtaxv/rtaxv7.md) | Minor |
 | 06/10/2023 | 3rd | [Hades Garden #6](/inapedia/tournaments/hg/hg6.md) | Major |
