@@ -7,7 +7,7 @@ He is a well known content creator within the competitive scene.
 
 | Date | Place | Tournament | Tier |
 | - | - | - | - |
-| 06/01/2023 | 9th | [Zenith](/inapedia/tournaments/misc/zenith.md) | Major |
+| 06/01/2024 | 9th | [Zenith](/inapedia/tournaments/misc/zenith.md) | Major |
 | 19/11/2023 | 9th | [Ragnarok Strikers Xtreme #7](/inapedia/tournaments/ragna/ragnax7.md) | Major |
 | 06/10/2023 | 7th | [Hades Garden #6](/inapedia/tournaments/hg/hg6.md) | Major |
 | 16/09/2023 | 9th | [Area Holy Road #2](/inapedia/tournaments/misc/holyroad2.md) | Major |
