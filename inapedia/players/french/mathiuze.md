@@ -7,15 +7,10 @@ Chain players in France.
 
 | Date | Place | Tournament | Tier |
 | - | - | - | - |
-| 31/07/2023 | 2nd | [Inazuma Eleven Strikers World Cup 2023](/inapedia/tournaments/worldcup23.md)
-| World Cup |
+| 31/07/2023 | 2nd | [Inazuma Eleven Strikers World Cup 2023](/inapedia/tournaments/worldcup23.md) | World Cup |
 | 24/06/2023 | 5th | [RTAXV5](/inapedia/tournaments/rtaxv/rtaxv5.md) | Minor |
-| 18/06/2023 | 5th | [Area Holy Road #1](/inapedia/tournaments/misc/holyroad1.md)
-| Major |
-| 04/05/2023 | 7th | [Ragnarok Strikers Xtreme #4](/inapedia/tournaments/ragna/ragnax4.md) 
-| Major |
+| 18/06/2023 | 5th | [Area Holy Road #1](/inapedia/tournaments/misc/holyroad1.md) | Major |
+| 04/05/2023 | 7th | [Ragnarok Strikers Xtreme #4](/inapedia/tournaments/ragna/ragnax4.md) | Major |
 | 04/03/2022 | 3rd | [RTAXV2](/inapedia/tournaments/rtaxv/rtaxv2.md) | Minor |
-| 13/06/2022 | 9th | [Ragnarok Strikers #4](/inapedia/tournaments/ragna/ragna4.md) 
-| Major |
-| 17/03/2022 | 2nd | [Ragnarok Strikers #3](/inapedia/tournaments/ragna/ragna3.md) 
-| Major |
+| 13/06/2022 | 9th | [Ragnarok Strikers #4](/inapedia/tournaments/ragna/ragna4.md) | Major |
+| 17/03/2022 | 2nd | [Ragnarok Strikers #3](/inapedia/tournaments/ragna/ragna3.md) | Major |
