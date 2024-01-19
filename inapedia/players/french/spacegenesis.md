@@ -1,6 +1,6 @@
-# SRAW
+# SpaceGenesis
 
-SRAW is a French player, maining Nomash.
+SpaceGenesis is a French player, maining Nomash.
 
 ## Achievements
 
