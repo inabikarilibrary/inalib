@@ -2,9 +2,12 @@
 
 ### Japan
 
+- [as7_9](japanese/as7_9.md)
+- [Eshin](japanese/eshin.md)
 - [Infi](japanese/infi.md)
 - [Miya](japanese/miya.md)
 - [Paraly](japanese/paraly.md)
+- [Raufuro](japanese/raufuro.md)
 
 ### France
 
