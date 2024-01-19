@@ -13,7 +13,7 @@
 
 - [$elow](french/$elow.md)
 - [210aki](french/210aki.md)
-- [585zeno.md](french/585zeno.md)
+- [585zeno](french/585zeno.md)
 - [Abdel](french/abdel.md)
 - [Alexisl](french/alexisl.md)
 - [Astral](french/astral.md)
