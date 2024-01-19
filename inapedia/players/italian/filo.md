@@ -1,6 +1,6 @@
 # filo
 
-filo is an Italian player, maining Nomash. Together with [Aaronash](italian/aaronash.md),
+filo is an Italian player, maining Nomash. Together with [Aaronash](aaronash.md),
 they are considered the best players in Italy.
 
 ## Achievements
