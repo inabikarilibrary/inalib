@@ -36,7 +36,7 @@ Tier: Major
 |13th|[Astral](/inapedia/players/french/astral.md)|
 |13th|[Pinguin](/inapedia/players/french/pinguin.md)|
 |13th|[SpaceGenesis](/inapedia/players/french/spacegenesis.md)|
-[13th|[SRAW](/inapedia/players/french/sraw.md)|
+|13th|[SRAW](/inapedia/players/french/sraw.md)|
 
 ### Bracket
 - [Challonge](https://challonge.com/rtaxv7)
