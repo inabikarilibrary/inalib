@@ -1,6 +1,6 @@
 # Aaronash
 
-Aaronash is an Italian player, maining Nomash. Together with [filo](italian/filo.md),
+Aaronash is an Italian player, maining Nomash. Together with [filo](filo.md),
 they are considered the best players in Italy.
 
 ## Achievements
