@@ -22,7 +22,7 @@ $elow is a French player, maining Nomash.
 | 04/03/2023 | 2nd | [RTAXV2](/inapedia/tournaments/rtaxv/rtaxv2.md) | Minor |
 | 02/10/2022 | 13th | [Ragnarok Strikers Xtreme #1](/inapedia/tournaments/ragna/ragnax1.md) | Major |
 | 16/09/2022 | 9th | [Area Holy Road #2](/inapedia/tournaments/misc/holyroad2.md) | Major |
-| 16/06/2022 | 9th | [Area Holy Road #1](/inapedia/tournaments/misc/holyroad1.md) | Major |
+| 18/06/2022 | 9th | [Area Holy Road #1](/inapedia/tournaments/misc/holyroad1.md) | Major |
 | 24/07/2022 | 3rd | [Ragnarok Strikers #5](/inapedia/tournaments/ragna/ragna5.md) | Major |
 | 13/06/2022 | 5th | [Ragnarok Strikers #4](/inapedia/tournaments/ragna/ragna4.md) | Major |
 
