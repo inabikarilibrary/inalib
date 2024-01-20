@@ -8,7 +8,7 @@ Tier: Major
 ## Overview
 
 ### Schedule
-- September 16, 2023
+- September 16, 2022
 
 ### Format
 - Standard rules
