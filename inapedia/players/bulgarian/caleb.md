@@ -6,6 +6,7 @@ Caleb is a Bulgarian player, maining all 3 playstyles.
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
+| 30/07/2023 | 5th | [Inazuma Eleven Strikers World Cup 2023](/inapedia/tournaments/worldcup23.md) | World Cup |
 | 05/2023 | 1st | [God Impact](/inapedia/tournaments/misc/godimpact.md) | Major |
 | 21/02/2023 | 4th | [Ragnarok Strikers Xtreme #3](/inapedia/tournaments/ragna/ragnax3.md) | Minor |
 | 04/12/2022 | 5th | [Ragnarok Strikers Xtreme #2](/inapedia/tournaments/ragna/ragnax2.md) | Major |
