@@ -3,7 +3,7 @@
 Road to An Extreme Victory (or RTAXV) is a tournament series held in the [Inazuma Victory Road France](https://discord.gg/inazuma-victory-road-france-1055585286320554055) discord server.
 Although players from all regions are allowed, the series' main focus is towards the Francophone community.
 
-All its editions have been Minors.
+Most of its editions have been Minors.
 
 ## List of editions
 - [RTAXV1](rtaxv1.md)
