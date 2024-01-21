@@ -7,7 +7,8 @@ Here you can find a wiki, guides, strategies and all things competitive Inazuma 
 ### Competitive Scene Wiki
 
 - [Players](inapedia/players/players.md)
-- [Tournaments](inapedia/tournaments/tournamentmain.md) 
+
+- [Tournaments](inapedia/tournaments/tournamentsmain.md) 
 
 ### Techniques, Concepts and Game Knowledge
 
