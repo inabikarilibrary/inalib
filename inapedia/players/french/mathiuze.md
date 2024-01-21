@@ -13,7 +13,6 @@ Chain players in France.
 | 04/03/2023 | 3rd | [RTAXV2](/inapedia/tournaments/rtaxv/rtaxv2.md) | Minor |
 | 18/06/2022 | 5th | [Area Holy Road #1](/inapedia/tournaments/misc/holyroad1.md) | Major |
 | 13/06/2022 | 9th | [Ragnarok Strikers #4](/inapedia/tournaments/ragna/ragna4.md) | Major |
-| 23/04/2022 | 3rd | [Strikers Frontier #5](/inapedia/tournaments/sf/sf5.md) | Major |
 | 17/03/2022 | 2nd | [Ragnarok Strikers #3](/inapedia/tournaments/ragna/ragna3.md) | Major |
 | 07/11/2021 | 3rd | [Strikers Frontier #2](/inapedia/tournaments/sf/sf2.md) | Minor |
 | 07/2021 | 2nd | [Inazuma Eleven Strikers World Cup 2021](/inapedia/tournaments/worldcup21.md) | World Cup |
