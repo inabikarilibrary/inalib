@@ -2,7 +2,7 @@
 
 Vivi is a French player, maining Nomash. He was previously known as "Hiro".
 He is known as one of the best French players in history,
-as well as the first non-Japanese to have ever won a tournament in which a
+as well as the first non-Japanese to have ever won a [tournament](/inapedia/tournaments/sf/sf5.md) in which a
 top Japanese player was participating.
 
 ## Achievements
@@ -16,5 +16,6 @@ top Japanese player was participating.
 | 16/09/2022 | 3rd | [Area Holy Road #2](/inapedia/tournaments/misc/holyroad2.md) | Major |
 | 13/06/2022 | 4th | [Ragnarok Strikers #4](/inapedia/tournaments/ragna/ragna4.md) | Major |
 | 17/03/2022 | 4th | [Ragnarok Strikers #3](/inapedia/tournaments/ragna/ragna3.md) | Minor |
+| 07/11/2021 | 2nd | [Strikers Frontier #2](/inapedia/tournaments/sf/sf2.md) | Minor |
 | 12/09/2021 | 7th | [Ragnarok Strikers #1](/inapedia/tournaments/ragna/ragna1.md) | Minor |
 
