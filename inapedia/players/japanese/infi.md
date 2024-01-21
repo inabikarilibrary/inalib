@@ -13,3 +13,4 @@ He is known for his slow and methodical playstyle, and is often considered as on
 | 27/03/2023 | 5th | [Hades Garden #3](/inapedia/tournaments/hg/hg3.md) | Minor |
 | 16/09/2022 | 1st | [Area Holy Road #2](/inapedia/tournaments/misc/holyroad2.md) | Major |
 | 12/09/2021 | 3rd | [Ragnarok Strikers #1](/inapedia/tournaments/ragna/ragna1.md) | Minor |
+| 07/2021 | 1st | [Inazuma Eleven Strikers World Cup 2021](/inapedia/tournaments/worldcup21.md) | World Cup |
