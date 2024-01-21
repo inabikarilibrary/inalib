@@ -20,6 +20,7 @@ He is a well known content creator within the competitive scene.
 | 05/2023 | 13th | [God Impact](/inapedia/tournaments/misc/godimpact.md) | Major |
 | 27/03/2023 | 4th | [Hades Garden #3](/inapedia/tournaments/hg/hg3.md) | Minor |
 | 21/02/2023 | 2nd | [Ragnarok Strikers Xtreme #3](/inapedia/tournaments/ragna/ragnax3.md) | Minor |
+| 11/02/2023 | 5th | [Xtreme Frontier](/inapedia/tournaments/sf/xf.md) | Major |
 | 04/12/2022 | 4th | [Ragnarok Strikers Xtreme #2](/inapedia/tournaments/ragna/ragnax2.md) | Major |
 | 02/10/2022 | 7th | [Ragnarok Strikers Xtreme #1](/inapedia/tournaments/ragna/ragnax1.md) | Major |
 | 16/09/2022 | 9th | [Area Holy Road #2](/inapedia/tournaments/misc/holyroad2.md) | Major |
