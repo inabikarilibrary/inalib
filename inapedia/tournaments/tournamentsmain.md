@@ -14,4 +14,4 @@
   
 - [Strikers Frontier](sf/sfmain.md)
   
-- [Miscellaneous](misc/misc.md)
+- [Miscellaneous](misc/miscmain.md)
