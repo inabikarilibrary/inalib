@@ -11,6 +11,7 @@ top Japanese player was participating.
 | - | - | - | - |
 | 30/07/2023 | 2nd | [Inazuma Eleven Strikers World Cup 2023](/inapedia/tournaments/worldcup23.md) | World Cup |
 | 04/03/2023 | 5th | [RTAXV2](/inapedia/tournaments/rtaxv/rtaxv2.md) | Minor |
+| 11/02/2023 | 1st | [Xtreme Frontier](/inapedia/tournaments/sf/xf.md) | Major |
 | 01/2023 | 1st | [RTAXV1](/inapedia/tournaments/rtaxv/rtaxv1.md) | Minor |
 | 02/10/2022 | 5th | [Ragnarok Strikers Xtreme #1](/inapedia/tournaments/ragna/ragnax1.md) | Major |
 | 16/09/2022 | 3rd | [Area Holy Road #2](/inapedia/tournaments/misc/holyroad2.md) | Major |
