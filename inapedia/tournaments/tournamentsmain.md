@@ -1,17 +1,17 @@
 # List of Tournaments
 
-- [World Cup 2023](/inapedia/tournaments/worldcup23.md)
+- [World Cup 2023](worldcup23.md)
   
-- [World Cup 2021](/inapedia/tournaments/worldcup21.md)
+- [World Cup 2021](worldcup21.md)
   
-- [Ragnarok Strikers](/inapedia/tournaments/ragna/ragnamain.md)
+- [Ragnarok Strikers](ragna/ragnamain.md)
   
-- [Ragnarok Strikers Xtreme](/inapedia/tournaments/ragna/ragnaxmain.md)
+- [Ragnarok Strikers Xtreme](ragna/ragnaxmain.md)
   
-- [Hades Garden](/inapedia/tournaments/hg/hgmain.md)
+- [Hades Garden](hg/hgmain.md)
   
-- [RTAXV](/inapedia/tournaments/rtaxv/rtaxvmain.md)
+- [RTAXV](rtaxv/rtaxvmain.md)
   
 - [Strikers Frontier](sf/sfmain.md)
   
-- [Miscellaneous](/inapedia/tournaments/misc/misc.md)
+- [Miscellaneous](misc/misc.md)
