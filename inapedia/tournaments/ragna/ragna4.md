@@ -26,7 +26,7 @@ Tier: Major
 |5th|[Kiyara](/inapedia/players/chinese/kiyara.md)|
 |5th|[$elow](/inapedia/players/french/$elow.md)|
 |7th|[Cherry](/inapedia/players/french/cherry.md)|
-|7th|[Panbazou](/inapedia/players/russian/panbazou.md)|
+|7th|Panbazou|
 |9th|[Mathiuze](/inapedia/players/french/mathiuze.md)|
 |9th|[KobreX](/inapedia/players/polish/kobr3x.md)|
 |9th|[Haku](/inapedia/players/german/haku.md)|
