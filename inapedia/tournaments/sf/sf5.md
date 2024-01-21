@@ -28,7 +28,7 @@ Tier: Major
 |1st|[HiroLachance](/inapedia/players/french/vivi.md)|
 |2nd|[Miya](/inapedia/players/japanese/miya.md)|
 |3rd|[Caleb](/inapedia/players/bulgarian/caleb.md)|
-|4th|[Kinun](/inapedia/players/belgian/eath.md)|
+|4th|[Kinun](/inapedia/players/belgian/kinun.md)|
 |5th|[Krizo](/inapedia/players/bulgarian/krizo.md)|
 |5th|[210aki](/inapedia/players/french/210aki.md)|
 |7th|Micciu|
