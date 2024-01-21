@@ -11,5 +11,5 @@ Strikers Frontier served as the main tournament series for the international com
 - [Strikers Frontier #2](sf2.md)
 - [Strikers Frontier #3](sf3.md)
 - Strikers Frontier #4
-- [Strikers Frontier #5](sf4.md)
+- [Strikers Frontier #5](sf5.md)
 - [Xtreme Frontier](xf.md)
