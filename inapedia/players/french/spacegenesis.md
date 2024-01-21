@@ -8,3 +8,4 @@ SpaceGenesis is a French player, maining Nomash.
 |-|-|-|-|
 | 08/2023 | 13th | [RTAXV7](/inapedia/tournaments/rtaxv/rtaxv7.md) | Major |
 | 30/07/2023 | 13th | [Inazuma Eleven Strikers World Cup 2023](/inapedia/tournaments/worldcup23.md) | World Cup |
+| 23/04/2022 | 5th | [Strikers Frontier #5](/inapedia/tournaments/sf/sf5.md) | Major |
