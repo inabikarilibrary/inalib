@@ -1,8 +1,13 @@
 # Welcome to Inabikari Library! 
-Here you can find guides, strategies and all things competitive IE GO Strikers 2013!
+Here you can find a wiki, guides, strategies and all things competitive Inazuma Eleven Strikers!
 
 
 ## Directory
+
+### Competitive Scene Wiki
+
+- [Players](inapedia/players/players.md)
+- [Tournaments](inapedia/tournaments/tournamentmain.md) 
 
 ### Techniques, Concepts and Game Knowledge
 
