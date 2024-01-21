@@ -33,7 +33,7 @@ Tier: Major
 |9th|[Kenway](/inapedia/players/french/kenway.md)|
 |9th|[So panda](/inapedia/players/brazilian/panda.md)|
 |9th|[Dante Froste](/inapedia/players/argentinian/dantefroste.md)|
-|9th|[Jin]|
+|9th|[Jin](/inapedia/players/french/jin.md)|
 |9th|[CatalinW](/inapedia/players/romanian/catalinw.md)|
 |9th|[Liyo](/inapedia/players/french/koro.md)|
 |9th|[Selow](/inapedia/players/french/$elow.md)|
