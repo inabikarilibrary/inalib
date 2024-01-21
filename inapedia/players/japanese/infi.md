@@ -11,6 +11,7 @@ He is known for his slow and methodical playstyle, and is often considered as on
 | 30/07/2023 | 1st | [Inazuma Eleven Strikers World Cup 2023](/tournaments/worldcup23.md) | World Cup |
 | 07/2023 | 2nd | [Orfeo Inazuma Strikers World Cup 2023 Warm Up](/inapedia/tournaments/misc/orfeowc.md) | Major |
 | 27/03/2023 | 5th | [Hades Garden #3](/inapedia/tournaments/hg/hg3.md) | Minor |
+| 11/02/2023 | 2nd | [Xtreme Frontier](/inapedia/tournaments/sf/xf.md) | Major |
 | 16/09/2022 | 1st | [Area Holy Road #2](/inapedia/tournaments/misc/holyroad2.md) | Major |
 | 04/12/2021 | 5th | [Strikers Frontier #3](/inapedia/tournaments/sf/sf3.md) | Minor |
 | 26/09/2021 | 1st | [Strikers Frontier #1](/inapedia/tournaments/sf/sf1.md) | Minor |
