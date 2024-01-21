@@ -10,3 +10,4 @@ the aggressive and dash-heavy Nomash that is the norm in France today.
 | - | - | - | - |
 | 30/07/2023 | 2nd | [Inazuma Eleven Strikers World Cup 2023](/inapedia/tournaments/worldcup23.md) | World Cup |
 | 13/06/2022 | 4th | [Ragnarok Strikers #4](/inapedia/tournaments/ragna/ragna4.md) | Major |
+| 07/2021 | 2nd | [Inazuma Eleven Strikers World Cup 2021](/inapedia/tournaments/worldcup21.md) | World Cup |
