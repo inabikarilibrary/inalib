@@ -1,4 +1,4 @@
-# Tournaments
+# List of Tournaments
 
 - [World Cup 2023](/inapedia/tournaments/worldcup23.md)
 - [World Cup 2021](/inapedia/tournaments/worldcup21.md)
