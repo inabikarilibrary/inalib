@@ -12,3 +12,4 @@ She is known for her unorthodox playstyle.
 | 02/10/2022 | 13th | [Ragnarok Strikers Xtreme #1](/inapedia/tournaments/ragna/ragnax1.md) | Major |
 | 16/09/2022 | 9th | [Area Holy Road #2](/inapedia/tournaments/misc/holyroad2.md) | Major |
 | 24/07/2022 | 13th | [Ragnarok Strikers #5](/inapedia/tournaments/ragna/ragna5.md) | Major |
+| 07/2021 | 2nd | [Inazuma Eleven Strikers World Cup 2021](/inapedia/tournaments/worldcup21.md) | World Cup |
