@@ -12,3 +12,4 @@ Luxie is a Belgian player, maining Chain.
 | 18/06/2022 | 5th | [Area Holy Road #1](/inapedia/tournaments/misc/holyroad1.md) | Major |
 | 12/09/2021 | 7th | [Ragnarok Strikers #1](/inapedia/tournaments/ragna/ragna1.md) | Minor |
 | 07/2021 | 5th | [Inazuma Eleven Strikers World Cup 2021](/inapedia/tournaments/worldcup21.md) | World Cup |
+| 26/09/2021 | 4th | [Strikers Frontier #1](/inapedia/tournaments/sf/sf1.md) | Minor |
