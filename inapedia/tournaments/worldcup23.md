@@ -32,7 +32,7 @@ The tournament was won by **Team Japan**.
 | 5th | Italy | [Filo](/inapedia/players/italian/filo.md) / [Aaronash](/inapedia/players/italian/aaronash.md) / [Giu](/inapedia/players/italian/giu.md) / Giovix-64 / [marinucci79](/inapedia/players/italian/marinucci79.md) |
 | 9th | Brazil | [Hikky](/inapedia/players/brazilian/hikky.md) / jppb2005 / [nicolau](/inapedia/players/brazilian/nicolau.md) / [Panda](/inapedia/players/brazilian/panda.md) / YeppON |
 | 9th | Poland | [Kobr3X](/inapedia/players/polish/kobr3x.md) / Bachor / Kazuma Ito / Skrecik / [terewsant](/inapedia/players/polish/terewsant.md) |
-| 9th | DACH | [Milozaki](/inapedia/players/german/milozaki.md) / Dani11 / [Skipper](/inapedia/players/austrian/skipper.md) | [Haku](/inapedia/players/german/haku.md) / Kaiser |
+| 9th | DACH | [Milozaki](/inapedia/players/german/milozaki.md) / [Dani11](/inapedia/players/colombian/dani11.md) / [Skipper](/inapedia/players/austrian/skipper.md) | [Haku](/inapedia/players/german/haku.md) / Kaiser |
 | 9th | Spain | Teca / [Jorge Lorenzo](/inapedia/players/spanish/jorge.md) / Naka / Polakito / [Unaii](/inapedia/players/spanish/unaii.md) |
 | 13th | Latin America | [Rodrift](/inapedia/players/peruvian/rodrift.md) / [SpaceGenesis](/inapedia/players/french/spacegenesis.md) / [Dante Froste](/inapedia/players/argentinian/dantefroste.md) / [585zeno](/inapedia/players/french/585zeno.md) / [Killian11](/inapedia/players/french/killian11.md) |
 | 13th | Benelux | [KKOJJGSS](/inapedia/players/dutch/kkojjgss.md) / [Kireo](/inapedia/players/french/kireo.md) / Nayel / [Noxyne](/inapedia/players/french/noxyne.md) / [Wawa](/inapedia/players/luxembourger/wawa.md) |
