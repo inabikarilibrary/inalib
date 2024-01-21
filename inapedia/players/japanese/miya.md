@@ -15,4 +15,5 @@ He was considered one of the strongest players in the world at for a long period
 | 04/12/2022 | 3rd | [Ragnarok Strikers Xtreme #2](/inapedia/tournaments/ragna/ragnax2.md) | Major |
 | 02/10/2022 | 3rd | [Ragnarok Strikers Xtreme #1](/inapedia/tournaments/ragna/ragnax1.md) | Major |
 | 13/06/2022 | 2nd | [Ragnarok Strikers #4](/inapedia/tournaments/ragna/ragna4.md) | Major |
+| 23/04/2022 | 2nd | [Strikers Frontier #5](/inapedia/tournaments/sf/sf5.md) | Major |
 | 17/03/2022 | 1st | [Ragnarok Strikers #3](/inapedia/tournaments/ragna/ragna3.md) | Minor |
