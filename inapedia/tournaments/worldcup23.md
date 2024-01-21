@@ -1,5 +1,7 @@
 # Inazuma Eleven Strikers World Cup 2023
 
+![image](https://github.com/inabikarilibrary/inalib/assets/110833255/3cfdb57d-8d54-4c88-aa35-7879c96c75be)
+
 The Inazuma Eleven Strikers World Cup 2023 was the 2023 edition of the Inazuma Eleven Strikers World Cup series.
 The tournament was won by **Team Japan**. 
 
