@@ -23,5 +23,5 @@ He plays all 3 playstyles at the highest level.
 | 17/03/2022 | 3rd | [Ragnarok Strikers #3](/inapedia/tournaments/ragna/ragna3.md) | Minor |
 | 14/11/2021 | 1st | [Ragnarok Strikers #2](/inapedia/tournaments/ragna/ragna2.md) | Minor |
 | 12/09/2021 | 1st | [Ragnarok Strikers #1](/inapedia/tournaments/ragna/ragna1.md) | Minor |
-| 07/2021 | 1st | [Inazuma Eleven Strikers World Cup 2021](/inapedia/tournaments/worldcup21.md) |
+| 07/2021 | 1st | [Inazuma Eleven Strikers World Cup 2021](/inapedia/tournaments/worldcup21.md) | World Cup |
 
