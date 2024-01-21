@@ -19,3 +19,4 @@ Skipper is an Austrian player, maining Nomash.
 | 02/10/2022 | 13th | [Ragnarok Strikers Xtreme #1](/inapedia/tournaments/ragna/ragnax1.md) | Major |
 | 24/07/2022 | 13th | [Ragnarok Strikers #5](/inapedia/tournaments/ragna/ragna5.md) | Major |
 | 13/06/2022 | 13th | [Ragnarok Strikers #4](/inapedia/tournaments/ragna/ragna4.md) | Major |
+| 07/2021 | 5th | [Inazuma Eleven Strikers World Cup 2021](/inapedia/tournaments/worldcup21.md) | World Cup |
