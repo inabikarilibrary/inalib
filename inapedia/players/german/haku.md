@@ -28,3 +28,4 @@ He is a well known content creator within the competitive scene.
 | 17/03/2022 | 5th | [Ragnarok Strikers #3](/inapedia/tournaments/ragna/ragna3.md) | Minor |
 | 14/11/2021 | 7th | [Ragnarok Strikers #2](/inapedia/tournaments/ragna/ragna2.md) | Minor |
 | 12/09/2021 | 4th | [Ragnarok Strikers #1](/inapedia/tournaments/ragna/ragna1.md) | Minor |
+| 07/2021 | 5th | [Inazuma Eleven Strikers World Cup 2021](/inapedia/tournaments/worldcup21.md) | World Cup |
