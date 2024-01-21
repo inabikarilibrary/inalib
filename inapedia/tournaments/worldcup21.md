@@ -24,12 +24,12 @@ The tournament was won by **Team Japan**.
 | - | - | - |
 | 1st | Japan | [Paraly](/inapedia/players/japanese/paraly.md) / [Infi](/inapedia/players/japanese/infi.md) / [katu6](/inapedia/players/japanese/katu6.md) / Manson |
 | 2nd | France | AS / [Shuu](/inapedia/players/french/nayth.md) / [Cherry](/inapedia/players/french/cherry.md) / [Mathiuze](/inapedia/players/french/mathiuze.md) |
-| 3rd | Africa | Yaxo / [Aimenz](/inapedia/players/french/aimenz.md) / Jin / Jemira |
+| 3rd | Africa | Yaxo / [Aimenz](/inapedia/players/french/aimenz.md) / [Jin](/inapedia/players/french/jin.md) / Jemira |
 | 4th | Brazil | [Hikky](/inapedia/players/brazilian/hikky.md) / [Panda](/inapedia/players/brazilian/panda.md) / MyssBH / Newzin |
 | 5th | Belgium | [Luxie](/inapedia/players/belgian/luxie.md) / Black Escavan / [Eath](/inapedia/players/belgian/eath.md) |
 | 5th | China | [Dia](/inapedia/players/chinese/dia.md) / Ekigiyo / Suzushina Yuriko / [Kiyara](/inapedia/players/chinese/kiyara.md) |
-| 5th | DACH | [Milozaki](/inapedia/players/german/milozaki.md) / Kaito / [Skipper](/inapedia/players/austrian/skipper.md) / [Hakuryuu](/inapedia/players/german/haku.md) |
-| 5th | Netherlands | SXNC / Dragonblaze / [Marcel](/inapedia/players/dutch/marcel.md) / KKOJJGSS |
+| 5th | DACH | [Milozaki](/inapedia/players/german/milozaki.md) / [Kaito](/inapedia/players/german/zuky.md) / [Skipper](/inapedia/players/austrian/skipper.md) / [Hakuryuu](/inapedia/players/german/haku.md) |
+| 5th | Netherlands | SXNC / Dragonblaze / [Marcel](/inapedia/players/dutch/marcel.md) / [KKOJJGSS](/inapedia/players/dutch/kkojjgss.md) |
 | 9th | Bulgaria | [Krizo](/inapedia/players/bulgarian/krizo.md) / [Caleb](/inapedia/players/bulgarian/caleb.md) / Kkris |
 | 9th | United Kingdom | HK16 / Bugsy / Prince_ / TXM |
 | 9th | Poland | Adrian17 / IGOXTEAMAKAXOGI / [Kobrex](/inapedia/players/polish/kobr3x.md) / Krecik |
