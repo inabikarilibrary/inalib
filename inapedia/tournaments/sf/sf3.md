@@ -1,7 +1,7 @@
 # Strikers Frontier #3
 
-Strikers Frontier #3 was the second edition of the [Strikers Frontier](sfmain.md) tournament series.
-17 players participated.
+Strikers Frontier #3 was the third edition of the [Strikers Frontier](sfmain.md) tournament series.
+23 players participated.
 
 Tier: Minor
 
