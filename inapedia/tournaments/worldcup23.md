@@ -25,7 +25,7 @@ The tournament was won by **Team Japan**.
 | 1st | Japan | [Paraly](/inapedia/players/japanese/paraly.md) / [Infi](/inapedia/players/japanese/infi.md) / [Miya](/inapedia/players/japanese/miya.md) / [as7_9](/inapedia/players/japanese/as7_9.md) / [Raufuro](/inapedia/players/japanese/raufuro.md) |
 | 2nd | France | [Vivi](/inapedia/players/french/vivi.md) / [Alexisl](/inapedia/players/french/alexisl.md) / [Azyck](/inapedia/players/french/azyck.md) / [Mathiuze](/inapedia/players/french/mathiuze.md) / [nayth](/inapedia/players/french/nayth.md) |
 | 3rd | Maghreb | [$elow](/inapedia/players/french/$elow.md) / [Abdel](/inapedia/players/french/abdel.md) / [Luxie](/inapedia/players/belgian/luxie.md) / [Pinguin](/inapedia/players/french/pinguin.md) / [Saikyoo11](/inapedia/players/french/saikyoo11.md) |
-| 4th | Southeast Asia | [Baamsushi](/inapedia/players/others/baamsushi.md) / Minh / Zuky |
+| 4th | Southeast Asia | [Baamsushi](/inapedia/players/others/baamsushi.md) / Minh / [Zuky](/inapedia/players/german/zuky.md) |
 | 5th | China | [Dia](/inapedia/players/chinese/dia.md) / [Kiyara](/inapedia/players/chinese/kiyara.md) / Suzushina / Memex / [matcha](/inapedia/players/chinese/matcha.md) |
 | 5th | Subsaharan Africa | [Kinun](/inapedia/players/belgian/kinun.md) / Banania / [Eath](/inapedia/players/belgian/eath.md) / [Kev'nox](/inapedia/players/french/kevnox.md) / [SRAW](/inapedia/players/french/sraw.md) |
 | 5th | Bulgaria | [Caleb](/inapedia/players/bulgarian/caleb.md) / Gabo / [Krizo](/inapedia/players/bulgarian/krizo.md) / Jorito / Yabusosa |
