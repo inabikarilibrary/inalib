@@ -15,6 +15,7 @@ He is often considered one of the best players in the world.
 | 05/2023 | 7th | [God Impact](/inapedia/tournaments/misc/godimpact.md) | Major |
 | 27/03/2023 | 2nd | [Hades Garden #3](/inapedia/tournaments/hg/hg3.md) | Minor |
 | 04/03/2023 | 5th | [RTAXV2](/inapedia/tournaments/rtaxv/rtaxv2.md) | Minor |
+| 11/02/2023 | 2nd | [Xtreme Frontier](/inapedia/tournaments/sf/xf.md) | Major |
 | 01/2023 | 3rd | [RTAXV1](/inapedia/tournaments/rtaxv/rtaxv1.md) | Minor |
 | 02/10/2022 | 9th | [Ragnarok Strikers Xtreme #1](/inapedia/tournaments/ragna/ragnax1.md) | Major |
 | 16/09/2022 | 5th | [Area Holy Road #2](/inapedia/tournaments/misc/holyroad2.md) | Major |
