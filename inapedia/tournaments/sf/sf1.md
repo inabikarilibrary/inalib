@@ -7,6 +7,10 @@ Tier: Minor
 
 ## Overview
 
+### Schedule
+
+- September 26, 2021
+
 ### Format
 
 - Standard rules; Bo1
@@ -26,5 +30,8 @@ Tier: Minor
 |5th|[Eath](/inapedia/players/belgian/eath.md)|
 |5th|[Pinguin](/inapedia/players/french/pinguin.md)|
 |5th|[Caleb](/inapedia/players/bulgarian/caleb.md)|
+
+### Bracket
+- [start.gg](https://www.start.gg/tournament/strikers-frontier-1/details)		
 
 ### Gallery
