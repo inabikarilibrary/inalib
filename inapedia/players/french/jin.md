@@ -6,5 +6,5 @@ Jin is a French player.
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
-| | | 13th | [Area Holy Road #1](/inapedia/tournaments/misc/holyroad1.md) | Major |
+| 18/06/2022 | 13th | [Area Holy Road #1](/inapedia/tournaments/misc/holyroad1.md) | Major |
 | 07/2021 | 3rd | [Inazuma Eleven Strikers World Cup 2021](/inapedia/tournaments/worldcup21.md) | World Cup |
