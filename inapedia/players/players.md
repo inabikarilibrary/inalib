@@ -53,5 +53,5 @@
 - [Chuck Jason](chinese/chuckjason.md)
 - [matcha](chinese/matcha.md)
 
-### Others
-- [Baamsushi](others/baamsushi.md)
+### Indonesian
+- [Baamsushi](indonesian/baamsushi.md)
