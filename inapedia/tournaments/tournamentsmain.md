@@ -12,6 +12,6 @@
   
 - [RTAXV](/inapedia/tournaments/rtaxv/rtaxvmain.md)
   
-- [Strikers Frontier](/inapedia/tournaments/sf/sfmain.md)
+- [Strikers Frontier](sf/sfmain.md)
   
 - [Miscellaneous](/inapedia/tournaments/misc/misc.md)
