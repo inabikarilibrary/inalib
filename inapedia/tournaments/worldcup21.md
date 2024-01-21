@@ -23,7 +23,7 @@ The tournament was won by **Team Japan**.
 | Place | Team | Players |
 | - | - | - |
 | 1st | Japan | [Paraly](/inapedia/players/japanese/paraly.md) / [Infi](/inapedia/players/japanese/infi.md) / [katu6](/inapedia/players/japanese/katu6.md) / Manson |
-| 2nd | France | AS / [Shuu](/inapedia/players/french/shuu.md) / [Cherry](/inapedia/players/french/cherry.md) / [Mathiuze](/inapedia/players/french.mathiuze.md) |
+| 2nd | France | AS / [Shuu](/inapedia/players/french/nayth.md) / [Cherry](/inapedia/players/french/cherry.md) / [Mathiuze](/inapedia/players/french.mathiuze.md) |
 | 3rd | Africa | Yaxo / [Aimenz](/inapedia/players/french/aimenz.md) / Jin / Jemira |
 | 4th | Brazil | [Hikky](/inapedia/players/brazilian/hikky.md) / [Panda](/inapedia/players/brazilian/panda.md) / MyssBH / Newzin |
 | 5th | Belgium | [Luxie](/inapedia/players/belgian/luxie.md) / Black Escavan / [Eath](/inapedia/players/belgian/eath.md) |
