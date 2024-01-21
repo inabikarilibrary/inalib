@@ -78,7 +78,7 @@
 - [Milozaki](german/milozaki.md)
 - [Zuky](german/zuky.md)
 
-### Indonesian
+### Indonesia
 - [Baamsushi](indonesian/baamsushi.md)
 
 ### Italy
