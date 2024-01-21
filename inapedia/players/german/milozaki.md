@@ -12,3 +12,4 @@ He is best known for being a prominent community manager as well as tournament o
 | 30/07/2023 | 9th | [Inazuma Eleven Strikers World Cup 2023](/inapedia/tournaments/worldcup23.md) | World Cup |
 | 07/2023 | 9th | [Orfeo Inazuma Strikers World Cup 2023 Warm Up](/inapedia/tournaments/misc/orfeowc.md) | Major |
 | 16/06/2023 | 4th | [RTAXV4](/inapedia/tournaments/rtaxv/rtaxv4.md) | Minor |
+| 07/2021 | 5th | [Inazuma Eleven Strikers World Cup 2021](/inapedia/tournaments/worldcup21.md) | World Cup |
