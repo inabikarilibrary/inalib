@@ -13,6 +13,7 @@ Caleb is a Bulgarian player, maining all 3 playstyles.
 | 02/10/2022 | 2nd | [Ragnarok Strikers Xtreme #1](/inapedia/tournaments/ragna/ragnax1.md) | Major |
 | 18/06/2022 | 1st | [Area Holy Road #1](/inapedia/tournaments/misc/holyroad1.md) | Major |
 | 13/06/2022 | 13th | [Ragnarok Strikers #4](/inapedia/tournaments/ragna/ragna4.md) | Major |
+| 23/04/2022 | 3rd | [Strikers Frontier #5](/inapedia/tournaments/sf/sf5.md) | Major |
 | 04/12/2021 | 1st | [Strikers Frontier #3](/inapedia/tournaments/sf/sf3.md) | Minor |
 | 14/11/2021 | 2nd | [Ragnarok Strikers #2](/inapedia/tournaments/ragna/ragna2.md) | Minor |
 | 07/11/2021 | 5th | [Strikers Frontier #2](/inapedia/tournaments/sf/sf2.md) | Minor |
