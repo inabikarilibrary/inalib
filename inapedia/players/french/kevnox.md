@@ -16,3 +16,4 @@ Kev'nox is a French player, maining Nomash.
 | 11/06/2023 | 7th | [Ragnarok Strikers Xtreme #5](/inapedia/tournaments/ragna/ragnax5.md) | Major |
 | 04/05/2023 | 13th | [Ragnarok Strikers Xtreme #4](/inapedia/tournaments/ragna/ragnax4.md) | Major |
 | 04/03/2023 | 5th | [RTAXV2](/inapedia/tournaments/rtaxv/rtaxv2.md) | Minor |
+| 11/02/2023 | 9th | [Xtreme Frontier](/inapedia/tournaments/sf/xf.md) | Major |
