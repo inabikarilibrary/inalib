@@ -13,3 +13,4 @@ Pinguin is a French player, maining Nomash.
 | 16/06/2023 | 5th | [RTAXV4](/inapedia/tournaments/rtaxv/rtaxv4.md) | Minor |
 | 11/06/2023 | 13th | [Ragnarok Strikers Xtreme #5](/inapedia/tournaments/ragna/ragnax5.md) | Major |
 | 16/09/2022 | 9th | [Area Holy Road #2](/inapedia/tournaments/misc/holyroad2.md) | Major |
+| 26/09/2021 | 5th | [Strikers Frontier #1](/inapedia/tournaments/sf/sf1.md) | Minor |
