@@ -32,7 +32,7 @@ Tier: Major
 |9th|[Haku](/inapedia/players/german/haku.md)|
 |9th|[Alexisl](/inapedia/players/french/alexisl.md)|
 |13th|[Dani11](/inapedia/players/colombian/dani11.md)|
-|13th|[zawa](/inapedia/players/japanese/zawa.md)|
+|13th|zawa
 |13th|[Caleb](/inapedia/players/bulgarian/caleb.md)|
 |13th|[Skipper](/inapedia/players/austrian/skipper.md)|
 
