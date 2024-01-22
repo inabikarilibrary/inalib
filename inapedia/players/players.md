@@ -117,7 +117,7 @@
 
 - [CatalinW](romanian/catalinw.md)
 
-### Spanish
+### Spain
 
 - [Johnny](spanish/johnny.md)
 - [Jorge Lorenzo](spanish/jorge.md)
