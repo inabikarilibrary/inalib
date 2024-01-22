@@ -28,7 +28,7 @@ Tier: Minor
 |4th|[Milozaki](../../players/german/milozaki.md)|
 |5th|[Ishido](../../players/french/ishido.md)|
 |5th|[Kinun](../../players/belgian/kinun.md)|
-|5th|[Nyl](../../players/uk/nyl.md)|
+|5th|Nyl|
 |5th|[Pinguin](../../players/french/pinguin.md)|
 
 ### Bracket

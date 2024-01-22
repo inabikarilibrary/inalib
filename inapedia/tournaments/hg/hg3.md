@@ -26,7 +26,7 @@ Tier: Minor
 | 5th | [filo](../../players/italian/filo.md) |
 | 5th | [Infi](../../players/japanese/infi.md) |
 | 7th | [Aaronash](../../players/italian/aaronash.md) |
-| 7th | [Nyl](../../players/uk/nyl.md) |
+| 7th | Nyl |
 
 ### Bracket
 - [Challonge](https://challonge.com/jd65u5ed)

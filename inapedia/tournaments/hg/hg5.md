@@ -25,7 +25,7 @@ Tier: Major
 | 4th | [Eshin](../../players/japanese/eshin.md) | 
 | 5th | [Alexisl](../../players/french/alexisl.md) |
 | 5th | [$elow](../../players/french/$elow.md) | 
-| 7th | [Nyl](../../players/uk/nyl.md) |
+| 7th | Nyl |
 | 7th | [Eath](../../players/belgian/eath.md) |
 | 9th | [terewsant](../../players/polish/terewsant.md) |
 | 9th | [Aaronash](../../players/italian/aaronash.md) |

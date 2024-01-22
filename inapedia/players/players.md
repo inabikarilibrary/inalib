@@ -124,7 +124,3 @@
 
 - [KKOJJGSS](dutch/kkojjgss.md)
 - [Marcel](dutch/marcel.md)
-
-### United Kingdom
-
-- [Nyl](uk/nyl.md)

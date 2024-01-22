@@ -32,7 +32,7 @@ Tier: Major
 |9th|[Alexisl](../../players/french/alexisl.md)|
 |9th|[Filo](../../players/italian/filo.md)|
 |9th|Kaki no Kakki|
-|9th|[Nyl](../../players/uk/nyl.md)|
+|9th|Nyl|
 |13th|[Giu](../../players/italian/giu.md)|
 |13th|[Haku](../../players/german/haku.md)|
 |13th|[Killian11](../../players/french/killian11.md)|

@@ -27,7 +27,7 @@ Tier: Minor
 | 5th | [210aki](../../players/french/210aki) |
 | 5th | [Skipper](../../players/austrian/skipper.md) |
 | 7th | [filo](../../players/italian/filo.md) |
-| 7th | [Nyl](../../players/uk/nyl.md) |
+| 7th | Nyl |
 
 ## Bracket
 - [Challonge](https://challonge.com/gwe99c4t)

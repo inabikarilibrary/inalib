@@ -23,7 +23,7 @@ Tier: Minor
 |Place|Player|
 |-|-|
 |1st|[$elow](../../players/french/$elow.md)|
-|2nd|[Nyl](../../players/uk/nyl.md)|
+|2nd|Nyl|
 |3rd|[Filo](../../players/italian/filo.md)|
 |4th|[Kinun](../../players/belgian/kinun.md)|
 |5th|[Alexis](../../players/french/alexis.md)|
