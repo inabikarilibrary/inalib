@@ -12,7 +12,7 @@ He is a well known content creator within the competitive scene.
 | 06/10/2023 | 7th | [Hades Garden #6](../../tournaments/hg/hg6.md) | Major |
 | 07/09/2023 | 9th | [Ragnarok Strikers Xtreme #6](../../tournaments/ragna/ragnax6.md) | Major |
 | 31/08/2023 | 9th | [Hades Garden #5](../../tournaments/hg/hg5.md) | Major |
-| 30/07/2023 | 9th | [Inazuma Eleven Strikers World Cup 2023](../tournaments/worldcup23.md) | World Cup |
+| 30/07/2023 | 9th | [Inazuma Eleven Strikers World Cup 2023](../../tournaments/worldcup23.md) | World Cup |
 | 07/2023 | 5th | [Orfeo Inazuma Strikers World Cup 2023 Warm Up](../../tournaments/misc/orfeowc.md) | Major |
 | 24/06/2023 | 5th | [RTAXV5](../../tournaments/rtaxv/rtaxv5.md) | Minor |
 | 11/06/2023 | 4th | [Ragnarok Strikers Xtreme #5](../../tournaments/ragna/ragnax5.md) | Major |
@@ -29,4 +29,4 @@ He is a well known content creator within the competitive scene.
 | 17/03/2022 | 5th | [Ragnarok Strikers #3](../../tournaments/ragna/ragna3.md) | Minor |
 | 14/11/2021 | 7th | [Ragnarok Strikers #2](../../tournaments/ragna/ragna2.md) | Minor |
 | 12/09/2021 | 4th | [Ragnarok Strikers #1](../../tournaments/ragna/ragna1.md) | Minor |
-| 07/2021 | 5th | [Inazuma Eleven Strikers World Cup 2021](../tournaments/worldcup21.md) | World Cup |
+| 07/2021 | 5th | [Inazuma Eleven Strikers World Cup 2021](../../tournaments/worldcup21.md) | World Cup |

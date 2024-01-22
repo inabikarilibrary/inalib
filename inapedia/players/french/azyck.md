@@ -7,7 +7,7 @@ He is often considered one of the best players in the world.
 
 | Date | Place | Tournament | Tier |
 | - | - | - | - |
-| 30/07/2023 | 2nd | [Inazuma Eleven Strikers World Cup 2023](../tournaments/worldcup23.md) | World Cup |
+| 30/07/2023 | 2nd | [Inazuma Eleven Strikers World Cup 2023](../../tournaments/worldcup23.md) | World Cup |
 | 07/2023 | 3rd | [Orfeo Inazuma Strikers World Cup 2023 Warm Up](../../tournaments/misc/orfeowc.md) | Major |
 | 24/06/2023 | 5th | [RTAXV5](../../tournaments/rtaxv/rtaxv5.md) | Minor |
 | 16/06/2023 | 1st | [RTAXV4](../../tournaments/rtaxv/rtaxv4.md) | Minor |

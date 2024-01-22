@@ -9,7 +9,7 @@ top Japanese player was participating.
 
 | Date | Place | Tournament | Tier |
 | - | - | - | - |
-| 30/07/2023 | 2nd | [Inazuma Eleven Strikers World Cup 2023](../tournaments/worldcup23.md) | World Cup |
+| 30/07/2023 | 2nd | [Inazuma Eleven Strikers World Cup 2023](../../tournaments/worldcup23.md) | World Cup |
 | 04/03/2023 | 5th | [RTAXV2](../../tournaments/rtaxv/rtaxv2.md) | Minor |
 | 11/02/2023 | 1st | [Xtreme Frontier](../../tournaments/sf/xf.md) | Major |
 | 01/2023 | 1st | [RTAXV1](../../tournaments/rtaxv/rtaxv1.md) | Minor |
