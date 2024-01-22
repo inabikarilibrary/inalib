@@ -5,6 +5,7 @@ He is widely considered to be one of, if not the best player of all time.
 He plays all 3 playstyles at the highest level. 
 
 ## Achievements
+
 | Date | Place | Tournament | Tier | 
 | - | - | - | - |
 | 07/09/2023 | 1st | [Ragnarok Strikers Xtreme #6](/tournaments/ragna/ragnax6.md) | Major |
