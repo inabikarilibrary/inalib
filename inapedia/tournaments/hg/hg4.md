@@ -19,14 +19,14 @@ Tier: Minor
 ### Standings
 | Place | Player |
 | - | - |
-| 1st | [Paraly](/inapedia/players/japanese/paraly.md) |
-| 2nd | [Azyck](/inapedia/players/french/azyck.md) |
-| 3rd | [Alexisl](/inapedia/players/french/alexisl.md) |
-| 4th | [$elow](/inapedia/players/french/$elow.md) |
-| 5th | [210aki](/inapedia/players/french/210aki) |
-| 5th | [Skipper](/inapedia/players/austrian/skipper.md) |
-| 7th | [filo](/inapedia/players/italian/filo.md) |
-| 7th | [Nyl](/inapedia/players/uk/nyl.md) |
+| 1st | [Paraly](../../players/japanese/paraly.md) |
+| 2nd | [Azyck](../../players/french/azyck.md) |
+| 3rd | [Alexisl](../../players/french/alexisl.md) |
+| 4th | [$elow](../../players/french/$elow.md) |
+| 5th | [210aki](../../players/french/210aki) |
+| 5th | [Skipper](../../players/austrian/skipper.md) |
+| 7th | [filo](../../players/italian/filo.md) |
+| 7th | [Nyl](../../players/uk/nyl.md) |
 
 ## Bracket
 - [Challonge](https://challonge.com/gwe99c4t)

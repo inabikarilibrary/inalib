@@ -25,22 +25,22 @@ Tier: Major
 
 |Place|Player|
 |-|-|
-|1st|[HiroLachance](/inapedia/players/french/vivi.md)|
-|2nd|[Miya](/inapedia/players/japanese/miya.md)|
-|3rd|[Caleb](/inapedia/players/bulgarian/caleb.md)|
-|4th|[Kinun](/inapedia/players/belgian/kinun.md)|
-|5th|[Krizo](/inapedia/players/bulgarian/krizo.md)|
-|5th|[210aki](/inapedia/players/french/210aki.md)|
+|1st|[HiroLachance](../../players/french/vivi.md)|
+|2nd|[Miya](../../players/japanese/miya.md)|
+|3rd|[Caleb](../../players/bulgarian/caleb.md)|
+|4th|[Kinun](../../players/belgian/kinun.md)|
+|5th|[Krizo](../../players/bulgarian/krizo.md)|
+|5th|[210aki](../../players/french/210aki.md)|
 |7th|Micciu|
 |7th|Nak4taa|
 |9th|Brd|
-|9th|[Marcel](/inapedia/players/dutch/marcel.md)|
+|9th|[Marcel](../../players/dutch/marcel.md)|
 |9th|PESSI|
-|9th|[Pinguin](/inapedia/players/french/pinguin.md)|
+|9th|[Pinguin](../../players/french/pinguin.md)|
 |13th|GTD|
 |13th|MasterLW|
 |13th|QuentinF1/67|
-|13th|[SpaceGenesis](/inapedia/players/french/spacegenesis.md)|
+|13th|[SpaceGenesis](../../players/french/spacegenesis.md)|
 
 ### Bracket
 - [start.gg](https://www.start.gg/tournament/strikers-frontier-5/details)		

@@ -19,22 +19,22 @@ Tier: Major
 
 |Place|Player|
 |-|-|
-|1st|[Paraly](/inapedia/players/japanese/paraly.md)|
-|2nd|[Miya](/inapedia/players/japanese/miya.md)|
-|3rd|[Nayth](/inapedia/players/french/nayth.md)|
-|4th|[Vivi](/inapedia/players/french/vivi.md)|
-|5th|[Kiyara](/inapedia/players/chinese/kiyara.md)|
-|5th|[$elow](/inapedia/players/french/$elow.md)|
-|7th|[Cherry](/inapedia/players/french/cherry.md)|
+|1st|[Paraly](../../players/japanese/paraly.md)|
+|2nd|[Miya](../../players/japanese/miya.md)|
+|3rd|[Nayth](../../players/french/nayth.md)|
+|4th|[Vivi](../../players/french/vivi.md)|
+|5th|[Kiyara](../../players/chinese/kiyara.md)|
+|5th|[$elow](../../players/french/$elow.md)|
+|7th|[Cherry](../../players/french/cherry.md)|
 |7th|Panbazou|
-|9th|[Mathiuze](/inapedia/players/french/mathiuze.md)|
-|9th|[KobreX](/inapedia/players/polish/kobr3x.md)|
-|9th|[Haku](/inapedia/players/german/haku.md)|
-|9th|[Alexisl](/inapedia/players/french/alexisl.md)|
-|13th|[Dani11](/inapedia/players/colombian/dani11.md)|
+|9th|[Mathiuze](../../players/french/mathiuze.md)|
+|9th|[KobreX](../../players/polish/kobr3x.md)|
+|9th|[Haku](../../players/german/haku.md)|
+|9th|[Alexisl](../../players/french/alexisl.md)|
+|13th|[Dani11](../../players/colombian/dani11.md)|
 |13th|zawa
-|13th|[Caleb](/inapedia/players/bulgarian/caleb.md)|
-|13th|[Skipper](/inapedia/players/austrian/skipper.md)|
+|13th|[Caleb](../../players/bulgarian/caleb.md)|
+|13th|[Skipper](../../players/austrian/skipper.md)|
 
 ### Bracket
 - [Challonge](https://challonge.com/bme7jknv)

@@ -21,22 +21,22 @@ Tier: Major
 
 |Place|Player|
 |-|-|
-|1st|[Eshin](/inapedia/players/japanese/eshin.md)|
-|2nd|[Selow](/inapedia/players/french/$elow.md)|
-|3rd|[Eath](/inapedia/players/belgian/eath.md)|
-|4th|[Noxyne](/inapedia/players/french/noxyne.md)|
-|5th|[Alexisl](/inapedia/players/french/alexisl.md)|
-|5th|[Milozaki](/inapedia/players/german/milozaki.md)|
-|7th|[as7_9](/inapedia/players/japanese/as7_9.md)|
+|1st|[Eshin](../../players/japanese/eshin.md)|
+|2nd|[Selow](../../players/french/$elow.md)|
+|3rd|[Eath](../../players/belgian/eath.md)|
+|4th|[Noxyne](../../players/french/noxyne.md)|
+|5th|[Alexisl](../../players/french/alexisl.md)|
+|5th|[Milozaki](../../players/german/milozaki.md)|
+|7th|[as7_9](../../players/japanese/as7_9.md)|
 |7th|Neiko|
-|9th|[210aki](/inapedia/players/french/210aki.md)|
-|9th|[Jorge Lorenzo](/inapedia/players/spanish/jorge.md)|
-|9th|[Kev](/inapedia/players/french/kevnox.md)|
-|9th|[Marinucci](/inapedia/players/italian/marinucci79.md)|
-|13th|[Astral](/inapedia/players/french/astral.md)|
-|13th|[Pinguin](/inapedia/players/french/pinguin.md)|
-|13th|[SpaceGenesis](/inapedia/players/french/spacegenesis.md)|
-|13th|[SRAW](/inapedia/players/french/sraw.md)|
+|9th|[210aki](../../players/french/210aki.md)|
+|9th|[Jorge Lorenzo](../../players/spanish/jorge.md)|
+|9th|[Kev](../../players/french/kevnox.md)|
+|9th|[Marinucci](../../players/italian/marinucci79.md)|
+|13th|[Astral](../../players/french/astral.md)|
+|13th|[Pinguin](../../players/french/pinguin.md)|
+|13th|[SpaceGenesis](../../players/french/spacegenesis.md)|
+|13th|[SRAW](../../players/french/sraw.md)|
 
 ### Bracket
 - [Challonge](https://challonge.com/rtaxv7)

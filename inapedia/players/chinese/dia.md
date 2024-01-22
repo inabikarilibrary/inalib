@@ -9,5 +9,5 @@ which has been adopted by all the other Chinese players.
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
-| 30/07/2023 | 5th | [Inazuma Eleven Strikers World Cup 2023](/inapedia/tournaments/worldcup23.md) | World Cup |
-| 07/2021 | 5th | [Inazuma Eleven Strikers World Cup 2021](/inapedia/tournaments/worldcup21.md) | World Cup |
+| 30/07/2023 | 5th | [Inazuma Eleven Strikers World Cup 2023](../../tournaments/worldcup23.md) | World Cup |
+| 07/2021 | 5th | [Inazuma Eleven Strikers World Cup 2021](../../tournaments/worldcup21.md) | World Cup |

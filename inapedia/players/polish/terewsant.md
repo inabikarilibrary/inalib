@@ -6,5 +6,5 @@ terewsant is a Polish player, maining Nomash.
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
-| 31/08/2023 | 9th | [Hades Garden #5](/inapedia/tournaments/hg/hg5.md) | Major |
-| 30/07/2023 | 9th | [Inazuma Eleven Strikers World Cup 2023](/inapedia/tournaments/worldcup23.md) | World Cup |
+| 31/08/2023 | 9th | [Hades Garden #5](../../tournaments/hg/hg5.md) | Major |
+| 30/07/2023 | 9th | [Inazuma Eleven Strikers World Cup 2023](../../tournaments/worldcup23.md) | World Cup |

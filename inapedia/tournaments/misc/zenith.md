@@ -22,22 +22,22 @@ Tier: Major
 ### Standings
 |Place|Player|
 |-|-|
-|1st|[Lucas](/inapedia/players/spanish/lucas.md)|
-|2nd|[Alexis](/inapedia/players/french/alexisl.md)|
-|3rd|[Unai](/inapedia/players/spanish/unaii.md)|
-|4th|[Kev](/inapedia/players/french/kevnox.md)|
-|5th|[Baamsushi](/inapedia/players/indonesian/baamsushi.md)|
-|5th|[Selow](/inapedia/players/french/$elow.md)|
-|7th|[Johnny](/inapedia/players/spanish/johnny.md)|
-|7th|[Jorge](/inapedia/players/spanish/jorge.md)|
-|9th|[Eath](/inapedia/players/belgian/eath.md)|
-|9th|[Haku](/inapedia/players/german/haku.md)|
-|9th|[Kinun](/inapedia/players/belgian/kinun.md)|
-|9th|[Milozaki](/inapedia/players/german/milozaki.md)|
-|13th|[Abdel](/inapedia/players/french/abdel.md)|
-|13th|[Ishido](/inapedia/players/french/ishido.md)|
-|13th|[katu6](/inapedia/players/japanese/katu6.md)|
-|13th|[Pinguin](/inapedia/players/french/pinguin.md)|
+|1st|[Lucas](../../players/spanish/lucas.md)|
+|2nd|[Alexis](../../players/french/alexisl.md)|
+|3rd|[Unai](../../players/spanish/unaii.md)|
+|4th|[Kev](../../players/french/kevnox.md)|
+|5th|[Baamsushi](../../players/indonesian/baamsushi.md)|
+|5th|[Selow](../../players/french/$elow.md)|
+|7th|[Johnny](../../players/spanish/johnny.md)|
+|7th|[Jorge](../../players/spanish/jorge.md)|
+|9th|[Eath](../../players/belgian/eath.md)|
+|9th|[Haku](../../players/german/haku.md)|
+|9th|[Kinun](../../players/belgian/kinun.md)|
+|9th|[Milozaki](../../players/german/milozaki.md)|
+|13th|[Abdel](../../players/french/abdel.md)|
+|13th|[Ishido](../../players/french/ishido.md)|
+|13th|[katu6](../../players/japanese/katu6.md)|
+|13th|[Pinguin](../../players/french/pinguin.md)|
 
 ### Bracket
 - [Challonge](https://challonge.com/qbji2btt)

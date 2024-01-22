@@ -19,22 +19,22 @@ Tier: Major
 
 |Place|Player|
 |-|-|
-|1st|[Paraly](/inapedia/players/japanese/paraly.md)|
-|2nd|[Infi](/inapedia/players/japanese/infi.md)|
-|3rd|[as7_9](/inapedia/players/japanese/as7_9.md)|
-|4th|[Alexisl](/inapedia/players/french/alexisl.md)|
-|5th|[Eshin](/inapedia/players/japanese/eshin.md)|
-|5th|[Eath](/inapedia/players/belgian/eath.md)|
-|7th|[matcha](/inapedia/players/chinese/matcha.md)|
-|7th|[$elow](/inapedia/players/french/$elow.md)|
-|9th|[Baamsushi](/inapedia/players/indonesian/baamsushi.md)|
-|9th|[Yesus0010](/inapedia/players/spanish/yesus.md)|
-|9th|[Noxyne](/inapedia/players/french/noxyne.md)|
-|9th|[Haku](/inapedia/players/german/haku.md)|
-|13th|[Saikyoo11](/inapedia/players/french/saikyoo11.md)|
-|13th|[JohnnyRZ](/inapedia/players/spanish/johnny.md)|
-|13th|[Jorge Lorenzo](/inapedia/players/spanish/jorge.md)|
-|13th|[Kinun](/inapedia/players/belgian/kinun.md)|
+|1st|[Paraly](../../players/japanese/paraly.md)|
+|2nd|[Infi](../../players/japanese/infi.md)|
+|3rd|[as7_9](../../players/japanese/as7_9.md)|
+|4th|[Alexisl](../../players/french/alexisl.md)|
+|5th|[Eshin](../../players/japanese/eshin.md)|
+|5th|[Eath](../../players/belgian/eath.md)|
+|7th|[matcha](../../players/chinese/matcha.md)|
+|7th|[$elow](../../players/french/$elow.md)|
+|9th|[Baamsushi](../../players/indonesian/baamsushi.md)|
+|9th|[Yesus0010](../../players/spanish/yesus.md)|
+|9th|[Noxyne](../../players/french/noxyne.md)|
+|9th|[Haku](../../players/german/haku.md)|
+|13th|[Saikyoo11](../../players/french/saikyoo11.md)|
+|13th|[JohnnyRZ](../../players/spanish/johnny.md)|
+|13th|[Jorge Lorenzo](../../players/spanish/jorge.md)|
+|13th|[Kinun](../../players/belgian/kinun.md)|
 
 ### Bracket
 - [Challonge](https://challonge.com/8fy7h14h)

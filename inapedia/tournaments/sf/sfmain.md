@@ -3,7 +3,7 @@
 ![image](https://github.com/inabikarilibrary/inalib/assets/110833255/9c7844da-6c8e-4202-8f31-bf4d773d60a7)
 
 Strikers Frontier was a tournament series.
-Together with the [Ragnarok Strikers](/inapedia/tournaments/ragna/ragnamain.md) series,
+Together with the [Ragnarok Strikers](../../tournaments/ragna/ragnamain.md) series,
 Strikers Frontier served as the main tournament series for the international community during 2021-2022.
 
 ## List oF editions

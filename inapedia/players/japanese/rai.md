@@ -6,5 +6,5 @@ Rai is a Japanese player, maining Nomash.
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
-| 24/07/2022 | 9th | [Ragnarok Strikers #5](/inapedia/tournaments/ragna/ragna5.md) | Major |
-| 18/06/2022 | 2nd | [Area Holy Road #1](/inapedia/tournaments/misc/holyroad1.md) | Major |
+| 24/07/2022 | 9th | [Ragnarok Strikers #5](../../tournaments/ragna/ragna5.md) | Major |
+| 18/06/2022 | 2nd | [Area Holy Road #1](../../tournaments/misc/holyroad1.md) | Major |

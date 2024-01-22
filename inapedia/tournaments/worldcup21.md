@@ -22,15 +22,15 @@ The tournament was won by **Team Japan**.
 
 | Place | Team | Players |
 | - | - | - |
-| 1st | Japan | [Paraly](/inapedia/players/japanese/paraly.md) / [Infi](/inapedia/players/japanese/infi.md) / [katu6](/inapedia/players/japanese/katu6.md) / Manson |
-| 2nd | France | AS / [Shuu](/inapedia/players/french/nayth.md) / [Cherry](/inapedia/players/french/cherry.md) / [Mathiuze](/inapedia/players/french/mathiuze.md) |
-| 3rd | Africa | Yaxo / [Aimenz](/inapedia/players/french/aimenz.md) / [Jin](/inapedia/players/french/jin.md) / Jemira |
-| 4th | Brazil | [Hikky](/inapedia/players/brazilian/hikky.md) / [Panda](/inapedia/players/brazilian/panda.md) / MyssBH / Newzin |
-| 5th | Belgium | [Luxie](/inapedia/players/belgian/luxie.md) / Black Escavan / [Eath](/inapedia/players/belgian/eath.md) |
-| 5th | China | [Dia](/inapedia/players/chinese/dia.md) / Ekigiyo / Suzushina Yuriko / [Kiyara](/inapedia/players/chinese/kiyara.md) |
-| 5th | DACH | [Milozaki](/inapedia/players/german/milozaki.md) / [Kaito](/inapedia/players/german/zuky.md) / [Skipper](/inapedia/players/austrian/skipper.md) / [Hakuryuu](/inapedia/players/german/haku.md) |
-| 5th | Netherlands | SXNC / Dragonblaze / [Marcel](/inapedia/players/dutch/marcel.md) / [KKOJJGSS](/inapedia/players/dutch/kkojjgss.md) |
-| 9th | Bulgaria | [Krizo](/inapedia/players/bulgarian/krizo.md) / [Caleb](/inapedia/players/bulgarian/caleb.md) / Kkris |
+| 1st | Japan | [Paraly](../../players/japanese/paraly.md) / [Infi](../../players/japanese/infi.md) / [katu6](../../players/japanese/katu6.md) / Manson |
+| 2nd | France | AS / [Shuu](../../players/french/nayth.md) / [Cherry](../../players/french/cherry.md) / [Mathiuze](../../players/french/mathiuze.md) |
+| 3rd | Africa | Yaxo / [Aimenz](../../players/french/aimenz.md) / [Jin](../../players/french/jin.md) / Jemira |
+| 4th | Brazil | [Hikky](../../players/brazilian/hikky.md) / [Panda](../../players/brazilian/panda.md) / MyssBH / Newzin |
+| 5th | Belgium | [Luxie](../../players/belgian/luxie.md) / Black Escavan / [Eath](../../players/belgian/eath.md) |
+| 5th | China | [Dia](../../players/chinese/dia.md) / Ekigiyo / Suzushina Yuriko / [Kiyara](../../players/chinese/kiyara.md) |
+| 5th | DACH | [Milozaki](../../players/german/milozaki.md) / [Kaito](../../players/german/zuky.md) / [Skipper](../../players/austrian/skipper.md) / [Hakuryuu](../../players/german/haku.md) |
+| 5th | Netherlands | SXNC / Dragonblaze / [Marcel](../../players/dutch/marcel.md) / [KKOJJGSS](../../players/dutch/kkojjgss.md) |
+| 9th | Bulgaria | [Krizo](../../players/bulgarian/krizo.md) / [Caleb](../../players/bulgarian/caleb.md) / Kkris |
 | 9th | United Kingdom | HK16 / Bugsy / Prince_ / TXM |
-| 9th | Poland | Adrian17 / IGOXTEAMAKAXOGI / [Kobrex](/inapedia/players/polish/kobr3x.md) / Krecik |
+| 9th | Poland | Adrian17 / IGOXTEAMAKAXOGI / [Kobrex](../../players/polish/kobr3x.md) / Krecik |
 

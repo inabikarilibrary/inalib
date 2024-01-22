@@ -19,14 +19,14 @@ Tier: Minor
 
 |Place|Player|
 |-|-|
-|1st|[Miya](/inapedia/players/japanese/miya.md)|
-|2nd|[Mathiuze](/inapedia/players/french/mathiuze.md)|
-|3rd|[Paraly](/inapedia/players/japanese/paraly.md)|
-|4th|[Hiro](/inapedia/players/french/vivi.md)|
-|5th|[Rodbeast](/inapedia/players/peruvian/rodrift.md)|
-|5th|[Haku](/inapedia/players/german/haku.md)|
-|5th|[Kinun](/inapedia/players/belgian/kinun.md)|
-|5th|[Eshin](/inapedia/players/japanese/eshin.md)|
+|1st|[Miya](../../players/japanese/miya.md)|
+|2nd|[Mathiuze](../../players/french/mathiuze.md)|
+|3rd|[Paraly](../../players/japanese/paraly.md)|
+|4th|[Hiro](../../players/french/vivi.md)|
+|5th|[Rodbeast](../../players/peruvian/rodrift.md)|
+|5th|[Haku](../../players/german/haku.md)|
+|5th|[Kinun](../../players/belgian/kinun.md)|
+|5th|[Eshin](../../players/japanese/eshin.md)|
 
 ### Bracket
 - [Challonge](https://challonge.com/jfdq7h12)
