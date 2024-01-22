@@ -22,14 +22,14 @@ Tier: Minor
 
 |Place|Player|
 |-|-|
-|1st|[Alexisl](../..//players/french/alexisl.md)|
-|2nd|[$elow](../..//players/french/$elow.md)|
-|3rd|[Mathiuze](../..//players/french/mathiuze.md)|
-|4th|[SRAW](../..//players/french/sraw.md)|
-|5th|[Kev'nox](../..//players/french/kevnox.md)|
-|5th|[Azyck](../..//players/french/azyck.md)|
-|5th|[Vivi](../..//players/french/vivi.md)|
-|5th|[Giu](../..//players/italian/giu.md)|
+|1st|[Alexisl](../../players/french/alexisl.md)|
+|2nd|[$elow](../../players/french/$elow.md)|
+|3rd|[Mathiuze](../../players/french/mathiuze.md)|
+|4th|[SRAW](../../players/french/sraw.md)|
+|5th|[Kev'nox](../../players/french/kevnox.md)|
+|5th|[Azyck](../../players/french/azyck.md)|
+|5th|[Vivi](../../players/french/vivi.md)|
+|5th|[Giu](../../players/italian/giu.md)|
 
 ### Bracket
 - [Challonge](https://challonge.com/rtaxv2)

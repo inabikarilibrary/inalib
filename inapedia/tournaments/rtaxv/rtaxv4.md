@@ -22,14 +22,14 @@ Tier: Minor
 
 |Place|Player|
 |-|-|
-|1st|[Azyck](../..//players/french/azyck.md)|
-|2nd|[Eath](../..//players/belgian/eath.md)|
-|3rd|[$elow](../..//players/french/$elow.md)|
-|4th|[Milozaki](../..//players/german/milozaki.md)|
-|5th|[Ishido](../..//players/french/ishido.md)|
-|5th|[Kinun](../..//players/belgian/kinun.md)|
-|5th|[Nyl](../..//players/uk/nyl.md)|
-|5th|[Pinguin](../..//players/french/pinguin.md)|
+|1st|[Azyck](../../players/french/azyck.md)|
+|2nd|[Eath](../../players/belgian/eath.md)|
+|3rd|[$elow](../../players/french/$elow.md)|
+|4th|[Milozaki](../../players/german/milozaki.md)|
+|5th|[Ishido](../../players/french/ishido.md)|
+|5th|[Kinun](../../players/belgian/kinun.md)|
+|5th|[Nyl](../../players/uk/nyl.md)|
+|5th|[Pinguin](../../players/french/pinguin.md)|
 
 ### Bracket
 - [Challonge](https://challonge.com/e3d9rnlv)

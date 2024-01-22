@@ -18,14 +18,14 @@ Tier: Minor
 ### Standings
 |Place|Player|
 |-|-|
-|1st|[Paraly](../..//players/japanese/paraly.md)|
-|2nd|[Caleb](../..//players/bulgarian/caleb.md)|
-|3rd|[Infi](../..//players/japanese/infi.md)|
-|4th|[Haku](../..//players/german/haku.md)|
-|5th|[Kobr3X](../..//players/polish/kobr3x.md)|
-|5th|[Eath](../..//players/belgian/eath.md)|
-|7th|[Hiro](../..//players/french/vivi.md)|
-|7th|[Lûxie](../..//players/belgian/luxie.md)|
+|1st|[Paraly](../../players/japanese/paraly.md)|
+|2nd|[Caleb](../../players/bulgarian/caleb.md)|
+|3rd|[Infi](../../players/japanese/infi.md)|
+|4th|[Haku](../../players/german/haku.md)|
+|5th|[Kobr3X](../../players/polish/kobr3x.md)|
+|5th|[Eath](../../players/belgian/eath.md)|
+|7th|[Hiro](../../players/french/vivi.md)|
+|7th|[Lûxie](../../players/belgian/luxie.md)|
 
 ### Bracket
 - [Challonge](https://challonge.com/que4sna4)

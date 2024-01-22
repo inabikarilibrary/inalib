@@ -19,13 +19,13 @@ Tier: Minor
 
 |Place|Player|
 |-|-|
-|1st|[Paraly](../..//players/japanese/paraly.md)|
-|2nd|[Haku](../..//players/german/haku.md)|
-|3rd|[filo](../..//players/italian/filo.md)|
-|4th|[Caleb](../..//players/bulgarian/caleb.md)|
-|5th|[Skipper](../..//players/austrian/skipper.md)|
-|5th|[Alexisl](../..//players/french/alexisl.md)|
-|7th|[Hikky](../..//players/brazilian/hikky.md)|
+|1st|[Paraly](../../players/japanese/paraly.md)|
+|2nd|[Haku](../../players/german/haku.md)|
+|3rd|[filo](../../players/italian/filo.md)|
+|4th|[Caleb](../../players/bulgarian/caleb.md)|
+|5th|[Skipper](../../players/austrian/skipper.md)|
+|5th|[Alexisl](../../players/french/alexisl.md)|
+|7th|[Hikky](../../players/brazilian/hikky.md)|
 |7th|[Naos]|
 
 ### Bracket

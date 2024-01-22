@@ -7,4 +7,4 @@ having organized the community's biggest events such as the 2021 and 2023 World 
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
-| 18/06/2022 | 9th | [Area Holy Road #1](../..//tournaments/misc/holyroad1.md) | Major |
+| 18/06/2022 | 9th | [Area Holy Road #1](../../tournaments/misc/holyroad1.md) | Major |

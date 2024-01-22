@@ -6,19 +6,19 @@ Kinun is a Belgian player, maining Nomash.
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
-| 06/01/2024 | 9th | [Zenith](../..//tournaments/misc/zenith.md) | Major |
-| 19/11/2023 | 9th | [Ragnarok Strikers Xtreme #7](../..//tournaments/ragna/ragnax7.md) | Major |
-| 07/09/2023 | 13th | [Ragnarok Strikers Xtreme #6](../..//tournaments/ragna/ragnax6.md) | Major |
-| 30/07/2023 | 5th | [Inazuma Eleven Strikers World Cup 2023](../..//tournaments/worldcup23.md) | World Cup |
-| 07/2023 | 7th | [Orfeo Inazuma Strikers World Cup 2023 Warm Up](../..//tournaments/misc/orfeowc.md) | Major |
-| 24/06/2023 | 4th | [RTAXV5](../..//tournaments/rtaxv/rtaxv5.md) | Minor |
-| 16/06/2023 | 5th | [RTAXV4](../..//tournaments/rtaxv/rtaxv4.md) | Minor |
-| 19/05/2023 | 4th | [RTAXV3](../..//tournaments/rtaxv/rtaxv3.md) | Minor |
-| 18/06/2022 | 4th | [Area Holy Road #1](../..//tournaments/misc/holyroad1.md) | Major |
-| 24/07/2022 | 5th | [Ragnarok Strikers #5](../..//tournaments/ragna/ragna5.md) | Major |
-| 23/04/2022 | 4th | [Strikers Frontier #5](../..//tournaments/sf/sf5.md) | Major |
-| 17/03/2022 | 5th | [Ragnarok Strikers #3](../..//tournaments/ragna/ragna3.md) | Minor |
-| 04/12/2021 | 5th | [Strikers Frontier #3](../..//tournaments/sf/sf3.md) | Minor |
-| 14/11/2021 | 3rd | [Ragnarok Strikers #2](../..//tournaments/ragna/ragna2.md) | Minor |
-| 07/11/2021 | 5th | [Strikers Frontier #2](../..//tournaments/sf/sf2.md) | Minor |
-| 26/09/2021 | 3rd | [Strikers Frontier #1](../..//tournaments/sf/sf1.md) | Minor |
+| 06/01/2024 | 9th | [Zenith](../../tournaments/misc/zenith.md) | Major |
+| 19/11/2023 | 9th | [Ragnarok Strikers Xtreme #7](../../tournaments/ragna/ragnax7.md) | Major |
+| 07/09/2023 | 13th | [Ragnarok Strikers Xtreme #6](../../tournaments/ragna/ragnax6.md) | Major |
+| 30/07/2023 | 5th | [Inazuma Eleven Strikers World Cup 2023](../../tournaments/worldcup23.md) | World Cup |
+| 07/2023 | 7th | [Orfeo Inazuma Strikers World Cup 2023 Warm Up](../../tournaments/misc/orfeowc.md) | Major |
+| 24/06/2023 | 4th | [RTAXV5](../../tournaments/rtaxv/rtaxv5.md) | Minor |
+| 16/06/2023 | 5th | [RTAXV4](../../tournaments/rtaxv/rtaxv4.md) | Minor |
+| 19/05/2023 | 4th | [RTAXV3](../../tournaments/rtaxv/rtaxv3.md) | Minor |
+| 18/06/2022 | 4th | [Area Holy Road #1](../../tournaments/misc/holyroad1.md) | Major |
+| 24/07/2022 | 5th | [Ragnarok Strikers #5](../../tournaments/ragna/ragna5.md) | Major |
+| 23/04/2022 | 4th | [Strikers Frontier #5](../../tournaments/sf/sf5.md) | Major |
+| 17/03/2022 | 5th | [Ragnarok Strikers #3](../../tournaments/ragna/ragna3.md) | Minor |
+| 04/12/2021 | 5th | [Strikers Frontier #3](../../tournaments/sf/sf3.md) | Minor |
+| 14/11/2021 | 3rd | [Ragnarok Strikers #2](../../tournaments/ragna/ragna2.md) | Minor |
+| 07/11/2021 | 5th | [Strikers Frontier #2](../../tournaments/sf/sf2.md) | Minor |
+| 26/09/2021 | 3rd | [Strikers Frontier #1](../../tournaments/sf/sf1.md) | Minor |

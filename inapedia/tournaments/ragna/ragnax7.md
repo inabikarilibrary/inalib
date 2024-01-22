@@ -19,22 +19,22 @@ Tier: Major
 
 |Place|Player|
 |-|-|
-|1st|[Eshin](../..//players/japanese/eshin.md)|
-|2nd|[Johnny](../..//players/spanish/johnny.md)|
-|3rd|[$elow](../..//players/french/$elow.md)|
-|4th|[Alexisl](../..//players/french/alexisl.md)|
-|5th|[Raufuro](../..//players/japanese/raufuro.md)|
-|5th|[Wawa](../..//players/luxembourger/wawa.md)|
-|7th|[Noxyne](../..//players/french/noxyne.md)|
-|7th|[Skipper](../..//players/austrian/skipper.md)|
-|9th|[Giu](../..//players/italian/giu.md)|
-|9th|[Jorge](../..//players/spanish/jorge.md)|
-|9th|[Kinun](../..//players/belgian/kinun.md)|
-|9th|[Haku](../..//players/german/haku.md)|
-|13th|[Kobr3X](../..//players/polish/kobr3x.md)|
-|13th|[Trus7t](../..//players/italian/trus7t.md)|
-|13th|[luuccaasss](../..//players/spanish/lucas.md)|
-|13th|[Kev'nox](../..//players/french/kevnox.md)|
+|1st|[Eshin](../../players/japanese/eshin.md)|
+|2nd|[Johnny](../../players/spanish/johnny.md)|
+|3rd|[$elow](../../players/french/$elow.md)|
+|4th|[Alexisl](../../players/french/alexisl.md)|
+|5th|[Raufuro](../../players/japanese/raufuro.md)|
+|5th|[Wawa](../../players/luxembourger/wawa.md)|
+|7th|[Noxyne](../../players/french/noxyne.md)|
+|7th|[Skipper](../../players/austrian/skipper.md)|
+|9th|[Giu](../../players/italian/giu.md)|
+|9th|[Jorge](../../players/spanish/jorge.md)|
+|9th|[Kinun](../../players/belgian/kinun.md)|
+|9th|[Haku](../../players/german/haku.md)|
+|13th|[Kobr3X](../../players/polish/kobr3x.md)|
+|13th|[Trus7t](../../players/italian/trus7t.md)|
+|13th|[luuccaasss](../../players/spanish/lucas.md)|
+|13th|[Kev'nox](../../players/french/kevnox.md)|
 
 ### Bracket
 - [Challonge](https://challonge.com/m1q1oia7)

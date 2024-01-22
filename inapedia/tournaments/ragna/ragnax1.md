@@ -19,22 +19,22 @@ Tier: Major
 
 |Place|Player|
 |-|-|
-|1st|[Paraly](../..//players/japanese/paraly.md)|
-|2nd|[Caleb](../..//players/bulgarian/caleb.md)|
-|3rd|[Miya](../..//players/japanese/miya.md)|
-|4th|[Lûxie](../..//players/belgian/luxie.md)|
-|5th|[Noxyne](../..//players/french/noxyne.md)|
-|5th|[Vivi](../..//players/french/vivi.md)|
-|7th|[Haku](../..//players/german/haku.md)|
-|7th|[Alexisl](../..//players/french/alexisl.md)|
-|9th|[KobreX](../..//players/polish/kobr3x.md)|
-|9th|[Dani11](../..//players/colombian/dani11.md)|
-|9th|[Raufuro](../..//players/japanese/raufuro.md)|
-|9th|[Azyck](../..//players/french/azyck.md)|
-|13th|[Skipper](../..//players/austrian/skipper.md)|
-|13th|[Hikky](../..//players/brazilian/hikky.md)|
-|13th|[$elow](../..//players/french/$elow.md)|
-|13th|[Baptiste](../..//players/french/baptiste.md)|
+|1st|[Paraly](../../players/japanese/paraly.md)|
+|2nd|[Caleb](../../players/bulgarian/caleb.md)|
+|3rd|[Miya](../../players/japanese/miya.md)|
+|4th|[Lûxie](../../players/belgian/luxie.md)|
+|5th|[Noxyne](../../players/french/noxyne.md)|
+|5th|[Vivi](../../players/french/vivi.md)|
+|7th|[Haku](../../players/german/haku.md)|
+|7th|[Alexisl](../../players/french/alexisl.md)|
+|9th|[KobreX](../../players/polish/kobr3x.md)|
+|9th|[Dani11](../../players/colombian/dani11.md)|
+|9th|[Raufuro](../../players/japanese/raufuro.md)|
+|9th|[Azyck](../../players/french/azyck.md)|
+|13th|[Skipper](../../players/austrian/skipper.md)|
+|13th|[Hikky](../../players/brazilian/hikky.md)|
+|13th|[$elow](../../players/french/$elow.md)|
+|13th|[Baptiste](../../players/french/baptiste.md)|
 
 ### Bracket
 - [Challonge](https://challonge.com/azrwmhse)

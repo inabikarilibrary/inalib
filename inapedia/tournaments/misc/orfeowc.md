@@ -20,22 +20,22 @@ Tier: Major
 ### Standings
 |Place|Player|
 |-|-|
-|1st|[Alexisl](../..//players/french/alexisl.md)|
-|2nd|[Infi](../..//players/japanese/infi.md)|
-|3rd|[Azyck](../..//players/french/azyck.md)|
-|4th|[Eath](../..//players/belgian/eath.md)|
-|5th|[Haku](../..//players/german/haku.md)|
-|5th|[Baptiste](../..//players/french/baptiste.md)|
-|7th|[Baamsushi](../..//players/indonesian/baamsushi.md)|
-|7th|[Kinun](../..//players/belgian/kinun.md)|
-|9th|[Aaronash](../..//players/italian/aaronash.md)|
-|9th|[as7_9](../..//players/japanese/as7_9.md)|
-|9th|[Milozaki](../..//players/german/milozaki.md)|
-|9th|[$elow](../..//players/french/$elow.md)|
-|9th|[Sr Panda](../..//players/brazilian/panda.md)|
-|9th|[Yesus0010](../..//players/spanish/yesus.md)|
-|9th|[Jorge Lorenzo](../..//players/spanish/jorge.md)|
-|9th|[SRAW](../..//players/french/sraw.md)|
+|1st|[Alexisl](../../players/french/alexisl.md)|
+|2nd|[Infi](../../players/japanese/infi.md)|
+|3rd|[Azyck](../../players/french/azyck.md)|
+|4th|[Eath](../../players/belgian/eath.md)|
+|5th|[Haku](../../players/german/haku.md)|
+|5th|[Baptiste](../../players/french/baptiste.md)|
+|7th|[Baamsushi](../../players/indonesian/baamsushi.md)|
+|7th|[Kinun](../../players/belgian/kinun.md)|
+|9th|[Aaronash](../../players/italian/aaronash.md)|
+|9th|[as7_9](../../players/japanese/as7_9.md)|
+|9th|[Milozaki](../../players/german/milozaki.md)|
+|9th|[$elow](../../players/french/$elow.md)|
+|9th|[Sr Panda](../../players/brazilian/panda.md)|
+|9th|[Yesus0010](../../players/spanish/yesus.md)|
+|9th|[Jorge Lorenzo](../../players/spanish/jorge.md)|
+|9th|[SRAW](../../players/french/sraw.md)|
 
 ### Bracket
 - [Challonge](https://challonge.com/kjfxec52)

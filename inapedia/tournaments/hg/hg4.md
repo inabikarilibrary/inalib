@@ -19,14 +19,14 @@ Tier: Minor
 ### Standings
 | Place | Player |
 | - | - |
-| 1st | [Paraly](../..//players/japanese/paraly.md) |
-| 2nd | [Azyck](../..//players/french/azyck.md) |
-| 3rd | [Alexisl](../..//players/french/alexisl.md) |
-| 4th | [$elow](../..//players/french/$elow.md) |
-| 5th | [210aki](../..//players/french/210aki) |
-| 5th | [Skipper](../..//players/austrian/skipper.md) |
-| 7th | [filo](../..//players/italian/filo.md) |
-| 7th | [Nyl](../..//players/uk/nyl.md) |
+| 1st | [Paraly](../../players/japanese/paraly.md) |
+| 2nd | [Azyck](../../players/french/azyck.md) |
+| 3rd | [Alexisl](../../players/french/alexisl.md) |
+| 4th | [$elow](../../players/french/$elow.md) |
+| 5th | [210aki](../../players/french/210aki) |
+| 5th | [Skipper](../../players/austrian/skipper.md) |
+| 7th | [filo](../../players/italian/filo.md) |
+| 7th | [Nyl](../../players/uk/nyl.md) |
 
 ## Bracket
 - [Challonge](https://challonge.com/gwe99c4t)

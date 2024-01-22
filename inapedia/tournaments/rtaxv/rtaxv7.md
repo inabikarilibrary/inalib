@@ -21,22 +21,22 @@ Tier: Major
 
 |Place|Player|
 |-|-|
-|1st|[Eshin](../..//players/japanese/eshin.md)|
-|2nd|[Selow](../..//players/french/$elow.md)|
-|3rd|[Eath](../..//players/belgian/eath.md)|
-|4th|[Noxyne](../..//players/french/noxyne.md)|
-|5th|[Alexisl](../..//players/french/alexisl.md)|
-|5th|[Milozaki](../..//players/german/milozaki.md)|
-|7th|[as7_9](../..//players/japanese/as7_9.md)|
+|1st|[Eshin](../../players/japanese/eshin.md)|
+|2nd|[Selow](../../players/french/$elow.md)|
+|3rd|[Eath](../../players/belgian/eath.md)|
+|4th|[Noxyne](../../players/french/noxyne.md)|
+|5th|[Alexisl](../../players/french/alexisl.md)|
+|5th|[Milozaki](../../players/german/milozaki.md)|
+|7th|[as7_9](../../players/japanese/as7_9.md)|
 |7th|Neiko|
-|9th|[210aki](../..//players/french/210aki.md)|
-|9th|[Jorge Lorenzo](../..//players/spanish/jorge.md)|
-|9th|[Kev](../..//players/french/kevnox.md)|
-|9th|[Marinucci](../..//players/italian/marinucci79.md)|
-|13th|[Astral](../..//players/french/astral.md)|
-|13th|[Pinguin](../..//players/french/pinguin.md)|
-|13th|[SpaceGenesis](../..//players/french/spacegenesis.md)|
-|13th|[SRAW](../..//players/french/sraw.md)|
+|9th|[210aki](../../players/french/210aki.md)|
+|9th|[Jorge Lorenzo](../../players/spanish/jorge.md)|
+|9th|[Kev](../../players/french/kevnox.md)|
+|9th|[Marinucci](../../players/italian/marinucci79.md)|
+|13th|[Astral](../../players/french/astral.md)|
+|13th|[Pinguin](../../players/french/pinguin.md)|
+|13th|[SpaceGenesis](../../players/french/spacegenesis.md)|
+|13th|[SRAW](../../players/french/sraw.md)|
 
 ### Bracket
 - [Challonge](https://challonge.com/rtaxv7)
