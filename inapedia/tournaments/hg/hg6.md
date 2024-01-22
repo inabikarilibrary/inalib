@@ -16,6 +16,7 @@ Tier: Major
 - All matches are Bo1
 
 ### Standings
+
 |Place|Player|
 |-|-|
 |1st|[as7_9](../../players/japanese/as7_9.md)|

@@ -19,6 +19,7 @@ Tier: Major
   - Bo1
 
 ### Standings
+
 |Place|Player|
 |-|-|
 |1st|[Caleb](../../players/bulgarian/caleb.md)|

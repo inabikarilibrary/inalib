@@ -16,6 +16,7 @@ Tier: Minor
 - All matches are Bo1
 
 ### Standings
+
 |Place|Player|
 |-|-|
 |1st|[Paraly](../../players/japanese/paraly.md)|

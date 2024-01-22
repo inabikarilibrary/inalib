@@ -18,6 +18,7 @@ Tier: Major
 - Bo1
 
 ### Standings
+
 |Place|Player|
 |-|-|
 |1st|[Alexisl](../../players/french/alexisl.md)|

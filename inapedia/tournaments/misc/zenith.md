@@ -20,6 +20,7 @@ Tier: Major
   - Bo1
 
 ### Standings
+
 |Place|Player|
 |-|-|
 |1st|[Lucas](../../players/spanish/lucas.md)|

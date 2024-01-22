@@ -16,6 +16,7 @@ Tier: Major
 - Bo1
 
 ### Standings
+
 |Place|Player|
 |-|-|
 |1st|[Infi](../../players/japanese/infi.md)|
