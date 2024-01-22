@@ -8,7 +8,7 @@ He plays all 3 playstyles at the highest level.
 
 | Date | Place | Tournament | Tier | 
 | - | - | - | - |
-| 07/09/2023 | 1st | [Ragnarok Strikers Xtreme #6](/tournaments/ragna/ragnax6.md) | Major |
+| 07/09/2023 | 1st | [Ragnarok Strikers Xtreme #6](../../tournaments/ragna/ragnax6.md) | Major |
 | 31/08/2023 | 1st | [Hades Garden #5](../../tournaments/hg/hg5.md) | Major |
 | 30/07/2023 | 1st | [Inazuma Eleven Strikers World Cup 2023](../../tournaments/worldcup23.md) | World Cup |
 | 11/06/2023 | 1st | [Ragnarok Strikers Xtreme #5](../../tournaments/ragna/ragnax5.md) | Major |
