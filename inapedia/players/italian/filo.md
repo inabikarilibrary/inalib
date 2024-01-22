@@ -7,7 +7,7 @@ they are considered the best players in Italy.
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
-| 30/07/2023 | 5th | [Inazuma Eleven Strikers World Cup 2023](../../tournaments/worldcup.md) | World Cup |
+| 30/07/2023 | 5th | [Inazuma Eleven Strikers World Cup 2023](../tournaments/worldcup23.md) | World Cup |
 | 24/06/2023 | 5th | [RTAXV5](../../tournaments/rtaxv/rtaxv5.md) | Minor |
 | 11/06/2023 | 5th | [Ragnarok Strikers Xtreme #5](../../tournaments/ragna/ragnax5.md) | Major |
 | 19/05/2023 | 3rd | [RTAXV3](../../tournaments/rtaxv/rtaxv3.md) | Minor |

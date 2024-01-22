@@ -9,7 +9,7 @@ Kinun is a Belgian player, maining Nomash.
 | 06/01/2024 | 9th | [Zenith](../../tournaments/misc/zenith.md) | Major |
 | 19/11/2023 | 9th | [Ragnarok Strikers Xtreme #7](../../tournaments/ragna/ragnax7.md) | Major |
 | 07/09/2023 | 13th | [Ragnarok Strikers Xtreme #6](../../tournaments/ragna/ragnax6.md) | Major |
-| 30/07/2023 | 5th | [Inazuma Eleven Strikers World Cup 2023](../../tournaments/worldcup23.md) | World Cup |
+| 30/07/2023 | 5th | [Inazuma Eleven Strikers World Cup 2023](../tournaments/worldcup23.md) | World Cup |
 | 07/2023 | 7th | [Orfeo Inazuma Strikers World Cup 2023 Warm Up](../../tournaments/misc/orfeowc.md) | Major |
 | 24/06/2023 | 4th | [RTAXV5](../../tournaments/rtaxv/rtaxv5.md) | Minor |
 | 16/06/2023 | 5th | [RTAXV4](../../tournaments/rtaxv/rtaxv4.md) | Minor |

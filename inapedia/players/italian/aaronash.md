@@ -8,7 +8,7 @@ they are considered the best players in Italy.
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
 | 31/08/2023 | 9th | [Hades Garden #5](../../tournaments/hg/hg5.md) | Major |
-| 30/07/2023 | 5th | [Inazuma Eleven Strikers World Cup 2023](../../tournaments/worldcup.md) | World Cup |
+| 30/07/2023 | 5th | [Inazuma Eleven Strikers World Cup 2023](../tournaments/worldcup23.md) | World Cup |
 | 07/2023 | 9th | [Orfeo Inazuma Strikers World Cup 2023 Warm Up](../../tournaments/misc/orfeowc.md) | Major |
 | 11/06/2023 | 13th | [Ragnarok Strikers Xtreme #5](../../tournaments/ragna/ragnax5.md) | Major |
 | 04/05/2023 | 9th | [Ragnarok Strikers Xtreme #4](../../tournaments/ragna/ragnax4.md) | Major |
