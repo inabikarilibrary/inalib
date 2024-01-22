@@ -22,6 +22,20 @@ The tournament was won by **Team Japan**.
 
 ### Standings
 
+<style>
+
+.results th {
+   background: black; }
+
+    .results tr:nth-child(1) { 
+    background: gold; opacity: 0.8 }
+    .results tr:nth-child(2) { background: silver; opacity: 0.8}
+    .results tr:nth-child(3) { background: brown; opacity: 0.8 }
+
+</style>
+
+<div class="results">
+
 | Place | Team | Players |
 | - | - | - |
 | 1st | Japan | [Paraly](../players/japanese/paraly.md) / [Infi](../players/japanese/infi.md) / [Miya](../players/japanese/miya.md) / [as7_9](../players/japanese/as7_9.md) / [Raufuro](../players/japanese/raufuro.md) |
@@ -40,6 +54,8 @@ The tournament was won by **Team Japan**.
 | 13th | Benelux | [KKOJJGSS](../players/dutch/kkojjgss.md) / [Kireo](../players/french/kireo.md) / Nayel / [Noxyne](../players/french/noxyne.md) / [Wawa](../players/luxembourger/wawa.md) |
 | 13th | Eastern Europe | Kemal / [CatalinW](../players/romanian/catalinw.md) / GAMMA24 |
 | 13th | Portugal | Foxi / Kake / Sr. Quax / Xeduh |
+
+</div>
 
 ### Final Bracket
 
