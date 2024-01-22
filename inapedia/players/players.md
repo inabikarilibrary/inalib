@@ -36,11 +36,6 @@
 
 - [Dani11](colombian/dani11.md)
 
-### The Netherlands
-
-- [KKOJJGSS](dutch/kkojjgss.md)
-- [Marcel](dutch/marcel.md)
-
 ### France
 
 - [$elow](french/$elow.md)
@@ -125,4 +120,7 @@
 - [Unaii](spanish/unaii.md)
 - [Yesus0010](spanish/yesus.md)
 
+### The Netherlands
 
+- [KKOJJGSS](dutch/kkojjgss.md)
+- [Marcel](dutch/marcel.md)
