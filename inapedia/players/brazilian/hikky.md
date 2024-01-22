@@ -4,6 +4,7 @@ Hikky is a Brazilian player, maining Chain and Hybrid.
 She is known for her unorthodox playstyle. 
 
 ## Achievements
+
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
 | 30/07/2023 | 9th | [Inazuma Eleven Strikers World Cup 2023](../../tournaments/worldcup23.md) | World Cup |
