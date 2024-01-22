@@ -19,22 +19,22 @@ Tier: Major
 
 |Place|Player|
 |-|-|
-|1st|[Raufuro](../../players/japanese/raufuro.md)|
-|2nd|[Paraly](../../players/japanese/paraly.md)|
-|3rd|[Miya](../../players/japanese/miya.md)|
-|4th|[Haku](../../players/german/haku.md)|
-|5th|[Caleb](../../players/bulgarian/caleb.md)|
-|5th|[Alexisl](../../players/french/alexisl.md)|
-|7th|[Baamsushi](../../players/indonesian/baamsushi.md)|
-|7th|[Zeno](../../players/french/585zeno.md)|
+|1st|[Raufuro](../..//players/japanese/raufuro.md)|
+|2nd|[Paraly](../..//players/japanese/paraly.md)|
+|3rd|[Miya](../..//players/japanese/miya.md)|
+|4th|[Haku](../..//players/german/haku.md)|
+|5th|[Caleb](../..//players/bulgarian/caleb.md)|
+|5th|[Alexisl](../..//players/french/alexisl.md)|
+|7th|[Baamsushi](../..//players/indonesian/baamsushi.md)|
+|7th|[Zeno](../..//players/french/585zeno.md)|
 |9th|[Haze]|
-|9th|[Panda](../../players/brazilian/panda.md)|
-|9th|[SRAW](../../players/french/sraw.md)|
-|9th|[Skipper](../../players/austrian/skipper.md)|
-|13th|[Aaronash](../../players/italian/aaronash.md)|
-|13th|[Chuck Jason](../../players/chinese/chuckjason.md)|
-|13th|[matcha](../../players/chinese/matcha.md)|
-|13th|[Baptiste](../../players/french/baptiste)|
+|9th|[Panda](../..//players/brazilian/panda.md)|
+|9th|[SRAW](../..//players/french/sraw.md)|
+|9th|[Skipper](../..//players/austrian/skipper.md)|
+|13th|[Aaronash](../..//players/italian/aaronash.md)|
+|13th|[Chuck Jason](../..//players/chinese/chuckjason.md)|
+|13th|[matcha](../..//players/chinese/matcha.md)|
+|13th|[Baptiste](../..//players/french/baptiste)|
 
 ### Bracket
 - [Challonge](https://challonge.com/lc8vy45v)

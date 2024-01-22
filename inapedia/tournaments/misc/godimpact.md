@@ -20,22 +20,22 @@ Tier: Major
 ### Standings
 |Place|Player|
 |-|-|
-|1st|[Caleb](../../players/bulgarian/caleb.md)|
-|2nd|[Paraly](../../players/japanese/paraly.md)|
-|3rd|[matcha](../../players/chinese/matcha.md)|
-|4th|[as7_9](../../players/japanese/as7_9.md)|
-|5th|[210aki](../../players/french/210aki.md)|
-|5th|[Chuck Jason](../../players/chinese/chuckjason.md)|
-|7th|[Azyck](../../players/french/azyck.md)|
-|7th|[Kiyara](../../players/chinese/kiyara.md)|
-|9th|[Alexisl](../../players/french/alexisl.md)|
-|9th|[Filo](../../players/italian/filo.md)|
+|1st|[Caleb](../..//players/bulgarian/caleb.md)|
+|2nd|[Paraly](../..//players/japanese/paraly.md)|
+|3rd|[matcha](../..//players/chinese/matcha.md)|
+|4th|[as7_9](../..//players/japanese/as7_9.md)|
+|5th|[210aki](../..//players/french/210aki.md)|
+|5th|[Chuck Jason](../..//players/chinese/chuckjason.md)|
+|7th|[Azyck](../..//players/french/azyck.md)|
+|7th|[Kiyara](../..//players/chinese/kiyara.md)|
+|9th|[Alexisl](../..//players/french/alexisl.md)|
+|9th|[Filo](../..//players/italian/filo.md)|
 |9th|Kaki no Kakki|
-|9th|[Nyl](../../players/uk/nyl.md)|
-|13th|[Giu](../../players/italian/giu.md)|
-|13th|[Haku](../../players/german/haku.md)|
-|13th|[Killian11](../../players/french/killian11.md)|
-|13th|[Selow](../../players/french/$elow.md)|
+|9th|[Nyl](../..//players/uk/nyl.md)|
+|13th|[Giu](../..//players/italian/giu.md)|
+|13th|[Haku](../..//players/german/haku.md)|
+|13th|[Killian11](../..//players/french/killian11.md)|
+|13th|[Selow](../..//players/french/$elow.md)|
 
 ### Bracket
 - [Challonge](https://challonge.com/godimpactstrikers1)

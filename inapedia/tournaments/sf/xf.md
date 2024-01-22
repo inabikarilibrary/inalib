@@ -23,18 +23,18 @@ Tier: Major
 
 |Place|Player|
 |-|-|
-|1st|[Vivi](../../players/french/vivi.md)|
-|2nd|[Infi](../../players/japanese/infi.md)|
-|3rd|[Azyck](../../players/french/azyck.md)|
-|4th|[Noxyne](../../players/french/noxyne.md)|
-|5th|[Haku](../../players/german/haku.md)|
-|5th|[Alexisl](../../players/french/alexisl.md)|
-|7th|[Caleb](../../players/bulgarian/caleb.md)|
+|1st|[Vivi](../..//players/french/vivi.md)|
+|2nd|[Infi](../..//players/japanese/infi.md)|
+|3rd|[Azyck](../..//players/french/azyck.md)|
+|4th|[Noxyne](../..//players/french/noxyne.md)|
+|5th|[Haku](../..//players/german/haku.md)|
+|5th|[Alexisl](../..//players/french/alexisl.md)|
+|7th|[Caleb](../..//players/bulgarian/caleb.md)|
 |7th|Max Tezcat|
 |9th|Espadas|
-|9th|[Kev'nox](../../players/french/kevnox.md)|
-|9th|[nicolau](../../players/brazilian/nicolau.md)|
+|9th|[Kev'nox](../..//players/french/kevnox.md)|
+|9th|[nicolau](../..//players/brazilian/nicolau.md)|
 |9th|Nagashi|
 |13th|Mystery|
-|13th|[Milozaki](../../players/german/milozaki.md)|
+|13th|[Milozaki](../..//players/german/milozaki.md)|
 |13th|SheruZan|

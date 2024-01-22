@@ -18,22 +18,22 @@ Tier: Major
 ### Standings
 | Place | Player |
 | - | - |
-| 1st | [Paraly](../../players/japanese/paraly.md) |
-| 2nd | [Miya](../../players/japanese/miya.md) |
-| 3rd | [Chuck](../../players/china/chuck.md) |
-| 4th | [Eshin](../../players/japanese/eshin.md) | 
-| 5th | [Alexisl](../../players/french/alexisl.md) |
-| 5th | [$elow](../../players/french/$elow.md) | 
-| 7th | [Nyl](../../players/others/nyl.md) |
-| 7th | [Eath](../../players/belgian/eath.md) |
-| 9th | [terewsant](../../players/polish/terewsant.md) |
-| 9th | [Aaronash](../../players/italian/aaronash.md) |
-| 9th | [Haku](../../players/german/haku.md) |
-| 9th | [Pinguin](../../players/french/pinguin.md) |
-| 13th | [Noxyne](../../players/french/noxyne.md) |
-| 13th | [Astral](../../players/french/astral.md) |
-| 13th | [Giu](../../players/italian/giu.md) |
-| 13th | [Kev'nox](../../players/french/kevnox.md) |
+| 1st | [Paraly](../..//players/japanese/paraly.md) |
+| 2nd | [Miya](../..//players/japanese/miya.md) |
+| 3rd | [Chuck](../..//players/china/chuck.md) |
+| 4th | [Eshin](../..//players/japanese/eshin.md) | 
+| 5th | [Alexisl](../..//players/french/alexisl.md) |
+| 5th | [$elow](../..//players/french/$elow.md) | 
+| 7th | [Nyl](../..//players/others/nyl.md) |
+| 7th | [Eath](../..//players/belgian/eath.md) |
+| 9th | [terewsant](../..//players/polish/terewsant.md) |
+| 9th | [Aaronash](../..//players/italian/aaronash.md) |
+| 9th | [Haku](../..//players/german/haku.md) |
+| 9th | [Pinguin](../..//players/french/pinguin.md) |
+| 13th | [Noxyne](../..//players/french/noxyne.md) |
+| 13th | [Astral](../..//players/french/astral.md) |
+| 13th | [Giu](../..//players/italian/giu.md) |
+| 13th | [Kev'nox](../..//players/french/kevnox.md) |
 
 ### Bracket
 - [Challonge](https://challonge.com/ythg4qy3)
