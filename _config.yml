@@ -3,3 +3,5 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 plugins:
 - jekyll-include-cache
+
+classes: wide
