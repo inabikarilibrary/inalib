@@ -1,15 +1,9 @@
 main:
   - title: "Players (Wiki)"
-    url: /inapedia/players.md
+    url: /inapedia/tournamentsmain.html/
   - title: "Tournaments (Wiki)"
-    url: /inalib/inapedia/tournamentsmain.html/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "Pages"
-    url: /page-archive/
-  - title: "Collections"
-    url: /collection-archive/
-  - title: "External Link"
-    url: https://google.com
+    url: /inapedia/tournamentsmain.html/
+  - title: "Fundamentals"
+    url: /guides/fundamentals.hmtl/
+  - title: "Advanced"
+    url: /guides/advanced.html/
