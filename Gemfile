@@ -14,6 +14,7 @@ source "https://rubygems.org"
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 gem "github-pages", group: :jekyll_plugins
 gem 'jekyll-titles-from-headings'
+gem 'jemoji'
 # If you have any plugins, put them here!
 gem "jekyll-include-cache", group: :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
