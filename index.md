@@ -1,4 +1,5 @@
-# Welcome to Inabikari Library! 
+## Welcome to Inabikari Library! 
+
 Here you can find a wiki, guides, strategies and all things competitive Inazuma Eleven Strikers!
 
 
