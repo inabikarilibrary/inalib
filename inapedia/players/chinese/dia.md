@@ -1,6 +1,6 @@
 # Dia
 
-Dia is a Chinese player, maining Nomash. 
+Dia is a Chinese :cn: player, maining Nomash. 
 He is considered the godfather of the Chinese community, 
 and his aggressive yet methodical playstyle is known as the Chinese playstyle,
 which has been adopted by all the other Chinese players.

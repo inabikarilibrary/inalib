@@ -1,6 +1,6 @@
 # Baptiste
 
-Baptiste is a French player, maining Nomash.
+Baptiste is a French :fr: player, maining Nomash.
 
 ## Achievements
 

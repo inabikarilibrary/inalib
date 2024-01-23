@@ -1,6 +1,6 @@
 # Trus7t
 
-Trus7t is an Italian player.
+Trus7t is an Italian :it: player.
 
 ## Achievements
 

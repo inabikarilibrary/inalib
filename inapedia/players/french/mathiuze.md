@@ -1,6 +1,6 @@
 # Mathiuze
 
-Mathiuze is a French player, maining Chain. He is notably one of the few
+Mathiuze is a French :fr: player, maining Chain. He is notably one of the few
 Chain players in France.
 
 ## Achievements

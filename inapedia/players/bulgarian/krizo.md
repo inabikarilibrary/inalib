@@ -1,6 +1,6 @@
 # Krizo
 
-Krizo is a Bulgarian player, maining Nomash.
+Krizo is a Bulgarian :bulgaria: player, maining Nomash.
 
 ## Achievements
 

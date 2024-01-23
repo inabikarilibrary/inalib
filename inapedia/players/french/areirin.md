@@ -1,6 +1,6 @@
 # Areirin
 
-Areirin is a French player, maining Nomash.
+Areirin is a French :fr: player, maining Nomash.
 
 ## Achievements
 

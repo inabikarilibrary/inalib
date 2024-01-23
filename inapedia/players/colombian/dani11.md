@@ -1,6 +1,6 @@
 # Dani11
 
-Dani11 is a Colombian player, maining Nomash.
+Dani11 is a Colombian :colombia: player, maining Nomash.
 
 ## Achievements
 

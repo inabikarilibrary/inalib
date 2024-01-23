@@ -1,6 +1,6 @@
 # Kev'nox
 
-Kev'nox is a French player, maining Nomash.
+Kev'nox is a French :fr: player, maining Nomash.
 
 ## Achievements
 

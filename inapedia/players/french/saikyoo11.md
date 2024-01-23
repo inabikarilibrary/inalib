@@ -1,6 +1,6 @@
 # Saikyoo11
 
-Saikyoo11 is a French player, maining Nomash.
+Saikyoo11 is a French :fr: player, maining Nomash.
 
 ## Achievements
 

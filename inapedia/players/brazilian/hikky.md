@@ -1,6 +1,6 @@
 # Hikky
 
-Hikky is a Brazilian player, maining Chain and Hybrid. 
+Hikky is a Brazilian :brazil: player, maining Chain and Hybrid. 
 She is known for her unorthodox playstyle. 
 
 ## Achievements

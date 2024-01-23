@@ -1,6 +1,6 @@
 # Alexisl
 
-Alexisl is a French player, maining Nomash. 
+Alexisl is a French :fr: player, maining Nomash. 
 He is widely considered as one of the best players in the world.
 
 ## Achievements

@@ -1,6 +1,6 @@
 # Eshin
 
-Eshin is a Japanese player, maining Nomash. 
+Eshin is a Japanese :jp: player, maining Nomash. 
 
 ## Achievements
 

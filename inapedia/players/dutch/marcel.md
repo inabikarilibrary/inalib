@@ -1,6 +1,6 @@
 # Marcel
 
-Marcel is a Dutch player, maining Nomash.
+Marcel is a Dutch :netherlands: player, maining Nomash.
 
 ## Achievements
 

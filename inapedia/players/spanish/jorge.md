@@ -1,6 +1,6 @@
 # Jorge Lorenzo
 
-Jorge Lorenzo is a Spanish player, maining Nomash.
+Jorge Lorenzo is a Spanish :es: player, maining Nomash.
 
 ## Achievements
 

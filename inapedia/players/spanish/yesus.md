@@ -1,6 +1,6 @@
 # Yesus0010
 
-Yesus0010 is a Spanish player, maining Nomash.
+Yesus0010 is a Spanish :es: player, maining Nomash.
 
 ## Achievements
 

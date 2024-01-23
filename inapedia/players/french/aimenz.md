@@ -1,6 +1,6 @@
 # Aimenz
 
-Aimenz is a French player.
+Aimenz is a French :fr: player.
 
 ## Achievements
 

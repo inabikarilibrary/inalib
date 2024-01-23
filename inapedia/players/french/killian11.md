@@ -1,6 +1,6 @@
 # Killian11
 
-Killian11 is a French player from Martinique :martinique:, maining Nomash.
+Killian11 is a French :fr: player from Martinique :martinique:, maining Nomash.
 
 ## Achievements
 

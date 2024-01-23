@@ -1,6 +1,6 @@
 # JiviZz
 
-JiviZz is a French player, maining Nomash.
+JiviZz is a French :fr: player, maining Nomash.
 
 ## Achievements
 

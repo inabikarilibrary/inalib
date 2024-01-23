@@ -1,6 +1,6 @@
 # Kobr3x
 
-Kobr3x is a Polish player, maining Nomash.
+Kobr3x is a Polish :poland: player, maining Nomash.
 
 ## Achievements
 

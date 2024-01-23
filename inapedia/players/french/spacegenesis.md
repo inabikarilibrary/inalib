@@ -1,6 +1,6 @@
 # SpaceGenesis
 
-SpaceGenesis is a French player, maining Nomash.
+SpaceGenesis is a French :fr: player, maining Nomash.
 
 ## Achievements
 

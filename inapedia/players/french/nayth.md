@@ -1,6 +1,6 @@
 # nayth
 
-nayth is a French player, maining Nomash. He was previously known as "Shuu".
+nayth is a French :fr: player, maining Nomash. He was previously known as "Shuu".
 He is considered the godfather of the French playstyle, having pioneered
 the aggressive and dash-heavy Nomash that is the norm in France today.
 

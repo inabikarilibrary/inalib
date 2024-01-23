@@ -1,6 +1,6 @@
 # SRAW
 
-SRAW is a French player, maining Nomash.
+SRAW is a French :fr: player, maining Nomash.
 
 ## Achievements
 

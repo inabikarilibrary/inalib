@@ -1,6 +1,6 @@
 # Rodrift
 
-Rodrift is a Peruvian player, maining Chain. 
+Rodrift is a Peruvian :peru: player, maining Chain. 
 He was previously known by other names, such as Rodbeast or Rodrigo.
 
 ## Achievements

@@ -1,6 +1,6 @@
 # Kireo
 
-Kireo is a French player.
+Kireo is a French :fr: player.
 
 ## Achievements
 

@@ -1,6 +1,6 @@
 # Skipper
 
-Skipper is an Austrian player, maining Nomash. 
+Skipper is an Austrian :austria: player, maining Nomash. 
 
 ## Achievements
 

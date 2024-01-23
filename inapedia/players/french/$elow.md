@@ -1,6 +1,6 @@
 # $elow
 
-$elow is a French player, maining Nomash.
+$elow is a French :fr: player, maining Nomash.
 
 ## Achievements
 

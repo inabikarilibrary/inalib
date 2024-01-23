@@ -1,6 +1,6 @@
 # CatalinW
 
-CatalinW is a Romanian player.
+CatalinW is a Romanian :romania: player.
 
 ## Achievements
 

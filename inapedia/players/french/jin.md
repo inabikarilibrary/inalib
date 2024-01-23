@@ -1,6 +1,6 @@
 # Jin
 
-Jin is a French player.
+Jin is a French :fr: player.
 
 ## Achievements
 

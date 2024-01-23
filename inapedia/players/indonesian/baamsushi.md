@@ -1,6 +1,6 @@
 # Baamsushi
 
-Baamsushi is an Indonesian player, maining Chain. 
+Baamsushi is an Indonesian :indonesia: player, maining Chain. 
 
 ## Achievements
 

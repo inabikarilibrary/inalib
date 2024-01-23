@@ -1,6 +1,6 @@
 # Unaii
 
-Unaii is a Spanish player, maining Nomash.
+Unaii is a Spanish :es: player, maining Nomash.
 
 ## Achievements
 

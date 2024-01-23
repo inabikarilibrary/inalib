@@ -1,6 +1,6 @@
 # Cherry
 
-Cherry is a French player, maining Nomash.
+Cherry is a French :fr: player, maining Nomash.
 
 ## Achievements
 

@@ -1,6 +1,6 @@
 # Caleb
 
-Caleb is a Bulgarian player, maining all 3 playstyles.
+Caleb is a Bulgarian :bulgaria: player, maining all 3 playstyles.
 
 ## Achievements
 

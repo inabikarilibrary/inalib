@@ -1,6 +1,6 @@
 # KKOJJGSS
 
-KKOJJGSS is a Dutch player, maining Nomash.
+KKOJJGSS is a Dutch :netherlands: player, maining Nomash.
 
 ## Achievements
 

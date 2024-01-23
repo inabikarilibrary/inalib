@@ -1,6 +1,6 @@
 # Chuck Jason
 
-Chuck Jason is a Chinese (Hong Kong) player, maining Nomash.
+Chuck Jason is a Chinese (Hong Kong) :cn::hong_kong: player, maining Nomash.
 
 ## Achievements
 

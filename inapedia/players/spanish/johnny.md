@@ -1,6 +1,6 @@
 # Johnny
 
-Johnny is a Spanish player, maining Nomash.
+Johnny is a Spanish :es: player, maining Nomash.
 
 ## Achievements
 

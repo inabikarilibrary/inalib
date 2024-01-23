@@ -1,6 +1,6 @@
 # Pinguin
 
-Pinguin is a French player, maining Nomash.
+Pinguin is a French :fr: player, maining Nomash.
 
 ## Achievements
 

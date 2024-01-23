@@ -1,6 +1,6 @@
 # Noxyne
 
-Noxyne is a French player, maining Nomash.
+Noxyne is a French :fr: player, maining Nomash.
 
 ## Achievements
 

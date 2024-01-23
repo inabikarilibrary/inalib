@@ -1,6 +1,6 @@
 # Koro
 
-Koro is a French player, maining Nomash.
+Koro is a French :fr: player, maining Nomash.
 
 ## Achievements
 

@@ -1,6 +1,6 @@
 # Abdel
 
-Abdel is a French player, maining Chain.
+Abdel is a French :fr: player, maining Chain.
 
 ## Achievements
 

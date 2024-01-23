@@ -1,6 +1,6 @@
 # Zuky
 
-Zuky is a German player, maining Chain. He was previously known as "Kaito".
+Zuky is a German :de: player, maining Chain. He was previously known as "Kaito".
 
 ## Achievements
 

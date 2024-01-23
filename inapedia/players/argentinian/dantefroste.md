@@ -1,6 +1,6 @@
 # Dante Froste
 
-Dante Froste is an Argentinian player, maining Chain. 
+Dante Froste is an Argentinian :argentina: player, maining Chain. 
 
 ## Achievements
 

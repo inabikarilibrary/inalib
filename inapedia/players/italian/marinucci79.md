@@ -1,6 +1,6 @@
 # marinucci79
 
-marinucci79 is an Italian player, maining Nomash.
+marinucci79 is an Italian :it: player, maining Nomash.
 
 ## Achievements
 

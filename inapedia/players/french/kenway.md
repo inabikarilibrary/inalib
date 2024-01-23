@@ -1,6 +1,6 @@
 # Kenway
 
-Kenway is a French player. He was a well-known French community manager, 
+Kenway is a French :fr: player. He was a well-known French community manager, 
 having organized the community's biggest events such as the 2021 and 2023 World Cups.
 
 ## Achievements

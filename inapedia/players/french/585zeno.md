@@ -1,6 +1,6 @@
 # 585zeno
 
-585zeno is a French player, maining Nomash.
+585zeno is a French :fr: player, maining Nomash.
 
 ## Achievements
 

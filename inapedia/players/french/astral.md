@@ -1,6 +1,6 @@
 # Astral
 
-Astral is a French player, maining Nomash.
+Astral is a French :fr: player, maining Nomash.
 
 ## Achievements
 

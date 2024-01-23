@@ -1,6 +1,6 @@
 # Kiyara 
 
-Kiyara is a Chinese player, maining Nomash.
+Kiyara is a Chinese :cn: player, maining Nomash.
 
 ## Achievements
 

@@ -1,6 +1,6 @@
 # Luxie
 
-Luxie is a Belgian player, maining Chain.
+Luxie is a Belgian :belgium: player, maining Chain.
 
 ## Achievements
 

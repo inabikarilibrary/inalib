@@ -1,6 +1,6 @@
 # terewsant
 
-terewsant is a Polish player, maining Nomash.
+terewsant is a Polish :poland: player, maining Nomash.
 
 ## Achievements
 

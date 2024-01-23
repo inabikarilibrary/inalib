@@ -1,6 +1,6 @@
 # Raufuro
 
-Raufuro is a Japanese player, maining all 3 playstyles.
+Raufuro is a Japanese :jp: player, maining all 3 playstyles.
 
 ## Achievements
 

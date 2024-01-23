@@ -1,6 +1,6 @@
 # Panda
 
-Panda is a Brazilian player, maining Nomash
+Panda is a Brazilian :brazil: player, maining Nomash
 
 ## Achievements
 

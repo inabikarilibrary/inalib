@@ -1,6 +1,6 @@
 # Rai
 
-Rai is a Japanese player, maining Nomash.
+Rai is a Japanese :jp: player, maining Nomash.
 
 ## Achievements
 

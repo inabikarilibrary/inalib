@@ -1,6 +1,6 @@
 # Paraly
 
-Paraly is a Japanese player. 
+Paraly is a Japanese :jp: player. 
 He is widely considered to be one of, if not the best player of all time. 
 He plays all 3 playstyles at the highest level. 
 

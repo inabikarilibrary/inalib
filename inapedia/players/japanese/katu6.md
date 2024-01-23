@@ -1,6 +1,6 @@
 # katu6
 
-katu6 is a Japanese player, maining Chain.
+katu6 is a Japanese :jp: player, maining Chain.
 
 ## Achievements
 

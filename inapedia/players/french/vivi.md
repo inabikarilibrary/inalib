@@ -1,6 +1,6 @@
 # Vivi
 
-Vivi is a French player, maining Nomash. He was previously known as "Hiro".
+Vivi is a French :fr: player, maining Nomash. He was previously known as "Hiro".
 He is known as one of the best French players in history,
 as well as the first non-Japanese to have ever won a [tournament](../../tournaments/sf/sf5.md) in which a
 top Japanese player was participating.

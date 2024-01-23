@@ -1,6 +1,6 @@
 # Braxou
 
-Braxou is a French player, maining Nomash.
+Braxou is a French :fr: player, maining Nomash.
 
 ## Achievements
 

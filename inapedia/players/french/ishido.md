@@ -1,6 +1,6 @@
 # Ishido
 
-Ishido is a French player, maining Nomash.
+Ishido is a French :fr: player, maining Nomash.
 
 ## Achievements
 

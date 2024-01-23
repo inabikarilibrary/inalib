@@ -1,6 +1,6 @@
 # Giu
 
-Giu is an Italian player, maining Chain.
+Giu is an Italian :it: player, maining Chain.
 
 ## Achievements
 

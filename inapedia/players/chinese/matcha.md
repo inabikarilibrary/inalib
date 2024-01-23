@@ -1,6 +1,6 @@
 # matcha
 
-matcha is a Chinese (Hong Kong) player, maining Nomash.
+matcha is a Chinese (Hong Kong) :cn::hong_kong: player, maining Nomash.
 
 ## Achievements
 

@@ -1,6 +1,6 @@
 # nicolau
 
-nicolau is a Brazilian player, maining Nomash.
+nicolau is a Brazilian :brazil: player, maining Nomash.
 
 ## Achievements
 

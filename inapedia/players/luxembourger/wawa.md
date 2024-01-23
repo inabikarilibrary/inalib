@@ -1,6 +1,6 @@
 # Wawa
 
-Wawa is a Luxembourger player, maining Nomash.
+Wawa is a Luxembourger :luxembourg: player, maining Nomash.
 
 ## Achievements
 
