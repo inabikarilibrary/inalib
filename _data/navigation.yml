@@ -1,8 +1,8 @@
 main:
-  - title: "Players (Competitive)"
-    url: /inapedia/players.md/
-  - title: "Posts"
-    url: /year-archive/
+  - title: "Players (Wiki)"
+    url: /inapedia/players.md
+  - title: "Tournaments (Wiki)"
+    url: /inalib/inapedia/tournamentsmain.html/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
