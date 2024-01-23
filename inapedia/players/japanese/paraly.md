@@ -1,8 +1,8 @@
 # Paraly
 
-Paraly is a Japanese :jp: player. 
-He is widely considered to be one of, if not the best player of all time. 
-He plays all 3 playstyles at the highest level. 
+Paraly is a Japanese :jp: player, maining all 3 playstyles. 
+As the most decorated player in the scene's history, he is widely considered to be the best player of all time. 
+His rivalry with [Miya](miya.md) characterized an era of dominance between the two.
 
 ## Achievements
 

@@ -2,7 +2,8 @@
 
 Miya is a Japanese :jp: player, maining Nomash.
 His gameplay is characterized by his aggression and speed. 
-He was considered one of the strongest players in the world at for a long period of time.
+He was considered one of the strongest players in the world for a long period of time.
+His rivalry with [Paraly](paraly.md) characterized an era of dominance between the two.
 
 ## Achievements
 

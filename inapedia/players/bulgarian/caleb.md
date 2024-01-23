@@ -1,6 +1,8 @@
 # Caleb
 
 Caleb is a Bulgarian :bulgaria: player, maining all 3 playstyles.
+He is known for playing unorthodox characters 
+and pioneered many notable strategies, such as the Shindou Opening and Kirafi Spam.
 
 ## Achievements
 

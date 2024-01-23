@@ -1,6 +1,8 @@
 # Lucas
 
-Lucas is a Spanish :es: player, maining Nomash.
+Lucas is a Spanish :es: player, maining Nomash. 
+His 1st place finish at [ZENITH 2](../../tournaments/misc/zenith2.md) marked him the first ever
+Spanish player to win a Major.
 
 ## Achievements
 

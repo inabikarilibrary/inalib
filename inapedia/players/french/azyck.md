@@ -1,7 +1,8 @@
 # Azyck
 
-Azyck is a French :fr: player, maining Nomash.
+Azyck is a French/Turkish :fr::tr: player, maining Nomash.
 He is often considered one of the best players in the world.
+His playstyle is characteristic of the aggressive French style.
 
 ## Achievements
 

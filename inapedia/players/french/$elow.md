@@ -1,6 +1,7 @@
 # $elow
 
 $elow is a French :fr: player, maining Nomash.
+His playstyle is characteristic of the aggressive French style.
 
 ## Achievements
 

@@ -1,6 +1,7 @@
 # Chuck Jason
 
 Chuck Jason is a Chinese (Hong Kong) :cn::hong_kong: player, maining Nomash.
+Like the other Chinese players, his nomash style is fast and aggressive.
 
 ## Achievements
 

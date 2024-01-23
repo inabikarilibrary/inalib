@@ -1,7 +1,8 @@
 # Hikky
 
 Hikky is a Brazilian :brazil: player, maining Chain and Hybrid. 
-She is known for her unorthodox playstyle. 
+She is known for her unorthodox playstyle and strategies.
+She is also a prominent leader and content creator in the Brazilian community.
 
 ## Achievements
 

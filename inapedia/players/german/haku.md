@@ -1,7 +1,8 @@
 # Haku
 
 Haku is a German :de: player, maining all 3 playstyles. 
-He is a well known content creator within the competitive scene.
+He is one of the few remaining Side Nomash players.
+He is also a well known content creator within the competitive scene.
 
 ## Achievements
 

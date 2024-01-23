@@ -1,6 +1,7 @@
 # Kiyara 
 
 Kiyara is a Chinese :cn: player, maining Nomash.
+Like the other Chinese players, his nomash style is fast and aggressive.
 
 ## Achievements
 

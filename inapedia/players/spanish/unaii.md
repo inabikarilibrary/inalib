@@ -1,6 +1,8 @@
 # Unaii
 
 Unaii is a Spanish :es: player, maining Nomash.
+He notably upset [Vivi](french/vivi.md) at the [2023 World Cup](../../tournaments/worldcup23.md), 
+putting Spain on the map for the first time in the Strikers scene.
 
 ## Achievements
 

@@ -2,6 +2,7 @@
 
 Rodrift is a Peruvian :peru: player, maining Chain. 
 He was previously known by other names, such as Rodbeast or Rodrigo.
+With his notorious signature Shindou, he was arguably one of the best Chainers during his active days.
 
 ## Achievements
 

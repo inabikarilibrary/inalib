@@ -1,6 +1,7 @@
 # Raufuro
 
 Raufuro is a Japanese :jp: player, maining all 3 playstyles.
+He is notable for always playing in the Ogre Stadium.
 
 ## Achievements
 

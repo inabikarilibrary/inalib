@@ -1,6 +1,7 @@
 # Dani11
 
 Dani11 is a Colombian :colombia: player, maining Nomash.
+He is also involved as a modder, with his most notable mod arguably being the English patch.
 
 ## Achievements
 

@@ -2,6 +2,7 @@
 
 Alexisl is a French :fr: player, maining Nomash. 
 He is widely considered as one of the best players in the world.
+His playstyle is characteristic of the aggressive French style.
 
 ## Achievements
 

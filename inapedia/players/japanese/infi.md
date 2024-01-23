@@ -1,7 +1,7 @@
 # Infi
 
 Infi is a Japanese :jp: player. 
-He is known for his slow and methodical playstyle, and is often considered as one of the best players in the world.
+He is known for his slow and methodical playstyle, and is often considered as one of the best players in the world. 
 
 ## Achievements
 

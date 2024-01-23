@@ -1,6 +1,8 @@
 # matcha
 
 matcha is a Chinese (Hong Kong) :cn::hong_kong: player, maining Nomash.
+Like the other Chinese players, his nomash style is fast and aggressive.
+He also happens to be proficient with Chain and Hybrid.
 
 ## Achievements
 
