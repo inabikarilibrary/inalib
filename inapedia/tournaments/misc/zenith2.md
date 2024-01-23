@@ -1,6 +1,6 @@
-# Zenith
+# ZENITH 2
 
-Zenith was a tournament held in the IE GO Strikers 2013 discord server.
+ZENITH 2 was a tournament held in the IE GO Strikers 2013 discord server.
 60 players participated.
 
 Tier: Major

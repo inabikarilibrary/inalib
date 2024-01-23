@@ -7,12 +7,13 @@ He is widely considered as one of the best players in the world.
 
 | Date | Place | Tournament | Tier |
 | - | - | - | - |
-| 06/01/2024 | 2nd | [Zenith](../../tournaments/misc/zenith.md) | Major |
+| 06/01/2024 | 2nd | [ZENITH 2](../../tournaments/misc/zenith2.md) | Major |
 | 19/11/2023 | 4th | [Ragnarok Strikers Xtreme #7](../../tournaments/ragna/ragnax7.md) | Major |
-| 08/2023 | 5th | [RTAXV7](../../tournaments/rtaxv/rtaxv7.md) | Minor |
+| 29/10/2023 | 5th | [ZENITH](../../tournaments/misc/zenith1.md) | Major |
 | 06/10/2023 | 3rd | [Hades Garden #6](../../tournaments/hg/hg6.md) | Major |
 | 07/09/2023 | 4th | [Ragnarok Strikers Xtreme #6](../../tournaments/ragna/ragnax6.md) | Major
 | 31/08/2023 | 5th | [Hades Garden #5](../../tournaments/hg/hg5.md) | Major |
+| 08/2023 | 5th | [RTAXV7](../../tournaments/rtaxv/rtaxv7.md) | Minor |
 | 30/07/2023 | 2nd | [Inazuma Eleven Strikers World Cup 2023](../../tournaments/worldcup23.md) | World Cup |
 | 07/2023 | 1st | [Orfeo Inazuma Strikers World Cup 2023 Warm Up](../../tournaments/misc/orfeowc.md) | Major |
 | 24/06/2023 | 2nd | [RTAXV5](../../tournaments/rtaxv/rtaxv5.md) | Minor |
