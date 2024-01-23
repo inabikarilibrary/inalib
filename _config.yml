@@ -6,3 +6,11 @@ plugins:
 
 minimal_mistakes_skin: "sunrise"
 # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
