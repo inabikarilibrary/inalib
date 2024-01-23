@@ -27,7 +27,7 @@ Tier: Major
 |4th|[as7_9](../../players/japanese/as7_9.md) :jp:|
 |5th|[210aki](../../players/french/210aki.md) :fr:|
 |5th|[Chuck Jason](../../players/chinese/chuckjason.md) :cn:|
-|7th|[Azyck](../../players/french/azyck.md) :fr:|
+|7th|[Azyck](../../players/french/azyck.md) :fr::tr:|
 |7th|[Kiyara](../../players/chinese/kiyara.md) :cn:|
 |9th|[Alexisl](../../players/french/alexisl.md) :fr:|
 |9th|[Filo](../../players/italian/filo.md) :it:|
@@ -36,7 +36,7 @@ Tier: Major
 |13th|[Giu](../../players/italian/giu.md) :it:|
 |13th|[Haku](../../players/german/haku.md) :de:|
 |13th|[Killian11](../../players/french/killian11.md) :fr:|
-|13th|[Selow](../../players/french/$elow.md) :fr:|
+|13th|[Selow](../../players/french/$elow.md) :fr::tr:|
 
 ### Bracket
 - [Challonge](https://challonge.com/godimpactstrikers1)

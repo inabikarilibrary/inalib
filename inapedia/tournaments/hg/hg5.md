@@ -24,7 +24,7 @@ Tier: Major
 |:3rd_place_medal: 3rd | [Chuck](../../players/chinese/chuck.md) |
 | 4th | [Eshin](../../players/japanese/eshin.md) :jp: | 
 | 5th | [Alexisl](../../players/french/alexisl.md) :fr: |
-| 5th | [$elow](../../players/french/$elow.md) :fr: | 
+| 5th | [$elow](../../players/french/$elow.md) :fr::tr: | 
 | 7th | Nyl |
 | 7th | [Eath](../../players/belgian/eath.md) :belgium: |
 | 9th | [terewsant](../../players/polish/terewsant.md) :poland: |

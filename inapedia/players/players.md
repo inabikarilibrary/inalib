@@ -59,6 +59,8 @@
 - [Kireo](french/kireo.md)
 - [Koro](french/koro.md)
 - [Mathiuze](french/mathiuze.md)
+- [Max Tezcat](french/maxtezcat.md)
+- [Nagashi](french/nagashi.md)
 - [nayth](french/nayth.md)
 - [Noxyne](french/noxyne.md)
 - [Pinguin](french/pinguin.md)

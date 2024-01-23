@@ -24,7 +24,7 @@ Tier: Minor
 |-|-|
 |:1st_place_medal: 1st|[Vivi](../../players/french/vivi.md) :fr:|
 |:2nd_place_medal: 2nd|[Alexisl](../../players/french/alexisl.md) :fr:|
-|:3rd_place_medal: 3rd|[Azyck](../../players/french/azyck.md) :fr:|
+|:3rd_place_medal: 3rd|[Azyck](../../players/french/azyck.md) :fr::tr:|
 |4th|AlphaSky|
 |5th|[Luxie](../../players/french/luxie.md)|
 |5th|[matcha](../../players/chinese/matcha.md) :cn:|

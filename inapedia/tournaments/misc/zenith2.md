@@ -28,7 +28,7 @@ Tier: Major
 |:3rd_place_medal: 3rd|[Unai](../../players/spanish/unaii.md) :es:|
 |4th|[Kev](../../players/french/kevnox.md) :fr:|
 |5th|[Baamsushi](../../players/indonesian/baamsushi.md) :indonesia:|
-|5th|[Selow](../../players/french/$elow.md) :fr:|
+|5th|[Selow](../../players/french/$elow.md) :fr::tr:|
 |7th|[Johnny](../../players/spanish/johnny.md) :es:|
 |7th|[Jorge](../../players/spanish/jorge.md) :es:|
 |9th|[Eath](../../players/belgian/eath.md) :belgium:|

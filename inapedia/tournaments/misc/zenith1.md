@@ -19,9 +19,9 @@ Tier: Major
 |Place|Player|
 |-|-|
 |:1st_place_medal: 1st|[Noxyne](../../players/french/noxyne.md) :fr:|
-|:2nd_place_medal: 2nd|[Azyck](../../players/french/azyck.md) :fr:|
+|:2nd_place_medal: 2nd|[Azyck](../../players/french/azyck.md) :fr::tr:|
 |:3rd_place_medal: 3rd|[Haku](../../players/german/haku.md) :de:|
-|:3rd_place_medal: 3rd|[$elow](../../players/french/$elow.md) :fr:|
+|:3rd_place_medal: 3rd|[$elow](../../players/french/$elow.md) :fr::tr:|
 |5th|[Alexisl](../../players/french/alexisl.md) :fr:|
 |5th|[Caleb](../../players/bulgarian/caleb.md) :bulgaria:|
 |5th|[Johnny](../../players/spanish/johnny.md) :es:|

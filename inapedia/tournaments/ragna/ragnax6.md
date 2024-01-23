@@ -26,7 +26,7 @@ Tier: Major
 |5th|[Eshin](../../players/japanese/eshin.md) :jp:|
 |5th|[Eath](../../players/belgian/eath.md) :belgium:|
 |7th|[matcha](../../players/chinese/matcha.md) :cn:|
-|7th|[$elow](../../players/french/$elow.md) :fr:|
+|7th|[$elow](../../players/french/$elow.md) :fr::tr:|
 |9th|[Baamsushi](../../players/indonesian/baamsushi.md) :indonesia:|
 |9th|[Yesus0010](../../players/spanish/yesus.md) :es:|
 |9th|[Noxyne](../../players/french/noxyne.md) :fr:|

@@ -27,7 +27,7 @@ Tier: Major
 |:3rd_place_medal: 3rd|[Dani11](../../players/colombian/dani11.md) :colombia:|
 |4th|[Kinun](../../players/belgian/kinun.md) :belgium:|
 |5th|[Mathiuze](../../players/french/mathiuze.md) :fr:|
-|5th|[Azyck](../../players/french/azyck.md) :fr:|
+|5th|[Azyck](../../players/french/azyck.md) :fr::tr:|
 |5th|[Baamsushi](../../players/indonesian/baamsushi.md) :indonesia:|
 |5th|[Luxie](../../players/belgian/luxie.md) :belgium:|
 |9th|[Aimenz](../../players/french/aimenz.md) :fr:|
@@ -37,7 +37,7 @@ Tier: Major
 |9th|[Jin](../../players/french/jin.md) :fr:|
 |9th|[CatalinW](../../players/romanian/catalinw.md) :romania:|
 |9th|[Liyo](../../players/french/koro.md) :fr:|
-|9th|[Selow](../../players/french/$elow.md) :fr:|
+|9th|[Selow](../../players/french/$elow.md) :fr::tr:|
 
 ### Bracket
 - [Challonge](https://challonge.com/fr/holyroad)

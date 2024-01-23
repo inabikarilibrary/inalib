@@ -23,7 +23,7 @@ Tier: Major
 |-|-|
 |:1st_place_medal: 1st|[Alexisl](../../players/french/alexisl.md) :fr:|
 |:2nd_place_medal: 2nd|[Infi](../../players/japanese/infi.md) :jp:|
-|:3rd_place_medal: 3rd|[Azyck](../../players/french/azyck.md) :fr:|
+|:3rd_place_medal: 3rd|[Azyck](../../players/french/azyck.md) :fr::tr:|
 |4th|[Eath](../../players/belgian/eath.md) :belgium:|
 |5th|[Haku](../../players/german/haku.md) :de:|
 |5th|[Baptiste](../../players/french/baptiste.md) :fr:|
@@ -32,7 +32,7 @@ Tier: Major
 |9th|[Aaronash](../../players/italian/aaronash.md) :it:|
 |9th|[as7_9](../../players/japanese/as7_9.md) :jp:|
 |9th|[Milozaki](../../players/german/milozaki.md) :de:|
-|9th|[$elow](../../players/french/$elow.md) :fr:|
+|9th|[$elow](../../players/french/$elow.md) :fr::tr:|
 |9th|[Sr Panda](../../players/brazilian/panda.md) :brazil:|
 |9th|[Yesus0010](../../players/spanish/yesus.md) :es:|
 |9th|[Jorge Lorenzo](../../players/spanish/jorge.md) :es:|

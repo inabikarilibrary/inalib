@@ -24,7 +24,7 @@ Tier: Major
 |:3rd_place_medal: 3rd|[Nayth](../../players/french/nayth.md) :fr:|
 |4th|[Vivi](../../players/french/vivi.md) :fr:|
 |5th|[Kiyara](../../players/chinese/kiyara.md) :cn:|
-|5th|[$elow](../../players/french/$elow.md) :fr:|
+|5th|[$elow](../../players/french/$elow.md) :fr::tr:|
 |7th|[Cherry](../../players/french/cherry.md) :fr:|
 |7th|Panbazou|
 |9th|[Mathiuze](../../players/french/mathiuze.md) :fr:|

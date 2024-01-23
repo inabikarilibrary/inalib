@@ -30,10 +30,10 @@ Tier: Major
 |9th|[KobreX](../../players/polish/kobr3x.md) :poland:|
 |9th|[Dani11](../../players/colombian/dani11.md) :colombia:|
 |9th|[Raufuro](../../players/japanese/raufuro.md) :jp:|
-|9th|[Azyck](../../players/french/azyck.md) :fr:|
+|9th|[Azyck](../../players/french/azyck.md) :fr::tr:|
 |13th|[Skipper](../../players/austrian/skipper.md) :austria:|
 |13th|[Hikky](../../players/brazilian/hikky.md) :brazil:|
-|13th|[$elow](../../players/french/$elow.md) :fr:|
+|13th|[$elow](../../players/french/$elow.md) :fr::tr:|
 |13th|[Baptiste](../../players/french/baptiste.md) :fr:|
 
 ### Bracket

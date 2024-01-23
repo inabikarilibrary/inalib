@@ -22,7 +22,7 @@ Tier: Minor
 
 |Place|Player|
 |-|-|
-|:1st_place_medal: 1st|[$elow](../../players/french/$elow.md) :fr:|
+|:1st_place_medal: 1st|[$elow](../../players/french/$elow.md) :fr::tr:|
 |:2nd_place_medal: 2nd|Nyl|
 |:3rd_place_medal: 3rd|[Filo](../../players/italian/filo.md) :it:|
 |4th|[Kinun](../../players/belgian/kinun.md) :belgium:|

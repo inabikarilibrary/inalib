@@ -23,7 +23,7 @@ Tier: Major
 |:2nd_place_medal: 2nd|[Alexisl](../../players/french/alexisl.md) :fr:|
 |:3rd_place_medal: 3rd|[Vivi](../../players/french/vivi.md) :fr:|
 |4th|[Luxie](../../players/belgian/luxie.md) :belgium:|
-|5th|[Azyck](../../players/french/azyck.md) :fr:|
+|5th|[Azyck](../../players/french/azyck.md) :fr::tr:|
 |5th|[Noxyne](../../players/french/noxyne.md) :fr:|
 |5th|[Baptiste](../../players/french/baptiste.md) :fr:|
 |9th|[Abdel](../../players/french/abdel.md) :fr:|
@@ -33,7 +33,7 @@ Tier: Major
 |9th|[Hikky](../../players/brazilian/hikky.md) :brazil:|
 |9th|[Pinguin](../../players/french/pinguin.md) :fr:|
 |9th|[Trus7t](../../players/italian/trus7t.md) :it:|
-|9th|[$elow](../../players/french/$elow.md) :fr:|
+|9th|[$elow](../../players/french/$elow.md) :fr::tr:|
 
 ### Bracket
 - [Challonge](https://challonge.com/holyroad2)

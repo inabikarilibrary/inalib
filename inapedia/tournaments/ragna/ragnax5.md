@@ -25,7 +25,7 @@ Tier: Major
 |4th|[Haku](../../players/german/haku.md) :de:|
 |5th|[Chuck Jason](../../players/chinese/chuckjason.md) :cn:|
 |5th|[filo](../../players/italian/filo.md) :it:|
-|7th|[$elow](../../players/french/$elow.md) :fr:|
+|7th|[$elow](../../players/french/$elow.md) :fr::tr:|
 |7th|[Kev'nox](../../players/french/kevnox.md) :fr:|
 |9th|[Baamsushi](../../players/indonesian/baamsushi.md) :indonesia:|
 |9th|[Skipper](../../players/austrian/skipper.md) :austria:|
