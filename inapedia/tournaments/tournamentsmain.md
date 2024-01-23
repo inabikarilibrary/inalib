@@ -13,5 +13,7 @@
 - [RTAXV](rtaxv/rtaxvmain.md)
   
 - [Strikers Frontier](sf/sfmain.md)
+
+- [Shadow Xtreme Strikers](shadow/shadowmain.md)
   
 - [Miscellaneous](misc/miscmain.md)
