@@ -21,7 +21,7 @@ Tier: Major
 | - | - |
 | 1st | [Paraly](../../players/japanese/paraly.md) |
 | 2nd | [Miya](../../players/japanese/miya.md) |
-| 3rd | [Chuck](../../players/china/chuck.md) |
+| 3rd | [Chuck](../../players/chinese/chuck.md) |
 | 4th | [Eshin](../../players/japanese/eshin.md) | 
 | 5th | [Alexisl](../../players/french/alexisl.md) |
 | 5th | [$elow](../../players/french/$elow.md) | 
