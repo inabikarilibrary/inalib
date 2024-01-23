@@ -14,3 +14,5 @@ Giu is an Italian :it: player, maining Chain.
 | 04/05/2023 | 9th | [Ragnarok Strikers Xtreme #4](../../tournaments/ragna/ragnax4.md) | Major |
 | 05/2023 | 13th | [God Impact](../../tournaments/misc/godimpact.md) | Major |
 | 04/03/2023 | 5th | [RTAXV2](../../tournaments/rtaxv/rtaxv2.md) | Minor |
+| 04/02/2023 | 5th | [Shadow Xtreme Strikers #3](../../tournaments/shadow/shadow3.md) | Minor |
+| 13/01/2023 | 4th | [Shadow Xtreme Strikers #2](../../tournaments/shadow/shadow2.md) | Minor |

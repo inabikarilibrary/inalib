@@ -13,7 +13,9 @@ Noxyne is a French :fr: player, maining Nomash.
 | 31/08/2023 | 13th | [Hades Garden #5](../../tournaments/hg/hg5.md) | Major |
 | 08/2023 | 4th | [RTAXV7](../../tournaments/rtaxv/rtaxv7.md) | Major |
 | 11/02/2023 | 4th | [Xtreme Frontier](../../tournaments/sf/xf.md) | Major |
+| 13/01/2023 | 5th | [Shadow Xtreme Strikers #2](../../tournaments/shadow/shadow2.md) | Minor |
 | 01/2023 | 5th | [RTAXV1](../../tournaments/rtaxv/rtaxv1.md) | Minor |
+| 08/10/2022 | 5th | [Shadow Xtreme Strikers #1](../../tournaments/shadow/shadow1.md) | Minor |
 | 02/10/2022 | 5th | [Ragnarok Strikers Xtreme #1](../../tournaments/ragna/ragnax1.md) | Major |
 | 16/09/2022 | 5th | [Area Holy Road #2](../../tournaments/misc/holyroad2.md) | Major |
 | 24/07/2022 | 7th | [Ragnarok Strikers #5](../../tournaments/ragna/ragna5.md) | Major |

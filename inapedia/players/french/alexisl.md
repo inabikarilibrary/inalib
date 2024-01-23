@@ -25,8 +25,11 @@ His playstyle is characteristic of the aggressive French style.
 | 04/03/2023 |:2nd_place_medal: 2nd | [RTAXV2](../../tournaments/rtaxv/rtaxv2.md) | Minor |
 | 21/02/2023 | 5th | [Ragnarok Strikers Xtreme #3](../../tournaments/ragna/ragnax3.md) | Minor |
 | 11/02/2023 | 5th | [Xtreme Frontier](../../tournaments/sf/xf.md) | Major |
+| 04/02/2023 |:1st_place_medal: 1st | [Shadow Xtreme Strikers #3](../../tournaments/shadow/shadow3.md) | Minor |
+| 13/01/2023 |:1st_place_medal: 1st | [Shadow Xtreme Strikers #2](../../tournaments/shadow/shadow2.md) | Minor |
 | 01/2023 |:2nd_place_medal: 2nd | [RTAXV1](../../tournaments/rtaxv/rtaxv1.md) | Minor|
 | 04/12/2022 | 5th | [Ragnarok Strikers Xtreme #2](../../tournaments/ragna/ragnax2.md) | Major |
+| 08/10/2022 | 4th | [Shadow Xtreme Strikers #1](../../tournaments/shadow/shadow1.md) | Minor |
 | 02/10/2022 | 7th | [Ragnarok Strikers Xtreme #1](../../tournaments/ragna/ragnax1.md) | Major |
 | 16/09/2022 |:2nd_place_medal: 2nd | [Area Holy Road #2](../../tournaments/misc/holyroad2.md) | Major | 
 | 24/07/2022 | 9th | [Ragnarok Strikers #5](../../tournaments/ragna/ragna5.md) | Major |

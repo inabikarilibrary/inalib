@@ -22,7 +22,7 @@ Tier: Minor
 |:1st_place_medal:1st|[Alexisl](../../players/french/alexisl.md) :fr:|
 |:2nd_place_medal:2nd|[Azyck](../../players/french/azyck.md) :fr::tr:|
 |:3rd_place_medal:3rd|[Sraw](../../players/french/sraw.md) :fr:|
-|4th|[Giu](../../players/italian/giu.md.md) :it:|
+|4th|[Giu](../../players/italian/giu.md) :it:|
 |5th|[Noxyne](../../players/french/noxyne.md) :fr:|
 |5th|Gioxxo :it:
 |7th|Max Tezcat
