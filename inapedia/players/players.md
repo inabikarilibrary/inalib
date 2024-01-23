@@ -1,42 +1,42 @@
 # List of Players by Country
 
-### Argentina
+### Argentina :argentina:
 
 - [Dante Froste](argentinian/dantefroste.md)
 
-### Austria
+### Austria :austria:
 
 - [Skipper](austrian/skipper.md)
 
-### Belgium
+### Belgium :belgium:
 
 - [Eath](belgian/eath.md)
 - [Kinun](belgian/kinun.md)
 - [Luxie](belgian/luxie.md)
 
-### Brazil
+### Brazil :brazil:
 
 - [Hikky](brazilian/hikky.md)
 - [nicolau](brazilian/nicolau.md)
 - [Panda](brazilian/panda.md)
 
-### Bulgaria
+### Bulgaria :bulgaria:
 
 - [Caleb](bulgarian/caleb.md)
 - [Krizo](bulgarian/krizo.md)
 
-### China
+### China :cn:
 
 - [Chuck Jason](chinese/chuckjason.md)
 - [Dia](chinese/dia.md)
 - [Kiyara](chinese/kiyara.md)
 - [matcha](chinese/matcha.md)
 
-### Colombia
+### Colombia :colombia:
 
 - [Dani11](colombian/dani11.md)
 
-### France
+### France :fr:
 
 - [$elow](french/$elow.md)
 - [210aki](french/210aki.md)
@@ -67,16 +67,17 @@
 - [SRAW](french/sraw.md)
 - [Vivi](french/vivi.md)
 
-### Germany
+### Germany :de:
 
 - [Haku](german/haku.md)
 - [Milozaki](german/milozaki.md)
 - [Zuky](german/zuky.md)
 
-### Indonesia
+### Indonesia :indonesia:
+
 - [Baamsushi](indonesian/baamsushi.md)
 
-### Italy
+### Italy :it:
 
 - [Aaronash](italian/aaronash.md)
 - [filo](italian/filo.md)
@@ -84,7 +85,7 @@
 - [marinucci79](italian/marinucci79.md)
 - [Trus7t](italian/trus7t.md)
 
-### Japan
+### Japan :jp:
 
 - [as7_9](japanese/as7_9.md)
 - [Eshin](japanese/eshin.md)
@@ -95,24 +96,24 @@
 - [Rai](japanese/rai.md)
 - [Raufuro](japanese/raufuro.md)
 
-### Luxembourg
+### Luxembourg :luxembourg:
 
 - [Wawa](luxembourger/wawa.md)
 
-### Peru
+### Peru :peru:
 
 - [Rodrift](peruvian/rodrift.md)
 
-### Poland 
+### Poland :poland:
 
 - [Kobr3x](polish/kobr3x.md)
 - [terewsant](polish/terewsant.md)
 
-### Romania
+### Romania :romania:
 
 - [CatalinW](romanian/catalinw.md)
 
-### Spain
+### Spain :es:
 
 - [Johnny](spanish/johnny.md)
 - [Jorge Lorenzo](spanish/jorge.md)
@@ -120,7 +121,7 @@
 - [Unaii](spanish/unaii.md)
 - [Yesus0010](spanish/yesus.md)
 
-### The Netherlands
+### The Netherlands :netherlands:
 
 - [KKOJJGSS](dutch/kkojjgss.md)
 - [Marcel](dutch/marcel.md)
