@@ -28,8 +28,8 @@ Tier: Minor
 |4th|[Eath](../../players/belgian/eath.md) :belgium:|
 |5th|MrCheeseTalisman|
 |5th|[Kinun](../../players/belgian/kinun.md) :belgium:|
-|5th|[Rodri08](../../players/peruvian/rodrift.md)|
-|5th|[Caleb](../../players/bulgarian/caleb.md)|
+|5th|[Rodri08](../../players/peruvian/rodrift.md) :peru:|
+|5th|[Caleb](../../players/bulgarian/caleb.md) :bulgaria:|
 
 ### Bracket
 - [start.gg](https://www.start.gg/tournament/strikers-frontier-2/details)		

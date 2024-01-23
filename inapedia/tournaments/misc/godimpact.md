@@ -21,14 +21,14 @@ Tier: Major
 
 |Place|Player|
 |-|-|
-|1st|[Caleb](../../players/bulgarian/caleb.md)|
+|1st|[Caleb](../../players/bulgarian/caleb.md) :bulgaria:|
 |2nd|[Paraly](../../players/japanese/paraly.md) :jp:|
-|3rd|[matcha](../../players/chinese/matcha.md)|
+|3rd|[matcha](../../players/chinese/matcha.md) :cn:|
 |4th|[as7_9](../../players/japanese/as7_9.md) :jp:|
 |5th|[210aki](../../players/french/210aki.md) :fr:|
-|5th|[Chuck Jason](../../players/chinese/chuckjason.md)|
+|5th|[Chuck Jason](../../players/chinese/chuckjason.md) :cn:|
 |7th|[Azyck](../../players/french/azyck.md) :fr:|
-|7th|[Kiyara](../../players/chinese/kiyara.md)|
+|7th|[Kiyara](../../players/chinese/kiyara.md) :cn:|
 |9th|[Alexisl](../../players/french/alexisl.md) :fr:|
 |9th|[Filo](../../players/italian/filo.md) :it:|
 |9th|Kaki no Kakki|

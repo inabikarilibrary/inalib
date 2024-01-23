@@ -23,17 +23,17 @@ Tier: Major
 |2nd|[Haku](../../players/german/haku.md) :de:|
 |3rd|[$elow](../../players/french/$elow.md) :fr:|
 |4th|[Aimenz](../../players/french/aimenz.md) :fr:|
-|5th|[Panda](../../players/brazilian/panda.md)|
+|5th|[Panda](../../players/brazilian/panda.md) :brazil:|
 |5th|[Kinun](../../players/belgian/kinun.md) :belgium:|
 |7th|[Noxyne](../../players/french/noxyne.md) :fr:|
-|7th|[Krizo](../../players/bulgarian/krizo.md)|
+|7th|[Krizo](../../players/bulgarian/krizo.md) :bulgaria:|
 |9th|[Milozaki](../../players/german/milozaki.md) :de:|
 |9th|[Rai](../../players/japanese/rai.md) :jp:|
 |9th|[Abdel](../../players/french/abdel.md) :fr:|
 |9th|[Alexisl](../../players/french/alexisl.md) :fr:|
-|13th|[Hikky](../../players/brazilian/hikky.md)|
+|13th|[Hikky](../../players/brazilian/hikky.md) :brazil:|
 |13th|[Baamsushi](../../players/indonesian/baamsushi.md) :indonesia:|
-|13th|[Dante Froste](../../players/argentinian/dantefroste.md)|
+|13th|[Dante Froste](../../players/argentinian/dantefroste.md) :argentina:|
 |13th|[Skipper](../../players/austrian/skipper.md) :austria:|
 
 ### Bracket

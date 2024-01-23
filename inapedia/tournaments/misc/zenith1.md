@@ -23,7 +23,7 @@ Tier: Major
 |3rd|[Haku](../../players/german/haku.md) :de:|
 |3rd|[$elow](../../players/french/$elow.md) :fr:|
 |5th|[Alexisl](../../players/french/alexisl.md) :fr:|
-|5th|[Caleb](../../players/bulgarian/caleb.md)|
+|5th|[Caleb](../../players/bulgarian/caleb.md) :bulgaria:|
 |5th|[Johnny](../../players/spanish/johnny.md) :es:|
 |5th|[Vivi](../../players/french/vivi.md) :fr:|
 |9th|[Baptiste](../../players/french/baptiste.md) :fr:|

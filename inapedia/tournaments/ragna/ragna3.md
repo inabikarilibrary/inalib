@@ -23,7 +23,7 @@ Tier: Minor
 |2nd|[Mathiuze](../../players/french/mathiuze.md) :fr:|
 |3rd|[Paraly](../../players/japanese/paraly.md) :jp:|
 |4th|[Hiro](../../players/french/vivi.md) :fr:|
-|5th|[Rodbeast](../../players/peruvian/rodrift.md)|
+|5th|[Rodbeast](../../players/peruvian/rodrift.md) :peru:|
 |5th|[Haku](../../players/german/haku.md) :de:|
 |5th|[Kinun](../../players/belgian/kinun.md) :belgium:|
 |5th|[Eshin](../../players/japanese/eshin.md) :jp:|

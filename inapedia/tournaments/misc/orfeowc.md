@@ -33,7 +33,7 @@ Tier: Major
 |9th|[as7_9](../../players/japanese/as7_9.md) :jp:|
 |9th|[Milozaki](../../players/german/milozaki.md) :de:|
 |9th|[$elow](../../players/french/$elow.md) :fr:|
-|9th|[Sr Panda](../../players/brazilian/panda.md)|
+|9th|[Sr Panda](../../players/brazilian/panda.md) :brazil:|
 |9th|[Yesus0010](../../players/spanish/yesus.md) :es:|
 |9th|[Jorge Lorenzo](../../players/spanish/jorge.md) :es:|
 |9th|[SRAW](../../players/french/sraw.md) :fr:|

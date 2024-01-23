@@ -27,14 +27,14 @@ Tier: Major
 |-|-|
 |1st|[HiroLachance](../../players/french/vivi.md) :fr:|
 |2nd|[Miya](../../players/japanese/miya.md) :jp:|
-|3rd|[Caleb](../../players/bulgarian/caleb.md)|
+|3rd|[Caleb](../../players/bulgarian/caleb.md) :bulgaria:|
 |4th|[Kinun](../../players/belgian/kinun.md) :belgium:|
-|5th|[Krizo](../../players/bulgarian/krizo.md)|
+|5th|[Krizo](../../players/bulgarian/krizo.md) :bulgaria:|
 |5th|[210aki](../../players/french/210aki.md) :fr:|
 |7th|Micciu|
 |7th|Nak4taa|
 |9th|Brd|
-|9th|[Marcel](../../players/dutch/marcel.md)|
+|9th|[Marcel](../../players/dutch/marcel.md) :netherlands:|
 |9th|PESSI|
 |9th|[Pinguin](../../players/french/pinguin.md) :fr:|
 |13th|GTD|

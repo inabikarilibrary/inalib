@@ -27,7 +27,7 @@ Tier: Minor
 |3rd|[Azyck](../../players/french/azyck.md) :fr:|
 |4th|AlphaSky|
 |5th|[Luxie](../../players/french/luxie.md)|
-|5th|[matcha](../../players/chinese/matcha.md)|
+|5th|[matcha](../../players/chinese/matcha.md) :cn:|
 |5th|[Noxyne](../../players/french/noxyne.md) :fr:|
 |5th|[Skipper](../../players/austrian/skipper.md) :austria:|
 

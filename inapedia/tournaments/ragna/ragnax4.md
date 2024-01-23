@@ -22,17 +22,17 @@ Tier: Major
 |1st|[Paraly](../../players/japanese/paraly.md) :jp:|
 |2nd|[Miya](../../players/japanese/miya.md) :jp:|
 |3rd|[Alexisl](../../players/french/alexisl.md) :fr:|
-|4th|[matcha](../../players/chinese/matcha.md)|
-|5th|[Hikky](../../players/brazilian/hikky.md)|
+|4th|[matcha](../../players/chinese/matcha.md) :cn:|
+|5th|[Hikky](../../players/brazilian/hikky.md) :brazil:|
 |5th|[Skipper](../../players/austrian/skipper.md) :austria:|
 |7th|[Mathiuze](../../players/french/mathiuze.md) :fr:|
-|7th|[Panda](../../players/brazilian/panda.md)|
+|7th|[Panda](../../players/brazilian/panda.md) :brazil:|
 |9th|[Aaronash](../../players/italian/aaronash.md) :it:|
 |9th|[filo](../../players/italian/filo.md) :it:|
 |9th|[Giu](../../players/italian/giu.md) :it:|
 |9th|[Baptiste](../../players/french/baptiste.md) :fr:|
 |13th|[Haku](../../players/german/haku.md) :de:|
-|13th|[CatalinW](../../players/romanian/catalinw.md)|
+|13th|[CatalinW](../../players/romanian/catalinw.md) :romania:|
 |13th|[210aki](../../players/french/210aki.md) :fr:|
 |13th|[Kev'nox](../../players/french/kevnox.md) :fr:|
 

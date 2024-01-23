@@ -26,10 +26,10 @@ Tier: Minor
 |2nd|[Baamsushi](../../players/indonesian/baamsushi.md) :indonesia:|
 |3rd|[Kinun](../../players/belgian/kinun.md) :belgium:|
 |4th|[Luxie](../../players/belgian/luxie.md) :belgium:|
-|5th|[Rodri08](../../players/peruvian/rodrift.md)|
+|5th|[Rodri08](../../players/peruvian/rodrift.md) :peru:|
 |5th|[Eath](../../players/belgian/eath.md) :belgium:|
 |5th|[Pinguin](../../players/french/pinguin.md) :fr:|
-|5th|[Caleb](../../players/bulgarian/caleb.md)|
+|5th|[Caleb](../../players/bulgarian/caleb.md) :bulgaria:|
 
 ### Bracket
 - [start.gg](https://www.start.gg/tournament/strikers-frontier-1/details)		

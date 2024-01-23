@@ -23,18 +23,18 @@ Tier: Major
 |2nd|[Paraly](../../players/japanese/paraly.md) :jp:|
 |3rd|[Miya](../../players/japanese/miya.md) :jp:|
 |4th|[Haku](../../players/german/haku.md) :de:|
-|5th|[Caleb](../../players/bulgarian/caleb.md)|
+|5th|[Caleb](../../players/bulgarian/caleb.md) :bulgaria:|
 |5th|[Alexisl](../../players/french/alexisl.md) :fr:|
 |7th|[Baamsushi](../../players/indonesian/baamsushi.md) :indonesia:|
 |7th|[Zeno](../../players/french/585zeno.md) :fr:|
 |9th|[Haze]|
-|9th|[Panda](../../players/brazilian/panda.md)|
+|9th|[Panda](../../players/brazilian/panda.md) :brazil:|
 |9th|[SRAW](../../players/french/sraw.md) :fr:|
 |9th|[Skipper](../../players/austrian/skipper.md) :austria:|
 |13th|[Aaronash](../../players/italian/aaronash.md) :it:|
-|13th|[Chuck Jason](../../players/chinese/chuckjason.md)|
-|13th|[matcha](../../players/chinese/matcha.md)|
-|13th|[Baptiste](../../players/french/baptiste)|
+|13th|[Chuck Jason](../../players/chinese/chuckjason.md) :cn:|
+|13th|[matcha](../../players/chinese/matcha.md) :cn:|
+|13th|[Baptiste](../../players/french/baptiste.md) :fr:|
 
 ### Bracket
 - [Challonge](https://challonge.com/lc8vy45v)

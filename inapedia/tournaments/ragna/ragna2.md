@@ -20,13 +20,13 @@ Tier: Minor
 |Place|Player|
 |-|-|
 |1st|[Paraly](../../players/japanese/paraly.md) :jp:|
-|2nd|[Caleb](../../players/bulgarian/caleb.md)|
+|2nd|[Caleb](../../players/bulgarian/caleb.md) :bulgaria:|
 |3rd|[Kinun](../../players/belgian/kinun.md) :belgium:|
-|4th|[Rodrift](../../players/peruvian/rodrift.md)|
+|4th|[Rodrift](../../players/peruvian/rodrift.md) :peru:|
 |5th|[AS](../../players/french/as.md)|
 |5th|[Eath](../../players/belgian/eath.md) :belgium:|
 |5th|[Haku](../../players/german/haku.md) :de:|
-|5th|[Marcel](../../players/dutch/marcel.md)|
+|5th|[Marcel](../../players/dutch/marcel.md) :netherlands:|
 
 ### Bracket
 - [Challonge](https://challonge.com/o0s27g2i)

@@ -23,7 +23,7 @@ Tier: Major
 |2nd|[Miya](../../players/japanese/miya.md) :jp:|
 |3rd|[Alexisl](../../players/french/alexisl.md) :fr:|
 |4th|[Haku](../../players/german/haku.md) :de:|
-|5th|[Chuck Jason](../../players/chinese/chuckjason.md)|
+|5th|[Chuck Jason](../../players/chinese/chuckjason.md) :cn:|
 |5th|[filo](../../players/italian/filo.md) :it:|
 |7th|[$elow](../../players/french/$elow.md) :fr:|
 |7th|[Kev'nox](../../players/french/kevnox.md) :fr:|
@@ -31,7 +31,7 @@ Tier: Major
 |9th|[Skipper](../../players/austrian/skipper.md) :austria:|
 |9th|[585zeno](../../players/french/585zeno.md) :fr:|
 |9th|[Areirin](../../players/french/areirin.md) :fr:|
-|13th|[CatalinW](../../players/romanian/catalinw.md)|
+|13th|[CatalinW](../../players/romanian/catalinw.md) :romania:|
 |13th|[Aaronash](../../players/italian/aaronash.md) :it:|
 |13th|[Baptiste](../../players/french/baptiste.md) :fr:|
 |13th|[Pinguin](../../players/french/pinguin.md) :fr:|

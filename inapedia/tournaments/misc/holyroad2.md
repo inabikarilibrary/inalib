@@ -30,7 +30,7 @@ Tier: Major
 |9th|[Aimenz](../../players/french/aimenz.md) :fr:|
 |9th|[Zeno](../../players/french/585zeno.md) :fr:|
 |9th|[Haku](../../players/german/haku.md) :de:|
-|9th|[Hikky](../../players/brazilian/hikky.md)|
+|9th|[Hikky](../../players/brazilian/hikky.md) :brazil:|
 |9th|[Pinguin](../../players/french/pinguin.md) :fr:|
 |9th|[Trus7t](../../players/italian/trus7t.md) :it:|
 |9th|[$elow](../../players/french/$elow.md) :fr:|

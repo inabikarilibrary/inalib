@@ -24,7 +24,7 @@ Tier: Major
 |3rd|[$elow](../../players/french/$elow.md) :fr:|
 |4th|[Alexisl](../../players/french/alexisl.md) :fr:|
 |5th|[Raufuro](../../players/japanese/raufuro.md) :jp:|
-|5th|[Wawa](../../players/luxembourger/wawa.md)|
+|5th|[Wawa](../../players/luxembourger/wawa.md) :luxembourg:|
 |7th|[Noxyne](../../players/french/noxyne.md) :fr:|
 |7th|[Skipper](../../players/austrian/skipper.md) :austria:|
 |9th|[Giu](../../players/italian/giu.md) :it:|

@@ -29,11 +29,11 @@ Tier: Major
 |4th|[Noxyne](../../players/french/noxyne.md) :fr:|
 |5th|[Haku](../../players/german/haku.md) :de:|
 |5th|[Alexisl](../../players/french/alexisl.md) :fr:|
-|7th|[Caleb](../../players/bulgarian/caleb.md)|
+|7th|[Caleb](../../players/bulgarian/caleb.md) :bulgaria:|
 |7th|Max Tezcat|
 |9th|Espadas|
 |9th|[Kev'nox](../../players/french/kevnox.md) :fr:|
-|9th|[nicolau](../../players/brazilian/nicolau.md)|
+|9th|[nicolau](../../players/brazilian/nicolau.md) :brazil:|
 |9th|Nagashi|
 |13th|Mystery|
 |13th|[Milozaki](../../players/german/milozaki.md) :de:|

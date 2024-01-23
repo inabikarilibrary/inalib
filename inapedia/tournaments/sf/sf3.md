@@ -22,7 +22,7 @@ Tier: Minor
 
 |Place|Player|
 |-|-|
-|1st|[Caleb](../../players/bulgarian/caleb.md)|
+|1st|[Caleb](../../players/bulgarian/caleb.md) :bulgaria:|
 |2nd|[Luxie](../../players/belgian/luxie.md) :belgium:|
 |3rd|[Eath](../../players/belgian/eath.md) :belgium:|
 |4th|[Skipper](../../players/austrian/skipper.md) :austria:|
