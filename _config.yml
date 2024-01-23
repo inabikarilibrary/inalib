@@ -1,2 +1,5 @@
 title: Inabikari Library
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+plugins:
+- jekyll-include-cache
