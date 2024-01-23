@@ -15,6 +15,7 @@ source "https://rubygems.org"
 gem "github-pages", group: :jekyll_plugins
 gem 'jekyll-titles-from-headings'
 gem 'jemoji'
+gem 'gemoji'
 # If you have any plugins, put them here!
 gem "jekyll-include-cache", group: :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"

@@ -260,6 +260,7 @@ PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
+  gemoji
   github-pages
   http_parser.rb (~> 0.6.0)
   jekyll-include-cache
