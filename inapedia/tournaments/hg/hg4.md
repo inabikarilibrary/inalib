@@ -20,9 +20,9 @@ Tier: Minor
 
 | Place | Player |
 | - | - |
-| 1st | [Paraly](../../players/japanese/paraly.md) :jp: |
-| 2nd | [Azyck](../../players/french/azyck.md) :fr: |
-| 3rd | [Alexisl](../../players/french/alexisl.md) :fr: |
+|:1st_place_medal: 1st | [Paraly](../../players/japanese/paraly.md) :jp: |
+|:2nd_place_medal: 2nd | [Azyck](../../players/french/azyck.md) :fr: |
+|:3rd_place_medal: 3rd | [Alexisl](../../players/french/alexisl.md) :fr: |
 | 4th | [$elow](../../players/french/$elow.md) :fr: |
 | 5th | [210aki](../../players/french/210aki) |
 | 5th | [Skipper](../../players/austrian/skipper.md) :austria: |

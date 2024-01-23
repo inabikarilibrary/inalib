@@ -19,9 +19,9 @@ Tier: Minor
 
 |Place|Player|
 |-|-|
-|1st|[Paraly](../../players/japanese/paraly.md) :jp:|
-|2nd|[Haku](../../players/german/haku.md) :de:|
-|3rd|[filo](../../players/italian/filo.md) :it:|
+|:1st_place_medal: 1st|[Paraly](../../players/japanese/paraly.md) :jp:|
+|:2nd_place_medal: 2nd|[Haku](../../players/german/haku.md) :de:|
+|:3rd_place_medal: 3rd|[filo](../../players/italian/filo.md) :it:|
 |4th|[Caleb](../../players/bulgarian/caleb.md) :bulgaria:|
 |5th|[Skipper](../../players/austrian/skipper.md) :austria:|
 |5th|[Alexisl](../../players/french/alexisl.md) :fr:|

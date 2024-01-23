@@ -21,9 +21,9 @@ Tier: Major
 
 |Place|Player|
 |-|-|
-|1st|[Caleb](../../players/bulgarian/caleb.md) :bulgaria:|
-|2nd|[Paraly](../../players/japanese/paraly.md) :jp:|
-|3rd|[matcha](../../players/chinese/matcha.md) :cn:|
+|:1st_place_medal: 1st|[Caleb](../../players/bulgarian/caleb.md) :bulgaria:|
+|:2nd_place_medal: 2nd|[Paraly](../../players/japanese/paraly.md) :jp:|
+|:3rd_place_medal: 3rd|[matcha](../../players/chinese/matcha.md) :cn:|
 |4th|[as7_9](../../players/japanese/as7_9.md) :jp:|
 |5th|[210aki](../../players/french/210aki.md) :fr:|
 |5th|[Chuck Jason](../../players/chinese/chuckjason.md) :cn:|

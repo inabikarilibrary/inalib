@@ -19,9 +19,9 @@ Tier: Major
 
 |Place|Player|
 |-|-|
-|1st|[Paraly](../../players/japanese/paraly.md) :jp:|
-|2nd|[Miya](../../players/japanese/miya.md) :jp:|
-|3rd|[Nayth](../../players/french/nayth.md) :fr:|
+|:1st_place_medal: 1st|[Paraly](../../players/japanese/paraly.md) :jp:|
+|:2nd_place_medal: 2nd|[Miya](../../players/japanese/miya.md) :jp:|
+|:3rd_place_medal: 3rd|[Nayth](../../players/french/nayth.md) :fr:|
 |4th|[Vivi](../../players/french/vivi.md) :fr:|
 |5th|[Kiyara](../../players/chinese/kiyara.md) :cn:|
 |5th|[$elow](../../players/french/$elow.md) :fr:|

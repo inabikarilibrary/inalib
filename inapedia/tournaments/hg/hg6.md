@@ -19,9 +19,9 @@ Tier: Major
 
 |Place|Player|
 |-|-|
-|1st|[as7_9](../../players/japanese/as7_9.md) :jp:|
-|2nd|[Alexisl](../../players/french/alexisl.md) :fr:|
-|3rd|[$elow](../../players/french/$elow.md) :fr:|
+|:1st_place_medal: 1st|[as7_9](../../players/japanese/as7_9.md) :jp:|
+|:2nd_place_medal: 2nd|[Alexisl](../../players/french/alexisl.md) :fr:|
+|:3rd_place_medal: 3rd|[$elow](../../players/french/$elow.md) :fr:|
 |4th|[Raufuro](../../players/japanese/raufuro.md) :jp:|
 |5th|[Wawa](../../players/luxembourger/wawa.md) :luxembourg:|
 |5th|[Skipper](../../players/austrian/skipper.md) :austria:|

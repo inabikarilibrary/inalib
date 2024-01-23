@@ -22,9 +22,9 @@ Tier: Minor
 
 |Place|Player|
 |-|-|
-|1st|[Eath](../../players/belgian/eath.md) :belgium:|
-|2nd|[Alexisl](../../players/french/alexisl.md) :fr:|
-|3rd|[Kev](../../players/french/kevnox.md) :fr:|
+|:1st_place_medal: 1st|[Eath](../../players/belgian/eath.md) :belgium:|
+|:2nd_place_medal: 2nd|[Alexisl](../../players/french/alexisl.md) :fr:|
+|:3rd_place_medal: 3rd|[Kev](../../players/french/kevnox.md) :fr:|
 |4th|[Kinun](../../players/belgian/kinun.md) :belgium:|
 |5th|[Azyck](../../players/french/azyck.md) :fr:|
 |5th|[Filo](../../players/italian/filo.md) :it:|

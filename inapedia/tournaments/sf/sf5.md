@@ -25,9 +25,9 @@ Tier: Major
 
 |Place|Player|
 |-|-|
-|1st|[HiroLachance](../../players/french/vivi.md) :fr:|
-|2nd|[Miya](../../players/japanese/miya.md) :jp:|
-|3rd|[Caleb](../../players/bulgarian/caleb.md) :bulgaria:|
+|:1st_place_medal: 1st|[HiroLachance](../../players/french/vivi.md) :fr:|
+|:2nd_place_medal: 2nd|[Miya](../../players/japanese/miya.md) :jp:|
+|:3rd_place_medal: 3rd|[Caleb](../../players/bulgarian/caleb.md) :bulgaria:|
 |4th|[Kinun](../../players/belgian/kinun.md) :belgium:|
 |5th|[Krizo](../../players/bulgarian/krizo.md) :bulgaria:|
 |5th|[210aki](../../players/french/210aki.md) :fr:|

@@ -22,9 +22,9 @@ Tier: Major
 
 |Place|Player|
 |-|-|
-|1st|[Caleb](../../players/bulgarian/caleb.md) :bulgaria:|
-|2nd|[Rai](../../players/japanese/rai.md) :jp:|
-|3rd|[Dani11](../../players/colombian/dani11.md) :colombia:|
+|:1st_place_medal: 1st|[Caleb](../../players/bulgarian/caleb.md) :bulgaria:|
+|:2nd_place_medal: 2nd|[Rai](../../players/japanese/rai.md) :jp:|
+|:3rd_place_medal: 3rd|[Dani11](../../players/colombian/dani11.md) :colombia:|
 |4th|[Kinun](../../players/belgian/kinun.md) :belgium:|
 |5th|[Mathiuze](../../players/french/mathiuze.md) :fr:|
 |5th|[Azyck](../../players/french/azyck.md) :fr:|

@@ -22,9 +22,9 @@ Tier: Minor
 
 |Place|Player|
 |-|-|
-|1st|[Infi](../../players/japanese/infi.md) :jp:|
-|2nd|[Baamsushi](../../players/indonesian/baamsushi.md) :indonesia:|
-|3rd|[Kinun](../../players/belgian/kinun.md) :belgium:|
+|:1st_place_medal: 1st|[Infi](../../players/japanese/infi.md) :jp:|
+|:2nd_place_medal: 2nd|[Baamsushi](../../players/indonesian/baamsushi.md) :indonesia:|
+|:3rd_place_medal: 3rd|[Kinun](../../players/belgian/kinun.md) :belgium:|
 |4th|[Luxie](../../players/belgian/luxie.md) :belgium:|
 |5th|[Rodri08](../../players/peruvian/rodrift.md) :peru:|
 |5th|[Eath](../../players/belgian/eath.md) :belgium:|
