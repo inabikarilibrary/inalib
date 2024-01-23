@@ -1,9 +1,9 @@
 main:
   - title: "Players (Wiki)"
-    url: /inapedia/tournamentsmain.html/
+    url: /inapedia/players/players.html
   - title: "Tournaments (Wiki)"
-    url: /inapedia/tournamentsmain.html/
+    url: /inapedia/tournaments/tournamentsmain.html
   - title: "Fundamentals"
-    url: /guides/fundamentals.hmtl/
+    url: /guides/fundamentals.html
   - title: "Advanced"
-    url: /guides/advanced.html/
+    url: /guides/advanced.html
