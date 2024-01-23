@@ -20,12 +20,12 @@ Tier: Minor
 |Place|Player|
 |-|-|
 |1st|[Miya](../../players/japanese/miya.md) :jp:|
-|2nd|[Mathiuze](../../players/french/mathiuze.md)|
+|2nd|[Mathiuze](../../players/french/mathiuze.md) :fr:|
 |3rd|[Paraly](../../players/japanese/paraly.md) :jp:|
-|4th|[Hiro](../../players/french/vivi.md)|
+|4th|[Hiro](../../players/french/vivi.md) :fr:|
 |5th|[Rodbeast](../../players/peruvian/rodrift.md)|
-|5th|[Haku](../../players/german/haku.md)|
-|5th|[Kinun](../../players/belgian/kinun.md)|
+|5th|[Haku](../../players/german/haku.md) :de:|
+|5th|[Kinun](../../players/belgian/kinun.md) :belgium:|
 |5th|[Eshin](../../players/japanese/eshin.md) :jp:|
 
 ### Bracket

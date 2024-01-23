@@ -25,19 +25,19 @@ Tier: Major
 |1st|[Caleb](../../players/bulgarian/caleb.md)|
 |2nd|[Rai](../../players/japanese/rai.md) :jp:|
 |3rd|[Dani11](../../players/colombian/dani11.md)|
-|4th|[Kinun](../../players/belgian/kinun.md)|
-|5th|[Mathiuze](../../players/french/mathiuze.md)|
-|5th|[Azyck](../../players/french/azyck.md)|
-|5th|[Baamsushi](../../players/indonesian/baamsushi.md)|
-|5th|[Luxie](../../players/belgian/luxie.md)|
-|9th|[Aimenz](../../players/french/aimenz.md)|
-|9th|[Kenway](../../players/french/kenway.md)|
+|4th|[Kinun](../../players/belgian/kinun.md) :belgium:|
+|5th|[Mathiuze](../../players/french/mathiuze.md) :fr:|
+|5th|[Azyck](../../players/french/azyck.md) :fr:|
+|5th|[Baamsushi](../../players/indonesian/baamsushi.md) :indonesia:|
+|5th|[Luxie](../../players/belgian/luxie.md) :belgium:|
+|9th|[Aimenz](../../players/french/aimenz.md) :fr:|
+|9th|[Kenway](../../players/french/kenway.md) :fr:|
 |9th|[So panda](../../players/brazilian/panda.md)|
 |9th|[Dante Froste](../../players/argentinian/dantefroste.md)|
-|9th|[Jin](../../players/french/jin.md)|
+|9th|[Jin](../../players/french/jin.md) :fr:|
 |9th|[CatalinW](../../players/romanian/catalinw.md)|
-|9th|[Liyo](../../players/french/koro.md)|
-|9th|[Selow](../../players/french/$elow.md)|
+|9th|[Liyo](../../players/french/koro.md) :fr:|
+|9th|[Selow](../../players/french/$elow.md) :fr:|
 
 ### Bracket
 - [Challonge](https://challonge.com/fr/holyroad)

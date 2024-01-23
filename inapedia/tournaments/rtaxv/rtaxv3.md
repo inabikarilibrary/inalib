@@ -22,14 +22,14 @@ Tier: Minor
 
 |Place|Player|
 |-|-|
-|1st|[$elow](../../players/french/$elow.md)|
+|1st|[$elow](../../players/french/$elow.md) :fr:|
 |2nd|Nyl|
-|3rd|[Filo](../../players/italian/filo.md)|
-|4th|[Kinun](../../players/belgian/kinun.md)|
+|3rd|[Filo](../../players/italian/filo.md) :it:|
+|4th|[Kinun](../../players/belgian/kinun.md) :belgium:|
 |5th|[Alexis](../../players/french/alexis.md)|
-|5th|[Baptiste](../../players/french/baptiste.md)|
-|7th|[Giu](../../players/italian/giu.md)|
-|7th|[Ishido](../../players/french/ishido.md)|
+|5th|[Baptiste](../../players/french/baptiste.md) :fr:|
+|7th|[Giu](../../players/italian/giu.md) :it:|
+|7th|[Ishido](../../players/french/ishido.md) :fr:|
 
 ### Bracket
 - [Challonge](https://challonge.com/rtaxv3)

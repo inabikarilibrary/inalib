@@ -20,20 +20,20 @@ Tier: Major
 |Place|Player|
 |-|-|
 |1st|[Infi](../../players/japanese/infi.md) :jp:|
-|2nd|[Alexisl](../../players/french/alexisl.md)|
-|3rd|[Vivi](../../players/french/vivi.md)|
-|4th|[Luxie](../../players/belgian/luxie.md)|
-|5th|[Azyck](../../players/french/azyck.md)|
-|5th|[Noxyne](../../players/french/noxyne.md)|
-|5th|[Baptiste](../../players/french/baptiste.md)|
-|9th|[Abdel](../../players/french/abdel.md)|
-|9th|[Aimenz](../../players/french/aimenz.md)|
-|9th|[Zeno](../../players/french/585zeno.md)|
-|9th|[Haku](../../players/german/haku.md)|
+|2nd|[Alexisl](../../players/french/alexisl.md) :fr:|
+|3rd|[Vivi](../../players/french/vivi.md) :fr:|
+|4th|[Luxie](../../players/belgian/luxie.md) :belgium:|
+|5th|[Azyck](../../players/french/azyck.md) :fr:|
+|5th|[Noxyne](../../players/french/noxyne.md) :fr:|
+|5th|[Baptiste](../../players/french/baptiste.md) :fr:|
+|9th|[Abdel](../../players/french/abdel.md) :fr:|
+|9th|[Aimenz](../../players/french/aimenz.md) :fr:|
+|9th|[Zeno](../../players/french/585zeno.md) :fr:|
+|9th|[Haku](../../players/german/haku.md) :de:|
 |9th|[Hikky](../../players/brazilian/hikky.md)|
-|9th|[Pinguin](../../players/french/pinguin.md)|
-|9th|[Trus7t](../../players/italian/trus7t.md)|
-|9th|[$elow](../../players/french/$elow.md)|
+|9th|[Pinguin](../../players/french/pinguin.md) :fr:|
+|9th|[Trus7t](../../players/italian/trus7t.md) :it:|
+|9th|[$elow](../../players/french/$elow.md) :fr:|
 
 ### Bracket
 - [Challonge](https://challonge.com/holyroad2)

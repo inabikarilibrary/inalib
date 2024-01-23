@@ -22,16 +22,16 @@ Tier: Major
 |1st|[Raufuro](../../players/japanese/raufuro.md) :jp:|
 |2nd|[Paraly](../../players/japanese/paraly.md) :jp:|
 |3rd|[Miya](../../players/japanese/miya.md) :jp:|
-|4th|[Haku](../../players/german/haku.md)|
+|4th|[Haku](../../players/german/haku.md) :de:|
 |5th|[Caleb](../../players/bulgarian/caleb.md)|
-|5th|[Alexisl](../../players/french/alexisl.md)|
-|7th|[Baamsushi](../../players/indonesian/baamsushi.md)|
-|7th|[Zeno](../../players/french/585zeno.md)|
+|5th|[Alexisl](../../players/french/alexisl.md) :fr:|
+|7th|[Baamsushi](../../players/indonesian/baamsushi.md) :indonesia:|
+|7th|[Zeno](../../players/french/585zeno.md) :fr:|
 |9th|[Haze]|
 |9th|[Panda](../../players/brazilian/panda.md)|
-|9th|[SRAW](../../players/french/sraw.md)|
-|9th|[Skipper](../../players/austrian/skipper.md)|
-|13th|[Aaronash](../../players/italian/aaronash.md)|
+|9th|[SRAW](../../players/french/sraw.md) :fr:|
+|9th|[Skipper](../../players/austrian/skipper.md) :austria:|
+|13th|[Aaronash](../../players/italian/aaronash.md) :it:|
 |13th|[Chuck Jason](../../players/chinese/chuckjason.md)|
 |13th|[matcha](../../players/chinese/matcha.md)|
 |13th|[Baptiste](../../players/french/baptiste)|

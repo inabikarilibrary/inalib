@@ -22,19 +22,19 @@ Tier: Major
 |1st|[Paraly](../../players/japanese/paraly.md) :jp:|
 |2nd|[Infi](../../players/japanese/infi.md) :jp:|
 |3rd|[as7_9](../../players/japanese/as7_9.md) :jp:|
-|4th|[Alexisl](../../players/french/alexisl.md)|
+|4th|[Alexisl](../../players/french/alexisl.md) :fr:|
 |5th|[Eshin](../../players/japanese/eshin.md) :jp:|
-|5th|[Eath](../../players/belgian/eath.md)|
+|5th|[Eath](../../players/belgian/eath.md) :belgium:|
 |7th|[matcha](../../players/chinese/matcha.md)|
-|7th|[$elow](../../players/french/$elow.md)|
-|9th|[Baamsushi](../../players/indonesian/baamsushi.md)|
-|9th|[Yesus0010](../../players/spanish/yesus.md)|
-|9th|[Noxyne](../../players/french/noxyne.md)|
-|9th|[Haku](../../players/german/haku.md)|
-|13th|[Saikyoo11](../../players/french/saikyoo11.md)|
-|13th|[JohnnyRZ](../../players/spanish/johnny.md)|
-|13th|[Jorge Lorenzo](../../players/spanish/jorge.md)|
-|13th|[Kinun](../../players/belgian/kinun.md)|
+|7th|[$elow](../../players/french/$elow.md) :fr:|
+|9th|[Baamsushi](../../players/indonesian/baamsushi.md) :indonesia:|
+|9th|[Yesus0010](../../players/spanish/yesus.md) :es:|
+|9th|[Noxyne](../../players/french/noxyne.md) :fr:|
+|9th|[Haku](../../players/german/haku.md) :de:|
+|13th|[Saikyoo11](../../players/french/saikyoo11.md) :fr:|
+|13th|[JohnnyRZ](../../players/spanish/johnny.md) :es:|
+|13th|[Jorge Lorenzo](../../players/spanish/jorge.md) :es:|
+|13th|[Kinun](../../players/belgian/kinun.md) :belgium:|
 
 ### Bracket
 - [Challonge](https://challonge.com/8fy7h14h)

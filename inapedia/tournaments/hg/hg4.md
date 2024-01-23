@@ -21,12 +21,12 @@ Tier: Minor
 | Place | Player |
 | - | - |
 | 1st | [Paraly](../../players/japanese/paraly.md) :jp: |
-| 2nd | [Azyck](../../players/french/azyck.md) |
-| 3rd | [Alexisl](../../players/french/alexisl.md) |
-| 4th | [$elow](../../players/french/$elow.md) |
+| 2nd | [Azyck](../../players/french/azyck.md) :fr: |
+| 3rd | [Alexisl](../../players/french/alexisl.md) :fr: |
+| 4th | [$elow](../../players/french/$elow.md) :fr: |
 | 5th | [210aki](../../players/french/210aki) |
-| 5th | [Skipper](../../players/austrian/skipper.md) |
-| 7th | [filo](../../players/italian/filo.md) |
+| 5th | [Skipper](../../players/austrian/skipper.md) :austria: |
+| 7th | [filo](../../players/italian/filo.md) :it: |
 | 7th | Nyl |
 
 ## Bracket

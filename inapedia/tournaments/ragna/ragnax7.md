@@ -20,21 +20,21 @@ Tier: Major
 |Place|Player|
 |-|-|
 |1st|[Eshin](../../players/japanese/eshin.md) :jp:|
-|2nd|[Johnny](../../players/spanish/johnny.md)|
-|3rd|[$elow](../../players/french/$elow.md)|
-|4th|[Alexisl](../../players/french/alexisl.md)|
+|2nd|[Johnny](../../players/spanish/johnny.md) :es:|
+|3rd|[$elow](../../players/french/$elow.md) :fr:|
+|4th|[Alexisl](../../players/french/alexisl.md) :fr:|
 |5th|[Raufuro](../../players/japanese/raufuro.md) :jp:|
 |5th|[Wawa](../../players/luxembourger/wawa.md)|
-|7th|[Noxyne](../../players/french/noxyne.md)|
-|7th|[Skipper](../../players/austrian/skipper.md)|
-|9th|[Giu](../../players/italian/giu.md)|
-|9th|[Jorge](../../players/spanish/jorge.md)|
-|9th|[Kinun](../../players/belgian/kinun.md)|
-|9th|[Haku](../../players/german/haku.md)|
-|13th|[Kobr3X](../../players/polish/kobr3x.md)|
-|13th|[Trus7t](../../players/italian/trus7t.md)|
-|13th|[luuccaasss](../../players/spanish/lucas.md)|
-|13th|[Kev'nox](../../players/french/kevnox.md)|
+|7th|[Noxyne](../../players/french/noxyne.md) :fr:|
+|7th|[Skipper](../../players/austrian/skipper.md) :austria:|
+|9th|[Giu](../../players/italian/giu.md) :it:|
+|9th|[Jorge](../../players/spanish/jorge.md) :es:|
+|9th|[Kinun](../../players/belgian/kinun.md) :belgium:|
+|9th|[Haku](../../players/german/haku.md) :de:|
+|13th|[Kobr3X](../../players/polish/kobr3x.md) :poland:|
+|13th|[Trus7t](../../players/italian/trus7t.md) :it:|
+|13th|[luuccaasss](../../players/spanish/lucas.md) :es:|
+|13th|[Kev'nox](../../players/french/kevnox.md) :fr:|
 
 ### Bracket
 - [Challonge](https://challonge.com/m1q1oia7)

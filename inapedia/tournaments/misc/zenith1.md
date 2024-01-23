@@ -18,21 +18,21 @@ Tier: Major
 
 |Place|Player|
 |-|-|
-|1st|[Noxyne](../../players/french/noxyne.md)|
-|2nd|[Azyck](../../players/french/azyck.md)|
-|3rd|[Haku](../../players/german/haku.md)|
-|3rd|[$elow](../../players/french/$elow.md)|
-|5th|[Alexisl](../../players/french/alexisl.md)|
+|1st|[Noxyne](../../players/french/noxyne.md) :fr:|
+|2nd|[Azyck](../../players/french/azyck.md) :fr:|
+|3rd|[Haku](../../players/german/haku.md) :de:|
+|3rd|[$elow](../../players/french/$elow.md) :fr:|
+|5th|[Alexisl](../../players/french/alexisl.md) :fr:|
 |5th|[Caleb](../../players/bulgarian/caleb.md)|
-|5th|[Johnny](../../players/spanish/johnny.md)|
-|5th|[Vivi](../../players/french/vivi.md)|
-|9th|[Baptiste](../../players/french/baptiste.md)|
-|9th|[Eath](../../players/belgian/eath.md)|
+|5th|[Johnny](../../players/spanish/johnny.md) :es:|
+|5th|[Vivi](../../players/french/vivi.md) :fr:|
+|9th|[Baptiste](../../players/french/baptiste.md) :fr:|
+|9th|[Eath](../../players/belgian/eath.md) :belgium:|
 |9th|[Infi](../../players/japanese/infi.md) :jp:|
-|9th|[Jorge Lorenzo](../../players/spanish/jorge.md)|
-|9th|[Kev'nox](../../players/french/kevnox.md)|
-|9th|[marinucci79](../../players/italian/marinucci79.md)|
-|9th|[Skipper](../../players/austrian/skipper.md)|
+|9th|[Jorge Lorenzo](../../players/spanish/jorge.md) :es:|
+|9th|[Kev'nox](../../players/french/kevnox.md) :fr:|
+|9th|[marinucci79](../../players/italian/marinucci79.md) :it:|
+|9th|[Skipper](../../players/austrian/skipper.md) :austria:|
 |9th|Yuz|
 
 ### Bracket

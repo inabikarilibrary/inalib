@@ -23,12 +23,12 @@ Tier: Minor
 |Place|Player|
 |-|-|
 |1st|[Caleb](../../players/bulgarian/caleb.md)|
-|2nd|[Luxie](../../players/belgian/luxie.md)|
-|3rd|[Eath](../../players/belgian/eath.md)|
-|4th|[Skipper](../../players/austrian/skipper.md)|
+|2nd|[Luxie](../../players/belgian/luxie.md) :belgium:|
+|3rd|[Eath](../../players/belgian/eath.md) :belgium:|
+|4th|[Skipper](../../players/austrian/skipper.md) :austria:|
 |5th|[Infi](../../players/japanese/infi.md) :jp:|
-|5th|[Kinun](../../players/belgian/kinun.md)|
-|5th|[HiroLachance](../../players/french/vivi.md)|
+|5th|[Kinun](../../players/belgian/kinun.md) :belgium:|
+|5th|[HiroLachance](../../players/french/vivi.md) :fr:|
 |5th|Bey|
 
 ### Bracket
