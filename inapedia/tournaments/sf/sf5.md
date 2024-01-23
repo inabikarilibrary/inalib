@@ -26,7 +26,7 @@ Tier: Major
 |Place|Player|
 |-|-|
 |1st|[HiroLachance](../../players/french/vivi.md)|
-|2nd|[Miya](../../players/japanese/miya.md)|
+|2nd|[Miya](../../players/japanese/miya.md) :jp:|
 |3rd|[Caleb](../../players/bulgarian/caleb.md)|
 |4th|[Kinun](../../players/belgian/kinun.md)|
 |5th|[Krizo](../../players/bulgarian/krizo.md)|

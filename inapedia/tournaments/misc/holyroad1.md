@@ -23,7 +23,7 @@ Tier: Major
 |Place|Player|
 |-|-|
 |1st|[Caleb](../../players/bulgarian/caleb.md)|
-|2nd|[Rai](../../players/japanese/rai.md)|
+|2nd|[Rai](../../players/japanese/rai.md) :jp:|
 |3rd|[Dani11](../../players/colombian/dani11.md)|
 |4th|[Kinun](../../players/belgian/kinun.md)|
 |5th|[Mathiuze](../../players/french/mathiuze.md)|

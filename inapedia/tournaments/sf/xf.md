@@ -24,7 +24,7 @@ Tier: Major
 |Place|Player|
 |-|-|
 |1st|[Vivi](../../players/french/vivi.md)|
-|2nd|[Infi](../../players/japanese/infi.md)|
+|2nd|[Infi](../../players/japanese/infi.md) :jp:|
 |3rd|[Azyck](../../players/french/azyck.md)|
 |4th|[Noxyne](../../players/french/noxyne.md)|
 |5th|[Haku](../../players/german/haku.md)|

@@ -22,7 +22,7 @@ Tier: Major
 |Place|Player|
 |-|-|
 |1st|[Alexisl](../../players/french/alexisl.md)|
-|2nd|[Infi](../../players/japanese/infi.md)|
+|2nd|[Infi](../../players/japanese/infi.md) :jp:|
 |3rd|[Azyck](../../players/french/azyck.md)|
 |4th|[Eath](../../players/belgian/eath.md)|
 |5th|[Haku](../../players/german/haku.md)|
@@ -30,7 +30,7 @@ Tier: Major
 |7th|[Baamsushi](../../players/indonesian/baamsushi.md)|
 |7th|[Kinun](../../players/belgian/kinun.md)|
 |9th|[Aaronash](../../players/italian/aaronash.md)|
-|9th|[as7_9](../../players/japanese/as7_9.md)|
+|9th|[as7_9](../../players/japanese/as7_9.md) :jp:|
 |9th|[Milozaki](../../players/german/milozaki.md)|
 |9th|[$elow](../../players/french/$elow.md)|
 |9th|[Sr Panda](../../players/brazilian/panda.md)|

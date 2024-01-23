@@ -19,11 +19,11 @@ Tier: Major
 
 |Place|Player|
 |-|-|
-|1st|[Eshin](../../players/japanese/eshin.md)|
+|1st|[Eshin](../../players/japanese/eshin.md) :jp:|
 |2nd|[Johnny](../../players/spanish/johnny.md)|
 |3rd|[$elow](../../players/french/$elow.md)|
 |4th|[Alexisl](../../players/french/alexisl.md)|
-|5th|[Raufuro](../../players/japanese/raufuro.md)|
+|5th|[Raufuro](../../players/japanese/raufuro.md) :jp:|
 |5th|[Wawa](../../players/luxembourger/wawa.md)|
 |7th|[Noxyne](../../players/french/noxyne.md)|
 |7th|[Skipper](../../players/austrian/skipper.md)|

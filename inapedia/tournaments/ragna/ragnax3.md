@@ -19,7 +19,7 @@ Tier: Minor
 
 |Place|Player|
 |-|-|
-|1st|[Paraly](../../players/japanese/paraly.md)|
+|1st|[Paraly](../../players/japanese/paraly.md) :jp:|
 |2nd|[Haku](../../players/german/haku.md)|
 |3rd|[filo](../../players/italian/filo.md)|
 |4th|[Caleb](../../players/bulgarian/caleb.md)|

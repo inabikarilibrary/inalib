@@ -26,7 +26,7 @@ Tier: Minor
 |2nd|[Luxie](../../players/belgian/luxie.md)|
 |3rd|[Eath](../../players/belgian/eath.md)|
 |4th|[Skipper](../../players/austrian/skipper.md)|
-|5th|[Infi](../../players/japanese/infi.md)|
+|5th|[Infi](../../players/japanese/infi.md) :jp:|
 |5th|[Kinun](../../players/belgian/kinun.md)|
 |5th|[HiroLachance](../../players/french/vivi.md)|
 |5th|Bey|

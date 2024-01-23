@@ -19,8 +19,8 @@ Tier: Major
 
 |Place|Player|
 |-|-|
-|1st|[Paraly](../../players/japanese/paraly.md)|
-|2nd|[Miya](../../players/japanese/miya.md)|
+|1st|[Paraly](../../players/japanese/paraly.md) :jp:|
+|2nd|[Miya](../../players/japanese/miya.md) :jp:|
 |3rd|[Alexisl](../../players/french/alexisl.md)|
 |4th|[Haku](../../players/german/haku.md)|
 |5th|[Chuck Jason](../../players/chinese/chuckjason.md)|

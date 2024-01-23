@@ -19,7 +19,7 @@ Tier: Major
 
 |Place|Player|
 |-|-|
-|1st|[Paraly](../../players/japanese/paraly.md)|
+|1st|[Paraly](../../players/japanese/paraly.md) :jp:|
 |2nd|[Haku](../../players/german/haku.md)|
 |3rd|[$elow](../../players/french/$elow.md)|
 |4th|[Aimenz](../../players/french/aimenz.md)|
@@ -28,7 +28,7 @@ Tier: Major
 |7th|[Noxyne](../../players/french/noxyne.md)|
 |7th|[Krizo](../../players/bulgarian/krizo.md)|
 |9th|[Milozaki](../../players/german/milozaki.md)|
-|9th|[Rai](../../players/japanese/rai.md)|
+|9th|[Rai](../../players/japanese/rai.md) :jp:|
 |9th|[Abdel](../../players/french/abdel.md)|
 |9th|[Alexisl](../../players/french/alexisl.md)|
 |13th|[Hikky](../../players/brazilian/hikky.md)|

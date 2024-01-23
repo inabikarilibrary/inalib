@@ -19,8 +19,8 @@ Tier: Major
 
 |Place|Player|
 |-|-|
-|1st|[Paraly](../../players/japanese/paraly.md)|
-|2nd|[Miya](../../players/japanese/miya.md)|
+|1st|[Paraly](../../players/japanese/paraly.md) :jp:|
+|2nd|[Miya](../../players/japanese/miya.md) :jp:|
 |3rd|[Nayth](../../players/french/nayth.md)|
 |4th|[Vivi](../../players/french/vivi.md)|
 |5th|[Kiyara](../../players/chinese/kiyara.md)|

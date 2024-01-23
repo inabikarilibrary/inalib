@@ -19,10 +19,10 @@ Tier: Major
 
 | Place | Player |
 | - | - |
-| 1st | [Paraly](../../players/japanese/paraly.md) |
-| 2nd | [Miya](../../players/japanese/miya.md) |
+| 1st | [Paraly](../../players/japanese/paraly.md) :jp: |
+| 2nd | [Miya](../../players/japanese/miya.md) :jp: |
 | 3rd | [Chuck](../../players/chinese/chuck.md) |
-| 4th | [Eshin](../../players/japanese/eshin.md) | 
+| 4th | [Eshin](../../players/japanese/eshin.md) :jp: | 
 | 5th | [Alexisl](../../players/french/alexisl.md) |
 | 5th | [$elow](../../players/french/$elow.md) | 
 | 7th | Nyl |

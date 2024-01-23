@@ -19,11 +19,11 @@ Tier: Major
 
 |Place|Player|
 |-|-|
-|1st|[Paraly](../../players/japanese/paraly.md)|
-|2nd|[Infi](../../players/japanese/infi.md)|
-|3rd|[as7_9](../../players/japanese/as7_9.md)|
+|1st|[Paraly](../../players/japanese/paraly.md) :jp:|
+|2nd|[Infi](../../players/japanese/infi.md) :jp:|
+|3rd|[as7_9](../../players/japanese/as7_9.md) :jp:|
 |4th|[Alexisl](../../players/french/alexisl.md)|
-|5th|[Eshin](../../players/japanese/eshin.md)|
+|5th|[Eshin](../../players/japanese/eshin.md) :jp:|
 |5th|[Eath](../../players/belgian/eath.md)|
 |7th|[matcha](../../players/chinese/matcha.md)|
 |7th|[$elow](../../players/french/$elow.md)|

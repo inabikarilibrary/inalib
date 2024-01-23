@@ -19,9 +19,9 @@ Tier: Major
 
 |Place|Player|
 |-|-|
-|1st|[Raufuro](../../players/japanese/raufuro.md)|
-|2nd|[Paraly](../../players/japanese/paraly.md)|
-|3rd|[Miya](../../players/japanese/miya.md)|
+|1st|[Raufuro](../../players/japanese/raufuro.md) :jp:|
+|2nd|[Paraly](../../players/japanese/paraly.md) :jp:|
+|3rd|[Miya](../../players/japanese/miya.md) :jp:|
 |4th|[Haku](../../players/german/haku.md)|
 |5th|[Caleb](../../players/bulgarian/caleb.md)|
 |5th|[Alexisl](../../players/french/alexisl.md)|

@@ -22,7 +22,7 @@ Tier: Minor
 
 |Place|Player|
 |-|-|
-|1st|[Infi](../../players/japanese/infi.md)|
+|1st|[Infi](../../players/japanese/infi.md) :jp:|
 |2nd|[Baamsushi](../../players/indonesian/baamsushi.md)|
 |3rd|[Kinun](../../players/belgian/kinun.md)|
 |4th|[Luxie](../../players/belgian/luxie.md)|

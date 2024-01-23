@@ -19,10 +19,10 @@ Tier: Major
 
 |Place|Player|
 |-|-|
-|1st|[as7_9](../../players/japanese/as7_9.md)|
+|1st|[as7_9](../../players/japanese/as7_9.md) :jp:|
 |2nd|[Alexisl](../../players/french/alexisl.md)|
 |3rd|[$elow](../../players/french/$elow.md)|
-|4th|[Raufuro](../../players/japanese/raufuro.md)|
+|4th|[Raufuro](../../players/japanese/raufuro.md) :jp:|
 |5th|[Wawa](../../players/luxembourger/wawa.md)|
 |5th|[Skipper](../../players/austrian/skipper.md)|
 |7th|[Haku](../../players/german/haku.md)|

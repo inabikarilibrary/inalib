@@ -28,7 +28,7 @@ Tier: Major
 |5th|[Vivi](../../players/french/vivi.md)|
 |9th|[Baptiste](../../players/french/baptiste.md)|
 |9th|[Eath](../../players/belgian/eath.md)|
-|9th|[Infi](../../players/japanese/infi.md)|
+|9th|[Infi](../../players/japanese/infi.md) :jp:|
 |9th|[Jorge Lorenzo](../../players/spanish/jorge.md)|
 |9th|[Kev'nox](../../players/french/kevnox.md)|
 |9th|[marinucci79](../../players/italian/marinucci79.md)|

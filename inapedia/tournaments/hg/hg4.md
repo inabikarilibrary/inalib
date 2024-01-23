@@ -20,7 +20,7 @@ Tier: Minor
 
 | Place | Player |
 | - | - |
-| 1st | [Paraly](../../players/japanese/paraly.md) |
+| 1st | [Paraly](../../players/japanese/paraly.md) :jp: |
 | 2nd | [Azyck](../../players/french/azyck.md) |
 | 3rd | [Alexisl](../../players/french/alexisl.md) |
 | 4th | [$elow](../../players/french/$elow.md) |

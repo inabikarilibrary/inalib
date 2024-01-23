@@ -19,12 +19,12 @@ Tier: Minor
 
 | Place | Player |
 |-|-|
-| 1st | [Paraly](../../players/japanese/paraly.md) |
+| 1st | [Paraly](../../players/japanese/paraly.md) :jp: |
 | 2nd | [Azyck](../../players/french/azyck.md) |
 | 3rd | [Skipper](../../players/austrian/skipper.md) |
 | 4th | [Haku](../../players/german/haku.md) |
 | 5th | [filo](../../players/italian/filo.md) |
-| 5th | [Infi](../../players/japanese/infi.md) |
+| 5th | [Infi](../../players/japanese/infi.md) :jp: |
 | 7th | [Aaronash](../../players/italian/aaronash.md) |
 | 7th | Nyl |
 

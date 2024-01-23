@@ -21,13 +21,13 @@ Tier: Major
 
 |Place|Player|
 |-|-|
-|1st|[Eshin](../../players/japanese/eshin.md)|
+|1st|[Eshin](../../players/japanese/eshin.md) :jp:|
 |2nd|[Selow](../../players/french/$elow.md)|
 |3rd|[Eath](../../players/belgian/eath.md)|
 |4th|[Noxyne](../../players/french/noxyne.md)|
 |5th|[Alexisl](../../players/french/alexisl.md)|
 |5th|[Milozaki](../../players/german/milozaki.md)|
-|7th|[as7_9](../../players/japanese/as7_9.md)|
+|7th|[as7_9](../../players/japanese/as7_9.md) :jp:|
 |7th|Neiko|
 |9th|[210aki](../../players/french/210aki.md)|
 |9th|[Jorge Lorenzo](../../players/spanish/jorge.md)|

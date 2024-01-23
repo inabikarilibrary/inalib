@@ -19,7 +19,7 @@ Tier: Major
 
 |Place|Player|
 |-|-|
-|1st|[Infi](../../players/japanese/infi.md)|
+|1st|[Infi](../../players/japanese/infi.md) :jp:|
 |2nd|[Alexisl](../../players/french/alexisl.md)|
 |3rd|[Vivi](../../players/french/vivi.md)|
 |4th|[Luxie](../../players/belgian/luxie.md)|

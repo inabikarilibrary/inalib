@@ -19,7 +19,7 @@ Tier: Minor
 
 |Place|Player|
 |-|-|
-|1st|[Paraly](../../players/japanese/paraly.md)|
+|1st|[Paraly](../../players/japanese/paraly.md) :jp:|
 |2nd|[Caleb](../../players/bulgarian/caleb.md)|
 |3rd|[Kinun](../../players/belgian/kinun.md)|
 |4th|[Rodrift](../../players/peruvian/rodrift.md)|
