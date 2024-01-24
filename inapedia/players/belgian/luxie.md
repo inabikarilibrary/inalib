@@ -7,7 +7,7 @@ as well as arguably the strongest Chain player ever.
 ## Style of Play
 
 Luxie's Chaining is generally standard, with the exception of the use of his signature Beta
-in Vanilla. He is notorious for somehow getting high RNG on his chains a lot of the times.
+in Vanilla. He is notorious for somehow constantly getting high RNG chains.
 
 ## Achievements
 
