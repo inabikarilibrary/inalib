@@ -1,6 +1,7 @@
 ---
 toc: true
 toc_label: "List of Players"
+toc_icon: :busts_in_silhouette:
 ---
 
 # List of Players
