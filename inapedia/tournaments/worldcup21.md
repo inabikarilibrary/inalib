@@ -26,7 +26,7 @@ The tournament was won by **Team Japan**.
 |2nd :2nd_place_medal: | France :fr: | AS / [Shuu](../players/french/nayth.md) / [Cherry](../players/french/cherry.md) / [Mathiuze](../players/french/mathiuze.md) |
 |3rd :3rd_place_medal: | Africa :algeria::congo_kinshasa::cape_verde:| Yaxo / [Aimenz](../players/french/aimenz.md) / [Jin](../players/french/jin.md) / Jemira |
 | 4th | Brazil :brazil: | [Hikky](../players/brazilian/hikky.md) / [Panda](../players/brazilian/panda.md) / MyssBH / Newzin |
-| 5th | Belgium :belgium: | [Luxie](../players/belgian/luxie.md) / Black Escavan / [Eath](../players/belgian/eath.md) |
+| 5th | Belgium :belgium: | [Luxie](../players/belgian/luxie.md) / Black Escavan / [Eath](../players/senegalese/eath.md) |
 | 5th | China :cn: | [Dia](../players/chinese/dia.md) / Ekigiyo / Suzushina Yuriko / [Kiyara](../players/chinese/kiyara.md) |
 | 5th | DACH :de::austria::switzerland: | [Milozaki](../players/german/milozaki.md) / [Kaito](../players/german/zuky.md) / [Skipper](../players/austrian/skipper.md) / [Hakuryuu](../players/german/haku.md) |
 | 5th | Netherlands :netherlands: | SXNC / Dragonblaze / [Marcel](../players/dutch/marcel.md) / [KKOJJGSS](../players/dutch/kkojjgss.md) |

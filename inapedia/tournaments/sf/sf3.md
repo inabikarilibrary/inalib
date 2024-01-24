@@ -24,10 +24,10 @@ Tier: Minor
 |-|-|
 |1st :1st_place_medal:|[Caleb](../../players/bulgarian/caleb.md) :bulgaria:|
 |2nd :2nd_place_medal:|[Luxie](../../players/belgian/luxie.md) :belgium:|
-|3rd :3rd_place_medal:|[Eath](../../players/belgian/eath.md) :belgium:|
+|3rd :3rd_place_medal:|[Eath](../../players/senegalese/eath.md) :senegal:|
 |4th|[Skipper](../../players/austrian/skipper.md) :austria:|
 |5th|[Infi](../../players/japanese/infi.md) :jp:|
-|5th|[Kinun](../../players/belgian/kinun.md) :belgium:|
+|5th|[Kinun](../../players/senegalese/kinun.md) :senegal:|
 |5th|[HiroLachance](../../players/french/vivi.md) :fr:|
 |5th|Bey|
 

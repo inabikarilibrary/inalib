@@ -32,7 +32,7 @@ Watch all the VODs [here](https://www.youtube.com/@Phase5fr).
 |3rd :3rd_place_medal: | Maghreb :morocco::algeria::tunisia::mauritania: | [$elow](../players/french/$elow.md) / [Abdel](../players/french/abdel.md) / [Luxie](../players/belgian/luxie.md) / [Pinguin](../players/french/pinguin.md) / [Saikyoo11](../players/french/saikyoo11.md) |
 | 4th | Southeast Asia :indonesia::vietnam: | [Baamsushi](../players/indonesian/baamsushi.md) / Minh / [Zuky](../players/german/zuky.md) |
 | 5th | China :cn: | [Dia](../players/chinese/dia.md) / [Kiyara](../players/chinese/kiyara.md) / Suzushina / Memex / [matcha](../players/chinese/matcha.md) |
-| 5th | Subsaharan Africa :senegal::cote_divoire::comoros: | [Kinun](../players/belgian/kinun.md) / Banania / [Eath](../players/belgian/eath.md) / [Kev'nox](../players/french/kevnox.md) / [SRAW](../players/french/sraw.md) |
+| 5th | Subsaharan Africa :senegal::cote_divoire::comoros: | [Kinun](../players/senegalese/kinun.md) / Banania / [Eath](../players/senegalese/eath.md) / [Kev'nox](../players/french/kevnox.md) / [SRAW](../players/french/sraw.md) |
 | 5th | Bulgaria :bulgaria: | [Caleb](../players/bulgarian/caleb.md) / Gabo / [Krizo](../players/bulgarian/krizo.md) / Jorito / Yabusosa |
 | 5th | Italy :it: | [Filo](../players/italian/filo.md) / [Aaronash](../players/italian/aaronash.md) / [Giu](../players/italian/giu.md) / Giovix-64 / [marinucci79](../players/italian/marinucci79.md) |
 | 9th | Brazil :brazil: | [Hikky](../players/brazilian/hikky.md) / [jppb2005](../../players/brazilian/jppb2005.md) / [nicolau](../players/brazilian/nicolau.md) / [Panda](../players/brazilian/panda.md) / YeppON |

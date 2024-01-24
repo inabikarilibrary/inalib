@@ -24,7 +24,7 @@ Tier: Major
 |3rd :3rd_place_medal:|[$elow](../../players/french/$elow.md) :fr::tr:|
 |4th|[Aimenz](../../players/french/aimenz.md) :fr:|
 |5th|[Panda](../../players/brazilian/panda.md) :brazil:|
-|5th|[Kinun](../../players/belgian/kinun.md) :belgium:|
+|5th|[Kinun](../../players/senegalese/kinun.md) :senegal:|
 |7th|[Noxyne](../../players/french/noxyne.md) :fr:|
 |7th|[Krizo](../../players/bulgarian/krizo.md) :bulgaria:|
 |9th|[Milozaki](../../players/german/milozaki.md) :de:|

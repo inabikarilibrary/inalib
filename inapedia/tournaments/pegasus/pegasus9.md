@@ -29,7 +29,7 @@ Tier: Major
 |9th|[Hikky](../../players/brazilian/hikky.md) :brazil:|
 |9th|[Zeno](../../players/french/585zeno.md) :fr:|
 |9th|[Azyck](../../players/french/azyck.md) :fr::tr:|
-|9th|[Kinun](../../players/belgian/kinun.md) :belgium:|
+|9th|[Kinun](../../players/senegalese/kinun.md) :senegal:|
 |13th|[SRAW](../../players/french/sraw.md) :fr:|
 |13th|[Noxyne](../../players/french/noxyne.md) :fr:|
 |13th|[Baamsushi](../../players/indonesian/baamsushi.md) :indonesia:|

@@ -1,6 +1,6 @@
 # Kinun
 
-Kinun is a Belgian :belgium: player, maining Nomash.
+Kinun is a Senegalese :senegal: player, maining Nomash.
 
 ## Achievements
 

@@ -15,6 +15,11 @@ toc_label: "List of Players"
 
 - [Yaxo](capeverdean/yaxo.md)
 
+### Senegal :senegal:
+
+- [Eath](senegalese/eath.md)
+- [Kinun](senegalese/kinun.md)
+
 ## Americas
 
 ### Argentina :argentina:
@@ -68,8 +73,6 @@ toc_label: "List of Players"
 
 ### Belgium :belgium:
 
-- [Eath](belgian/eath.md)
-- [Kinun](belgian/kinun.md)
 - [Luxie](belgian/luxie.md)
 
 ### Bulgaria :bulgaria:

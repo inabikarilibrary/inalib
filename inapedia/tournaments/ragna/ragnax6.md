@@ -24,7 +24,7 @@ Tier: Major
 |3rd :3rd_place_medal:|[as7_9](../../players/japanese/as7_9.md) :jp:|
 |4th|[Alexisl](../../players/french/alexisl.md) :fr:|
 |5th|[Eshin](../../players/japanese/eshin.md) :jp:|
-|5th|[Eath](../../players/belgian/eath.md) :belgium:|
+|5th|[Eath](../../players/senegalese/eath.md) :senegal:|
 |7th|[matcha](../../players/chinese/matcha.md) :cn:|
 |7th|[$elow](../../players/french/$elow.md) :fr::tr:|
 |9th|[Baamsushi](../../players/indonesian/baamsushi.md) :indonesia:|
@@ -34,7 +34,7 @@ Tier: Major
 |13th|[Saikyoo11](../../players/french/saikyoo11.md) :fr:|
 |13th|[JohnnyRZ](../../players/spanish/johnny.md) :es:|
 |13th|[Jorge Lorenzo](../../players/spanish/jorge.md) :es:|
-|13th|[Kinun](../../players/belgian/kinun.md) :belgium:|
+|13th|[Kinun](../../players/senegalese/kinun.md) :senegal:|
 
 ### Bracket
 - [Challonge](https://challonge.com/8fy7h14h)

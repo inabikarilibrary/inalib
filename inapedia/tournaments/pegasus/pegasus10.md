@@ -33,7 +33,7 @@ Tier: Major
 |13th|[jppb2005](../../players/brazilian/jppb2005.md) :brazil:|
 |13th|[Dante Froste](../../players/argentinian/dantefroste.md) :argentina:|
 |13th|[Pinguin](../../players/french/pinguin.md) :algeria::fr:|
-|13th|[Eath](../../players/belgian/eath.md) :belgium:|
+|13th|[Eath](../../players/senegalese/eath.md) :senegal:|
 
 ### Bracket
 - [Challonge](https://challonge.com/pegasusstrikers10)

@@ -24,7 +24,7 @@ Tier: Minor
 |3rd :3rd_place_medal:|[Infi](../../players/japanese/infi.md) :jp:|
 |4th|[Haku](../../players/german/haku.md) :de:|
 |5th|[Kobr3X](../../players/polish/kobr3x.md) :poland:|
-|5th|[Eath](../../players/belgian/eath.md) :belgium:|
+|5th|[Eath](../../players/senegalese/eath.md) :senegal:|
 |7th|[Hiro](../../players/french/vivi.md) :fr:|
 |7th|[Lûxie](../../players/belgian/luxie.md) :belgium:|
 

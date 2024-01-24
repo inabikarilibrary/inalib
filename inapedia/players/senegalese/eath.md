@@ -1,6 +1,6 @@
 # Eath
 
-Eath is a Belgian :belgium: player, maining all 3 playstyles.
+Eath is a Senegalese :senegal: player, maining all 3 playstyles.
 
 ## Achievements
 

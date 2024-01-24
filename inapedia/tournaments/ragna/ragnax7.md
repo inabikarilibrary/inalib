@@ -29,7 +29,7 @@ Tier: Major
 |7th|[Skipper](../../players/austrian/skipper.md) :austria:|
 |9th|[Giu](../../players/italian/giu.md) :it:|
 |9th|[Jorge](../../players/spanish/jorge.md) :es:|
-|9th|[Kinun](../../players/belgian/kinun.md) :belgium:|
+|9th|[Kinun](../../players/senegalese/kinun.md) :senegal:|
 |9th|[Haku](../../players/german/haku.md) :de:|
 |13th|[Kobr3X](../../players/polish/kobr3x.md) :poland:|
 |13th|[Trus7t](../../players/italian/trus7t.md) :it:|

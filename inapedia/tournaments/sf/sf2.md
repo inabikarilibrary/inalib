@@ -25,9 +25,9 @@ Tier: Minor
 |1st :1st_place_medal:|[Luxie](../../players/belgian/luxie.md) :belgium:|
 |2nd :2nd_place_medal:|[HiroLachance](../../players/french/vivi.md) :fr:|
 |3rd :3rd_place_medal:|[Mathiuze](../../players/french/mathiuze.md) :fr:|
-|4th|[Eath](../../players/belgian/eath.md) :belgium:|
+|4th|[Eath](../../players/senegalese/eath.md) :senegal:|
 |5th|MrCheeseTalisman|
-|5th|[Kinun](../../players/belgian/kinun.md) :belgium:|
+|5th|[Kinun](../../players/senegalese/kinun.md) :senegal:|
 |5th|[Rodri08](../../players/peruvian/rodrift.md) :peru:|
 |5th|[Caleb](../../players/bulgarian/caleb.md) :bulgaria:|
 

@@ -31,9 +31,9 @@ Tier: Major
 |5th|[Selow](../../players/french/$elow.md) :fr::tr:|
 |7th|[Johnny](../../players/spanish/johnny.md) :es:|
 |7th|[Jorge](../../players/spanish/jorge.md) :es:|
-|9th|[Eath](../../players/belgian/eath.md) :belgium:|
+|9th|[Eath](../../players/senegalese/eath.md) :senegal:|
 |9th|[Haku](../../players/german/haku.md) :de:|
-|9th|[Kinun](../../players/belgian/kinun.md) :belgium:|
+|9th|[Kinun](../../players/senegalese/kinun.md) :senegal:|
 |9th|[Milozaki](../../players/german/milozaki.md) :de:|
 |13th|[Abdel](../../players/french/abdel.md) :fr:|
 |13th|[Ishido](../../players/french/ishido.md) :fr:|
