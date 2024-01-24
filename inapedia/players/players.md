@@ -108,6 +108,7 @@
 
 ### Poland :poland:
 
+- [Bachor](polish/bachor.md)
 - [Kobr3x](polish/kobr3x.md)
 - [terewsant](polish/terewsant.md)
 
