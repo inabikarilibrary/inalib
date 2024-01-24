@@ -1,7 +1,8 @@
 # Milozaki
 
 Milozaki is a German :de: player, maining Chain. 
-He is best known for being a prominent community manager as well as tournament organizer.
+He is best known for being a prominent community manager as well as tournament organizer,
+having founded the Ragnarok server and subsequently the [Ragnarok Strikers](../../tournaments/ragna/ragnamain.md) tournament series.
 
 ## Achievements
 

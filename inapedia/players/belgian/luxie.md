@@ -1,6 +1,8 @@
 # Luxie
 
 Luxie is a Belgian :belgium: player, maining Chain.
+He was at some point considered one of the best players in the world,
+as well as arguably the strongest Chain player ever.
 
 ## Achievements
 

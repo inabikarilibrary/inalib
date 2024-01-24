@@ -1,6 +1,7 @@
 # Pinguin
 
 Pinguin is an Algerian/French :algeria::fr: player, maining Nomash.
+He is also a streamer on Twitch.
 
 ## Achievements
 

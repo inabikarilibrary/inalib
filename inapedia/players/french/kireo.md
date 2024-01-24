@@ -1,6 +1,6 @@
 # Kireo
 
-Kireo is a French :fr: player.
+Kireo is a French :fr: player, maining Chain.
 
 ## Achievements
 
