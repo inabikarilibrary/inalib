@@ -25,9 +25,9 @@ The tournament was won by **Team Japan**.
 
 | Place | Team | Players |
 | - | - | - |
-|:1st_place_medal: 1st | Japan :jp: | [Paraly](../players/japanese/paraly.md) / [Infi](../players/japanese/infi.md) / [Miya](../players/japanese/miya.md) / [as7_9](../players/japanese/as7_9.md) / [Raufuro](../players/japanese/raufuro.md) |
-|:2nd_place_medal: 2nd | France :fr: | [Vivi](../players/french/vivi.md) / [Alexisl](../players/french/alexisl.md) / [Azyck](../players/french/azyck.md) / [Mathiuze](../players/french/mathiuze.md) / [nayth](../players/french/nayth.md) |
-|:3rd_place_medal: 3rd | Maghreb :morocco::algeria::tunisia::mauritania: | [$elow](../players/french/$elow.md) / [Abdel](../players/french/abdel.md) / [Luxie](../players/belgian/luxie.md) / [Pinguin](../players/french/pinguin.md) / [Saikyoo11](../players/french/saikyoo11.md) |
+|1st :1st_place_medal: | Japan :jp: | [Paraly](../players/japanese/paraly.md) / [Infi](../players/japanese/infi.md) / [Miya](../players/japanese/miya.md) / [as7_9](../players/japanese/as7_9.md) / [Raufuro](../players/japanese/raufuro.md) |
+|2nd :2nd_place_medal: | France :fr: | [Vivi](../players/french/vivi.md) / [Alexisl](../players/french/alexisl.md) / [Azyck](../players/french/azyck.md) / [Mathiuze](../players/french/mathiuze.md) / [nayth](../players/french/nayth.md) |
+|3rd :3rd_place_medal: | Maghreb :morocco::algeria::tunisia::mauritania: | [$elow](../players/french/$elow.md) / [Abdel](../players/french/abdel.md) / [Luxie](../players/belgian/luxie.md) / [Pinguin](../players/french/pinguin.md) / [Saikyoo11](../players/french/saikyoo11.md) |
 | 4th | Southeast Asia :indonesia::vietnam: | [Baamsushi](../players/indonesian/baamsushi.md) / Minh / [Zuky](../players/german/zuky.md) |
 | 5th | China :cn: | [Dia](../players/chinese/dia.md) / [Kiyara](../players/chinese/kiyara.md) / Suzushina / Memex / [matcha](../players/chinese/matcha.md) |
 | 5th | Subsaharan Africa :senegal::cote_divoire::comoros: | [Kinun](../players/belgian/kinun.md) / Banania / [Eath](../players/belgian/eath.md) / [Kev'nox](../players/french/kevnox.md) / [SRAW](../players/french/sraw.md) |

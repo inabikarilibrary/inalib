@@ -8,5 +8,5 @@ putting Spain on the map for the first time in the Strikers scene.
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
-| 06/01/2024 |:3rd_place_medal: 3rd | [ZENITH 2](../../tournaments/misc/zenith2.md) | Major |
+| 06/01/2024 |3rd :3rd_place_medal: | [ZENITH 2](../../tournaments/misc/zenith2.md) | Major |
 | 30/07/2023 | 9th | [Inazuma Eleven Strikers World Cup 2023](../../tournaments/worldcup23.md) | World Cup |

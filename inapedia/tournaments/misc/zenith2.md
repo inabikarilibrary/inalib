@@ -23,9 +23,9 @@ Tier: Major
 
 |Place|Player|
 |-|-|
-|:1st_place_medal: 1st|[Lucas](../../players/spanish/lucas.md) :es:|
-|:2nd_place_medal: 2nd|[Alexis](../../players/french/alexisl.md) :fr:|
-|:3rd_place_medal: 3rd|[Unai](../../players/spanish/unaii.md) :es:|
+|1st :1st_place_medal:|[Lucas](../../players/spanish/lucas.md) :es:|
+|2nd :2nd_place_medal:|[Alexis](../../players/french/alexisl.md) :fr:|
+|3rd :3rd_place_medal:|[Unai](../../players/spanish/unaii.md) :es:|
 |4th|[Kev](../../players/french/kevnox.md) :fr:|
 |5th|[Baamsushi](../../players/indonesian/baamsushi.md) :indonesia:|
 |5th|[Selow](../../players/french/$elow.md) :fr::tr:|

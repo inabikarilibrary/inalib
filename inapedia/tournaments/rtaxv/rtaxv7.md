@@ -21,9 +21,9 @@ Tier: Major
 
 |Place|Player|
 |-|-|
-|:1st_place_medal: 1st|[Eshin](../../players/japanese/eshin.md) :jp:|
-|:2nd_place_medal: 2nd|[Selow](../../players/french/$elow.md) :fr::tr:|
-|:3rd_place_medal: 3rd|[Eath](../../players/belgian/eath.md) :belgium:|
+|1st :1st_place_medal:|[Eshin](../../players/japanese/eshin.md) :jp:|
+|2nd :2nd_place_medal:|[Selow](../../players/french/$elow.md) :fr::tr:|
+|3rd :3rd_place_medal:|[Eath](../../players/belgian/eath.md) :belgium:|
 |4th|[Noxyne](../../players/french/noxyne.md) :fr:|
 |5th|[Alexisl](../../players/french/alexisl.md) :fr:|
 |5th|[Milozaki](../../players/german/milozaki.md) :de:|

@@ -19,9 +19,9 @@ Tier: Minor
 
 |Place|Player|
 |-|-|
-|:1st_place_medal:1st|[Azyck](../../players/french/azyck.md) :fr::tr:|
-|:2nd_place_medal:2nd|[Vivi](../../players/french/vivi.md) :fr:|
-|:3rd_place_medal:3rd|[Baptiste](../../players/french/baptiste.md) :fr:|
+|1st :1st_place_medal:|[Azyck](../../players/french/azyck.md) :fr::tr:|
+|2nd :2nd_place_medal:|[Vivi](../../players/french/vivi.md) :fr:|
+|3rd :3rd_place_medal:|[Baptiste](../../players/french/baptiste.md) :fr:|
 |4th|[Alexisl](../../players/french/alexisl.md) :fr:|
 |5th|[Noxyne](../../players/french/noxyne.md) :fr:|
 |5th|[Lûxie](../../players/belgian/luxie.md) :belgium:|

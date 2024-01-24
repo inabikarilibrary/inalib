@@ -13,7 +13,7 @@ Kev'nox is a French :fr: player, maining Nomash.
 | 31/08/2023 | 13th | [Hades Garden #5](../../tournaments/hg/hg5.md) | Major |
 | 08/2023 | 9th | [RTAXV7](../../tournaments/rtaxv/rtaxv7.md) | Major |
 | 30/07/2023 | 5th | [Inazuma Eleven Strikers World Cup 2023](../../tournaments/worldcup23.md) | World Cup |
-| 24/06/2023 |:3rd_place_medal: 3rd | [RTAXV5](../../tournaments/rtaxv/rtaxv5.md) | Minor |
+| 24/06/2023 |3rd :3rd_place_medal: | [RTAXV5](../../tournaments/rtaxv/rtaxv5.md) | Minor |
 | 11/06/2023 | 7th | [Ragnarok Strikers Xtreme #5](../../tournaments/ragna/ragnax5.md) | Major |
 | 04/05/2023 | 13th | [Ragnarok Strikers Xtreme #4](../../tournaments/ragna/ragnax4.md) | Major |
 | 04/03/2023 | 5th | [RTAXV2](../../tournaments/rtaxv/rtaxv2.md) | Minor |

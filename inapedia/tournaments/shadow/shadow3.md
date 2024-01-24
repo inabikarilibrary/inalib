@@ -21,9 +21,9 @@ Tier: Minor
 
 |Place|Player|
 |-|-|
-|:1st_place_medal:1st|[Alexisl](../../players/french/alexisl.md) :fr:|
-|:2nd_place_medal:2nd|Le A|
-|:3rd_place_medal:3rd|[Filo](../../players/italian/filo.md) :it:|
+|1st :1st_place_medal:|[Alexisl](../../players/french/alexisl.md) :fr:|
+|2nd :2nd_place_medal:|Le A|
+|3rd :3rd_place_medal:|[Filo](../../players/italian/filo.md) :it:|
 |4th|[Nagashi](../../players/french/nagashi.md) :fr:|
 |5th|[Ishido](../../players/french/ishido.md) :fr:|
 |5th|[nicolau](../../players/brazilian/nicolau.md) :brazil:|

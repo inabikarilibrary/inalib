@@ -19,9 +19,9 @@ Tier: Major
 
 |Place|Player|
 |-|-|
-|:1st_place_medal: 1st|[Paraly](../../players/japanese/paraly.md) :jp:|
-|:2nd_place_medal: 2nd|[Haku](../../players/german/haku.md) :de:|
-|:3rd_place_medal: 3rd|[$elow](../../players/french/$elow.md) :fr::tr:|
+|1st :1st_place_medal:|[Paraly](../../players/japanese/paraly.md) :jp:|
+|2nd :2nd_place_medal:|[Haku](../../players/german/haku.md) :de:|
+|3rd :3rd_place_medal:|[$elow](../../players/french/$elow.md) :fr::tr:|
 |4th|[Aimenz](../../players/french/aimenz.md) :fr:|
 |5th|[Panda](../../players/brazilian/panda.md) :brazil:|
 |5th|[Kinun](../../players/belgian/kinun.md) :belgium:|

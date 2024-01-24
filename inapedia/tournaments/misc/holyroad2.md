@@ -19,9 +19,9 @@ Tier: Major
 
 |Place|Player|
 |-|-|
-|:1st_place_medal: 1st|[Infi](../../players/japanese/infi.md) :jp:|
-|:2nd_place_medal: 2nd|[Alexisl](../../players/french/alexisl.md) :fr:|
-|:3rd_place_medal: 3rd|[Vivi](../../players/french/vivi.md) :fr:|
+|1st :1st_place_medal:|[Infi](../../players/japanese/infi.md) :jp:|
+|2nd :2nd_place_medal:|[Alexisl](../../players/french/alexisl.md) :fr:|
+|3rd :3rd_place_medal:|[Vivi](../../players/french/vivi.md) :fr:|
 |4th|[Luxie](../../players/belgian/luxie.md) :belgium:|
 |5th|[Azyck](../../players/french/azyck.md) :fr::tr:|
 |5th|[Noxyne](../../players/french/noxyne.md) :fr:|

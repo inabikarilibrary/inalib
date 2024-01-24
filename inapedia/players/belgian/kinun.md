@@ -19,6 +19,6 @@ Kinun is a Belgian :belgium: player, maining Nomash.
 | 23/04/2022 | 4th | [Strikers Frontier #5](../../tournaments/sf/sf5.md) | Major |
 | 17/03/2022 | 5th | [Ragnarok Strikers #3](../../tournaments/ragna/ragna3.md) | Minor |
 | 04/12/2021 | 5th | [Strikers Frontier #3](../../tournaments/sf/sf3.md) | Minor |
-| 14/11/2021 |:3rd_place_medal: 3rd | [Ragnarok Strikers #2](../../tournaments/ragna/ragna2.md) | Minor |
+| 14/11/2021 |3rd :3rd_place_medal: | [Ragnarok Strikers #2](../../tournaments/ragna/ragna2.md) | Minor |
 | 07/11/2021 | 5th | [Strikers Frontier #2](../../tournaments/sf/sf2.md) | Minor |
-| 26/09/2021 |:3rd_place_medal: 3rd | [Strikers Frontier #1](../../tournaments/sf/sf1.md) | Minor |
+| 26/09/2021 |3rd :3rd_place_medal: | [Strikers Frontier #1](../../tournaments/sf/sf1.md) | Minor |

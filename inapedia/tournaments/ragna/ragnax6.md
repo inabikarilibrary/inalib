@@ -19,9 +19,9 @@ Tier: Major
 
 |Place|Player|
 |-|-|
-|:1st_place_medal: 1st|[Paraly](../../players/japanese/paraly.md) :jp:|
-|:2nd_place_medal: 2nd|[Infi](../../players/japanese/infi.md) :jp:|
-|:3rd_place_medal: 3rd|[as7_9](../../players/japanese/as7_9.md) :jp:|
+|1st :1st_place_medal:|[Paraly](../../players/japanese/paraly.md) :jp:|
+|2nd :2nd_place_medal:|[Infi](../../players/japanese/infi.md) :jp:|
+|3rd :3rd_place_medal:|[as7_9](../../players/japanese/as7_9.md) :jp:|
 |4th|[Alexisl](../../players/french/alexisl.md) :fr:|
 |5th|[Eshin](../../players/japanese/eshin.md) :jp:|
 |5th|[Eath](../../players/belgian/eath.md) :belgium:|

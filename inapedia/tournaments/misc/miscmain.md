@@ -11,3 +11,7 @@
 - [ZENITH](zenith1.md)
 
 - [ZENITH 2](zenith2.md)
+
+- [Siege of MUGEN Castel](mugen.md)
+
+- [Grand Celesta](grandcelesta.md)

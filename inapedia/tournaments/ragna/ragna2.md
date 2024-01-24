@@ -19,9 +19,9 @@ Tier: Minor
 
 |Place|Player|
 |-|-|
-|:1st_place_medal: 1st|[Paraly](../../players/japanese/paraly.md) :jp:|
-|:2nd_place_medal: 2nd|[Caleb](../../players/bulgarian/caleb.md) :bulgaria:|
-|:3rd_place_medal: 3rd|[Kinun](../../players/belgian/kinun.md) :belgium:|
+|1st :1st_place_medal:|[Paraly](../../players/japanese/paraly.md) :jp:|
+|2nd :2nd_place_medal:|[Caleb](../../players/bulgarian/caleb.md) :bulgaria:|
+|3rd :3rd_place_medal:|[Kinun](../../players/belgian/kinun.md) :belgium:|
 |4th|[Rodrift](../../players/peruvian/rodrift.md) :peru:|
 |5th|[AS](../../players/french/as.md)|
 |5th|[Eath](../../players/belgian/eath.md) :belgium:|

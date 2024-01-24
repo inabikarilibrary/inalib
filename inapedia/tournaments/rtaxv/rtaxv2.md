@@ -22,9 +22,9 @@ Tier: Minor
 
 |Place|Player|
 |-|-|
-|:1st_place_medal: 1st|[Alexisl](../../players/french/alexisl.md) :fr:|
-|:2nd_place_medal: 2nd|[$elow](../../players/french/$elow.md) :fr::tr:|
-|:3rd_place_medal: 3rd|[Mathiuze](../../players/french/mathiuze.md) :fr:|
+|1st :1st_place_medal:|[Alexisl](../../players/french/alexisl.md) :fr:|
+|2nd :2nd_place_medal:|[$elow](../../players/french/$elow.md) :fr::tr:|
+|3rd :3rd_place_medal:|[Mathiuze](../../players/french/mathiuze.md) :fr:|
 |4th|[SRAW](../../players/french/sraw.md) :fr:|
 |5th|[Kev'nox](../../players/french/kevnox.md) :fr:|
 |5th|[Azyck](../../players/french/azyck.md) :fr::tr:|

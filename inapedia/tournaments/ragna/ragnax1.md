@@ -19,9 +19,9 @@ Tier: Major
 
 |Place|Player|
 |-|-|
-|:1st_place_medal: 1st|[Paraly](../../players/japanese/paraly.md) :jp:|
-|:2nd_place_medal: 2nd|[Caleb](../../players/bulgarian/caleb.md) :bulgaria:|
-|:3rd_place_medal: 3rd|[Miya](../../players/japanese/miya.md) :jp:|
+|1st :1st_place_medal:|[Paraly](../../players/japanese/paraly.md) :jp:|
+|2nd :2nd_place_medal:|[Caleb](../../players/bulgarian/caleb.md) :bulgaria:|
+|3rd :3rd_place_medal:|[Miya](../../players/japanese/miya.md) :jp:|
 |4th|[Lûxie](../../players/belgian/luxie.md) :belgium:|
 |5th|[Noxyne](../../players/french/noxyne.md) :fr:|
 |5th|[Vivi](../../players/french/vivi.md) :fr:|

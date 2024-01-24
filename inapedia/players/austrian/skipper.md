@@ -14,7 +14,7 @@ He was also previously a high-level Chain player.
 | 11/06/2023 | 9th | [Ragnarok Strikers Xtreme #5](../../tournaments/ragna/ragnax5.md) | Major |
 | 12/05/2023 | 5th | [Hades Garden #4](../../tournaments/hg/hg4.md) | Minor |
 | 04/05/2023 | 5th | [Ragnarok Strikers Xtreme #4](../../tournaments/ragna/ragnax4.md) | Major |
-| 27/03/2023 |:3rd_place_medal: 3rd | [Hades Garden #3](../../tournaments/hg/hg3.md) | Minor |
+| 27/03/2023 |3rd :3rd_place_medal: | [Hades Garden #3](../../tournaments/hg/hg3.md) | Minor |
 | 21/02/2023 | 5th | [Ragnarok Strikers Xtreme #3](../../tournaments/ragna/ragnax3.md) | Minor |
 | 01/2023 | 5th | [RTAXV1](../../tournaments/rtaxv/rtaxv1.md) | Minor |
 | 04/12/2022 | 9th | [Ragnarok Strikers Xtreme #2](../../tournaments/ragna/ragnax2.md) | Major |

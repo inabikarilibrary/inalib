@@ -22,9 +22,9 @@ Tier: Minor
 
 |Place|Player|
 |-|-|
-|:1st_place_medal: 1st|[Azyck](../../players/french/azyck.md) :fr::tr:|
-|:2nd_place_medal: 2nd|[Eath](../../players/belgian/eath.md) :belgium:|
-|:3rd_place_medal: 3rd|[$elow](../../players/french/$elow.md) :fr::tr:|
+|1st :1st_place_medal:|[Azyck](../../players/french/azyck.md) :fr::tr:|
+|2nd :2nd_place_medal:|[Eath](../../players/belgian/eath.md) :belgium:|
+|3rd :3rd_place_medal:|[$elow](../../players/french/$elow.md) :fr::tr:|
 |4th|[Milozaki](../../players/german/milozaki.md) :de:|
 |5th|[Ishido](../../players/french/ishido.md) :fr:|
 |5th|[Kinun](../../players/belgian/kinun.md) :belgium:|

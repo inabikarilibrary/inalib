@@ -19,9 +19,9 @@ Tier: Minor
 
 |Place|Player|
 |-|-|
-|:1st_place_medal: 1st|[Miya](../../players/japanese/miya.md) :jp:|
-|:2nd_place_medal: 2nd|[Mathiuze](../../players/french/mathiuze.md) :fr:|
-|:3rd_place_medal: 3rd|[Paraly](../../players/japanese/paraly.md) :jp:|
+|1st :1st_place_medal:|[Miya](../../players/japanese/miya.md) :jp:|
+|2nd :2nd_place_medal:|[Mathiuze](../../players/french/mathiuze.md) :fr:|
+|3rd :3rd_place_medal:|[Paraly](../../players/japanese/paraly.md) :jp:|
 |4th|[Hiro](../../players/french/vivi.md) :fr:|
 |5th|[Rodbeast](../../players/peruvian/rodrift.md) :peru:|
 |5th|[Haku](../../players/german/haku.md) :de:|
