@@ -2,7 +2,7 @@
 
 ## International
 
-- [Ragnarok](https://discord.gg/Q86CRCNmcX)
+- [RAGNAROK](https://discord.gg/Q86CRCNmcX)
   
 - [Xtreme Mod](https://discord.gg/cH8Xd3mjQ6)
 

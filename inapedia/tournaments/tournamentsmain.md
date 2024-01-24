@@ -4,9 +4,9 @@
   
 - [World Cup 2021](worldcup21.md)
   
-- [Ragnarok Strikers](ragna/ragnamain.md)
+- [RAGNAROK Strikers](ragna/ragnamain.md)
   
-- [Ragnarok Strikers Xtreme](ragna/ragnaxmain.md)
+- [RAGNAROK Strikers Xtreme](ragna/ragnaxmain.md)
   
 - [Hades Garden](hg/hgmain.md)
   
