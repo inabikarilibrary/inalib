@@ -15,6 +15,7 @@ Eath is a Belgian :belgium: player, maining all 3 playstyles.
 | 07/2023 | 4th | [Orfeo Inazuma Strikers World Cup 2023 Warm Up](../../tournaments/misc/orfeowc.md) | Major |
 | 24/06/2023 |1st :1st_place_medal: | [RTAXV5](../../tournaments/rtaxv/rtaxv5.md) | Minor |
 | 16/06/2023 |2nd :2nd_place_medal: | [RTAXV4](../../tournaments/rtaxv/rtaxv4.md) | Minor |
+| 26/08/2022 | 13th | [PEGASUS STRIKERS #10](../../tournaments/pegasus/pegasus10.md) | Major |
 | 04/12/2021 |3rd :3rd_place_medal: | [Strikers Frontier #3](../../tournaments/sf/sf3.md) | Minor |
 | 14/11/2021 | 5th | [Ragnarok Strikers #2](../../tournaments/ragna/ragna2.md) | Minor |
 | 07/11/2021 | 4th | [Strikers Frontier #2](../../tournaments/sf/sf2.md) | Minor |

@@ -17,4 +17,5 @@ Baptiste is a French :fr: player, maining Nomash.
 | 08/10/2022 |3rd :3rd_place_medal: | [Shadow Xtreme Strikers #1](../../tournaments/shadow/shadow1.md) | Minor |
 | 02/10/2022 | 13th | [Ragnarok Strikers Xtreme #1](../../tournaments/ragna/ragnax1.md) | Major |
 | 16/09/2022 | 5th | [Area Holy Road #2](../../tournaments/misc/holyroad2.md) | Major |
+| 26/08/2022 | 9th | [PEGASUS STRIKERS #10](../../tournaments/pegasus/pegasus10.md) | Major |
 

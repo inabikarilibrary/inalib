@@ -26,6 +26,7 @@ He is also a well known content creator within the competitive scene.
 | 04/12/2022 | 4th | [Ragnarok Strikers Xtreme #2](../../tournaments/ragna/ragnax2.md) | Major |
 | 02/10/2022 | 7th | [Ragnarok Strikers Xtreme #1](../../tournaments/ragna/ragnax1.md) | Major |
 | 16/09/2022 | 9th | [Area Holy Road #2](../../tournaments/misc/holyroad2.md) | Major |
+| 26/08/2022 | 5th | [PEGASUS STRIKERS #10](../../tournaments/pegasus/pegasus10.md) | Major | 
 | 24/07/2022 |2nd :2nd_place_medal: | [Ragnarok Strikers #5](../../tournaments/ragna/ragna5.md) | Major |
 | 08/07/2022 | 4th | [PEGASUS STRIKERS #9](../../tournaments/pegasus/pegasus9.md) |
 | 13/04/2022 | 9th | [Ragnarok Strikers #4](../../tournaments/ragna/ragna4.md) | Major |
