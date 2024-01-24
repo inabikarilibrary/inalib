@@ -34,5 +34,6 @@ His playstyle is characteristic of the aggressive French style.
 | 02/10/2022 | 7th | [Ragnarok Strikers Xtreme #1](../../tournaments/ragna/ragnax1.md) | Major |
 | 16/09/2022 |2nd :2nd_place_medal: | [Area Holy Road #2](../../tournaments/misc/holyroad2.md) | Major | 
 | 24/07/2022 | 9th | [Ragnarok Strikers #5](../../tournaments/ragna/ragna5.md) | Major |
+| 08/07/2022 | 7th | [PEGASUS STRIKERS #3](../../tournaments/pegasus/pegasus9.md) | Major |
 | 13/06/2022 | 9th | [Ragnarok Strikers #4](../../tournaments/ragna/ragna4.md) | Major |
 

@@ -14,4 +14,5 @@ She is also a prominent leader and content creator in the Brazilian community.
 | 02/10/2022 | 13th | [Ragnarok Strikers Xtreme #1](../../tournaments/ragna/ragnax1.md) | Major |
 | 16/09/2022 | 9th | [Area Holy Road #2](../../tournaments/misc/holyroad2.md) | Major |
 | 24/07/2022 | 13th | [Ragnarok Strikers #5](../../tournaments/ragna/ragna5.md) | Major |
+| 08/07/2022 | 9th | [PEGASUS STRIKERS #3](../../tournaments/pegasus/pegasus9.md) | Major |
 | 07/2021 | 4th | [Inazuma Eleven Strikers World Cup 2021](../../tournaments/worldcup21.md) | World Cup |

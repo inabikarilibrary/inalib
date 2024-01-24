@@ -10,3 +10,4 @@
 | 11/06/2023 | 9th | [Ragnarok Strikers Xtreme #5](../../tournaments/ragna/ragnax5.md) | Major |
 | 04/12/2022 | 7th | [Ragnarok Strikers Xtreme #2](../../tournaments/ragna/ragnax2.md) | Major |
 | 16/09/2022 | 9th | [Area Holy Road #2](../../tournaments/misc/holyroad2.md) | Major |
+| 08/07/2022 | 9th | [PEGASUS STRIKERS #3](../../tournaments/pegasus/pegasus9.md) | Major |

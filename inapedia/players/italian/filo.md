@@ -17,4 +17,5 @@ they are considered the best in Italy.
 | 27/03/2023 | 5th | [Hades Garden #3](../../tournaments/hg/hg3.md) | Minor |
 | 21/02/2023 |3rd :3rd_place_medal: | [Ragnarok Strikers Xtreme #3](../../tournaments/ragna/ragnax3.md) | Major |
 | 04/02/2023 |3rd :3rd_place_medal: | [Shadow Xtreme Strikers #3](../../tournaments/shadow/shadow3.md) | Minor |
+| 08/07/2022 | 13th | [PEGASUS STRIKERS #3](../../tournaments/pegasus/pegasus9.md) | Major |
 

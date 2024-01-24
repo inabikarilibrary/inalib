@@ -13,3 +13,4 @@ SRAW is a French :fr: player, maining Nomash.
 | 04/03/2023 | 4th | [RTAXV2](../../tournaments/rtaxv/rtaxv2.md) | Minor |
 | 13/01/2023 |3rd :3rd_place_medal: | [Shadow Xtreme Strikers #2](../../tournaments/shadow/shadow2.md) | Minor |
 | 08/10/2022 | 7th | [Shadow Xtreme Strikers #1](../../tournaments/shadow/shadow1.md) | Minor |
+| 08/07/2022 | 13th | [PEGASUS STRIKERS #3](../../tournaments/pegasus/pegasus9.md) | Major |
