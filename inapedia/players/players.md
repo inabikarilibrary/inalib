@@ -1,8 +1,66 @@
-# List of Players by Country
+---
+toc: true
+toc_label: "List of Players"
+---
+
+# List of Players
+
+## Africa
+
+### Algeria :algeria:
+
+- [Pinguin](french/pinguin.md)
+
+### Cape Verde :cape_verde:
+
+- [Yaxo](capeverdean/yaxo.md)
+
+## Americas
 
 ### Argentina :argentina:
 
 - [Dante Froste](argentinian/dantefroste.md)
+
+### Brazil :brazil:
+
+- [Hikky](brazilian/hikky.md)
+- [jppb2005](brazilian/jppb2005.md)
+- [nicolau](brazilian/nicolau.md)
+- [Panda](brazilian/panda.md)
+
+### Colombia :colombia:
+
+- [Dani11](colombian/dani11.md)
+
+### Peru :peru:
+
+- [Rodrift](peruvian/rodrift.md)
+
+## Asia
+
+### China :cn:
+
+- [Chuck Jason](chinese/chuckjason.md)
+- [Dia](chinese/dia.md)
+- [Kiyara](chinese/kiyara.md)
+- [matcha](chinese/matcha.md)
+
+### Indonesia :indonesia:
+
+- [Baamsushi](indonesian/baamsushi.md)
+
+### Japan :jp:
+
+- [as7_9](japanese/as7_9.md)
+- [Eshin](japanese/eshin.md)
+- [Infi](japanese/infi.md)
+- [katu6](japanese/katu6.md)
+- [Miya](japanese/miya.md)
+- [Paraly](japanese/paraly.md)
+- [Rai](japanese/rai.md)
+- [Raufuro](japanese/raufuro.md)
+
+## Europe
 
 ### Austria :austria:
 
@@ -14,27 +72,10 @@
 - [Kinun](belgian/kinun.md)
 - [Luxie](belgian/luxie.md)
 
-### Brazil :brazil:
-
-- [Hikky](brazilian/hikky.md)
-- [nicolau](brazilian/nicolau.md)
-- [Panda](brazilian/panda.md)
-
 ### Bulgaria :bulgaria:
 
 - [Caleb](bulgarian/caleb.md)
 - [Krizo](bulgarian/krizo.md)
-
-### China :cn:
-
-- [Chuck Jason](chinese/chuckjason.md)
-- [Dia](chinese/dia.md)
-- [Kiyara](chinese/kiyara.md)
-- [matcha](chinese/matcha.md)
-
-### Colombia :colombia:
-
-- [Dani11](colombian/dani11.md)
 
 ### France :fr:
 
@@ -75,10 +116,6 @@
 - [Milozaki](german/milozaki.md)
 - [Zuky](german/zuky.md)
 
-### Indonesia :indonesia:
-
-- [Baamsushi](indonesian/baamsushi.md)
-
 ### Italy :it:
 
 - [Aaronash](italian/aaronash.md)
@@ -87,24 +124,9 @@
 - [marinucci79](italian/marinucci79.md)
 - [Trus7t](italian/trus7t.md)
 
-### Japan :jp:
-
-- [as7_9](japanese/as7_9.md)
-- [Eshin](japanese/eshin.md)
-- [Infi](japanese/infi.md)
-- [katu6](japanese/katu6.md)
-- [Miya](japanese/miya.md)
-- [Paraly](japanese/paraly.md)
-- [Rai](japanese/rai.md)
-- [Raufuro](japanese/raufuro.md)
-
 ### Luxembourg :luxembourg:
 
 - [Wawa](luxembourger/wawa.md)
-
-### Peru :peru:
-
-- [Rodrift](peruvian/rodrift.md)
 
 ### Poland :poland:
 
@@ -128,3 +150,8 @@
 
 - [KKOJJGSS](dutch/kkojjgss.md)
 - [Marcel](dutch/marcel.md)
+
+### Turkey :tr:
+
+- [$elow](french/$elow.md)
+- [Azyck](french/azyck.md)
