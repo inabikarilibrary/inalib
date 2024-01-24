@@ -24,7 +24,7 @@ Body --- Speed
 
 Control --- Catch
 
-###### [Return](https://inabikarilibrary.github.io/inalib/guides/fundamentals.html)
 
-###### [Home](https://inabikarilibrary.github.io/inalib/)
+
+
 

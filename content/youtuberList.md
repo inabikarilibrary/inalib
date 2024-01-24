@@ -30,6 +30,3 @@
 - [Pinguin (French)](https://www.twitch.tv/pinguinsann)
 
 - [Haku (German)](https://www.twitch.tv/haku_ie)
-
-
-###### [Return](/index.md)

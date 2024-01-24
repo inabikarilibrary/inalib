@@ -7,7 +7,7 @@ There are 3 different playstyles that exist in competitive:
 
 Each of these have their own strengths and team compositions, and they are all viable even at the highest level of competition. 
 
-###### [Return](https://inabikarilibrary.github.io/inalib/guides/fundamentals.html)
 
-###### [Home](https://inabikarilibrary.github.io/inalib/)
+
+
 

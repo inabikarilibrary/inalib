@@ -76,7 +76,3 @@ As such, it is a beginner-friendly playstyle, while still being viable at the hi
 
 Chain is common from the lowest skill level up to a middle/middle-upper skill level, 
 beyond which Nomash and Hybrid make up the majority as they are seen as more reliable and “skilled” playstyles. 
-
-###### [Return](https://inabikarilibrary.github.io/inalib/guides/textF/overviewps.html)
-
-###### [Home](https://inabikarilibrary.github.io/inalib/)

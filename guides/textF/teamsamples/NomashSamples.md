@@ -35,8 +35,3 @@ due to it being the key strength of the strat.
 During halftime, swap Hakuryuu out for a strong dribbler like Shuu or Tenmas Tenma. However, if you believe you are skilled enough to play hybrid, you can keep him in
 and use him as a chainer once his miximax runs out. You may also give Shuu the shooting move 'Sword Excalibur' to use together with Hakuryuu, as it is an extremely
 powerful shoot that can score against many goalkeepers. 
-
-
-###### [Return](https://inabikarilibrary.github.io/inalib/guides/textF/teamsample.html)
-
-###### [Home](https://inabikarilibrary.github.io/inalib/)

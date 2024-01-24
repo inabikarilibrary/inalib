@@ -36,6 +36,6 @@ It is often recommended to understand both playstyles at a high level first befo
 
 There are very few Hybrid users from the beginner to middle skill range, and it is mostly used in upper-middle levels and above. 
 
-###### [Return](https://inabikarilibrary.github.io/inalib/guides/textF/overviewps.html)
 
-###### [Home](https://inabikarilibrary.github.io/inalib/)
+
+

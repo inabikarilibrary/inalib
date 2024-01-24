@@ -23,7 +23,3 @@
 ## Japanese
 
 - [JPNイナスト窓](https://discord.gg/D2XsqCagAw)
-
-
-
-###### [Return](https://inabikarilibrary.github.io/inalib/)

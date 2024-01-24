@@ -34,7 +34,3 @@ During halftime, substitute Shindou with Fideo and play as normal.
 <img width="600" alt="3x gouenji" src="https://user-images.githubusercontent.com/110833255/227714862-89cd7451-e8c7-4f91-bd90-ed96b4cf5cce.png">
 
 As the name suggests, this team uses 3 Gouenjis as the front 3: 1st Raimon Gouenji, Fifth Sector Gouenji (Ishido), and Legend Japan Gouenji. This strat involves brute forcing your way through the enemy defense and goalkeeper. R1 Gouenji's S charging time allows for 2x/3x chains through the middle to be done more often, which allows the final shot to be strong enough to beat even Endou and Shinsuke, Gouenji's counters. Even a Gamma Strike into Maximum Fire can be enough to score against Endou and Shinsuke with decent rng. 
-
-###### [Return](https://inabikarilibrary.github.io/inalib/guides/textF/teamsample.html)
-
-###### [Home](https://inabikarilibrary.github.io/inalib/)

@@ -44,7 +44,3 @@ they play a large factor in determining the strength and viability of a player.
 
 The list of charge profiles and charge times of each player in the game can be found in the complete database here: 
 [Complete Database](https://docs.google.com/spreadsheets/d/1-wqtP8WlF6WeK71Gd3IHHqZsekycYrZYSfF4eKlCP1E/edit#gid=1187411320)
-
-###### [Return](https://inabikarilibrary.github.io/inalib/guides/fundamentals.html)
-
-###### [Home](https://inabikarilibrary.github.io/inalib/)
