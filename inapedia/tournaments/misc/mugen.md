@@ -22,7 +22,7 @@ Tier: Minor
 |1st:1st_place_medal:|[Infi](../../players/japanese/infi.md) :jp:|
 |2nd:2nd_place_medal:|[$elow](../../players/french/$elow.md) :fr::tr:|
 |3rd:3rd_place_medal:|[Jorge Lorenzo](../../players/spanish/jorge.md) :es:|
-|4th|[Chuck Jason](../../players/chinese/chuckjason.md) :hk:|
+|4th|[Chuck Jason](../../players/chinese/chuckjason.md) :hong_kong:|
 |5th|[210aki](../../players/french/210aki.md) :fr:|
 |5th|[Miya](../../players/japanese/miya.md) :jp:|
 |7th|[Giu](../../players/italian/giu.md) :it:|
