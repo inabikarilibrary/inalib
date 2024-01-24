@@ -17,6 +17,7 @@ top Japanese player was participating.
 | 01/2023 |1st :1st_place_medal: | [RTAXV1](../../tournaments/rtaxv/rtaxv1.md) | Minor |
 | 08/10/2022 |2nd :2nd_place_medal: | [Shadow Xtreme Strikers #1](../../tournaments/shadow/shadow1.md) | Minor |
 | 02/10/2022 | 5th | [Ragnarok Strikers Xtreme #1](../../tournaments/ragna/ragnax1.md) | Major |
+| 17/09/2022 | 5th | [PEGASUS STRIKERS XTREME](../../tournaments/pegasus/pegasusx.md) | Major |
 | 16/09/2022 |3rd :3rd_place_medal: | [Area Holy Road #2](../../tournaments/misc/holyroad2.md) | Major |
 | 26/08/2022 | 5th | [PEGASUS STRIKERS #10](../../tournaments/pegasus/pegasus10.md) | Major | 
 | 08/07/2022 |2nd :2nd_place_medal: | [PEGASUS STRIKERS #9](../../tournaments/pegasus/pegasus9.md) |

@@ -19,6 +19,7 @@ His rivalry with [Miya](miya.md) characterized an era of dominance between the t
 | 21/02/2023 | 1st :1st_place_medal: | [Ragnarok Strikers Xtreme #3](../../tournaments/ragna/ragnax3.md) | Minor |
 | 04/12/2022 | 2nd :2nd_place_medal: | [Ragnarok Strikers Xtreme #2](../../tournaments/ragna/ragnax2.md) | Major |
 | 02/10/2022 | 1st :1st_place_medal: | [Ragnarok Strikers Xtreme #1](../../tournaments/ragna/ragnax1.md) | Major |
+| 17/09/2022 |1st :1st_place_medal: | [PEGASUS STRIKERS XTREME](../../tournaments/pegasus/pegasusx.md) | Major |
 | 26/08/2022 |3rd :3rd_place_medal: | [PEGASUS STRIKERS #10](../../tournaments/pegasus/pegasus10.md) | Major | 
 | 24/07/2022 | 1st :1st_place_medal: | [Ragnarok Strikers #5](../../tournaments/ragna/ragna5.md) | Major |
 | 13/06/2022 | 1st :1st_place_medal: | [Ragnarok Strikers #4](../../tournaments/ragna/ragna4.md) | Major |

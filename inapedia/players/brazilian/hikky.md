@@ -12,6 +12,7 @@ She is also a prominent leader and content creator in the Brazilian community.
 | 04/05/2023 | 5th | [Ragnarok Strikers Xtreme #4](../../tournaments/ragna/ragnax4.md) | Major |
 | 21/02/2023 | 7th | [Ragnarok Strikers Xtreme #3](../../tournaments/ragna/ragnax3.md) | Minor |
 | 02/10/2022 | 13th | [Ragnarok Strikers Xtreme #1](../../tournaments/ragna/ragnax1.md) | Major |
+| 17/09/2022 | 9th | [PEGASUS STRIKERS XTREME](../../tournaments/pegasus/pegasusx.md) | Major |
 | 16/09/2022 | 9th | [Area Holy Road #2](../../tournaments/misc/holyroad2.md) | Major |
 | 24/07/2022 | 13th | [Ragnarok Strikers #5](../../tournaments/ragna/ragna5.md) | Major |
 | 08/07/2022 | 9th | [PEGASUS STRIKERS #3](../../tournaments/pegasus/pegasus9.md) | Major |

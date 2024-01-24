@@ -1,4 +1,4 @@
-# PEGASUS XTREME
+# PEGASUS STRIKERS XTREME
 
 PEGASUS STRIKERS XTREME was the eleventh edition of the [PEGASUS STRIKERS](pegasusmain.md)
 tournament series. It was renamed to indicate the use of the newly released Xtreme mod. 
