@@ -12,3 +12,4 @@ He was part of the "old generation" of French players.
 | 30/07/2023 |2nd :2nd_place_medal: | [Inazuma Eleven Strikers World Cup 2023](../../tournaments/worldcup23.md) | World Cup |
 | 13/06/2022 | 4th | [Ragnarok Strikers #4](../../tournaments/ragna/ragna4.md) | Major |
 | 07/2021 |2nd :2nd_place_medal: | [Inazuma Eleven Strikers World Cup 2021](../../tournaments/worldcup21.md) | World Cup |
+| 04/07/3030 | 2nd :2nd_place_medal: | [PEGASUS STRIKERS #3](../../tournaments/pegasus/pegasus3.md) |
