@@ -4,6 +4,13 @@ Paraly is a Japanese :jp: player, maining all 3 playstyles.
 As the most decorated player in the scene's history, he is widely considered to be the best player of all time. 
 His rivalry with [Miya](miya.md) characterized an era of dominance between the two.
 
+## Style of Play
+
+Among his many great strengths, Paraly's biggest advantage is likely his ability to pilot
+every single playstyle at the highest level: he can play just about every team possible. This enables him to be extremely adaptable in his gameplay, constantly changing his team and strategy throughout a tournament run. 
+Subsequently, this prevents his opponents from preparing counterstrats, resulting in a matchup
+that is, at worse, neutral for him.
+
 ## Achievements
 
 | Date | Place | Tournament | Tier | 

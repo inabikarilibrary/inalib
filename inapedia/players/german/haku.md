@@ -4,6 +4,14 @@ Haku is a German :de: player, maining all 3 playstyles.
 He is one of the few remaining Side Nomash players.
 He is also a well known content creator within the competitive scene.
 
+## Style of Play
+
+Haku is a well-rounded player, capable of playing many different styles. 
+His pre-game preparation is notable, as he has the tendency to create effective counterstrats
+against his opponents.
+
+His Nomash involves lots of side nomash techniques, such as the classic Uranus Shots and High Jumps.
+
 ## Achievements
 
 | Date | Place | Tournament | Tier |

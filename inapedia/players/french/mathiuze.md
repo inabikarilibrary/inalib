@@ -4,6 +4,10 @@ Mathiuze is a French :fr: player, maining Chain. He is notably one of the few
 Chain players in France.
 He was part of the "old generation" of French players.
 
+## Style of Play
+
+Mathiuze follows a very standard style of Chain, as did most other Chainers of his generation.
+
 ## Achievements
 
 | Date | Place | Tournament | Tier |

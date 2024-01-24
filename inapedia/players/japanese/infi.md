@@ -1,7 +1,19 @@
 # Infi
 
-Infi is a Japanese :jp: player. 
+Infi is a Japanese :jp: player, maining all 3 playstyles. 
 He is known for his slow and methodical playstyle, and is often considered as one of the best players in the world. 
+
+## Style of Play
+
+Slow and methodical, Infi's gameplay is the definition of textbook. His game knowledge is unparalleled, knowing every little detail and interaction by heart. 
+He incorporates this into the game by committing to decisions others would be unsure of and
+pushing the game's mechanics to its absolute limits.
+
+His Nomash is distinct from the majority of other Nomashers today, with a heavy emphasis on 
+side nomash techniques, most notably the Kamui. In that regard, Infi is also extremely proficient with Kirafi compositions.
+
+Defensively, Infi is very patient and always cautious with his gauge usage, often opting not
+to initiate his circle until the last moment.
 
 ## Achievements
 

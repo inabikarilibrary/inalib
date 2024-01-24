@@ -4,6 +4,11 @@ Luxie is a Belgian :belgium: player, maining Chain.
 He was at some point considered one of the best players in the world,
 as well as arguably the strongest Chain player ever.
 
+## Style of Play
+
+Luxie's Chaining is generally standard, with the exception of the use of his signature Beta
+in Vanilla. He is notorious for somehow getting high RNG on his chains a lot of the times.
+
 ## Achievements
 
 |Date|Place|Tournament|Tier|

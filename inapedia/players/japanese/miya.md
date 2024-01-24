@@ -5,6 +5,12 @@ His gameplay is characterized by his aggression and speed.
 He was considered one of the strongest players in the world for a long period of time.
 His rivalry with [Paraly](paraly.md) characterized an era of dominance between the two.
 
+## Style of Play
+
+Unlike his other Japanese peers, Miya is the opposite of slow and patient.
+His offense moves at breakneck speed more similar to that of the French or Chinese,
+forcing through his opponent's defenses, often with brute force.  
+
 ## Achievements
 
 | Date | Place | Tournament | Tier |

@@ -5,6 +5,15 @@ He is considered the godfather of the French playstyle, having pioneered
 the aggressive and dash-heavy Nomash that is the norm in France today.
 He was part of the "old generation" of French players.
 
+## Style of Play
+
+As the progenitor of the French style, nayth utilizes fast attacks and dashing
+to constantly be in the face of his opponent. His signature use of DSBs to score
+was also passed down and heavily used by the next generation of French players.
+
+He is also known for being easily titled in-game, with the most notable incident being
+his infamous rage quit at the 2021 World Cup Finals.
+
 ## Achievements
 
 | Date | Place | Tournament | Tier |
