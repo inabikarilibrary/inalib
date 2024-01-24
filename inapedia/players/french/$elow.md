@@ -11,6 +11,7 @@ His playstyle is characteristic of the aggressive French style.
 | 19/11/2023 |3rd :3rd_place_medal: | [Ragnarok Strikers Xtreme #7](../../tournaments/ragna/ragnax7.md) | Major |
 | 29/10/2023 |3rd :3rd_place_medal: | [ZENITH](../../tournaments/misc/zenith1.md) | Major |
 | 06/10/2023 |3rd :3rd_place_medal: | [Hades Garden #6](../../tournaments/hg/hg6.md) | Major |
+| 22/09/2023 | 2nd :2nd_place_medal: | [Siege of MUGEN Castle](../../tournaments/misc/mugen.md) | Minor |
 | 07/09/2023 | 7th | [Ragnarok Strikers Xtreme #6](../../tournaments/ragna/ragnax6.md) | Major |
 | 31/08/2023 | 5th | [Hades Garden #5](../../tournaments/hg/hg5.md) | Major |
 | 08/2023 |2nd :2nd_place_medal: | [RTAXV7](../../tournaments/rtaxv/rtaxv7.md) | Major |

@@ -34,7 +34,7 @@ The tournament was won by **Team Japan**.
 | 5th | Bulgaria :bulgaria: | [Caleb](../players/bulgarian/caleb.md) / Gabo / [Krizo](../players/bulgarian/krizo.md) / Jorito / Yabusosa |
 | 5th | Italy :it: | [Filo](../players/italian/filo.md) / [Aaronash](../players/italian/aaronash.md) / [Giu](../players/italian/giu.md) / Giovix-64 / [marinucci79](../players/italian/marinucci79.md) |
 | 9th | Brazil :brazil: | [Hikky](../players/brazilian/hikky.md) / jppb2005 / [nicolau](../players/brazilian/nicolau.md) / [Panda](../players/brazilian/panda.md) / YeppON |
-| 9th | Poland :poland: | [Kobr3X](../players/polish/kobr3x.md) / Bachor / Kazuma Ito / Skrecik / [terewsant](../players/polish/terewsant.md) |
+| 9th | Poland :poland: | [Kobr3X](../players/polish/kobr3x.md) / [Bachor](../players/polish/bachor.md) / Kazuma Ito / Skrecik / [terewsant](../players/polish/terewsant.md) |
 | 9th | DACH :de::austria::switzerland: | [Milozaki](../players/german/milozaki.md) / [Dani11](../players/colombian/dani11.md) / [Skipper](../players/austrian/skipper.md) / [Haku](../players/german/haku.md) / Kaiser |
 | 9th | Spain :es: | Teca / [Jorge Lorenzo](../players/spanish/jorge.md) / Naka / Polakito / [Unaii](../players/spanish/unaii.md) |
 | 13th | Latin America :peru::argentina::guadeloupe::martinique:| [Rodrift](../players/peruvian/rodrift.md) / [SpaceGenesis](../players/french/spacegenesis.md) / [Dante Froste](../players/argentinian/dantefroste.md) / [585zeno](../players/french/585zeno.md) / [Killian11](../players/french/killian11.md) |

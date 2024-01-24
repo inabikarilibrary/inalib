@@ -7,9 +7,11 @@ Jorge Lorenzo is a Spanish :es: player, maining Nomash.
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
 | 06/01/2024 | 7th | [ZENITH 2](../../tournaments/misc/zenith2.md) | Major |
+| 01/01/2024 | 7th | [Grand Celesta](../../tournaments/misc/grandcelesta.md) | Minor |
 | 19/11/2023 | 9th | [Ragnarok Strikers Xtreme #7](../../tournaments/ragna/ragnax7.md) | Major |
 | 29/10/2023 | 9th | [ZENITH](../../tournaments/misc/zenith1.md) | Major |
 | 06/10/2023 | 9th | [Hades Garden #6](../../tournaments/hg/hg6.md) | Major |
+| 22/09/2023 | 3rd :3rd_place_medal: | [Siege of MUGEN Castle](../../tournaments/misc/mugen.md) | Minor |
 | 07/09/2023 | 13th | [Ragnarok Strikers Xtreme #6](../../tournaments/ragna/ragnax6.md) | Major |
 | 08/2023 | 9th | [RTAXV7](../../tournaments/rtaxv/rtaxv7.md) | Major |
 | 30/07/2023 | 9th | [Inazuma Eleven Strikers World Cup 2023](../../tournaments/worldcup23.md) | World Cup |

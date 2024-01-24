@@ -1,14 +1,14 @@
-# Siege of MUGEN Castle
+# Grand Celesta
 
-Siege of MUGEN Castle was a tournament held in the MUGEN discord server.
-29 players participated. 
+Grand Celesta was a tournament held in the Grand Celesta discord server.
+32 players participated. 
 
 Tier: Minor
 
 ## Overview
 
 ### Schedule
-- September 2, 2023 to September 22, 2023
+- December 18, 2023 to January 1, 2024
 
 ### Format
 - Standard rules

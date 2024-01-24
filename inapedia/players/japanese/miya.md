@@ -9,6 +9,7 @@ His rivalry with [Paraly](paraly.md) characterized an era of dominance between t
 
 | Date | Place | Tournament | Tier |
 | - | - | - | - |
+| 22/09/2023 | 5th | [Siege of MUGEN Castle](../../tournaments/misc/mugen.md) | Minor |
 | 31/08/2023 |2nd :2nd_place_medal: | [Hades Garden #5](../../tournaments/hg/hg5.md) | Major |
 | 30/07/2023 |1st :1st_place_medal: | [Inazuma Eleven Strikers World Cup 2023](../../tournaments/worldcup23.md) | Major |
 | 11/06/2023 |2nd :2nd_place_medal: | [Ragnarok Strikers Xtreme #5](../../tournaments/ragna/ragnax5.md) | Major |
