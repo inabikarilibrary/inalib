@@ -1,6 +1,6 @@
 # Backdraft V2
 
-Backdraft V2 was the second edition of the [Lemonade Backdraft](bdmain.md) tournament series.
+Backdraft V2 was the second edition of the [Lemonade Backdraft](bdmain.md) tournament series. The league system was not applied here.
 10 players participated.
 
 Tier: National :brazil:
@@ -8,11 +8,12 @@ Tier: National :brazil:
 ## Overview
 
 ### Schedule
-- 
+- September 2019
 
 ### Format
 - Lemonade draft rules
 - Groups of 5
+    - Single Round Robin 
     - Top 4 advances to Final Stage
 - Final Stage
     - Single Elimination

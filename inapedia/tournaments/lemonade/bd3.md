@@ -1,6 +1,6 @@
 # Backdraft V3
 
-Backdraft V3 was the third edition of the [Lemonade Backdraft](bdmain.md) tournament series.
+Backdraft V3 was the third edition of the [Lemonade Backdraft](bdmain.md) tournament series. The league system was not applied here.
 21 players participated.
 
 Tier: National :brazil:
@@ -8,7 +8,7 @@ Tier: National :brazil:
 ## Overview
 
 ### Schedule
-- 
+- June 2020
 
 ### Format
 - Lemonade draft rules

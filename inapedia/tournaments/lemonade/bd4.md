@@ -1,6 +1,6 @@
 # Backdraft V4
 
-Backdraft V4 was the fourth edition of the [Lemonade Backdraft](bdmain.md) tournament series.
+Backdraft V4 was the fourth edition of the [Lemonade Backdraft](bdmain.md) tournament series. Results from this combined tournament were used to determine who would be placed in the next Goujin league.
 23 players participated.
 
 Tier: National :brazil:
@@ -8,7 +8,7 @@ Tier: National :brazil:
 ## Overview
 
 ### Schedule
-- 
+- March 2021
 
 ### Format
 - Lemonade draft rules

@@ -1,6 +1,6 @@
 # Backdraft
 
-Backdraft was the first edition of the [Lemonade Backdraft](bdmain.md) tournament series.
+Backdraft was the first edition of the [Lemonade Backdraft](bdmain.md) tournament series. The league system was not applied here.
 16 players participated.
 
 Tier: National :brazil:
@@ -8,7 +8,7 @@ Tier: National :brazil:
 ## Overview
 
 ### Schedule
-- 
+- July 2019
 
 ### Format
 - Lemonade draft rules
