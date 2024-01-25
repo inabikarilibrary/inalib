@@ -1,0 +1,26 @@
+# Backdraft V3
+
+Backdraft V3 was the third edition of the [Lemonade Backdraft](bdmain.md) tournament series.
+21 players participated.
+
+Tier: National :brazil:
+
+## Overview
+
+### Schedule
+- 
+
+### Format
+- Lemonade draft rules
+- Double Elimination; Bo1
+
+### Standings
+
+|Place|Player|
+|-|-|-|-|
+|1st :1st_place_medal:| [Hikaru](../../players/brazilian/hikky.md) |
+|2nd :2nd_place_medal:| [Musketeer](../../players/brazilian/musketeer.md) |
+|3rd :3rd_place_medal:| Bigode |
+
+### Bracket
+- [Challonge](https://challonge.com/BackdraftV3)
