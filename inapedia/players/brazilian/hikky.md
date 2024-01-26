@@ -1,7 +1,8 @@
 # Hikky
 
 Hikky is a Brazilian :brazil: player, maining Chain and Hybrid. 
-She is known for her unorthodox playstyle and strategies.
+She is known for her unorthodox playstyle and strategies. She is currently the most decorated player in the Brazilian [Backdraft](../../tournaments/lemonade/bdmain.md) tournament series with a total of 5 first place victories.
+
 She is also a prominent leader and content creator in the Brazilian community.
 
 ## Achievements
