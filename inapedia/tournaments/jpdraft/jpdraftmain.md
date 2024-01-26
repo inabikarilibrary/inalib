@@ -1,9 +1,9 @@
 # Draft Cup
 
 Draft Cup is a Japanese :jp: tournament series organized by the Japanese community.
-It serves as the most prestigious national-level tournament series in Japan.
+It serves as the most important and prestigious tournament series in Japan.
 
-Draft Cup utilizes a pre-game drafting system, where players take turns drafting characters until to make up a team of 16 (occasionally 17) players.
+Draft Cup utilizes a pre-season drafting system, where players take turns drafting characters to make up a team of 16 (occasionally 17) characters.
 
 Aside from Japanese players, a few Chinese players have been invited to participate in several previous editions.
 

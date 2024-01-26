@@ -1,6 +1,6 @@
 # nicolau
 
-nicolau is a Brazilian :brazil: player, maining Nomash.
+nicolau is a Brazilian :brazil: player, maining Nomash. He also led the development of the PT-BR language patch for the game.
 
 ## Style of Play
 
