@@ -31,3 +31,10 @@ Tier: National :jp:
 |3rd :3rd_place_medal:| [Miya](../../players/japanese/miya.md) |
 
 ### Bracket
+
+![image](https://github.com/inabikarilibrary/inalib/assets/110833255/a4051590-6996-45e6-880c-51d75fdc467d)
+
+![image](https://github.com/inabikarilibrary/inalib/assets/110833255/1bf867fc-0e5e-410f-8975-5a1a973faa10)
+
+![image](https://github.com/inabikarilibrary/inalib/assets/110833255/bb6372de-27b7-4b6f-9213-2903eb573594)
+
