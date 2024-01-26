@@ -31,3 +31,18 @@ Tier: National :jp:
 |3rd :3rd_place_medal:| [Infi](../../players/japanese/infi.md) |
 
 ### Bracket
+
+Group A
+
+![image](https://github.com/inabikarilibrary/inalib/assets/110833255/34d665ea-4475-4206-93a3-7785444f578c)
+
+Group B
+
+![image](https://github.com/inabikarilibrary/inalib/assets/110833255/b9e6dc4b-6d37-4632-974c-eee5385df7b9)
+
+Final Stage
+
+<img width="137" alt="image" src="https://github.com/inabikarilibrary/inalib/assets/110833255/0fe597db-7317-45b9-b03c-552e74cd6557">
+
+### Teams
+- [Paraly's Blog](http://parabako.blog.fc2.com/blog-entry-351.html)

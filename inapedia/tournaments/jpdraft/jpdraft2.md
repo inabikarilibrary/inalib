@@ -27,3 +27,26 @@ Tier: National :jp:
 |3rd :3rd_place_medal:| [as7_9](../../players/japanese/as7_9.md) |
 
 ### Bracket
+
+Air Group
+
+![image](https://github.com/inabikarilibrary/inalib/assets/110833255/5d364e04-09bf-4abf-b309-a644fa54cd1e)
+
+Wood Group
+
+![image](https://github.com/inabikarilibrary/inalib/assets/110833255/6ab92c6f-158d-43c8-b924-a81032371c79)
+
+Fire Group
+
+![image](https://github.com/inabikarilibrary/inalib/assets/110833255/78525f79-cd5a-4822-8be3-ad25fb3574c4)
+
+Earth Group
+
+![image](https://github.com/inabikarilibrary/inalib/assets/110833255/6cf25e72-8e61-42ce-a404-cb14d7f39199)
+
+Final Stage
+
+![image](https://github.com/inabikarilibrary/inalib/assets/110833255/47be6e3e-f240-45e9-8273-ffb7d2cae8bc)
+
+### Teams
+- [Paraly's Blog](http://parabako.blog.fc2.com/blog-entry-351.html)
