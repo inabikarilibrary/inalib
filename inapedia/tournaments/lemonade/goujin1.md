@@ -1,4 +1,4 @@
-# Backdraft V1 Goujin
+# Goujin V1
 
 Backdraft V1 Goujin was the first edition of the [Lemonade Backdraft](bdmain.md) tournament series for its premier Goujin league.
 8 players participated.
@@ -8,7 +8,7 @@ Tier: National :brazil:
 ## Overview
 
 ### Schedule
-- March 2020
+- August 2020
 
 ### Format
 - Lemonade draft rules
@@ -21,7 +21,7 @@ Tier: National :brazil:
 ### Standings
 
 |Place|Player|
-|-|-|-|-|
+|-|-|
 |1st :1st_place_medal:| [Hikaru](../../players/brazilian/hikky.md) |
 |2nd :2nd_place_medal:| [Baka](../../players/brazilian/baka.md) |
 |3rd :3rd_place_medal:| [Supersoga](../../players/brazilian/supersoga.md) |

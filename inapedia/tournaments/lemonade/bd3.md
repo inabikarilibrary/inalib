@@ -17,7 +17,7 @@ Tier: National :brazil:
 ### Standings
 
 |Place|Player|
-|-|-|-|-|
+|-|-|
 |1st :1st_place_medal:| [Hikaru](../../players/brazilian/hikky.md) |
 |2nd :2nd_place_medal:| [Musketeer](../../players/brazilian/musketeer.md) |
 |3rd :3rd_place_medal:| Bigode |

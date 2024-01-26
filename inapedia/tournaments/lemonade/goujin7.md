@@ -1,4 +1,4 @@
-# Backdraft V7 Goujin
+# Goujin V7
 
 Backdraft V7 Goujin was the seventh edition of the [Lemonade Backdraft](bdmain.md) tournament series for its premier Goujin league.
 10 players participated.
@@ -21,7 +21,7 @@ Tier: National :brazil:
 ### Standings
 
 |Place|Player|
-|-|-|-|-|
+|-|-|
 |1st :1st_place_medal:| [Hikaru](../../players/brazilian/hikky.md) |
 |2nd :2nd_place_medal:| [Abnael](../../players/brazilian/abnael.md) |
 |3rd :3rd_place_medal:| [MyssBH](../../players/brazilian/myssbh.md) |

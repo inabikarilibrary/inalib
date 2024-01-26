@@ -1,4 +1,4 @@
-# Backdraft V9 Goujin
+# Goujin V9
 
 Backdraft V9 Goujin was the ninth edition of the [Lemonade Backdraft](bdmain.md) tournament series for its premier Goujin league. 
 12 players participated.
@@ -20,7 +20,7 @@ Tier: National :brazil:
 ### Standings
 
 |Place|Player|
-|-|-|-|-|
+|-|-|
 |1st :1st_place_medal:| [Atticoos](../../players/brazilian/atticoos.md) |
 |2nd :2nd_place_medal:| [Stylo](../../players/brazilian/hikky.md) |
 |3rd :3rd_place_medal:| [MyssBH](../../players/brazilian/myssbh.md) |

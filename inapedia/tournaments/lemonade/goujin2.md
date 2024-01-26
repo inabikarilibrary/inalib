@@ -1,4 +1,4 @@
-# Backdraft V2 Goujin
+# Goujin V2
 
 Backdraft V2 Goujin was the second edition of the [Lemonade Backdraft](bdmain.md) tournament series for its premier Goujin league.
 8 players participated.
@@ -21,7 +21,7 @@ Tier: National :brazil:
 ### Standings
 
 |Place|Player|
-|-|-|-|-|
+|-|-|
 |1st :1st_place_medal:| [Hikaru](../../players/brazilian/hikky.md) |
 |2nd :2nd_place_medal:| Kantsuna |
 |3rd :3rd_place_medal:| [Musketeer](../../players/brazilian/musketeer.md) |

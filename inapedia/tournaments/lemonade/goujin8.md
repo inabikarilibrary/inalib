@@ -1,6 +1,6 @@
-# Backdraft V8 Goujin
+# Goujin V8
 
-Backdraft V8 Goujin was the eigth edition of the [Lemonade Backdraft](bdmain.md) tournament series for its premier Goujin league.
+Backdraft V8 Goujin was the eighth edition of the [Lemonade Backdraft](bdmain.md) tournament series for its premier Goujin league.
 12 players participated.
 
 Tier: National :brazil:
@@ -21,7 +21,7 @@ Tier: National :brazil:
 ### Standings
 
 |Place|Player|
-|-|-|-|-|
+|-|-|
 |1st :1st_place_medal:| [MyssBH](../../players/brazilian/myssbh.md) |
 |2nd :2nd_place_medal:| [Hikaru](../../players/brazilian/hikky.md) |
 |3rd :3rd_place_medal:| [Shiro](../../players/brazilian/shiro.md) |

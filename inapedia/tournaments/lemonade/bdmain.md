@@ -16,25 +16,42 @@ Backdraft is also the only tournament series to be held via Netplay, as opposed 
 
 ### Goujin League
 
-- [Goujin V1](1_bd1.md)
-- [Goujin V2](1_bd2.md)
-- [Goujin V3](1_bd3.md)
+- [Goujin V1](goujin1.md)
+- [Goujin V2](goujin2.md)
+- [Goujin V3](goujin3.md)
 - [Backdraft V4](bd4.md)
-- [Goujin V5](1_bd5.md)
-- [Goujin V6](1_bd6.md)
-- [Goujin V7](1_bd7.md)
-- [Goujin V8](1_bd8.md)
-- [Goujin V9](1_bd9.md)
+- [Goujin V5](goujin5.md)
+- [Goujin V6](goujin6.md)
+- [Goujin V7](goujin7.md)
+- [Goujin V8](goujin8.md)
+- [Goujin V9](goujin9.md)
+
+### Goujin League (Xtreme)
+
 - [XBackdraft #1](xbd1.md)
-- [X Goujin #2](1_xbd2.md)
-- [X Goujin #3](1_xbd3.md)
-- [X Goujin #4](1_xbd4.md)
-- [X Goujin #5](1_xbd5.md)
+- [X Goujin #2](xgoujin2.md)
+- [X Goujin #3](xgoujin3.md)
+- [X Goujin #4](xgoujin4.md)
+- [X Goujin #5](xgoujin5.md)
 
 ### Gouenji League
 
-- [Backdraft V4](bd4.md)
-- [XBackdraft #1](xbd1.md)
+- [Gouenji V0](gouenji0.md)
+- [Gouenji V1](gouenji1.md)
+- [Gouenji V2](gouenji2.md)
+- [Gouenji V3](gouenji3.md)
+- [Gouenji V6](gouenji6.md)
+- [Gouenji V7](gouenji7.md)
+- [Gouenji V8](gouenji8.md)
+- [Gouenji V9](gouenji9.md)
+
+### Gouenji League (Xtreme)
+
+- [X Gouenji #1](xgouenji1.md)
+- [X Gouenji #2](xgouenji2.md)
+- [X Gouenji #3](xgouenji3.md)
+- [X Gouenji #4](xgouenji4.md)
+- [X Gouenji #5](xgouenji5.md)
 
 ### Combined
 

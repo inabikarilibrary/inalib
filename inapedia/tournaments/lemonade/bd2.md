@@ -8,7 +8,7 @@ Tier: National :brazil:
 ## Overview
 
 ### Schedule
-- September 2019
+- September 2019 to October 2019
 
 ### Format
 - Lemonade draft rules
@@ -20,11 +20,11 @@ Tier: National :brazil:
 
 ### Standings
 
-|Place|Player|Team Name|
-|-|-|-|-|
-|1st :1st_place_medal:| [Kozoumaru](../../players/brazilian/kozoumaru.md) | Agustin Primo do El Mago |
-|2nd :2nd_place_medal:| Fuyumidori | Cross Disaster |
-|3rd :3rd_place_medal:| [Musketeer](../../players/brazilian/musketeer.md) | Césio 137 |
+|Place|Player|
+|-|-|
+|1st :1st_place_medal:| [Kozoumaru](../../players/brazilian/kozoumaru.md) |
+|2nd :2nd_place_medal:| Fuyumidori |
+|3rd :3rd_place_medal:| [Musketeer](../../players/brazilian/musketeer.md) |
 
 ### Bracket
 - [Challonge](https://challonge.com/backdraftv2)

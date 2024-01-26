@@ -16,11 +16,11 @@ Tier: National :brazil:
 
 ### Standings
 
-|Place|Player|Team Name|
-|-|-|-|-|
-|1st :1st_place_medal:| [Kozoumaru](../../players/brazilian/kozoumaru.md) | Estilo Guardiola |
-|2nd :2nd_place_medal:| [Hikaru](../../players/brazilian/hikky.md) | Shine |
-|3rd :3rd_place_medal:| [Goto](../../players/brazilian/goto.md) | Gotos |
+|Place|Player|
+|-|-|
+|1st :1st_place_medal:| [Kozoumaru](../../players/brazilian/kozoumaru.md) |
+|2nd :2nd_place_medal:| [Hikaru](../../players/brazilian/hikky.md) |
+|3rd :3rd_place_medal:| Goto |
 
 ### Bracket
 - [Challonge](https://challonge.com/LemonadeBackdraft)
