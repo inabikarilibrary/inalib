@@ -48,6 +48,12 @@ Air Group
 
 ![image](https://github.com/inabikarilibrary/inalib/assets/110833255/5204ec59-aabd-47a1-a00f-c7573af5adae)
 
+Wildcard
+
+![image](https://github.com/inabikarilibrary/inalib/assets/110833255/686498e1-fd73-4cea-aeeb-fa61dd28fccb)
+
+![image](https://github.com/inabikarilibrary/inalib/assets/110833255/1c208c13-d7ed-41bd-98c5-3e5f166035fd)
+
 Final Stage
 
 ![image](https://github.com/inabikarilibrary/inalib/assets/110833255/17858633-44c0-41c0-bf48-bbddf2869f1e)
