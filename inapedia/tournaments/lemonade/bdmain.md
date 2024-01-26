@@ -4,11 +4,11 @@ Backdraft is a Brazilian :brazil: tournament series held by the Lemonade discord
 It hosts the largest national level tournaments in the entire Strikers community, and serves
 as the main source of prestige and competition for the Brazilian scene. 
 
-Backdraft is the only tournament series to utilize a league system, with a relegation system between tiers. There are two tiers: **Goujin**, the premier league, and **Gouenji**, the second tier league. The bottom 2 players from the Goujin league will be demoted to the Gouenji league, while the top 2 players from the Gouenji league will be promoted to the Goujin league. Several Backdraft editions have also included both leagues without the use of the relegation system.
+Backdraft is the only tournament series to utilize a league system, with a relegation system between tiers. There are two tiers: **Goujin**, the premier league, and **Gouenji**, the second tier league. With each edition, the bottom 2 players from the Goujin league are demoted to the Gouenji league, while the top 2 players from the Gouenji league are promoted to the Goujin league. Several Backdraft editions have also included both leagues without the use of the relegation system.
 
 Notably, each Backdraft typically uses a modified version of the game that changes with each edition. These changes are not used anywhere else outside of Brazil. This results in a new meta for every different Backdraft edition. 
 
-Backdraft also uses a pre-season drafting season, where players of each league take turns drafting characters to make up a team of 16 characters in total.
+Backdraft also uses a pre-season drafting system, where players of each league take turns drafting characters to make up a team of 16 characters in total.
 
 Backdraft is also the only tournament series to be held via Netplay, as opposed to Wiimmfi as is done in the rest of the world. This creates unique differences in gameplay. For instance, keys are functional from the 1st half, mid-game substitutions/changes are possible, and some mechanics that are only possible in Netplay are performed while Wiimmfi-only mechanics (most notably force switching) are not present.
 
