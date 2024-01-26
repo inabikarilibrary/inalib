@@ -17,6 +17,7 @@ that is, at worse, neutral for him.
 | - | - | - | - |
 | 07/09/2023 | 1st :1st_place_medal: | [Ragnarok Strikers Xtreme #6](../../tournaments/ragna/ragnax6.md) | Major |
 | 31/08/2023 | 1st :1st_place_medal: | [Hades Garden #5](../../tournaments/hg/hg5.md) | Major |
+| 06/08/2023 | 1st :1st_place_medal: | [2nd Ultimate Draft Cup](../../tournaments/jpdraft/jpudraft2.md) | National |
 | 30/07/2023 | 1st :1st_place_medal: | [Inazuma Eleven Strikers World Cup 2023](../../tournaments/worldcup23.md) | World Cup |
 | 11/06/2023 | 1st :1st_place_medal: | [Ragnarok Strikers Xtreme #5](../../tournaments/ragna/ragnax5.md) | Major |
 | 12/05/2023 | 1st :1st_place_medal: | [Hades Garden #4](../../tournaments/hg/hg4.md) | Minor |

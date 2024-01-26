@@ -2,6 +2,10 @@
 
 nicolau is a Brazilian :brazil: player, maining Nomash.
 
+## Style of Play
+
+nicolau is an aggressive Nomasher that tries to dash to the enemy's goal whenever possible. This is reflected in his drafting strategy in the Backdraft league where he prioritizes powerful dribblers in the early rounds.
+
 ## Achievements
 
 |Date|Place|Tournament|Tier|

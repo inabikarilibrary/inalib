@@ -17,6 +17,7 @@ forcing through his opponent's defenses, often with brute force.
 | - | - | - | - |
 | 22/09/2023 | 5th | [Siege of MUGEN Castle](../../tournaments/misc/mugen.md) | Minor |
 | 31/08/2023 |2nd :2nd_place_medal: | [Hades Garden #5](../../tournaments/hg/hg5.md) | Major |
+| 06/08/2023 | 3rd :3rd_place_medal: | [2nd Ultimate Draft Cup](../../tournaments/jpdraft/jpudraft2.md) | National |
 | 30/07/2023 |1st :1st_place_medal: | [Inazuma Eleven Strikers World Cup 2023](../../tournaments/worldcup23.md) | Major |
 | 11/06/2023 |2nd :2nd_place_medal: | [Ragnarok Strikers Xtreme #5](../../tournaments/ragna/ragnax5.md) | Major |
 | 04/05/2023 |2nd :2nd_place_medal: | [Ragnarok Strikers Xtreme #4](../../tournaments/ragna/ragnax4.md) | Major |
