@@ -31,3 +31,19 @@ Tier: National :jp:
 |3rd :3rd_place_medal:| [Eshin](../../players/japanese/eshin.md) |
 
 ### Bracket
+
+Group A
+
+![image](https://github.com/inabikarilibrary/inalib/assets/110833255/1b49ee9c-fe15-43f0-b237-c5b9ba399672)
+
+Group B
+
+![image](https://github.com/inabikarilibrary/inalib/assets/110833255/bdf8a2ae-bc8e-4cc0-bd5b-f523f38031e2)
+
+Final Stage
+
+![image](https://github.com/inabikarilibrary/inalib/assets/110833255/178748a8-b341-4dc6-82b0-ec04aba18be3)
+
+### Teams
+
+![image](https://github.com/inabikarilibrary/inalib/assets/110833255/815292b1-8123-4517-a43b-f01363af59a1)
