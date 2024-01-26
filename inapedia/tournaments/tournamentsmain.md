@@ -1,9 +1,13 @@
 # List of Tournaments
 
+## World Cups
+
 - [World Cup 2023](worldcup23.md)
   
 - [World Cup 2021](worldcup21.md)
-  
+
+## Internationals
+
 - [RAGNAROK Strikers](ragna/ragnamain.md)
   
 - [RAGNAROK Strikers Xtreme](ragna/ragnaxmain.md)
@@ -17,3 +21,8 @@
 - [Shadow Xtreme Strikers](shadow/shadowmain.md)
   
 - [Miscellaneous](misc/miscmain.md)
+
+## Nationals
+
+- [Backdraft](lemonade/bdmain.md) :brazil:
+- [Draft Cup](jpdraft/jpdraftmain.md) :jp: 
