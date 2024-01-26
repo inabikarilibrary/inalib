@@ -30,8 +30,10 @@ that is, at worse, neutral for him.
 | 26/08/2022 |3rd :3rd_place_medal: | [PEGASUS STRIKERS #10](../../tournaments/pegasus/pegasus10.md) | Major | 
 | 24/07/2022 | 1st :1st_place_medal: | [Ragnarok Strikers #5](../../tournaments/ragna/ragna5.md) | Major |
 | 13/06/2022 | 1st :1st_place_medal: | [Ragnarok Strikers #4](../../tournaments/ragna/ragna4.md) | Major |
+| 18/04/2022 | 2nd :2nd_place_medal: | [5th Draft Cup](../../tournaments/jpdraft/jpdraft5.md) | National |
 | 17/03/2022 | 3rd :3rd_place_medal: | [Ragnarok Strikers #3](../../tournaments/ragna/ragna3.md) | Minor |
 | 14/11/2021 | 1st :1st_place_medal: | [Ragnarok Strikers #2](../../tournaments/ragna/ragna2.md) | Minor |
 | 12/09/2021 | 1st :1st_place_medal: | [Ragnarok Strikers #1](../../tournaments/ragna/ragna1.md) | Minor |
 | 07/2021 | 1st :1st_place_medal: | [Inazuma Eleven Strikers World Cup 2021](../../tournaments/worldcup21.md) | World Cup |
-
+| 30/03/2021 | 2nd :2nd_place_medal: | [4th Draft Cup](../../tournaments/jpdraft/jpdraft4.md) | National |
+| 17/02/2020 | 2nd :2nd_place_medal: | [1st Draft Cup](../../tournaments/jpdraft/jpdraft1.md) | National |

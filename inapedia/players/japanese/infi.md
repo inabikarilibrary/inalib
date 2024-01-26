@@ -32,3 +32,6 @@ to initiate his circle until the last moment.
 | 26/09/2021 |1st :1st_place_medal: | [Strikers Frontier #1](../../tournaments/sf/sf1.md) | Minor |
 | 12/09/2021 |3rd :3rd_place_medal: | [Ragnarok Strikers #1](../../tournaments/ragna/ragna1.md) | Minor |
 | 07/2021 |1st :1st_place_medal: | [Inazuma Eleven Strikers World Cup 2021](../../tournaments/worldcup21.md) | World Cup |
+| 01/11/2020 | 2nd :2nd_place_medal: | [3rd Draft Cup](../../tournaments/jpdraft/jpdraft3.md) | National |
+| 19/04/2020 | 2nd :2nd_place_medal: | [2nd Draft Cup](../../tournaments/jpdraft/jpdraft2.md) | National |
+| 17/02/2020 | 3rd :3rd_place_medal: | [1st Draft Cup](../../tournaments/jpdraft/jpdraft1.md) | National |
