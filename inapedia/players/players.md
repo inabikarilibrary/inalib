@@ -28,10 +28,20 @@ toc_label: "List of Players"
 
 ### Brazil :brazil:
 
+- [Abnael](brazilian/abnael.md)
+- [Atticoos](brazilian/atticoos.md)
+- [Baka](brazilian/baka.md)
+- [Biel](brazilian/biel.md)
 - [Hikky](brazilian/hikky.md)
 - [jppb2005](brazilian/jppb2005.md)
+- [Kozoumaru](brazilian/kozoumaru.md)
+- [Musketeer](brazilian/musketeer.md)
+- [MyssBH](brazilian/myssbh.md)
 - [nicolau](brazilian/nicolau.md)
 - [Panda](brazilian/panda.md)
+- [Shiro](brazilian/shiro.md)
+- [Stylo](brazilian/stylo.md)
+- [Supersoga](brazilian/supersoga.md)
 
 ### Colombia :colombia:
 
