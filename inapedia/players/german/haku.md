@@ -37,7 +37,7 @@ His Nomash involves lots of side nomash techniques, such as the classic Uranus S
 | 16/09/2022 | 9th | [Area Holy Road #2](../../tournaments/misc/holyroad2.md) | Major |
 | 26/08/2022 | 5th | [PEGASUS STRIKERS #10](../../tournaments/pegasus/pegasus10.md) | Major | 
 | 24/07/2022 |2nd :2nd_place_medal: | [Ragnarok Strikers #5](../../tournaments/ragna/ragna5.md) | Major |
-| 08/07/2022 | 4th | [PEGASUS STRIKERS #9](../../tournaments/pegasus/pegasus9.md) |
+| 08/07/2022 | 4th | [PEGASUS STRIKERS #9](../../tournaments/pegasus/pegasus9.md) | Major |
 | 13/04/2022 | 9th | [Ragnarok Strikers #4](../../tournaments/ragna/ragna4.md) | Major |
 | 17/03/2022 | 5th | [Ragnarok Strikers #3](../../tournaments/ragna/ragna3.md) | Minor |
 | 14/11/2021 | 7th | [Ragnarok Strikers #2](../../tournaments/ragna/ragna2.md) | Minor |

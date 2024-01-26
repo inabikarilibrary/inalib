@@ -20,7 +20,7 @@ top Japanese player was participating.
 | 17/09/2022 | 5th | [PEGASUS STRIKERS XTREME](../../tournaments/pegasus/pegasusx.md) | Major |
 | 16/09/2022 |3rd :3rd_place_medal: | [Area Holy Road #2](../../tournaments/misc/holyroad2.md) | Major |
 | 26/08/2022 | 5th | [PEGASUS STRIKERS #10](../../tournaments/pegasus/pegasus10.md) | Major | 
-| 08/07/2022 |2nd :2nd_place_medal: | [PEGASUS STRIKERS #9](../../tournaments/pegasus/pegasus9.md) |
+| 08/07/2022 |2nd :2nd_place_medal: | [PEGASUS STRIKERS #9](../../tournaments/pegasus/pegasus9.md) | Major |
 | 13/06/2022 | 4th | [Ragnarok Strikers #4](../../tournaments/ragna/ragna4.md) | Major |
 | 23/04/2022 |1st :1st_place_medal: | [Strikers Frontier #5](../../tournaments/sf/sf5.md) | Major |
 | 17/03/2022 | 4th | [Ragnarok Strikers #3](../../tournaments/ragna/ragna3.md) | Minor |

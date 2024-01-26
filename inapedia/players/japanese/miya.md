@@ -25,7 +25,7 @@ forcing through his opponent's defenses, often with brute force.
 | 04/12/2022 |3rd :3rd_place_medal: | [Ragnarok Strikers Xtreme #2](../../tournaments/ragna/ragnax2.md) | Major |
 | 02/10/2022 |3rd :3rd_place_medal: | [Ragnarok Strikers Xtreme #1](../../tournaments/ragna/ragnax1.md) | Major |
 | 17/09/2022 |2nd :2nd_place_medal: | [PEGASUS STRIKERS XTREME](../../tournaments/pegasus/pegasusx.md) | Major |
-| 08/07/2022 |1st :1st_place_medal: | [PEGASUS STRIKERS #9](../../tournaments/pegasus/pegasus9.md) |
+| 08/07/2022 |1st :1st_place_medal: | [PEGASUS STRIKERS #9](../../tournaments/pegasus/pegasus9.md) | Major |
 | 03/07/2022 | 1st :1st_place_medal: | [6th Draft Cup](../../tournaments/jpdraft/jpdraft6.md) | National |
 | 13/06/2022 |2nd :2nd_place_medal: | [Ragnarok Strikers #4](../../tournaments/ragna/ragna4.md) | Major |
 | 23/04/2022 |2nd :2nd_place_medal: | [Strikers Frontier #5](../../tournaments/sf/sf5.md) | Major |
