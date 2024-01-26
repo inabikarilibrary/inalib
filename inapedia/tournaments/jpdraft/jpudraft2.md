@@ -32,9 +32,15 @@ Tier: National :jp:
 
 ### Bracket
 
+Group A
+
 ![image](https://github.com/inabikarilibrary/inalib/assets/110833255/a4051590-6996-45e6-880c-51d75fdc467d)
 
+Group B
+
 ![image](https://github.com/inabikarilibrary/inalib/assets/110833255/1bf867fc-0e5e-410f-8975-5a1a973faa10)
+
+Final Stage
 
 ![image](https://github.com/inabikarilibrary/inalib/assets/110833255/bb6372de-27b7-4b6f-9213-2903eb573594)
 
