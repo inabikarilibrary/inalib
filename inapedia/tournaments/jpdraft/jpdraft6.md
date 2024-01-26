@@ -18,7 +18,7 @@ Tier: National :jp:
     - 4th and 5th place advances to Wildcard Stage
 - Wildcard Stage
     - Single Round Robin
-    - Top 2 advances to Final Stage
+    - Top 1 advances to Final Stage
 - Final Stage
     - Single Elimination
 
