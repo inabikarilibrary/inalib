@@ -59,3 +59,4 @@ Final Stage
 ![image](https://github.com/inabikarilibrary/inalib/assets/110833255/a48f0f7d-6a7d-462b-bcd0-23096825cb41)
 
 ### Teams
+- [Paraly's Blog](http://parabako.blog.fc2.com/blog-entry-351.html)
