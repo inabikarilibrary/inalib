@@ -44,11 +44,9 @@ Earth Group
 
 ![image](https://github.com/inabikarilibrary/inalib/assets/110833255/6cf25e72-8e61-42ce-a404-cb14d7f39199)
 
-Wildcard
+Final Stage
 
-![image](https://github.com/inabikarilibrary/inalib/assets/110833255/61944b1c-41c8-45ce-b4e2-19111e3292a0)
-
-![image](https://github.com/inabikarilibrary/inalib/assets/110833255/334a7d5e-667e-4634-b142-919a1d61477a)
+![image](https://github.com/inabikarilibrary/inalib/assets/110833255/47be6e3e-f240-45e9-8273-ffb7d2cae8bc)
 
 ### Teams
 - [Paraly's Blog](http://parabako.blog.fc2.com/blog-entry-351.html)
