@@ -44,3 +44,7 @@ Final Stage
 
 ![image](https://github.com/inabikarilibrary/inalib/assets/110833255/bb6372de-27b7-4b6f-9213-2903eb573594)
 
+### Teams
+
+![image](https://github.com/inabikarilibrary/inalib/assets/110833255/1799f347-3a90-4ca9-88fe-1673b8d2a51d)
+
