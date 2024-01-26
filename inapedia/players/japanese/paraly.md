@@ -22,7 +22,9 @@ that is, at worse, neutral for him.
 | 12/05/2023 | 1st :1st_place_medal: | [Hades Garden #4](../../tournaments/hg/hg4.md) | Minor |
 | 04/05/2023 | 1st :1st_place_medal: | [Ragnarok Strikers Xtreme #4](../../tournaments/ragna/ragnax4.md) | Major |
 | 05/2023 | 2nd :2nd_place_medal: | [God Impact](../../tournaments/misc/godimpact.md) | Major |
+| 30/04/2023 | 1st :1st_place_medal: | [1st Ultimate Draft Cup](../../tournaments/jpdraft/jpudraft1.md) | National |
 | 27/03/2023 | 1st :1st_place_medal: | [Hades Garden #3](../../tournaments/hg/hg3.md) | Minor |
+| 30/02/2023 | 1st :1st_place_medal: | [Xtreme Draft Cup](../../tournaments/jpdraft/jpxdraft.md) | National |
 | 21/02/2023 | 1st :1st_place_medal: | [Ragnarok Strikers Xtreme #3](../../tournaments/ragna/ragnax3.md) | Minor |
 | 04/12/2022 | 2nd :2nd_place_medal: | [Ragnarok Strikers Xtreme #2](../../tournaments/ragna/ragnax2.md) | Major |
 | 02/10/2022 | 1st :1st_place_medal: | [Ragnarok Strikers Xtreme #1](../../tournaments/ragna/ragnax1.md) | Major |

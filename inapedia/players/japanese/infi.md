@@ -25,6 +25,7 @@ to initiate his circle until the last moment.
 | 07/09/2023 |2nd :2nd_place_medal: | [Ragnarok Strikers Xtreme #6](../../tournaments/ragna/ragnax6.md) | Major |
 | 30/07/2023 |1st :1st_place_medal: | [Inazuma Eleven Strikers World Cup 2023](../../tournaments/worldcup23.md) | World Cup |
 | 07/2023 |2nd :2nd_place_medal: | [Orfeo Inazuma Strikers World Cup 2023 Warm Up](../../tournaments/misc/orfeowc.md) | Major |
+| 30/04/2023 | 3rd :3rd_place_medal: | [1st Ultimate Draft Cup](../../tournaments/jpdraft/jpudraft1.md) | National |
 | 27/03/2023 | 5th | [Hades Garden #3](../../tournaments/hg/hg3.md) | Minor |
 | 11/02/2023 |2nd :2nd_place_medal: | [Xtreme Frontier](../../tournaments/sf/xf.md) | Major |
 | 16/09/2022 |1st :1st_place_medal: | [Area Holy Road #2](../../tournaments/misc/holyroad2.md) | Major |
