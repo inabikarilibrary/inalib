@@ -8,7 +8,7 @@ Backdraft is the only tournament series to utilize a league system, with a releg
 
 Notably, each Backdraft typically uses a modified version of the game that changes with each edition. These changes are not used anywhere else outside of Brazil. This results in a new meta for every different Backdraft edition. 
 
-Backdraft also uses a pre-season drafting system, where players of each league take turns drafting characters to make up a team of 16 characters in total.
+Backdraft also uses a pre-season drafting system, where players of each league take turns drafting characters to make up a team of 16 characters in total. This character cap has since been reduced to 12 characters starting from XBackdraft #1.
 
 Backdraft is also the only tournament series to be held via Netplay, as opposed to Wiimmfi as is done in the rest of the world. This creates unique differences in gameplay. For instance, keys are functional from the 1st half, mid-game substitutions/changes are possible, and some mechanics that are only possible in Netplay are performed while Wiimmfi-only mechanics (most notably force switching) are not present.
 

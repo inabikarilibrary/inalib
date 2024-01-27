@@ -4,7 +4,7 @@ Kirafi, which is short for the Japanese pronunciation of **Killer Fields**, is o
 
 Traditionally, a Kirafi team comp uses Killer Fields as its point of offense, as the name suggests. In Vanilla, this would involve the use of the Killer Fields users Fudou and Kidou together. With Xtreme, however, this archetype has been extended to the use of other non-dashing powerful dribblers such as Baddap.
 
-The main concept of a Kirafi team is using a powerful dribbler that wins most matchups and has an extremely wide radius, but cannot dash. This is opposed to using a dashing dribbler that have poorer matchups. As such, it is a tradeoff between mobility and power.
+The main concept of a Kirafi team is using a powerful dribbler that wins most matchups, has an extremely wide radius, has lots of TP, but cannot dash. This is opposed to using a dashing dribbler that have poorer matchups. As such, it is a tradeoff between mobility and power.
 
 For instance, A-Fudou in Vanilla beats almost every meta defender, and only ties for even his worst matchups. Similarly, in Xtreme, Baddap's worst matchup is only a tie against Onizuka. These characters are balanced by their lack of mobility, which brings about its own consequences. The most important of them is the inability to perform dash nomash techniques such as the Single Rush. This forces Kirafi characters to either have to use other, less consistent and effective techniques to score, or to pass the ball to a dashing dribbler for them to score themselves.
 
