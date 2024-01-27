@@ -11,6 +11,7 @@ Baamsushi is an Indonesian :indonesia: player, maining Chain.
 | 30/07/2023 | 4th | [Inazuma Eleven Strikers World Cup 2023](../../tournaments/worldcup23.md) | World Cup |
 | 07/2023 | 7th | [Orfeo Inazuma Strikers World Cup 2023 Warm Up](../../tournaments/misc/orfeowc.md) | Major |
 | 11/06/2023 | 9th | [Ragnarok Strikers Xtreme #5](../../tournaments/ragna/ragnax5.md) | Major |
+| 01/2023 |3rd :3rd_place_medal: | [Bulgarian Draft Xtreme](../../tournaments/draft/bgdraftx.md) | Draft |
 | 04/12/2022 | 7th | [Ragnarok Strikers Xtreme #2](../../tournaments/ragna/ragnax2.md) | Major |
 | 24/07/2022 | 13th | [Ragnarok Strikers #5](../../tournaments/ragna/ragna5.md) | Major |
 | 08/07/2022 | 13th | [PEGASUS STRIKERS #9](../../tournaments/pegasus/pegasus9.md) | | Major |

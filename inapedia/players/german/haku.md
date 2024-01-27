@@ -32,6 +32,7 @@ His Nomash involves lots of side nomash techniques, such as the classic Uranus S
 | 21/02/2023 |2nd :2nd_place_medal: | [Ragnarok Strikers Xtreme #3](../../tournaments/ragna/ragnax3.md) | Minor |
 | 11/02/2023 | 5th | [Xtreme Frontier](../../tournaments/sf/xf.md) | Major |
 | 04/12/2022 | 4th | [Ragnarok Strikers Xtreme #2](../../tournaments/ragna/ragnax2.md) | Major |
+| 11/2022 |3rd :3rd_place_medal: | [PEGASUS Xtreme Draft](../../tournaments/draft/pegasusdraft.md) | Draft | 
 | 02/10/2022 | 7th | [Ragnarok Strikers Xtreme #1](../../tournaments/ragna/ragnax1.md) | Major |
 | 10/2022 | 4th | [Orfeo League 2022](../../tournaments/misc/orfeoleague.md) | Minor | 
 | 17/09/2022 | 9th | [PEGASUS STRIKERS XTREME](../../tournaments/pegasus/pegasusx.md) | Major |

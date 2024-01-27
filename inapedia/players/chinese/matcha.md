@@ -13,4 +13,5 @@ He also happens to be proficient with Chain and Hybrid.
 | 04/05/2023 | 4th | [Ragnarok Strikers Xtreme #4](../../tournaments/ragna/ragnax4.md) | Major |
 | 05/2023 |3rd :3rd_place_medal: | [God Impact](../../tournaments/misc/godimpact.md) | Major |
 | 01/2023 | 5th | [RTAXV1](../../tournaments/rtaxv/rtaxv1.md) | Minor |
+| 01/2023 | 5th | [Bulgarian Draft Xtreme](../../tournaments/draft/bgdraftx.md) | Draft |
 | 04/12/2022 | 13th | [Ragnarok Strikers Xtreme #2](../../tournaments/ragna/ragnax2.md) | Major |
