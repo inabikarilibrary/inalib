@@ -1,3 +1,8 @@
+---
+header:
+  image: https://github.com/inabikarilibrary/inalib/assets/110833255/904c00f2-fa9d-40f0-be31-e20bcefae9ae
+---
+
 # Ragnarok Strikers #1
 
 Ragnarok Strikers #1 is the first edition of the [Ragnarok Strikers](ragnamain.md) tournament series.
