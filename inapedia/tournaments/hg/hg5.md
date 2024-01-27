@@ -21,7 +21,7 @@ Tier: Major
 | - | - |
 |1st :1st_place_medal: | [Paraly](../../players/japanese/paraly.md) :jp: |
 |2nd :2nd_place_medal: | [Miya](../../players/japanese/miya.md) :jp: |
-|3rd :3rd_place_medal: | [Chuck](../../players/chinese/chuck.md) |
+|3rd :3rd_place_medal: | [Chuck](../../players/chinese/chuckjason.md) :cn::hong_kong: |
 | 4th | [Eshin](../../players/japanese/eshin.md) :jp: | 
 | 5th | [Alexisl](../../players/french/alexisl.md) :fr: |
 | 5th | [$elow](../../players/french/$elow.md) :fr::tr: | 
