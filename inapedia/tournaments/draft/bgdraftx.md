@@ -26,3 +26,5 @@ Tier: Draft
 
 ### Bracket
 - [Challonge](https://challonge.com/IEBG2)
+
+![image](https://github.com/inabikarilibrary/inalib/assets/110833255/b30be51a-d29b-4a77-8762-0d3a33ca5c7e)
