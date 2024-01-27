@@ -35,3 +35,5 @@ Tier: Minor
 - [Challonge](https://challonge.com/rtaxv3)
 
 ### Gallery
+
+![image](https://github.com/inabikarilibrary/inalib/assets/110833255/740a3736-f8b0-4b43-b5e2-9d137d14e797)

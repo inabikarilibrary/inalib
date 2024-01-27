@@ -35,3 +35,5 @@ Tier: Minor
 - [Challonge](https://challonge.com/e3d9rnlv)
 
 ### Gallery
+
+![image](https://github.com/inabikarilibrary/inalib/assets/110833255/20b85a5e-3520-4b6a-b87f-618c676ae8f6)

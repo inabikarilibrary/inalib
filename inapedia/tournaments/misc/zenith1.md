@@ -39,3 +39,5 @@ Tier: Major
 - [Challonge](https://challonge.com/ZenithIE)
 
 ### Gallery
+
+![image](https://github.com/inabikarilibrary/inalib/assets/110833255/d158ee3c-f375-42fc-aedf-cbd0d66661e0)
