@@ -40,3 +40,5 @@ Tier: Major
 - [Challonge](https://challonge.com/6d56443u)
 
 ### Gallery
+
+![image](https://github.com/inabikarilibrary/inalib/assets/110833255/1ab31249-9a8d-41c4-b788-e0e0c74f36ff)
