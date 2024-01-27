@@ -150,7 +150,7 @@ toc_label: "List of Players"
 
 - [Bachor](polish/bachor.md)
 - [Kobr3x](polish/kobr3x.md)
-- [terewsant](polish/terewsant.md)
+- [Terewsant](polish/terewsant.md)
 
 ### Romania :romania:
 

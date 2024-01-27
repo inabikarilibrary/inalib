@@ -13,5 +13,3 @@
 - [Halftime Items (Vanilla)](textF/halfitems.md)
 
 - [Keys](textF/keys.md)
-
-

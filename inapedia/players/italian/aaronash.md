@@ -15,4 +15,5 @@ they are considered the best in Italy.
 | 27/03/2023 | 7th | [Hades Garden #3](../../tournaments/hg/hg3.md) | Minor |
 | 04/02/2023 | 5th | [Shadow Xtreme Strikers #3](../../tournaments/shadow/shadow3.md) | Minor |
 | 04/12/2022 | 13th | [Ragnarok Strikers Xtreme #2](../../tournaments/ragna/ragnax2.md) | Major |
+| 10/2022 |3rd :3rd_place_medal:| [Orfeo League 2022](../../tournaments/misc/orfeoleague.md) | Minor | 
 

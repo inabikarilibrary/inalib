@@ -15,6 +15,7 @@ and pioneered many notable strategies, such as the Shindou Opening and Kirafi Sp
 | 11/02/2023 | 7th | [Xtreme Frontier](../../tournaments/sf/xf.md) | Major |
 | 04/12/2022 | 5th | [Ragnarok Strikers Xtreme #2](../../tournaments/ragna/ragnax2.md) | Major |
 | 02/10/2022 |2nd :2nd_place_medal: | [Ragnarok Strikers Xtreme #1](../../tournaments/ragna/ragnax1.md) | Major |
+| 10/2022 |1st :1st_place_medal:| [Orfeo League 2022](../../tournaments/misc/orfeoleague.md) | Minor | 
 | 18/06/2022 |1st :1st_place_medal: | [Area Holy Road #1](../../tournaments/misc/holyroad1.md) | Major |
 | 13/06/2022 | 13th | [Ragnarok Strikers #4](../../tournaments/ragna/ragna4.md) | Major |
 | 23/04/2022 |3rd :3rd_place_medal: | [Strikers Frontier #5](../../tournaments/sf/sf5.md) | Major |
