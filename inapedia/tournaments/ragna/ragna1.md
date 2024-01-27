@@ -1,7 +1,7 @@
 ---
 sidebar:
   - title: "Ragnarok Strikers #1"
-    image: https://github.com/inabikarilibrary/inalib/assets/110833255/bfb2c60c-297a-4d34-93fd-2b1f4e5290b7
+    image: https://github.com/inabikarilibrary/inalib/assets/110833255/feb16125-d4e7-402d-b1e2-b047e4e84541
     text: "Participants: 27"
   - title:
     text: "03/09/2021 - 12/09/2021"
@@ -9,7 +9,7 @@ sidebar:
     text: "Tier: Minor"
   - title:
     text: "Winner: Paraly :jp:"
-    sidebar_sticky: false
+sidebar_sticky: false
 ---
 
 # Ragnarok Strikers #1
