@@ -1,6 +1,6 @@
 # Bulgarian Draft Xtreme
 
-Bulgarian Draft was a draft tournament held by the Bulgarian community. The [Japanese draft rules](../jpdraft/jpdraftmain.md) were adopted. Despite the name, this tournament was open internationally. 21 players participated.
+Bulgarian Draft was a draft tournament held by the Bulgarian community. The [Japanese draft rules](../jpdraft/jpdraftmain.md) were adopted. Despite the name, this tournament was open internationally. 12 players participated.
 
 Tier: Draft
 
@@ -26,5 +26,7 @@ Tier: Draft
 
 ### Bracket
 - [Challonge](https://challonge.com/IEBG2)
+
+### Gallery
 
 ![image](https://github.com/inabikarilibrary/inalib/assets/110833255/b30be51a-d29b-4a77-8762-0d3a33ca5c7e)
