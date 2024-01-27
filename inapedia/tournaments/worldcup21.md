@@ -34,3 +34,17 @@ The tournament was won by **Team Japan**.
 | 9th | United Kingdom :uk: | HK16 / Bugsy / Prince_ / TXM |
 | 9th | Poland :poland: | Adrian17 / IGOXTEAMAKAXOGI / [Kobrex](../players/polish/kobr3x.md) / Krecik |
 
+### Gallery
+
+Groups
+
+![image](https://github.com/inabikarilibrary/inalib/assets/110833255/a10a0133-9416-4840-829a-60979be1ca28)
+
+![image](https://github.com/inabikarilibrary/inalib/assets/110833255/34f157e0-0e4a-4672-804d-634ee3b27579)
+
+![image](https://github.com/inabikarilibrary/inalib/assets/110833255/94c55f5d-fadb-4daa-b682-6335aea0a184)
+
+![image](https://github.com/inabikarilibrary/inalib/assets/110833255/0ac52d95-ee03-4fe7-8857-b3d9f27fab0b)
+
+![image](https://github.com/inabikarilibrary/inalib/assets/110833255/ab18660c-87bb-48cb-9006-ac48af286622)
+
