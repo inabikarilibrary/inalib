@@ -1,10 +1,10 @@
 ---
 sidebar:
   - title: "Ragnarok Strikers #1"
-    image: ![image](https://github.com/inabikarilibrary/inalib/assets/110833255/bfb2c60c-297a-4d34-93fd-2b1f4e5290b7)
-    text: "Participants: 27"
-    text: "Tier: Minor"
-    text: "Winner: Paraly :jp:"
+    image: https://github.com/inabikarilibrary/inalib/assets/110833255/bfb2c60c-297a-4d34-93fd-2b1f4e5290b7
+    text: "Participants: 27
+    Tier: Minor
+    Winner: Paraly :jp:"
 ---
 
 # Ragnarok Strikers #1
