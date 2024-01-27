@@ -1,7 +1,7 @@
 ---
 sidebar:
   - title: "Ragnarok Strikers #1"
-    image: https://github.com/inabikarilibrary/inalib/assets/110833255/bfb2c60c-297a-4d34-93fd-2b1f4e5290b7
+    image: https://github.com/inabikarilibrary/inalib/assets/110833255/bfb2c60c-297a-4d34-93fd-2b1f4e5290b7/350x250
     text: "Participants: 27
     
     Tier: Minor
