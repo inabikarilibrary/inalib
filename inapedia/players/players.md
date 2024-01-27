@@ -15,6 +15,10 @@ toc_label: "List of Players"
 
 - [Yaxo](capeverdean/yaxo.md)
 
+### Comoros :comoros:
+
+- [Obluda](french/obluda.md)
+
 ### Senegal :senegal:
 
 - [Eath](senegalese/eath.md)
@@ -117,6 +121,7 @@ toc_label: "List of Players"
 - [Nagashi](french/nagashi.md)
 - [nayth](french/nayth.md)
 - [Noxyne](french/noxyne.md)
+- [Obluda](french/obluda.md)
 - [Pinguin](french/pinguin.md)
 - [Saikyoo11](french/saikyoo11.md)
 - [SpaceGenesis](french/spacegenesis.md)
@@ -156,6 +161,7 @@ toc_label: "List of Players"
 - [Johnny](spanish/johnny.md)
 - [Jorge Lorenzo](spanish/jorge.md)
 - [Lucas](spanish/lucas.md)
+- [Teca](spanish/teca.md)
 - [Unaii](spanish/unaii.md)
 - [Yesus0010](spanish/yesus.md)
 

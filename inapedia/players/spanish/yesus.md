@@ -2,6 +2,10 @@
 
 Yesus0010 is a Spanish :es: player, maining Nomash.
 
+## Style of Play
+
+Yesus' gameplay can be described as unorthodox, being able to do things like randomly changing formations in the 2nd half. He was also previously a Chain main, further supporting this style. 
+
 ## Achievements
 
 |Date|Place|Tournament|Tier|

@@ -1,6 +1,6 @@
 # Kobr3x
 
-Kobr3x is a Polish :poland: player, maining Nomash.
+Kobr3x is a Polish :poland: player, maining Nomash. He is considered to be the best in Poland, and *the* person to beat within the Polish community.
 
 ## Achievements
 
