@@ -43,3 +43,5 @@ Tier: Major
 - [Challonge](https://challonge.com/fr/holyroad)
 
 ### Gallery
+
+![image](https://github.com/inabikarilibrary/inalib/assets/110833255/54429b7a-ae78-4ece-a060-6953308a8958)
