@@ -31,3 +31,5 @@ Tier: Minor
 ### Bracket
 
 ### Gallery
+
+![image](https://github.com/inabikarilibrary/inalib/assets/110833255/e0f2a497-94c6-439f-a5c1-0ef63a3e150a)
