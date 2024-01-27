@@ -14,6 +14,6 @@ Baamsushi is an Indonesian :indonesia: player, maining Chain.
 | 01/2023 |3rd :3rd_place_medal: | [Bulgarian Draft Xtreme](../../tournaments/draft/bgdraftx.md) | Draft |
 | 04/12/2022 | 7th | [Ragnarok Strikers Xtreme #2](../../tournaments/ragna/ragnax2.md) | Major |
 | 24/07/2022 | 13th | [Ragnarok Strikers #5](../../tournaments/ragna/ragna5.md) | Major |
-| 08/07/2022 | 13th | [PEGASUS STRIKERS #9](../../tournaments/pegasus/pegasus9.md) | | Major |
+| 08/07/2022 | 13th | [PEGASUS STRIKERS #9](../../tournaments/pegasus/pegasus9.md) | Major |
 | 18/06/2022 | 5th | [Area Holy Road #1](../../tournaments/misc/holyroad1.md) | Major |
 | 26/09/2021 |2nd :2nd_place_medal: | [Strikers Frontier #1](../../tournaments/sf/sf1.md) | Minor |
