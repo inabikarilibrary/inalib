@@ -25,4 +25,10 @@
 ## Nationals
 
 - [Backdraft](lemonade/bdmain.md) :brazil:
-- [Draft Cup](jpdraft/jpdraftmain.md) :jp: 
+- [Draft Cup](jpdraft/jpdraftmain.md) :jp:
+
+## Drafts
+
+- [Bulgarian Draft](draft/bgdraft.md)
+- [Bulgarian Draft Xtreme](draft/bgdraftx.md)
+- [PEGASUS Xtreme Draft](draft/pegasusdraft.md)
