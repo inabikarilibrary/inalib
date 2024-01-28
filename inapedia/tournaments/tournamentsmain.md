@@ -31,4 +31,6 @@
 
 - [Bulgarian Draft](draft/bgdraft.md)
 - [Bulgarian Draft Xtreme](draft/bgdraftx.md)
+- [Hades Garden Draft](draft/hgdraft.md)
+- [Hades Garden Xtreme Draft Cup](draft/hgdraftx.md)
 - [PEGASUS Xtreme Draft](draft/pegasusdraft.md)
