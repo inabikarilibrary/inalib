@@ -32,3 +32,5 @@ Tier: Draft
 - [Challonge](https://challonge.com/hadesdraft23)
 
 ### Gallery
+
+![image](https://github.com/inabikarilibrary/inalib/assets/110833255/6257f1b3-df4b-439e-ba66-1b08ab99bbd3)
