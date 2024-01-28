@@ -26,3 +26,4 @@ Tier: Draft
 
 ### Gallery
 
+![image](https://github.com/inabikarilibrary/inalib/assets/110833255/7be29e60-6179-4ed1-88f9-b6b1f0a2c189)
