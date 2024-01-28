@@ -16,6 +16,7 @@ Tier: Draft
 ### Standings
 
 |Place|Player|
+|-|-|
 |1st :1st_place_medal:| [Alexisl](../../players/french/alexisl.md) :fr: |
 |2nd :2nd_place_medal:| [Caleb](../../players/bulgarian/caleb.md) :bulgaria: |
 |3rd :3rd_place_medal:| [matcha](../../players/chinese/matcha.md) :cn::hong_kong: |
