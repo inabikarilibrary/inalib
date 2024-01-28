@@ -11,6 +11,7 @@ and pioneered many notable strategies, such as the Shindou Opening and Kirafi Sp
 | 29/10/2023 | 5th | [ZENITH](../../tournaments/misc/zenith1.md) | Major |
 | 30/07/2023 | 5th | [Inazuma Eleven Strikers World Cup 2023](../../tournaments/worldcup23.md) | World Cup |
 | 05/2023 |1st :1st_place_medal: | [God Impact](../../tournaments/misc/godimpact.md) | Major |
+| 24/04/2024 |2nd :2nd_place_medal: | [Hades Garden Draft](../../tournaments/draft/hgdraft.md) | Draft |
 | 21/02/2023 | 4th | [Ragnarok Strikers Xtreme #3](../../tournaments/ragna/ragnax3.md) | Minor |
 | 11/02/2023 | 7th | [Xtreme Frontier](../../tournaments/sf/xf.md) | Major |
 | 01/2023 | 4th | [Bulgarian Draft Xtreme](../../tournaments/draft/bgdraftx.md) | Draft |

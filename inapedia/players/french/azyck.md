@@ -15,6 +15,7 @@ His playstyle is characteristic of the aggressive French style.
 | 16/06/2023 |1st :1st_place_medal: | [RTAXV4](../../tournaments/rtaxv/rtaxv4.md) | Minor |
 | 12/05/2023 |2nd :2nd_place_medal: | [Hades Garden #4](../../tournaments/hg/hg4.md) | Minor |
 | 05/2023 | 7th | [God Impact](../../tournaments/misc/godimpact.md) | Major |
+| 24/04/2024 | 5th | [Hades Garden Draft](../../tournaments/draft/hgdraft.md) | Draft |
 | 27/03/2023 |2nd :2nd_place_medal: | [Hades Garden #3](../../tournaments/hg/hg3.md) | Minor |
 | 04/03/2023 | 5th | [RTAXV2](../../tournaments/rtaxv/rtaxv2.md) | Minor |
 | 11/02/2023 |3rd :3rd_place_medal: | [Xtreme Frontier](../../tournaments/sf/xf.md) | Major |

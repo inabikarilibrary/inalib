@@ -17,6 +17,7 @@ His Nomash involves lots of side nomash techniques, such as the classic Uranus S
 | Date | Place | Tournament | Tier |
 | - | - | - | - |
 | 06/01/2024 | 9th | [ZENITH 2](../../tournaments/misc/zenith2.md) | Major |
+| 26/11/2023 | 5th | [Hades Garden Xtreme Draft Cup](../../tournaments/draft/hgdraftx.md) | Draft | 
 | 19/11/2023 | 9th | [Ragnarok Strikers Xtreme #7](../../tournaments/ragna/ragnax7.md) | Major |
 | 29/10/2023 |3rd :3rd_place_medal: | [ZENITH](../../tournaments/misc/zenith1.md) | Major |
 | 06/10/2023 | 7th | [Hades Garden #6](../../tournaments/hg/hg6.md) | Major |

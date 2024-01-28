@@ -7,7 +7,7 @@ Tier: Draft
 ## Overview
 
 ### Schedule
-- April 15, 2022 to April 24, 2022
+- April 15, 2023 to April 24, 2023
 
 ### Format
 - Draft rules
