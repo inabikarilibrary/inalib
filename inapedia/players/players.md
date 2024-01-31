@@ -5,7 +5,7 @@ toc_label: "List of Players"
 
 # List of Players
 
-## Africa
+## Africa :earth_africa:
 
 ### Algeria :algeria:
 
@@ -24,7 +24,7 @@ toc_label: "List of Players"
 - [Eath](senegalese/eath.md)
 - [Kinun](senegalese/kinun.md)
 
-## Americas
+## Americas :earth_americas:
 
 ### Argentina :argentina:
 
@@ -55,7 +55,7 @@ toc_label: "List of Players"
 
 - [Rodrift](peruvian/rodrift.md)
 
-## Asia
+## Asia :earth_asia:
 
 ### China :cn:
 
