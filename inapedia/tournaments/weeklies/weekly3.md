@@ -22,7 +22,7 @@ Tier: Minor
 |2nd :2nd_place_medal:|[Braxou](../../players/french/braxou.md) :fr:|
 |3rd :3rd_place_medal:|[Jorge Lorenzo](../../players/spanish/jorge.md) :es:|
 |4th|[Haku](../../players/german/haku.md) :fr:|
-|5th|Alan :fr:|
+|5th|[Alan](../../players/french/alan.md) :fr:|
 |5th|[Apollo](../../players/german/apollo.md) :de:|
 |7th|[Kev'nox](../../players/french/kevnox.md) :fr:|
 |7th|[Rino](../../players/french/rino.md) :fr:|

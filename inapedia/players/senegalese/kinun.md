@@ -7,6 +7,7 @@ Kinun is a Senegalese :senegal: player, maining Nomash.
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
 | 06/01/2024 | 9th | [ZENITH 2](../../tournaments/misc/zenith2.md) | Major |
+| 03/12/2023 | 7th |[Strikers FR Weekly 4](../../tournaments/weeklies/weekly4.md) | Minor |
 | 19/11/2023 | 9th | [Ragnarok Strikers Xtreme #7](../../tournaments/ragna/ragnax7.md) | Major |
 | 07/09/2023 | 13th | [Ragnarok Strikers Xtreme #6](../../tournaments/ragna/ragnax6.md) | Major |
 | 30/07/2023 | 5th | [Inazuma Eleven Strikers World Cup 2023](../../tournaments/worldcup23.md) | World Cup |
