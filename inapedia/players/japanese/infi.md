@@ -20,6 +20,7 @@ to initiate his circle until the last moment.
 | Date | Place | Tournament | Tier |
 | - | - | - | - |
 | 01/01/2024 |1st :1st_place_medal: | [Grand Celesta](../../tournaments/misc/grandcelesta.md) | Minor |
+| 31/10/2023 |2nd :2nd_place_medal:| [Icicle Palace](../../tournaments/misc/icicle.md) | Minor |
 | 29/10/2023 | 9th | [ZENITH](../../tournaments/misc/zenith1.md) | Major |
 | 22/09/2023 |1st :1st_place_medal: | [Siege of MUGEN Castle](../../tournaments/misc/mugen.md) | Minor |
 | 07/09/2023 |2nd :2nd_place_medal: | [Ragnarok Strikers Xtreme #6](../../tournaments/ragna/ragnax6.md) | Major |
