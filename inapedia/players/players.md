@@ -101,6 +101,7 @@ toc_label: "List of Players"
 - [585zeno](french/585zeno.md)
 - [Abdel](french/abdel.md)
 - [Aimenz](french/aimenz.md)
+- [Alan](french/alan.md)
 - [Alexisl](french/alexisl.md)
 - [Areirin](french/areirin.md)
 - [Astral](french/astral.md)
@@ -123,6 +124,7 @@ toc_label: "List of Players"
 - [Noxyne](french/noxyne.md)
 - [Obluda](french/obluda.md)
 - [Pinguin](french/pinguin.md)
+- [Rino](french/rino.md)
 - [Saikyoo11](french/saikyoo11.md)
 - [SpaceGenesis](french/spacegenesis.md)
 - [SRAW](french/sraw.md)
@@ -130,6 +132,7 @@ toc_label: "List of Players"
 
 ### Germany :de:
 
+- [Apollo](german/apollo.md)
 - [Haku](german/haku.md)
 - [Milozaki](german/milozaki.md)
 - [Zuky](german/zuky.md)

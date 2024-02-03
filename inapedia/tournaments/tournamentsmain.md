@@ -19,6 +19,8 @@
 - [Strikers Frontier](sf/sfmain.md)
 
 - [Shadow Xtreme Strikers](shadow/shadowmain.md)
+
+- [Strikers FR Weeklies](weeklies/weeklymain.md)
   
 - [Miscellaneous](misc/miscmain.md)
 
