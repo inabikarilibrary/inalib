@@ -6,6 +6,8 @@ SRAW is a French :fr: player, maining Nomash.
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
+| 19/11/2023 |3rd :3rd_place_medal:| [Strikers FR Weekly 2](../../tournaments/weeklies/weekly2.md) | Minor |
+| 10/11/2023 | 7th | [Strikers FR Weekly 1](../../tournaments/weeklies/weekly1.md) | Minor |
 | 08/2023 | 13th | [RTAXV7](../../tournaments/rtaxv/rtaxv7.md) | Major |
 | 30/07/2023 | 5th | [Inazuma Eleven Strikers World Cup 2023](../../tournaments/worldcup23.md) | World Cup |
 | 07/2023 | 9th | [Orfeo Inazuma Strikers World Cup 2023 Warm Up](../../tournaments/misc/orfeowc.md) | Major |

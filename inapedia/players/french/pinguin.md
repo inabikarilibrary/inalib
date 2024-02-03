@@ -8,6 +8,8 @@ He is also a streamer on Twitch.
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
 | 06/01/2024 | 13th | [ZENITH 2](../../tournaments/misc/zenith2.md) | Major |
+| 19/11/2023 | 5th | [Strikers FR Weekly 2](../../tournaments/weeklies/weekly2.md) | Minor |
+| 10/11/2023 | 5th | [Strikers FR Weekly 1](../../tournaments/weeklies/weekly1.md) | Minor |
 | 31/08/2023 | 9th | [Hades Garden #5](../../tournaments/hg/hg5.md) | Major |
 | 08/2023 | 13th | [RTAXV7](../../tournaments/rtaxv/rtaxv7.md) | Major |
 | 30/07/2023 |3rd :3rd_place_medal: | [Inazuma Eleven Strikers World Cup 2023](../../tournaments/worldcup23.md) | World Cup |
