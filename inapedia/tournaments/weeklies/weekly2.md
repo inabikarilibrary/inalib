@@ -31,3 +31,5 @@ Tier: Minor
 - [Challonge](https://challonge.com/inastweekle2)
 
 ### Gallery
+
+![image](https://github.com/inabikarilibrary/inalib/assets/110833255/d4a10391-c36e-44b4-a116-0cd92341c053)
