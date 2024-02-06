@@ -10,12 +10,13 @@ Haku is a well-rounded player, capable of playing many different styles.
 His pre-game preparation is notable, as he has the tendency to create effective counterstrats
 against his opponents.
 
-His Nomash involves lots of side nomash techniques, such as the classic Uranus Shots and High Jumps.
+His Nomash style involves lots of side nomash techniques, such as the classic Uranus Shots and High Jumps.
 
 ## Achievements
 
 | Date | Place | Tournament | Tier |
 | - | - | - | - |
+| 06/02/2024 | 7th | [Hades Garden 1st Anniversary Tournament](../../tournaments/hg/hganni.md) | Minor |
 | 06/01/2024 | 9th | [ZENITH 2](../../tournaments/misc/zenith2.md) | Major |
 | 03/12/2023 | 5th |[Strikers FR Weekly 4](../../tournaments/weeklies/weekly4.md) | Minor |
 | 26/11/2023 | 4th | [Strikers FR Weekly 3](../../tournaments/weeklies/weekly3.md.md) | Minor |

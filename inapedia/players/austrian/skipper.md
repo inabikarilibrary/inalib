@@ -7,6 +7,7 @@ He was also previously a high-level Chain player.
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
+| 06/02/2024 | 4th | [Hades Garden 1st Anniversary Tournament](../../tournaments/hg/hganni.md) | Minor |
 | 19/11/2023 | 7th | [Ragnarok Strikers Xtreme #7](../../tournaments/ragna/ragnax7.md) | Major |
 | 29/10/2023 | 9th | [ZENITH](../../tournaments/misc/zenith1.md) | Major |
 | 06/10/2023 | 5th | [Hades Garden #6](../../tournaments/hg/hg6.md) | Major |
