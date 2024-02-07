@@ -33,6 +33,7 @@ Backdraft is also the only tournament series to be held via Netplay, as opposed 
 - [X Goujin #3](xgoujin3.md)
 - [X Goujin #4](xgoujin4.md)
 - [X Goujin #5](xgoujin5.md)
+- [X Goujin #6](xgoujin6.md)
 
 ### Gouenji League
 

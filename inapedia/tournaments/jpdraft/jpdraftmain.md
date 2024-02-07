@@ -20,6 +20,7 @@ Aside from Japanese players, a few Chinese players have been invited to particip
 
 ### Draft Cup (Xtreme mod)
 
-- [Xtreme Draft Cup](jpxdraft.md)
+- [X Draft Cup](jpxdraft.md)
+- [2nd Xtreme Draft Cup](jpxdraft2.md)
 - [1st Ultimate Draft Cup](jpudraft1.md)
 - [2nd Ultimate Draft Cup](jpudraft2.md)
