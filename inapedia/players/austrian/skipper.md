@@ -10,6 +10,7 @@ He was also previously a high-level Chain player.
 | 06/02/2024 | 4th | [Hades Garden 1st Anniversary Tournament](../../tournaments/hg/hganni.md) | Minor |
 | 19/11/2023 | 7th | [Ragnarok Strikers Xtreme #7](../../tournaments/ragna/ragnax7.md) | Major |
 | 29/10/2023 | 9th | [ZENITH](../../tournaments/misc/zenith1.md) | Major |
+| 16/10/2023 |2nd :2nd_place_medal: |[Rose Griffon Strikers](../../tournaments/misc/rosegriffon.md) | Minor |
 | 06/10/2023 | 5th | [Hades Garden #6](../../tournaments/hg/hg6.md) | Major |
 | 30/07/2023 | 9th | [Inazuma Eleven Strikers World Cup 2023](../../tournaments/worldcup23.md) | World Cup |
 | 11/06/2023 | 9th | [Ragnarok Strikers Xtreme #5](../../tournaments/ragna/ragnax5.md) | Major |

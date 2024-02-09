@@ -20,6 +20,8 @@
 
 - [Grand Celesta](grandcelesta.md)
 
+- [Rose Griffon Strikers](rosegriffon.md)
+
 - [MrCheeseTalisman Subscriber Tournament](cheesesub.md)
 
 - [MrCheeseTalisman Strikers](cheese1.md)
