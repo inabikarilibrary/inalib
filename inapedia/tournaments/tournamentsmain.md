@@ -1,5 +1,7 @@
 # List of Tournaments
 
+###### See the tournament tier definitions [here](tierdef.md)
+
 ## World Cups
 
 - [World Cup 2023](worldcup23.md)
