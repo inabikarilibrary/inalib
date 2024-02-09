@@ -1,6 +1,6 @@
 # Hades Garden 4
 
-Hades Garden #4 is the fourth edition of the 
+Hades Garden #4 was the fourth edition of the 
 [Hades Garden](hgmain.md) tournament series.
 26 players participated.
 

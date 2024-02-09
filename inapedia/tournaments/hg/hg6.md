@@ -1,6 +1,6 @@
 # Hades Garden #6
 
-Hades Garden #6 is the sixth edition of the [Hades Garden](hgmain.md) tournament series.
+Hades Garden #6 was the sixth edition of the [Hades Garden](hgmain.md) tournament series.
 48 players participated.
 
 Tier: Major

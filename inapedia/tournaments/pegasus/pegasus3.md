@@ -2,6 +2,7 @@
 
 PEGASUS STRIKERS #3 was the third edition of the [PEGASUS STRIKERS](pegasusmain.md)
 tournament series. It was held exclusively for Dolphin users.
+17 players participated.
 
 Tier: Minor
 

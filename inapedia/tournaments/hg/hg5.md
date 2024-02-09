@@ -1,6 +1,6 @@
 # Hades Garden #5
 
-Hades Garden #5 is the fifth edition of the [Hades Garden](hgmain.md) tournament series.
+Hades Garden #5 was the fifth edition of the [Hades Garden](hgmain.md) tournament series.
 65 players participated.
 
 Tier: Major

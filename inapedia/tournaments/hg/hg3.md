@@ -1,6 +1,6 @@
 # Hades Garden #3
 
-Hades Garden #3 is the third edition of the [Hades Garden](hgmain.md) tournament series.
+Hades Garden #3 was the third edition of the [Hades Garden](hgmain.md) tournament series.
 20 players participated.
 
 Tier: Minor
