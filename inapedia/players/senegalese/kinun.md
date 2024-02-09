@@ -25,3 +25,4 @@ Kinun is a Senegalese :senegal: player, maining Nomash.
 | 14/11/2021 |3rd :3rd_place_medal: | [Ragnarok Strikers #2](../../tournaments/ragna/ragna2.md) | Minor |
 | 07/11/2021 | 5th | [Strikers Frontier #2](../../tournaments/sf/sf2.md) | Minor |
 | 26/09/2021 |3rd :3rd_place_medal: | [Strikers Frontier #1](../../tournaments/sf/sf1.md) | Minor |
+| 08/2021 | 5th | [Inasuto_108](../../tournaments/misc/108.md) | Major |

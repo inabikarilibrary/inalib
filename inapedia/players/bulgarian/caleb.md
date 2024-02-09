@@ -29,5 +29,6 @@ and pioneered many notable strategies, such as the Shindou Opening and Kirafi Sp
 | 14/11/2021 |2nd :2nd_place_medal: | [Ragnarok Strikers #2](../../tournaments/ragna/ragna2.md) | Minor |
 | 07/11/2021 | 5th | [Strikers Frontier #2](../../tournaments/sf/sf2.md) | Minor |
 | 12/09/2021 |2nd :2nd_place_medal: | [Ragnarok Strikers #1](../../tournaments/ragna/ragna1.md) | Minor |
+| 08/2021 | 5th | [Inasuto_108](../../tournaments/misc/108.md) | Major |
 | 07/2021 | 9th | [Inazuma Eleven Strikers World Cup 2021](../../tournaments/worldcup21.md) | World Cup |
 | 26/09/2021 | 5th | [Strikers Frontier #1](../../tournaments/sf/sf1.md) | Minor |
