@@ -21,7 +21,7 @@ Tier: Minor
 
 |Place|Player|
 |-|-|
-|1st :1st_place_medal:|[Azyck](../../players/french/azyck.md) :fr:|
+|1st :1st_place_medal:|[Azyck](../../players/french/azyck.md) :fr::tr:|
 |2nd :2nd_place_medal:|[Alexisl](../../players/french/alexisl.md) :fr:|
 |3rd :3rd_place_medal:|[Hakuryuu](../../players/german/haku.md) :de:|
 |4th|[585zeno](../../players/french/585zeno.md) :fr:|

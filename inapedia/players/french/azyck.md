@@ -22,7 +22,9 @@ His playstyle is characteristic of the aggressive French style.
 | 11/02/2023 |3rd :3rd_place_medal: | [Xtreme Frontier](../../tournaments/sf/xf.md) | Major |
 | 15/01/2023 |1st :1st_place_medal: | [Inazuma Eleven Asia Xtreme #2](../../tournaments/misc/asiax2.md) | Minor |
 | 13/01/2023 |2nd :2nd_place_medal: | [Shadow Xtreme Strikers #2](../../tournaments/shadow/shadow2.md) | Minor |
+| 01/2023 |2nd :2nd_place_medal: | [MrCheeseTalisman Strikers](../../tournaments/misc/cheese1.md) | Minor |
 | 01/2023 |3rd :3rd_place_medal: | [RTAXV1](../../tournaments/rtaxv/rtaxv1.md) | Minor |
+| 15/10/2022 |2nd :2nd_place_medal: | [Orfeo's World Pasta Day](../../tournaments/misc/orfeopasta.md) | Minor |
 | 08/10/2022 |1st :1st_place_medal: | [Shadow Xtreme Strikers #1](../../tournaments/shadow/shadow1.md) | Minor |
 | 02/10/2022 | 9th | [Ragnarok Strikers Xtreme #1](../../tournaments/ragna/ragnax1.md) | Major |
 | 16/09/2022 | 5th | [Area Holy Road #2](../../tournaments/misc/holyroad2.md) | Major |

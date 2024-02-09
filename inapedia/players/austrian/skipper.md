@@ -18,6 +18,7 @@ He was also previously a high-level Chain player.
 | 27/03/2023 |3rd :3rd_place_medal: | [Hades Garden #3](../../tournaments/hg/hg3.md) | Minor |
 | 21/02/2023 | 5th | [Ragnarok Strikers Xtreme #3](../../tournaments/ragna/ragnax3.md) | Minor |
 | 15/01/2023 | 5th | [Inazuma Eleven Asia Xtreme #2](../../tournaments/misc/asiax2.md) | Minor |
+| 01/2023 | 5th | [MrCheeseTalisman Strikers](../../tournaments/misc/cheese1.md) | Minor |
 | 01/2023 | 5th | [RTAXV1](../../tournaments/rtaxv/rtaxv1.md) | Minor |
 | 04/12/2022 | 9th | [Ragnarok Strikers Xtreme #2](../../tournaments/ragna/ragnax2.md) | Major |
 | 02/10/2022 | 13th | [Ragnarok Strikers Xtreme #1](../../tournaments/ragna/ragnax1.md) | Major |

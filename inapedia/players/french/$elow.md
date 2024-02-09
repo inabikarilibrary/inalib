@@ -23,6 +23,7 @@ His playstyle is characteristic of the aggressive French style.
 | 12/05/2023 | 4th | [Hades Garden #4](../../tournaments/hg/hg4.md) | Minor |
 | 05/2023 | 13th | [God Impact](../../tournaments/misc/godimpact.md) | Major |
 | 04/03/2023 |2nd :2nd_place_medal: | [RTAXV2](../../tournaments/rtaxv/rtaxv2.md) | Minor |
+| 01/2023 | 5th | [MrCheeseTalisman Strikers](../../tournaments/misc/cheese1.md) | Minor |
 | 02/10/2022 | 13th | [Ragnarok Strikers Xtreme #1](../../tournaments/ragna/ragnax1.md) | Major |
 | 17/09/2022 |3rd :3rd_place_medal: | [PEGASUS STRIKERS XTREME](../../tournaments/pegasus/pegasusx.md) | Major |
 | 16/09/2022 | 9th | [Area Holy Road #2](../../tournaments/misc/holyroad2.md) | Major |

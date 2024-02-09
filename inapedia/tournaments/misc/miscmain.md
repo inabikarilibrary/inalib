@@ -4,6 +4,8 @@
 
 - [Orfeo League 2022](orfeoleague.md)
 
+- [Orfeo's World Pasta Day](orfeopasta.md)
+
 - [God Impact](godimpact.md)
 
 - [Area Holy Road #1](holyroad1.md)
@@ -17,6 +19,10 @@
 - [Siege of MUGEN Castle](mugen.md)
 
 - [Grand Celesta](grandcelesta.md)
+
+- [MrCheeseTalisman Subscriber Tournament](cheesesub.md)
+
+- [MrCheeseTalisman Strikers](cheese1.md)
 
 - [Inast Asia](inastasia.md)
 

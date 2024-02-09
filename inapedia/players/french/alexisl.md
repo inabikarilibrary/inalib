@@ -38,10 +38,12 @@ to handle his evasive movement.
 | 04/02/2023 |1st :1st_place_medal: | [Shadow Xtreme Strikers #3](../../tournaments/shadow/shadow3.md) | Minor |
 | 15/01/2023 |2nd :2nd_place_medal: | [Inazuma Eleven Asia Xtreme #2](../../tournaments/misc/asiax2.md) | Minor |
 | 13/01/2023 |1st :1st_place_medal: | [Shadow Xtreme Strikers #2](../../tournaments/shadow/shadow2.md) | Minor |
+| 01/2023 |1st :1st_place_medal: | [MrCheeseTalisman Strikers](../../tournaments/misc/cheese1.md) | Minor |
 | 01/2023 |2nd :2nd_place_medal: | [RTAXV1](../../tournaments/rtaxv/rtaxv1.md) | Minor|
 | 01/2023 |2nd :2nd_place_medal: | [Bulgarian Draft Xtreme](../../tournaments/draft/bgdraftx.md) | Draft |
 | 04/12/2022 | 5th | [Ragnarok Strikers Xtreme #2](../../tournaments/ragna/ragnax2.md) | Major |
 | 11/2022 |2nd :2nd_place_medal: | [PEGASUS Xtreme Draft](../../tournaments/draft/pegasusdraft.md) | Draft | 
+| 15/10/2022 | 4th | [Orfeo's World Pasta Day](../../tournaments/misc/orfeopasta.md) | Minor |
 | 08/10/2022 | 4th | [Shadow Xtreme Strikers #1](../../tournaments/shadow/shadow1.md) | Minor |
 | 02/10/2022 | 7th | [Ragnarok Strikers Xtreme #1](../../tournaments/ragna/ragnax1.md) | Major |
 | 17/09/2022 | 4th | [PEGASUS STRIKERS XTREME](../../tournaments/pegasus/pegasusx.md) | Major |

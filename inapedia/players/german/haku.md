@@ -39,6 +39,7 @@ His Nomash style involves lots of side nomash techniques, such as the classic Ur
 | 15/01/2023 |3rd :3rd_place_medal: | [Inazuma Eleven Asia Xtreme #2](../../tournaments/misc/asiax2.md) | Minor |
 | 04/12/2022 | 4th | [Ragnarok Strikers Xtreme #2](../../tournaments/ragna/ragnax2.md) | Major |
 | 11/2022 |3rd :3rd_place_medal: | [PEGASUS Xtreme Draft](../../tournaments/draft/pegasusdraft.md) | Draft | 
+| 15/10/2022 | 7th | [Orfeo's World Pasta Day](../../tournaments/misc/orfeopasta.md) | Minor |
 | 02/10/2022 | 7th | [Ragnarok Strikers Xtreme #1](../../tournaments/ragna/ragnax1.md) | Major |
 | 10/2022 | 4th | [Orfeo League 2022](../../tournaments/misc/orfeoleague.md) | Minor | 
 | 17/09/2022 | 9th | [PEGASUS STRIKERS XTREME](../../tournaments/pegasus/pegasusx.md) | Major |
@@ -46,6 +47,7 @@ His Nomash style involves lots of side nomash techniques, such as the classic Ur
 | 26/08/2022 | 5th | [PEGASUS STRIKERS #10](../../tournaments/pegasus/pegasus10.md) | Major | 
 | 24/07/2022 |2nd :2nd_place_medal: | [Ragnarok Strikers #5](../../tournaments/ragna/ragna5.md) | Major |
 | 08/07/2022 | 4th | [PEGASUS STRIKERS #9](../../tournaments/pegasus/pegasus9.md) | Major |
+| 05/2022 |3rd :3rd_place_medal: | [MrCheeseTalisman Subscriber Tournament](../../tournaments/misc/cheesesub.md) | Minor |
 | 13/04/2022 | 9th | [Ragnarok Strikers #4](../../tournaments/ragna/ragna4.md) | Major |
 | 17/03/2022 | 5th | [Ragnarok Strikers #3](../../tournaments/ragna/ragna3.md) | Minor |
 | 14/11/2021 | 7th | [Ragnarok Strikers #2](../../tournaments/ragna/ragna2.md) | Minor |

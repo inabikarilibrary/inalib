@@ -112,6 +112,7 @@ toc_label: "List of Players"
 - [Ishido](french/ishido.md)
 - [Jin](french/jin.md)
 - [JiviZz](french/jivizz.md)
+- [Kemal](french/kemal.md)
 - [Kenway](french/kenway.md)
 - [Kev'nox](french/kevnox.md)
 - [Killian11](french/killian11.md)
@@ -141,6 +142,7 @@ toc_label: "List of Players"
 
 - [Aaronash](italian/aaronash.md)
 - [filo](italian/filo.md)
+- [Gioxxo](italian/gioxxo.md)
 - [Giu](italian/giu.md)
 - [marinucci79](italian/marinucci79.md)
 - [Trus7t](italian/trus7t.md)

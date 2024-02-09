@@ -10,6 +10,7 @@ top Japanese player was participating.
 | Date | Place | Tournament | Tier |
 | - | - | - | - |
 | 29/10/2023 | 5th | [ZENITH](../../tournaments/misc/zenith1.md) | Major |
+| 15/10/2023 |3rd :3rd_place_medal: | [Orfeo's World Pasta Day](../../tournaments/misc/orfeopasta.md) | Minor |
 | 30/07/2023 |2nd :2nd_place_medal: | [Inazuma Eleven Strikers World Cup 2023](../../tournaments/worldcup23.md) | World Cup |
 | 04/03/2023 | 5th | [RTAXV2](../../tournaments/rtaxv/rtaxv2.md) | Minor |
 | 11/02/2023 |1st :1st_place_medal: | [Xtreme Frontier](../../tournaments/sf/xf.md) | Major |
@@ -23,6 +24,7 @@ top Japanese player was participating.
 | 08/07/2022 |2nd :2nd_place_medal: | [PEGASUS STRIKERS #9](../../tournaments/pegasus/pegasus9.md) | Major |
 | 07/2022 | 5th | [Bulgarian Draft](../../tournaments/draft/bgdraft.md) | Draft |
 | 13/06/2022 | 4th | [Ragnarok Strikers #4](../../tournaments/ragna/ragna4.md) | Major |
+| 05/2022 |1st :1st_place_medal: | [MrCheeseTalisman Subscriber Tournament](../../tournaments/misc/cheesesub.md) | Minor |
 | 23/04/2022 |1st :1st_place_medal: | [Strikers Frontier #5](../../tournaments/sf/sf5.md) | Major |
 | 17/03/2022 | 4th | [Ragnarok Strikers #3](../../tournaments/ragna/ragna3.md) | Minor |
 | 04/12/2021 | 5th | [Strikers Frontier #3](../../tournaments/sf/sf3.md) | Minor |

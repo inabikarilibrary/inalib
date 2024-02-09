@@ -11,17 +11,19 @@ and pioneered many notable strategies, such as the Shindou Opening and Kirafi Sp
 | 29/10/2023 | 5th | [ZENITH](../../tournaments/misc/zenith1.md) | Major |
 | 30/07/2023 | 5th | [Inazuma Eleven Strikers World Cup 2023](../../tournaments/worldcup23.md) | World Cup |
 | 05/2023 |1st :1st_place_medal: | [God Impact](../../tournaments/misc/godimpact.md) | Major |
-| 24/04/2024 |2nd :2nd_place_medal: | [Hades Garden Draft](../../tournaments/draft/hgdraft.md) | Draft |
+| 24/04/2023 |2nd :2nd_place_medal: | [Hades Garden Draft](../../tournaments/draft/hgdraft.md) | Draft |
 | 21/02/2023 | 4th | [Ragnarok Strikers Xtreme #3](../../tournaments/ragna/ragnax3.md) | Minor |
 | 11/02/2023 | 7th | [Xtreme Frontier](../../tournaments/sf/xf.md) | Major |
 | 01/2023 | 4th | [Bulgarian Draft Xtreme](../../tournaments/draft/bgdraftx.md) | Draft |
 | 04/12/2022 | 5th | [Ragnarok Strikers Xtreme #2](../../tournaments/ragna/ragnax2.md) | Major |
 | 11/2022 | 5th | [PEGASUS Xtreme Draft](../../tournaments/draft/pegasusdraft.md) | Draft | 
+| 15/10/2022 | 5th | [Orfeo's World Pasta Day](../../tournaments/misc/orfeopasta.md) | Minor |
 | 02/10/2022 |2nd :2nd_place_medal: | [Ragnarok Strikers Xtreme #1](../../tournaments/ragna/ragnax1.md) | Major |
 | 10/2022 |1st :1st_place_medal:| [Orfeo League 2022](../../tournaments/misc/orfeoleague.md) | Minor | 
 | 07/2022 |3rd :3rd_place_medal: | [Bulgarian Draft](../../tournaments/draft/bgdraft.md) | Draft |
 | 18/06/2022 |1st :1st_place_medal: | [Area Holy Road #1](../../tournaments/misc/holyroad1.md) | Major |
 | 13/06/2022 | 13th | [Ragnarok Strikers #4](../../tournaments/ragna/ragna4.md) | Major |
+| 05/2022 | 4th | [MrCheeseTalisman Subscriber Tournament](../../tournaments/misc/cheesesub.md) | Minor |
 | 23/04/2022 |3rd :3rd_place_medal: | [Strikers Frontier #5](../../tournaments/sf/sf5.md) | Major |
 | 04/12/2021 |1st :1st_place_medal: | [Strikers Frontier #3](../../tournaments/sf/sf3.md) | Minor |
 | 14/11/2021 |2nd :2nd_place_medal: | [Ragnarok Strikers #2](../../tournaments/ragna/ragna2.md) | Minor |
