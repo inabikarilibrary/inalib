@@ -17,3 +17,9 @@
 - [Siege of MUGEN Castle](mugen.md)
 
 - [Grand Celesta](grandcelesta.md)
+
+- [Inast Asia](inastasia.md)
+
+- [Inazuma Eleven Asia Xtreme](asiax1.md)
+
+- [Inazuma Eleven Asia Xtreme #2](asiax2.md)

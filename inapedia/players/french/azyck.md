@@ -20,6 +20,7 @@ His playstyle is characteristic of the aggressive French style.
 | 27/03/2023 |2nd :2nd_place_medal: | [Hades Garden #3](../../tournaments/hg/hg3.md) | Minor |
 | 04/03/2023 | 5th | [RTAXV2](../../tournaments/rtaxv/rtaxv2.md) | Minor |
 | 11/02/2023 |3rd :3rd_place_medal: | [Xtreme Frontier](../../tournaments/sf/xf.md) | Major |
+| 15/01/2023 |1st :1st_place_medal: | [Inazuma Eleven Asia Xtreme #2](../../tournaments/misc/asiax2.md) | Minor |
 | 13/01/2023 |2nd :2nd_place_medal: | [Shadow Xtreme Strikers #2](../../tournaments/shadow/shadow2.md) | Minor |
 | 01/2023 |3rd :3rd_place_medal: | [RTAXV1](../../tournaments/rtaxv/rtaxv1.md) | Minor |
 | 08/10/2022 |1st :1st_place_medal: | [Shadow Xtreme Strikers #1](../../tournaments/shadow/shadow1.md) | Minor |

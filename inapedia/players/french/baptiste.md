@@ -14,6 +14,7 @@ Baptiste is a French :fr: player, maining Nomash.
 | 11/06/2023 | 13th | [Ragnarok Strikers Xtreme #5](../../tournaments/ragna/ragnax5.md) | Major |
 | 19/05/2023 | 5th | [RTAXV3](../../tournaments/rtaxv/rtaxv3.md) | Minor |
 | 04/05/2023 | 9th | [Ragnarok Strikers Xtreme #4](../../tournaments/ragna/ragnax4.md) | Major |
+| 15/01/2023 | 5th | [Inazuma Eleven Asia Xtreme #2](../../tournaments/misc/asiax2.md) | Minor |
 | 04/12/2022 | 13th | [Ragnarok Strikers Xtreme #2](../../tournaments/ragna/ragnax2.md) | Major |
 | 11/2022 | 5th | [PEGASUS Xtreme Draft](../../tournaments/draft/pegasusdraft.md) | Draft | 
 | 08/10/2022 |3rd :3rd_place_medal: | [Shadow Xtreme Strikers #1](../../tournaments/shadow/shadow1.md) | Minor |
