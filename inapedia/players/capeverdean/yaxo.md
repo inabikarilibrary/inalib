@@ -1,8 +1,12 @@
 # Yaxo
 
-Yaxo is a Cape Verdean :cape_verde: player, maining Nomash.
+Yaxo is a Cape Verdean :cape_verde: player, maining Hybrid.
 He was considered one the best players during his active days.
-He was notably the only player to defeat a Japanese player at the [2021 World Cup](../../tournaments/worldcup21.md).
+He was notably the only player to defeat a Japanese player at the [2021 World Cup](../../tournaments/worldcup21.md). He has since 2021 retired from competitive play.
+
+## Style of play
+
+Yaxo's offensive tactics and abilities were ahead of his time outside of Japan. He was consistent with his dash goals and played Hybrid at a time when both of these were uncommon among non-Japanese players.
 
 ## Achievements
 

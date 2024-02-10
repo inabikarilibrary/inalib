@@ -14,6 +14,8 @@ was also passed down and heavily used by the next generation of French players.
 He is also known for being easily titled in-game, with the most notable incident being
 his infamous rage quit at the 2021 World Cup Finals.
 
+nayth's signature character is Shuu (his previous username's namesake), having used him even in Vanilla. 
+
 ## Achievements
 
 | Date | Place | Tournament | Tier |

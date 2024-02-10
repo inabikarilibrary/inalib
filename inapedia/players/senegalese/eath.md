@@ -2,6 +2,10 @@
 
 Eath is a Senegalese :senegal: player, maining all 3 playstyles.
 
+## Style of play
+
+Eath may be most notable for his Chain. He utilizes his great fundamentals to find openings to chain start, and this complements his preference for very standard team compositions. His proficiency with Nomash also allows him to take advantage of exposed defenses to score dash nomashes, which is why he often uses Chainers with dashes, such as Kageyama and Gouenji. 
+
 ## Achievements
 
 |Date|Place|Tournament|Tier|

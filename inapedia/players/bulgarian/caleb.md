@@ -4,6 +4,12 @@ Caleb is a Bulgarian :bulgaria: player, maining all 3 playstyles.
 He is known for playing unorthodox characters 
 and pioneered many notable strategies, such as the Shindou Opening and Kirafi Spam.
 
+## Style of play
+
+During the Vanilla era, Caleb was most notorious for his Kirafi Spam playstyle and was very successful with it. As such, his main way of scoring was via simple pass-shoot goals, which he did with unusual consistency.
+
+After the release of Xtreme, Caleb began pivoting towards Chain, which he plays in his most recent appearances. He continues to implement many unique strategies like double side chains and using JPN Hiroto.
+
 ## Achievements
 
 |Date|Place|Tournament|Tier|

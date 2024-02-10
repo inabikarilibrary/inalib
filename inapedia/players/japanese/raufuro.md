@@ -3,6 +3,12 @@
 Raufuro is a Japanese :jp: player, maining all 3 playstyles.
 He is notable for always playing in the Ogre Stadium.
 
+## Style of play
+
+Raufuro plays extremely slow, arguably even the slowest player in the world. He can and will stall his opponents by keeping the ball on his side of the field until the timing is right to attack. He is able to successfully do this due to his excellent movement fundamentals, making it very difficult for his opponents to take the ball from him.
+
+His signature character is Fran.
+
 ## Achievements
 
 | Date | Place | Tournament | Tier |

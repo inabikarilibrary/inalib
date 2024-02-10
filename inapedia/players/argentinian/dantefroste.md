@@ -2,6 +2,10 @@
 
 Dante Froste is an Argentinian :argentina: player, maining Chain. 
 
+## Style of play
+
+Dante Froste's playstyle is heavily influenced by his mentor [Rodrift](../peruvian/rodrift.md), adopting many of the latter's patterns and team comps. As such, Dante Froste plays a standard style of Chain with Shindou as his key character.
+
 ## Achievements
 
 |Date|Place|Tournament|Tier|

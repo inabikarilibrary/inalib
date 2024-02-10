@@ -2,6 +2,10 @@
 
 Giu is an Italian :it: player, maining Chain.
 
+## Style of play
+
+Giu plays a standard style of Chain. He often uses either of the miximax Chain duos of Shindou and Yuichi.
+
 ## Achievements
 
 |Date|Place|Tournament|Tier|

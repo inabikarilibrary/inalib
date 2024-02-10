@@ -3,6 +3,10 @@
 Aaronash is an Italian :it: player, maining Nomash. Together with [filo](filo.md),
 they are considered the best in Italy.
 
+## Style of play
+
+Aaronash's dash cancelling is unique in that he often dashes twice before cancelling instead of the typical triple dashing. 
+
 ## Achievements
 
 |Date|Place|Tournament|Tier|

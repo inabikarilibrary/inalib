@@ -6,7 +6,7 @@ He was part of the "old generation" of French players.
 
 ## Style of Play
 
-Mathiuze follows a very standard style of Chain, as did most other Chainers of his generation.
+Mathiuze follows a very standard style of Chain, as did most other Chainers of his generation. He often uses Roniejo, a signature character of his.
 
 ## Achievements
 

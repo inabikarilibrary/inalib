@@ -1,6 +1,10 @@
 # Noxyne
 
-Noxyne is a French :fr: player, maining Nomash.
+Noxyne is a French :fr: player, maining Nomash. 
+
+## Style of play
+
+Noxyne plays the standard French style, heavily focusing on dash goals and aggressive defense. 
 
 ## Achievements
 
@@ -12,6 +16,7 @@ Noxyne is a French :fr: player, maining Nomash.
 | 07/09/2023 | 9th | [Ragnarok Strikers Xtreme #6](../../tournaments/ragna/ragnax6.md) | Major |
 | 31/08/2023 | 13th | [Hades Garden #5](../../tournaments/hg/hg5.md) | Major |
 | 08/2023 | 4th | [RTAXV7](../../tournaments/rtaxv/rtaxv7.md) | Major |
+| 30/07/2023 | 13th | [Inazuma Eleven Strikers World Cup 2023](../../tournaments/worldcup23.md) | World Cup |
 | 11/02/2023 | 4th | [Xtreme Frontier](../../tournaments/sf/xf.md) | Major |
 | 13/01/2023 | 5th | [Shadow Xtreme Strikers #2](../../tournaments/shadow/shadow2.md) | Minor |
 | 01/2023 | 5th | [RTAXV1](../../tournaments/rtaxv/rtaxv1.md) | Minor |
