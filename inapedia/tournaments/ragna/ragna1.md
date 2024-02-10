@@ -1,3 +1,17 @@
+---
+sidebar:
+    - title: ""
+      text: "Ragnarok Strikers #1"
+    - title: ""
+      text: "Schedule: 03/09/21 - 12/09/21"
+    - title: ""
+      text: "Participants: 27"
+    - title: ""
+      text: "Tier: Minor"
+    - title: ""
+      text: "Version: Vanilla"
+---
+
 # Ragnarok Strikers #1
 
 Ragnarok Strikers #1 is the first edition of the [Ragnarok Strikers](ragnamain.md) tournament series.
