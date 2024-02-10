@@ -1,6 +1,6 @@
 # Ragnarok Strikers #1
 
-|||
+|Tournament|Information|
 |-|-|
 |:calendar:|03/09/21 - 12/09/21|
 |:busts_in_silhouette:|27|
