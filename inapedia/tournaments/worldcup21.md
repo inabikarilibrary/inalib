@@ -1,7 +1,15 @@
 # Inazuma Eleven Strikers World Cup 2021
 
+|Information|
+|-|
+|:calendar:: 07/21|
+|:busts_in_silhouette:: 12 (teams)|
+|:trophy:: World Cup|
+|:desktop_computer:: Vanilla|
+|:1st_place_medal:: Japan :jp:|
+
 The Inazuma Eleven Strikers World Cup 2021 was the 2021 edition of the Inazuma Eleven Strikers World Cup series.
-The tournament was won by **Team Japan**. 
+The tournament was won by **Team Japan** :jp:. 
 
 ## Overview
 
