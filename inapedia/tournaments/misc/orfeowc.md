@@ -1,5 +1,13 @@
 # Orfeo Inazuma Strikers World Cup 2023 Warm Up
 
+|Information|
+|-|
+|:calendar:: 07/23|
+|:busts_in_silhouette:: 42|
+|:trophy:: Major|
+|:desktop_computer:: Xtreme|
+|:1st_place_medal:: [Alexisl](../../players/french/alexisl.md) :fr:|
+
 Orfeo Inazuma Strikers World Cup 2023 Warm Up was a tournament held in the Orfeo discord server.
 42 players participated. 
 

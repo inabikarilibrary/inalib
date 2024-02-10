@@ -1,5 +1,13 @@
 # Goujin V3
 
+|Information|
+|-|
+|:calendar:: 01/21|
+|:busts_in_silhouette:: 12|
+|:trophy:: National|
+|:desktop_computer:: Backdraft|
+|:1st_place_medal:: [Hikaru](../../players/brazilian/hikky.md) :brazil:|
+
 Backdraft V3 Goujin was the second edition of the [Lemonade Backdraft](bdmain.md) tournament series for its premier Goujin league.
 12 players participated.
 

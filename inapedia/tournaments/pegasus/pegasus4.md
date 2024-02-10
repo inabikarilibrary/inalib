@@ -1,5 +1,13 @@
 # PEGASUS STRIKERS #4
 
+|Information|
+|-|
+|:calendar:: 15/08/20|
+|:busts_in_silhouette:: 9|
+|:trophy:: Other|
+|:desktop_computer:: Vanilla|
+|:1st_place_medal:: [Mathiuze](../../players/french/mathiuze.md) :fr:|
+
 PEGASUS STRIKERS #4 was the fourth edition of the [PEGASUS STRIKERS](pegasusmain.md)
 tournament series. 9 players participated.
 

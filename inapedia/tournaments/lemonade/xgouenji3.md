@@ -1,5 +1,13 @@
 # Gouenji #3
 
+|Information|
+|-|
+|:calendar:: 09/23|
+|:busts_in_silhouette:: 19|
+|:trophy:: National|
+|:desktop_computer:: Backdraft|
+|:1st_place_medal:: Guira :portugal:|
+
 Gouenji #3 was the third edition of the [Lemonade XBackdraft](bdmain.md) tournament series for the 2nd tier Gouenji league. 
 19 players participated.
 

@@ -1,5 +1,13 @@
 # Gouenji #2
 
+|Information|
+|-|
+|:calendar:: 04/23 - 05/23|
+|:busts_in_silhouette::|
+|:trophy:: National|
+|:desktop_computer:: Backdraft|
+|:1st_place_medal:: Biel :brazil:|
+
 Gouenji #2 was the second edition of the [Lemonade XBackdraft](bdmain.md) tournament series for the 2nd tier Gouenji league. 
 13 players participated.
 

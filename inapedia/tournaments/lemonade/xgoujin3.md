@@ -1,5 +1,13 @@
 # Goujin #3
 
+|Information|
+|-|
+|:calendar:: 09/23|
+|:busts_in_silhouette:: 8|
+|:trophy:: National|
+|:desktop_computer:: Backdraft|
+|:1st_place_medal:: [Hikaru](../../players/brazilian/hikky.md) :brazil:|
+
 XBackdraft #3 Goujin was the third edition of the [Lemonade XBackdraft](bdmain.md) tournament series for its premier Goujin league.
 8 players participated.
 

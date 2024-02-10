@@ -1,5 +1,13 @@
 # Backdraft V2
 
+|Information|
+|-|
+|:calendar:: 09/19 - 10/19|
+|:busts_in_silhouette:: 10|
+|:trophy:: National|
+|:desktop_computer:: Backdraft|
+|:1st_place_medal:: [Kozoumaru](../../players/brazilian/kozoumaru.md) :brazil:|
+
 Backdraft V2 was the second edition of the [Lemonade Backdraft](bdmain.md) tournament series. The league system was not applied here.
 10 players participated.
 

@@ -1,5 +1,13 @@
 # Goujin #2
 
+|Information|
+|-|
+|:calendar:: 04/23|
+|:busts_in_silhouette:: 8|
+|:trophy:: National|
+|:desktop_computer:: Backdraft|
+|:1st_place_medal:: [Panda](../../players/brazilian/panda.md) :brazil:|
+
 XBackdraft #2 Goujin was the second edition of the [Lemonade XBackdraft](bdmain.md) tournament series for its premier Goujin league.
 8 players participated.
 

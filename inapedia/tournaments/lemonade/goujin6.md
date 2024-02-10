@@ -1,5 +1,13 @@
 # Goujin V6
 
+|Information|
+|-|
+|:calendar:: 05/21 - 06/21|
+|:busts_in_silhouette:: 12|
+|:trophy:: National|
+|:desktop_computer:: Backdraft|
+|:1st_place_medal:: [MyssBH](../../players/brazilian/MyssBH.md) :brazil:|
+
 Backdraft V6 Goujin was the sixth edition of the [Lemonade Backdraft](bdmain.md) tournament series for its premier Goujin league.
 12 players participated.
 

@@ -1,5 +1,13 @@
 # Inast Asia
 
+|Information|
+|-|
+|:calendar:: 03/02/23 - 06/02/23|
+|:busts_in_silhouette:: 7|
+|:trophy:: Other|
+|:desktop_computer:: Xtreme|
+|:1st_place_medal:: [Paraly](../../players/japanese/paraly.md) :jp:|
+
 Inast Asia was a tournament held by the Inazuma Eleven Asia discord server. 
 Only players residing in Asia were allowed to participate.
 7 players participated.

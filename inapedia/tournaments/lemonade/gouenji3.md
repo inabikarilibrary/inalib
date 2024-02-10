@@ -1,5 +1,13 @@
 # Gouenji V3
 
+|Information|
+|-|
+|:calendar:: 01/21|
+|:busts_in_silhouette:: 8|
+|:trophy:: National|
+|:desktop_computer:: Backdraft|
+|:1st_place_medal:: [Panda](../../players/brazilian/panda.md) :brazil:|
+
 Gouenji V3 was the fourth edition of the [Lemonade Backdraft](bdmain.md) tournament series for the 2nd tier Gouenji league. 
 8 players participated.
 

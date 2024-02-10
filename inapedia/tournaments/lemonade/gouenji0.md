@@ -1,5 +1,13 @@
 # Gouenji V0
 
+|Information|
+|-|
+|:calendar:: 03/20|
+|:busts_in_silhouette:: 10|
+|:trophy:: National|
+|:desktop_computer:: Backdraft|
+|:1st_place_medal:: [MyssBH](../../players/brazilian/myssbh.md) :brazil:|
+
 Gouenji V0 was the first edition of the [Lemonade Backdraft](bdmain.md) tournament series for the 2nd tier Gouenji league. 
 10 players participated.
 

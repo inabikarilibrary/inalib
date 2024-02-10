@@ -1,5 +1,13 @@
 # Goujin V5
 
+|Information|
+|-|
+|:calendar:: 04/21|
+|:busts_in_silhouette::|
+|:trophy:: National|
+|:desktop_computer:: Backdraft|
+|:1st_place_medal:: [MyssBH](../../players/brazilian/MyssBH.md) :brazil:|
+
 Backdraft V5 Goujin was the fifth edition of the [Lemonade Backdraft](bdmain.md) tournament series for its premier Goujin league.
 
 Tier: National :brazil:

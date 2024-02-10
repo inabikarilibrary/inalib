@@ -1,6 +1,14 @@
 # Road to an Extreme Victory #4
 
-Road to an Extreme Victory #4 is the third edition of the [Road to an Extreme Victory](rtaxvmain.md) tournament series.
+|Information|
+|-|
+|:calendar:: 16/06/23|
+|:busts_in_silhouette:: 25|
+|:trophy:: Minor|
+|:desktop_computer:: Xtreme|
+|:1st_place_medal:: [Azyck](../../players/french/azyck.md) :fr::tr:|
+
+Road to an Extreme Victory #4 was the third edition of the [Road to an Extreme Victory](rtaxvmain.md) tournament series.
 25 players participated.
 
 Tier: Minor

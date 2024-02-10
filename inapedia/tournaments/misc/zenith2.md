@@ -1,5 +1,13 @@
 # ZENITH 2
 
+|Information|
+|-|
+|:calendar:: 30/12/23 - 06/01/24|
+|:busts_in_silhouette:: 60|
+|:trophy:: Major|
+|:desktop_computer:: Xtreme|
+|:1st_place_medal:: [Lucas](../../players/spanish/lucas.md) :es:|
+
 ZENITH 2 was a tournament held in the IE GO Strikers 2013 discord server.
 60 players participated.
 

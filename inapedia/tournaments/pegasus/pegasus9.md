@@ -1,5 +1,13 @@
 # PEGASUS STRIKERS #9
 
+|Information|
+|-|
+|:calendar:: 08/07/22|
+|:busts_in_silhouette:: 46|
+|:trophy:: Major|
+|:desktop_computer:: Vanilla|
+|:1st_place_medal:: [Miya](../../players/japanese/miya.md) :jp:|
+
 PEGASUS STRIKERS #9 was the ninth edition of the [PEGASUS STRIKERS](pegasusmain.md)
 tournament series. 46 players participated.
 

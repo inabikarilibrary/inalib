@@ -1,5 +1,13 @@
 # PEGASUS STRIKERS #3
 
+|Information|
+|-|
+|:calendar:: 04/07/20|
+|:busts_in_silhouette:: 17|
+|:trophy:: Minor|
+|:desktop_computer:: Vanilla|
+|:1st_place_medal:: [Yaxo](../../players/capeverdean/yaxo.md) :cape_verde:|
+
 PEGASUS STRIKERS #3 was the third edition of the [PEGASUS STRIKERS](pegasusmain.md)
 tournament series. It was held exclusively for Dolphin users.
 17 players participated.

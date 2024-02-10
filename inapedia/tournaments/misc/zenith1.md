@@ -1,5 +1,13 @@
 # ZENITH
 
+|Information|
+|-|
+|:calendar:: 27/10/23 - 29/10/23|
+|:busts_in_silhouette:: 64|
+|:trophy:: Major|
+|:desktop_computer:: Xtreme|
+|:1st_place_medal:: [Noxyne](../../players/french/noxyne.md) :fr:|
+
 ZENITH was a tournament held in the IE GO Strikers 2013 discord server.
 64 players participated.
 

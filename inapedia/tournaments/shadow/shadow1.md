@@ -1,5 +1,13 @@
 # Shadow Xtreme Strikers #1
 
+|Information|
+|-|
+|:calendar:: 08/10/22|
+|:busts_in_silhouette:: 26|
+|:trophy:: Minor|
+|:desktop_computer:: Xtreme|
+|:1st_place_medal:: [Azyck](../../players/french/azyck.md) :fr::tr:|
+
 Shadow Xtreme Strikers #1 was the first edition of the [Shadow Xtreme Strikers](shadowmain.md)
 tournament series.
 26 players participated.

@@ -1,5 +1,13 @@
 # Goujin #5
 
+|Information|
+|-|
+|:calendar:: 12/23|
+|:busts_in_silhouette:: 8|
+|:trophy:: National|
+|:desktop_computer:: Backdraft|
+|:1st_place_medal:: [Supersoga](../../players/brazilian/supersoga.md) :brazil:|
+
 XBackdraft #5 was the fifth edition of the [Lemonade XBackdraft](xbdmain.md) tournament series for its premier Goujin league.
 8 players participated.
 

@@ -1,5 +1,13 @@
 # Goujin V7
 
+|Information|
+|-|
+|:calendar:: 08/21|
+|:busts_in_silhouette:: 10|
+|:trophy:: National|
+|:desktop_computer:: Backdraft|
+|:1st_place_medal:: [Hikaru](../../players/brazilian/hikky.md) :brazil:|
+
 Backdraft V7 Goujin was the seventh edition of the [Lemonade Backdraft](bdmain.md) tournament series for its premier Goujin league.
 10 players participated.
 

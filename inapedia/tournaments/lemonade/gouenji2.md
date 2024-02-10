@@ -1,5 +1,13 @@
 # Gouenji V2
 
+|Information|
+|-|
+|:calendar:: 11/20|
+|:busts_in_silhouette:: 16|
+|:trophy:: National|
+|:desktop_computer:: Backdraft|
+|:1st_place_medal:: [Atticoos](../../players/brazilian/atticoos.md) :brazil:|
+
 Gouenji V2 was the third edition of the [Lemonade Backdraft](bdmain.md) tournament series for the 2nd tier Gouenji league. 
 16 players participated.
 

@@ -1,5 +1,13 @@
 # Grand Celesta
 
+|Information|
+|-|
+|:calendar:: 18/12/23 - 01/01/24|
+|:busts_in_silhouette:: 32|
+|:trophy:: Minor|
+|:desktop_computer:: Xtreme|
+|:1st_place_medal:: [Infi](../../players/japanese/infi.md) :jp:|
+
 Grand Celesta was a tournament held in the Grand Celesta discord server.
 32 players participated. 
 

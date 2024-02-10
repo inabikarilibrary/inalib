@@ -1,5 +1,13 @@
 # Area Holy Road #1
 
+|Information|
+|-|
+|:calendar:: 18/06/22|
+|:busts_in_silhouette:: 64|
+|:trophy:: Major|
+|:desktop_computer:: Vanilla|
+|:1st_place_medal:: [Caleb](../../players/bulgarian/caleb.md) :bulgaria:|
+
 Area Holy Road #1 was a tournament held in the Area discord server.
 64 players participated.
 

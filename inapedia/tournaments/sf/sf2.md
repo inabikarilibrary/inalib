@@ -1,5 +1,13 @@
 # Strikers Frontier #2
 
+|Information|
+|-|
+|:calendar:: 07/11/21|
+|:busts_in_silhouette:: 17|
+|:trophy:: Minor|
+|:desktop_computer:: Vanilla|
+|:1st_place_medal:: [Luxie](../../players/belgian/luxie.md) :belgium:|
+
 Strikers Frontier #2 was the second edition of the [Strikers Frontier](sfmain.md) tournament series.
 17 players participated.
 

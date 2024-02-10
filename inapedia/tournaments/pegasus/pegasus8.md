@@ -1,5 +1,13 @@
 # PEGASUS STRIKERS #8
 
+|Information|
+|-|
+|:calendar:: 19/12/20|
+|:busts_in_silhouette:: 6|
+|:trophy:: Other|
+|:desktop_computer:: Vanilla|
+|:1st_place_medal:: [Mathiuze](../../players/french/mathiuze.md) :fr:|
+
 PEGASUS STRIKERS #8 was the eighth edition of the [PEGASUS STRIKERS](pegasusmain.md)
 tournament series. 6 players participated.
 

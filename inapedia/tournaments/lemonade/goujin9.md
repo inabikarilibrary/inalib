@@ -1,5 +1,13 @@
 # Goujin V9
 
+|Information|
+|-|
+|:calendar:: 11/21 - 12/21|
+|:busts_in_silhouette:: 12|
+|:trophy:: National|
+|:desktop_computer:: Backdraft|
+|:1st_place_medal:: [Atticoos](../../players/brazilian/atticoos.md) :brazil:|
+
 Backdraft V9 Goujin was the ninth edition of the [Lemonade Backdraft](bdmain.md) tournament series for its premier Goujin league. 
 12 players participated.
 

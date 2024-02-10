@@ -1,5 +1,13 @@
 # Orfeo's World Pasta Day
 
+|Information|
+|-|
+|:calendar:: 15/10/23|
+|:busts_in_silhouette:: 25|
+|:trophy:: Minor|
+|:desktop_computer:: Xtreme|
+|:1st_place_medal:: [Infi](../../players/japanese/infi.md) :jp:|
+
 Orfeo's World Pasta Day was a tournament held in the Orfeo discord server.
 25 players participated. 
 

@@ -1,5 +1,13 @@
 # Backdraft
 
+|Information|
+|-|
+|:calendar:: 07/19|
+|:busts_in_silhouette:: 16|
+|:trophy:: National|
+|:desktop_computer:: Backdraft|
+|:1st_place_medal:: [Kozoumaru](../../players/brazilian/kozoumaru.md) :brazil:|
+
 Backdraft was the first edition of the [Lemonade Backdraft](bdmain.md) tournament series. The league system was not applied here.
 16 players participated.
 

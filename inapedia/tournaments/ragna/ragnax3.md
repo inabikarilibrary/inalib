@@ -1,5 +1,13 @@
 # Ragnarok Strikers Xtreme #3
 
+|Information|
+|-|
+|:calendar:: 10/02/23 - 21/02/23|
+|:busts_in_silhouette:: 36|
+|:trophy:: Minor|
+|:desktop_computer:: Xtreme|
+|:1st_place_medal:: [Paraly](../../players/japanese/paraly.md) :jp:|
+
 Ragnarok Strikers Xtreme #3 was the 3rd edition of the [Ragnarok Strikers Xtreme](ragnaxmain.md) tournament series.
 36 players participated.
 

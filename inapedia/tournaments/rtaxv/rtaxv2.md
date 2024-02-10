@@ -1,6 +1,14 @@
 # Road to an Extreme Victory #2
 
-Road to an Extreme Victory #2 is the second edition of the [Road to an Extreme Victory](rtaxvmain.md) tournament series.
+|Information|
+|-|
+|:calendar:: 04/03/23|
+|:busts_in_silhouette:: 40|
+|:trophy:: Minor|
+|:desktop_computer:: Xtreme|
+|:1st_place_medal:: [Alexisl](../../players/french/alexisl.md) :fr:|
+
+Road to an Extreme Victory #2 was the second edition of the [Road to an Extreme Victory](rtaxvmain.md) tournament series.
 40 players participated.
 
 Tier: Minor

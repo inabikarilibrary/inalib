@@ -1,6 +1,14 @@
 # Road to an Extreme Victory #1
 
-Road to an Extreme Victory #1 is the first edition of the [Road to an Extreme Victory](rtaxvmain.md) tournament series.
+|Information|
+|-|
+|:calendar:: 01/23|
+|:busts_in_silhouette:: 40|
+|:trophy:: Minor|
+|:desktop_computer:: Xtreme|
+|:1st_place_medal:: [Vivi](../../players/french/vivi.md) :fr:|
+
+Road to an Extreme Victory #1 was the first edition of the [Road to an Extreme Victory](rtaxvmain.md) tournament series.
 40 players participated.
 
 Tier: Minor

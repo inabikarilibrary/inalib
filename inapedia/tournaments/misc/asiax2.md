@@ -1,5 +1,13 @@
 # Inazuma Eleven Asia Xtreme #2
 
+|Information|
+|-|
+|:calendar:: 12/01/23 - 15/01/23|
+|:busts_in_silhouette:: 16|
+|:trophy:: Minor|
+|:desktop_computer:: Xtreme|
+|:1st_place_medal:: [Azyck](../../players/french/azyck.md) :fr::tr:|
+
 Inazuma Eleven Asia Xtreme #2 was a tournament held by the Inazuma Eleven Asia discord server. 
 16 players participated.
 

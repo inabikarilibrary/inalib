@@ -1,5 +1,13 @@
 # XBackdraft
 
+|Information|
+|-|
+|:calendar:: 01/23|
+|:busts_in_silhouette:: 20|
+|:trophy:: National|
+|:desktop_computer:: Backdraft|
+|:1st_place_medal:: [Shiro](../../players/brazilian/shiro.md) :brazil:|
+
 XBackdraft was the first Xtreme edition of the [Lemonade XBackdraft](bdmain.md) tournament series.
 This edition was the first to use the Xtreme mod. Results from this combined tournament were used to determine who would be placed in the next Goujin league.
 20 players participated.

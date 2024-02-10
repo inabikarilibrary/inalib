@@ -1,6 +1,14 @@
 # Road to an Extreme Victory #5
 
-Road to an Extreme Victory #5 is the fifth edition of the [Road to an Extreme Victory](rtaxvmain.md) tournament series.
+|Information|
+|-|
+|:calendar:: 24/06/23|
+|:busts_in_silhouette:: 30|
+|:trophy:: Minor|
+|:desktop_computer:: Xtreme|
+|:1st_place_medal:: [Eath](../../players/senegalese/eath.md) :senegal:|
+
+Road to an Extreme Victory #5 was the fifth edition of the [Road to an Extreme Victory](rtaxvmain.md) tournament series.
 30 players participated.
 
 Tier: Minor

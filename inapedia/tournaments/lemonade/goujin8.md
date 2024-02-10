@@ -1,5 +1,13 @@
 # Goujin V8
 
+|Information|
+|-|
+|:calendar:: 10/21|
+|:busts_in_silhouette:: 12|
+|:trophy:: National|
+|:desktop_computer:: Backdraft|
+|:1st_place_medal:: [MyssBH](../../players/brazilian/myssbh.md) :brazil:|
+
 Backdraft V8 Goujin was the eighth edition of the [Lemonade Backdraft](bdmain.md) tournament series for its premier Goujin league.
 12 players participated.
 

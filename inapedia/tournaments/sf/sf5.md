@@ -1,5 +1,13 @@
 # Strikers Frontier #5
 
+|Information|
+|-|
+|:calendar:: 23/04/22|
+|:busts_in_silhouette:: 55|
+|:trophy:: Major|
+|:desktop_computer:: Vanilla|
+|:1st_place_medal:: [HiroLachance](../../players/french/vivi.md) :fr:|
+
 Strikers Frontier #5 was the fifth edition of the [Strikers Frontier](sfmain.md) tournament series.
 55 players participated.
 

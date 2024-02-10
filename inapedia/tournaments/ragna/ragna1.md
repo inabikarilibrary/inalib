@@ -6,9 +6,9 @@
 |:busts_in_silhouette:: 27|
 |:trophy:: Minor|
 |:desktop_computer:: Vanilla|
-|:1st_place_medal:: Paraly :jp:|
+|:1st_place_medal:: [Paraly](../../players/japanese/paraly.md) :jp:|
 
-Ragnarok Strikers #1 is the first edition of the [Ragnarok Strikers](ragnamain.md) tournament series.
+Ragnarok Strikers #1 was the first edition of the [Ragnarok Strikers](ragnamain.md) tournament series.
 27 players participated.
 
 Tier: Minor

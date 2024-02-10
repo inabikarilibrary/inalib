@@ -1,6 +1,14 @@
 # Road to an Extreme Victory #3
 
-Road to an Extreme Victory #3 is the third edition of the [Road to an Extreme Victory](rtaxvmain.md) tournament series.
+|Information|
+|-|
+|:calendar:: 19/05/23|
+|:busts_in_silhouette:: 25|
+|:trophy:: Minor|
+|:desktop_computer:: Xtreme|
+|:1st_place_medal:: [$elow](../../players/french/$elow.md) :fr::tr:|
+
+Road to an Extreme Victory #3 was the third edition of the [Road to an Extreme Victory](rtaxvmain.md) tournament series.
 25 players participated.
 
 Tier: Minor

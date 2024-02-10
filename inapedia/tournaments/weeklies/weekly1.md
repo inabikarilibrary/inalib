@@ -1,5 +1,13 @@
 # Strikers FR Weekly 1
 
+|Information|
+|-|
+|:calendar:: 10/11/23 - 12/11/23|
+|:busts_in_silhouette:: 20|
+|:trophy:: Minor|
+|:desktop_computer:: Xtreme|
+|:1st_place_medal:: [Infi](../../players/japanese/infi.md) :jp:|
+
 Strikers FR Weekly 1 was the first edition of the [Strikers FR Weeklies](weeklymain.md) tournament series held by the IE GO Strikers 2013 discord server.
 20 players participated.
 

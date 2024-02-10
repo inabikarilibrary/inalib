@@ -1,5 +1,13 @@
 # Area Holy Road #2
 
+|Information|
+|-|
+|:calendar:: 16/09/22|
+|:busts_in_silhouette:: 40|
+|:trophy:: Major|
+|:desktop_computer:: Xtreme|
+|:1st_place_medal:: [Infi](../../players/japanese/infi.md) :jp:|
+
 Area Holy Road #2 was a tournament held in the Area discord server.
 40 players participated.
 

@@ -1,5 +1,13 @@
 # Ragnarok Strikers Xtreme #2
 
+|Information|
+|-|
+|:calendar:: 26/11/22 - 04/12/22|
+|:busts_in_silhouette:: 42|
+|:trophy:: Major|
+|:desktop_computer:: Xtreme|
+|:1st_place_medal:: [Raufuro](../../players/japanese/raufuro.md) :jp:|
+
 Ragnarok Strikers Xtreme #2 was the 2nd edition of the [Ragnarok Strikers Xtreme](ragnaxmain.md) tournament series.
 42 players participated.
 

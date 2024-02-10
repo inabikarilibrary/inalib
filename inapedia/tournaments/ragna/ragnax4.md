@@ -1,5 +1,13 @@
 # Ragnarok Strikers Xtreme #4
 
+|Information|
+|-|
+|:calendar:: 22/04/23 - 04/05/23|
+|:busts_in_silhouette:: 46|
+|:trophy:: Major|
+|:desktop_computer:: Xtreme|
+|:1st_place_medal:: [Paraly](../../players/japanese/paraly.md) :jp:|
+
 Ragnarok Strikers Xtreme #4 was the 4th edition of the [Ragnarok Strikers Xtreme](ragnaxmain.md) tournament series.
 46 players participated.
 

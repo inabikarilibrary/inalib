@@ -1,5 +1,13 @@
 # Liga Gouenji
 
+|Information|
+|-|
+|:calendar:: 08/20|
+|:busts_in_silhouette:: 12|
+|:trophy:: National|
+|:desktop_computer:: Backdraft|
+|:1st_place_medal:: Kantsuna :brazil:|
+
 Liga Gouenji was the second edition of the [Lemonade Backdraft](bdmain.md) tournament series for the 2nd tier Gouenji league.
 12 players participated.
 

@@ -1,5 +1,13 @@
 # Siege of MUGEN Castle
 
+|Information|
+|-|
+|:calendar:: 02/09/23 - 22/09/23|
+|:busts_in_silhouette:: 29|
+|:trophy:: Minor|
+|:desktop_computer:: Xtreme|
+|:1st_place_medal:: [Infi](../../players/japanese/infi.md) :jp:|
+
 Siege of MUGEN Castle was a tournament held in the MUGEN discord server.
 29 players participated. 
 

@@ -1,5 +1,13 @@
 # Goujin V1
 
+|Information|
+|-|
+|:calendar:: 08/20|
+|:busts_in_silhouette:: 8|
+|:trophy:: National|
+|:desktop_computer:: Backdraft|
+|:1st_place_medal:: [Hikaru](../../players/brazilian/hikky.md) :brazil:|
+
 Backdraft V1 Goujin was the first edition of the [Lemonade Backdraft](bdmain.md) tournament series for its premier Goujin league.
 8 players participated.
 

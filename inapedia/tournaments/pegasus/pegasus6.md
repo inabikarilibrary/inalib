@@ -1,5 +1,13 @@
 # PEGASUS STRIKERS #6
 
+|Information|
+|-|
+|:calendar:: 09/10/20|
+|:busts_in_silhouette:: 9|
+|:trophy:: Other|
+|:desktop_computer:: Vanilla|
+|:1st_place_medal:: [Mathiuze](../../players/french/mathiuze.md) :fr:|
+
 PEGASUS STRIKERS #6 was the sixth edition of the [PEGASUS STRIKERS](pegasusmain.md)
 tournament series. 9 players participated.
 

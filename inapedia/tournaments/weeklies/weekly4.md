@@ -1,5 +1,13 @@
 # Strikers FR Weekly 4
 
+|Information|
+|-|
+|:calendar:: 01/12/23 - 03/12/23|
+|:busts_in_silhouette:: 15|
+|:trophy:: Minor|
+|:desktop_computer:: Xtreme|
+|:1st_place_medal:: [Infi](../../players/japanese/infi.md) :jp:|
+
 Strikers FR Weekly 4 was the fourth edition of the [Strikers FR Weeklies](weeklymain.md) tournament series held by the IE GO Strikers 2013 discord server.
 15 players participated.
 

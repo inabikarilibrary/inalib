@@ -1,7 +1,15 @@
 # Ragnarok Strikers Xtreme #6
 
+|Information|
+|-|
+|:calendar:: 18/08/23 - 07/09/23|
+|:busts_in_silhouette:: 84|
+|:trophy:: Major|
+|:desktop_computer:: Xtreme|
+|:1st_place_medal:: [Paraly](../../players/japanese/paraly.md) :jp:|
+
 Ragnarok Strikers Xtreme #6 was the 6th edition of the [Ragnarok Strikers Xtreme](ragnaxmain.md) tournament series.
-84 players participated, which broke the record number of participants in a single tournament at that time.
+84 players participated, breaking the record number of participants in a single tournament at that time.
 
 Tier: Major
 

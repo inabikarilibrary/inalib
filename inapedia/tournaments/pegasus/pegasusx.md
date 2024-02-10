@@ -1,5 +1,13 @@
 # PEGASUS STRIKERS XTREME
 
+|Information|
+|-|
+|:calendar:: 17/09/22|
+|:busts_in_silhouette:: 40|
+|:trophy:: Major|
+|:desktop_computer:: Xtreme|
+|:1st_place_medal:: [Paraly](../../players/japanese/paraly.md) :jp:|
+
 PEGASUS STRIKERS XTREME was the eleventh edition of the [PEGASUS STRIKERS](pegasusmain.md)
 tournament series. It was renamed to indicate the use of the newly released Xtreme mod. 
 40 players participated.

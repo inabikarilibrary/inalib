@@ -1,5 +1,13 @@
 # Shadow Xtreme Strikers #3
 
+|Information|
+|-|
+|:calendar:: 04/02/23|
+|:busts_in_silhouette:: 24|
+|:trophy:: Minor|
+|:desktop_computer:: Xtreme|
+|:1st_place_medal:: [Alexisl](../../players/french/alexisl.md) :fr:|
+
 Shadow Xtreme Strikers #3 was the third edition of the [Shadow Xtreme Strikers](shadowmain.md)
 tournament series.
 24 players participated.

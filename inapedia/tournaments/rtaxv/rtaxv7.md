@@ -1,5 +1,13 @@
 # Road to an Extreme Victory #7
 
+|Information|
+|-|
+|:calendar:: 08/23|
+|:busts_in_silhouette:: 56|
+|:trophy:: Major|
+|:desktop_computer:: Xtreme|
+|:1st_place_medal:: [Eshin](../../players/japanese/eshin.md) :jp:|
+
 Road to an Extreme Victory #7 is the seventh edition of the [Road to an Extreme Victory](rtaxvmain.md) tournament series.
 56 players participated.
 

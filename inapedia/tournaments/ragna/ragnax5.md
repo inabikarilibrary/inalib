@@ -1,5 +1,13 @@
 # Ragnarok Strikers Xtreme #5
 
+|Information|
+|-|
+|:calendar:: 03/06/23 - 11/06/23|
+|:busts_in_silhouette:: 54|
+|:trophy:: Major|
+|:desktop_computer:: Xtreme|
+|:1st_place_medal:: [Paraly](../../players/japanese/paraly.md) :jp:|
+
 Ragnarok Strikers Xtreme #5 was the 5th edition of the [Ragnarok Strikers Xtreme](ragnaxmain.md) tournament series.
 54 players participated.
 

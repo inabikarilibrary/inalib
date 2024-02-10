@@ -1,5 +1,13 @@
 # Strikers Frontier #1
 
+|Information|
+|-|
+|:calendar:: 26/09/21|
+|:busts_in_silhouette:: 18|
+|:trophy:: Minor|
+|:desktop_computer:: Vanilla|
+|:1st_place_medal:: [Infi](../../players/japanese/infi.md) :jp:|
+
 Strikers Frontier #1 was the first edition of the [Strikers Frontier](sfmain.md) tournament series.
 18 players participated.
 

@@ -1,5 +1,13 @@
 # Shadow Xtreme Strikers #4
 
+|Information|
+|-|
+|:calendar:: 14/04/23|
+|:busts_in_silhouette:: 13|
+|:trophy:: Other|
+|:desktop_computer:: Xtreme|
+|:1st_place_medal:: [Infi](../../players/japanese/infi.md) :jp:|
+
 Shadow Xtreme Strikers #4 was the fourth edition of the [Shadow Xtreme Strikers](shadowmain.md)
 tournament series.
 13 players participated.

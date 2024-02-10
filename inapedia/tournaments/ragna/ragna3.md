@@ -1,5 +1,13 @@
 # Ragnarok Strikers #3
 
+|Information|
+|-|
+|:calendar:: 12/03/22 - 17/03/22|
+|:busts_in_silhouette:: 34|
+|:trophy:: Minor|
+|:desktop_computer:: Vanilla|
+|:1st_place_medal:: [Miya](../../players/japanese/miya.md) :jp:|
+
 Ragnarok Strikers #3 was the third edition of the [Ragnarok Strikers](ragnamain.md) tournament series.
 34 players participated.
 

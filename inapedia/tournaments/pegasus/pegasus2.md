@@ -1,5 +1,13 @@
 # PEGASUS STRIKERS #2
 
+|Information|
+|-|
+|:calendar:: 13/06/20|
+|:busts_in_silhouette:: 13|
+|:trophy:: Other|
+|:desktop_computer:: Vanilla|
+|:1st_place_medal:: Beyond :fr:|
+
 PEGASUS STRIKERS #2 was the second edition of the [PEGASUS STRIKERS](pegasusmain.md)
 tournament series. 13 players participated.
 

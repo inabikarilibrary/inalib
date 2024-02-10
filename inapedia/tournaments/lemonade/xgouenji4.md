@@ -1,5 +1,13 @@
 # Gouenji #4
 
+|Information|
+|-|
+|:calendar:: 10/23|
+|:busts_in_silhouette:: 8|
+|:trophy:: National|
+|:desktop_computer:: Backdraft|
+|:1st_place_medal:: [nicolau](../../players/brazilian/nicolau.md) :brazil:|
+
 Gouenji #4 was the fourth edition of the [Lemonade XBackdraft](bdmain.md) tournament series for the 2nd tier Gouenji league. 
 8 players participated.
 

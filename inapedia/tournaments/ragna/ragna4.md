@@ -1,5 +1,13 @@
 # Ragnarok Strikers #4
 
+|Information|
+|-|
+|:calendar:: 04/06/22 - 13/06/22|
+|:busts_in_silhouette:: 34|
+|:trophy:: Minor|
+|:desktop_computer:: Vanilla|
+|:1st_place_medal:: [Paraly](../../players/japanese/paraly.md) :jp:|
+
 Ragnarok Strikers #4 was the fourth edition of the [Ragnarok Strikers](ragnamain.md) tournament series.
 64 players participated.
 

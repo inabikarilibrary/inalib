@@ -1,5 +1,13 @@
 # MrCheeseTalisman Subscriber Tournament
 
+|Information|
+|-|
+|:calendar:: 05/22|
+|:busts_in_silhouette:: 22|
+|:trophy:: Minor|
+|:desktop_computer:: Vanilla|
+|:1st_place_medal:: [Hiro](../../players/french/vivi.md) :fr:|
+
 MrCheeseTalisman Subscriber Tournament was a tournament held by the content creator MrCheeseTalisman to commemorate 3000 YouTube subscribers. 22 players participated.
 
 Tier: Minor

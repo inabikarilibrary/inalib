@@ -1,5 +1,13 @@
 # Strikers FR Weekly 2
 
+|Information|
+|-|
+|:calendar:: 17/11/23 - 19/11/23|
+|:busts_in_silhouette:: 16|
+|:trophy:: Minor|
+|:desktop_computer:: Xtreme|
+|:1st_place_medal:: [Jorge Lorenzo](../../players/spanish/jorge.md) :es:|
+
 Strikers FR Weekly 2 was the second edition of the [Strikers FR Weeklies](weeklymain.md) tournament series held by the IE GO Strikers 2013 discord server.
 16 players participated.
 

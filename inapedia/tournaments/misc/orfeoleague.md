@@ -1,5 +1,13 @@
 # Orfeo League 2022
 
+|Information|
+|-|
+|:calendar:: 08/22 - 10/22|
+|:busts_in_silhouette:: 25|
+|:trophy:: Minor|
+|:desktop_computer:: Vanilla|
+|:1st_place_medal:: [Caleb](../../players/bulgarian/caleb.md) :bulgaria:|
+
 Orfeo League 2022 was a tournament held by the Orfeo discord server. This tournament notably used a league table that culminated in a playoffs stage. 20 players participated.
 
 Tier: Minor

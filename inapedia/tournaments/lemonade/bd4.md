@@ -1,5 +1,13 @@
 # Backdraft V4
 
+|Information|
+|-|
+|:calendar:: 03/21|
+|:busts_in_silhouette:: 23|
+|:trophy:: National|
+|:desktop_computer:: Backdraft|
+|:1st_place_medal:: [Atticoos](../../players/brazilian/atticoos.md) :brazil:|
+
 Backdraft V4 was the fourth edition of the [Lemonade Backdraft](bdmain.md) tournament series. Results from this combined tournament were used to determine who would be placed in the next Goujin league.
 23 players participated.
 

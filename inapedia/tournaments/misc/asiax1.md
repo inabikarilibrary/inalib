@@ -1,5 +1,13 @@
 # Inazuma Eleven Asia Xtreme #1
 
+|Information|
+|-|
+|:calendar:: 10/12/22 - 14/12/22|
+|:busts_in_silhouette:: 12|
+|:trophy:: Other|
+|:desktop_computer:: Xtreme|
+|:1st_place_medal:: [Haku](../../players/german/haku.md) :de:|
+
 Inazuma Eleven Asia Xtreme #1 was a tournament held by the Inazuma Eleven Asia discord server.
 12 players participated.
 

@@ -1,5 +1,13 @@
 # Ragnarok Strikers #5
 
+|Information|
+|-|
+|:calendar:: 16/07/22 - 24/07/22|
+|:busts_in_silhouette:: 51|
+|:trophy:: Major|
+|:desktop_computer:: Vanilla|
+|:1st_place_medal:: [Paraly](../../players/japanese/paraly.md) :jp:|
+
 Ragnarok Strikers #5 was the fifth edition of the [Ragnarok Strikers](ragnamain.md) tournament series.
 51 players participated.
 

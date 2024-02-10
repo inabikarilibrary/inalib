@@ -1,5 +1,13 @@
 # Rose Griffon Strikers
 
+|Information|
+|-|
+|:calendar:: 14/10/23 - 16/10/23|
+|:busts_in_silhouette:: 21|
+|:trophy:: Minor|
+|:desktop_computer:: Xtreme|
+|:1st_place_medal:: [Vivi](../../players/french/vivi.md) :fr:|
+
 Rose Griffon Strikers was a tournament organized by the Rose Griffon community. 21 players participated.
 
 Tier: Minor

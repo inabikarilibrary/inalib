@@ -1,5 +1,13 @@
 # Strikers Frontier #3
 
+|Information|
+|-|
+|:calendar:: 04/12/21|
+|:busts_in_silhouette:: 23|
+|:trophy:: Minor|
+|:desktop_computer:: Vanilla|
+|:1st_place_medal:: [Caleb](../../players/bulgarian/caleb.md) :bulgaria:|
+
 Strikers Frontier #3 was the third edition of the [Strikers Frontier](sfmain.md) tournament series.
 23 players participated.
 

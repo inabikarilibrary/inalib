@@ -1,5 +1,13 @@
 # PEGASUS STRIKERS #5
 
+|Information|
+|-|
+|:calendar:: 04/09/20|
+|:busts_in_silhouette:: 12|
+|:trophy:: Other|
+|:desktop_computer:: Vanilla|
+|:1st_place_medal:: JoMiX :fr:|
+
 PEGASUS STRIKERS #5 was the fifth edition of the [PEGASUS STRIKERS](pegasusmain.md)
 tournament series. 12 players participated.
 

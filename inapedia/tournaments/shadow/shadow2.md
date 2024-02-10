@@ -1,5 +1,13 @@
 # Shadow Xtreme Strikers #2
 
+|Information|
+|-|
+|:calendar:: 13/01/23|
+|:busts_in_silhouette:: 18|
+|:trophy:: Minor|
+|:desktop_computer:: Xtreme|
+|:1st_place_medal:: [Alexisl](../../players/french/alexisl.md) :fr:|
+
 Shadow Xtreme Strikers #2 was the second edition of the [Shadow Xtreme Strikers](shadowmain.md)
 tournament series.
 18 players participated.

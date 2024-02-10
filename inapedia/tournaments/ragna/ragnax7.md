@@ -1,5 +1,13 @@
 # Ragnarok Strikers Xtreme #7
 
+|Information|
+|-|
+|:calendar:: 11/11/23 - 19/11/23|
+|:busts_in_silhouette:: 52|
+|:trophy:: Major|
+|:desktop_computer:: Xtreme|
+|:1st_place_medal:: [Eshin](../../players/japanese/eshin.md) :jp:|
+
 Ragnarok Strikers Xtreme #7 was the 7th edition of the [Ragnarok Strikers Xtreme](ragnaxmain.md) tournament series.
 52 players participated.
 

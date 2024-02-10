@@ -1,5 +1,13 @@
 # Xtreme Frontier
 
+|Information|
+|-|
+|:calendar:: 11/02/22|
+|:busts_in_silhouette:: 37|
+|:trophy:: Major|
+|:desktop_computer:: Xtreme|
+|:1st_place_medal:: [Vivi](../../players/french/vivi.md) :fr:|
+
 Xtreme Frontier was the sixth edition of the [Strikers Frontier](sfmain.md) tournament series.
 This edition was renamed to include "Xtreme" to indicate its adoption of the newly released Xtreme mod as its main game version.
 37 players participated.

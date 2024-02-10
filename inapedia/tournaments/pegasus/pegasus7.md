@@ -1,5 +1,13 @@
 # PEGASUS STRIKERS #7
 
+|Information|
+|-|
+|:calendar:: 14/11/20|
+|:busts_in_silhouette:: 7|
+|:trophy:: Other|
+|:desktop_computer:: Vanilla|
+|:1st_place_medal:: [Yohazuma](../../players/french/koro.md) :fr:|
+
 PEGASUS STRIKERS #7 was the seventh edition of the [PEGASUS STRIKERS](pegasusmain.md)
 tournament series. 7 players participated.
 

@@ -1,5 +1,13 @@
 # PEGASUS STRIKERS #10
 
+|Information|
+|-|
+|:calendar:: 26/08/22|
+|:busts_in_silhouette:: 38|
+|:trophy:: Major|
+|:desktop_computer:: Vanilla|
+|:1st_place_medal:: [Lûxie](../../players/belgian/luxie.md) :belgium:|
+
 PEGASUS STRIKERS #10 was the tenth edition of the [PEGASUS STRIKERS](pegasusmain.md)
 tournament series. 38 players participated.
 

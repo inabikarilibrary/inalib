@@ -1,5 +1,13 @@
 # Ragnarok Strikers #2
 
+|Information|
+|-|
+|:calendar:: 13/11/21 - 14/11/21|
+|:busts_in_silhouette:: 16|
+|:trophy:: Minor|
+|:desktop_computer:: Vanilla|
+|:1st_place_medal:: [Paraly](../../players/japanese/paraly.md) :jp:|
+
 Ragnarok Strikers #2 was the second edition of the [Ragnarok Strikers](ragnamain.md) tournament series.
 16 players participated.
 

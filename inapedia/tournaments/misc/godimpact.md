@@ -1,5 +1,13 @@
 # God Impact
 
+|Information|
+|-|
+|:calendar:: 05/23|
+|:busts_in_silhouette:: 64|
+|:trophy:: Major|
+|:desktop_computer:: Xtreme|
+|:1st_place_medal:: [Caleb](../../players/bulgarian/caleb.md) :bulgaria:|
+
 ###### NOTE: This tournament is controversial due to confusions in the format and a lack of TO communication.
 
 God Impact was a tournament held by the God Impact discord server.

@@ -1,5 +1,13 @@
 # Ragnarok Strikers Xtreme #1
 
+|Information|
+|-|
+|:calendar:: 24/09/22 - 02/10/22|
+|:busts_in_silhouette:: 42|
+|:trophy:: Major|
+|:desktop_computer:: Xtreme|
+|:1st_place_medal:: [Paraly](../../players/japanese/paraly.md) :jp:|
+
 Ragnarok Strikers Xtreme #1 was the 1st edition of the [Ragnarok Strikers Xtreme](ragnaxmain.md) tournament series.
 42 players participated.
 

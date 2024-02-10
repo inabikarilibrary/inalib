@@ -1,5 +1,13 @@
 # MrCheeseTalisman Strikers
 
+|Information|
+|-|
+|:calendar:: 01/23|
+|:busts_in_silhouette:: 31|
+|:trophy:: Minor|
+|:desktop_computer:: Xtreme|
+|:1st_place_medal:: [Alexisl](../../players/french/alexisl.md) :fr:|
+
 MrCheeseTalisman Strikers was a tournament held by the content creator MrCheeseTalisman. 31 players participated.
 
 Tier: Minor

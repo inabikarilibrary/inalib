@@ -1,5 +1,13 @@
 # Strikers FR Weekly 3
 
+|Information|
+|-|
+|:calendar:: 24/11/23 - 26/11/23|
+|:busts_in_silhouette:: 16|
+|:trophy:: Minor|
+|:desktop_computer:: Xtreme|
+|:1st_place_medal:: [Lucas](../../players/spanish/lucas.md) :es:|
+
 Strikers FR Weekly 3 was the third edition of the [Strikers FR Weeklies](weeklymain.md) tournament series held by the IE GO Strikers 2013 discord server.
 16 players participated.
 
