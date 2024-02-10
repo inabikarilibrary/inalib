@@ -1,7 +1,6 @@
 ---
 sidebar:
-    - title: ""
-      text: "**Ragnarok Strikers #1**"
+    - title: "Ragnarok Strikers #1"
     - title: ""
       text: ":calendar:: 03/09/21 - 12/09/21"
     - title: ""
