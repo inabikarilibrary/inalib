@@ -1,7 +1,7 @@
 ---
 sidebar:
     - title: ""
-      text: "Ragnarok Strikers #1"
+      text: "**Ragnarok Strikers #1**"
     - title: ""
       text: ":calendar:: 03/09/21 - 12/09/21"
     - title: ""
@@ -11,7 +11,8 @@ sidebar:
     - title: ""
       text: ":desktop_computer:: Vanilla"
     - title: ""
-      text: ":1st_place_medal:: [Paraly](../../players/japanese/paraly.md) :jp:"
+      text: ":1st_place_medal:: Paraly :jp:"
+    - position: fixed
 ---
 
 # Ragnarok Strikers #1
