@@ -16,6 +16,14 @@ sidebar:
 
 # Ragnarok Strikers #1
 
+|||
+|-|-|
+|Date :calendar:|03/09/21 - 12/09/21|
+|Participants :busts_in_silhouette:|27|
+|Tier :trophy:|Minor|
+|Version :desktop_computer:|Vanilla|
+|Winner :1st_place_medal:|Paraly :jp:|
+
 Ragnarok Strikers #1 is the first edition of the [Ragnarok Strikers](ragnamain.md) tournament series.
 27 players participated.
 
