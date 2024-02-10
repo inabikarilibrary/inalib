@@ -11,7 +11,7 @@ sidebar:
       text: ":desktop_computer:: Vanilla"
     - title: ""
       text: ":1st_place_medal:: Paraly :jp:"
-    - position: fixed
+    - position: static
 ---
 
 # Ragnarok Strikers #1
