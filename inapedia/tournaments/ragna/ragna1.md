@@ -3,13 +3,15 @@ sidebar:
     - title: ""
       text: "Ragnarok Strikers #1"
     - title: ""
-      text: "Schedule: 03/09/21 - 12/09/21"
+      text: ":calendar:: 03/09/21 - 12/09/21"
     - title: ""
-      text: "Participants: 27"
+      text: ":busts_in_silhouette:: 27"
     - title: ""
-      text: "Tier: Minor"
+      text: ":trophy:: Minor"
     - title: ""
-      text: "Version: Vanilla"
+      text: ":desktop_computer:: Vanilla"
+    - title: ""
+      text: ":1st_place_medal:: [Paraly](../../players/japanese/paraly.md) :jp:"
 ---
 
 # Ragnarok Strikers #1
