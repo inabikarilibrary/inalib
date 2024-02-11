@@ -21,6 +21,7 @@ His Nomash style involves lots of side nomash techniques, such as the classic Ur
 | 03/12/2023 | 5th |[Strikers FR Weekly 4](../../tournaments/weeklies/weekly4.md) | Minor |
 | 26/11/2023 | 4th | [Strikers FR Weekly 3](../../tournaments/weeklies/weekly3.md.md) | Minor |
 | 26/11/2023 | 5th | [Hades Garden Xtreme Draft Cup](../../tournaments/draft/hgdraftx.md) | Draft | 
+| 23/11/2023 | 7th |[Orfeo 2nd Anniversary Tournament](../../tournaments/misc/orfeoanni.md) | Minor |
 | 19/11/2023 | 9th | [Ragnarok Strikers Xtreme #7](../../tournaments/ragna/ragnax7.md) | Major |
 | 31/10/2023 |3rd :3rd_place_medal:| [Icicle Palace](../../tournaments/misc/icicle.md) | Minor |
 | 29/10/2023 | 4th | [ZENITH](../../tournaments/misc/zenith1.md) | Major |
