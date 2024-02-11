@@ -1,6 +1,6 @@
 # Gioxxo
 
-Gioxxo is an Italian :it: player, maining Chain.
+Gioxxo is an Italian :it: player, maining Nomash.
 
 ## Achievements
 
