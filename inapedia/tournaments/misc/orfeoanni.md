@@ -40,3 +40,5 @@ Tier: Minor
 - [Challonge](https://challonge.com/Orfeo2ndAnniversary)
 
 ### Gallery
+
+![image](https://github.com/inabikarilibrary/inalib/assets/110833255/4c5abd26-8957-4b0c-bf60-2ca790fb7280)
