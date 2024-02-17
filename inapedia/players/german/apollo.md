@@ -1,6 +1,6 @@
 # Apollo
 
-Apollo is a German :de: player, maining Chain. He was previously known as "Kaiser". He is known for being the the founder of the [Hades Garden](../../tournaments/hg/hgmain.md) tournament series.
+Apollo is a German :de: player, maining Chain. He was previously known as "Kaiser". He is known for being the founder of the [Hades Garden](../../tournaments/hg/hgmain.md) tournament series.
 
 ## Style of play
 
