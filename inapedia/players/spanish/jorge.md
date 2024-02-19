@@ -6,6 +6,7 @@ Jorge Lorenzo is a Spanish :es: player, maining Nomash.
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
+| 18/02/2024 | 5th |[Ragnarok Strikers Xtreme #8](../../tournaments/ragna/ragnax8.md) | Major |
 | 06/02/2024 | 5th | [Hades Garden 1st Anniversary Tournament](../../tournaments/hg/hganni.md) | Minor |
 | 06/01/2024 | 7th | [ZENITH 2](../../tournaments/misc/zenith2.md) | Major |
 | 01/01/2024 | 7th | [Grand Celesta](../../tournaments/misc/grandcelesta.md) | Minor |

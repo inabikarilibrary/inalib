@@ -10,6 +10,7 @@ Giu plays a standard style of Chain. He often uses either of the miximax Chain d
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
+| 18/02/2024 | 13th |[Ragnarok Strikers Xtreme #8](../../tournaments/ragna/ragnax8.md) | Major |
 | 19/11/2023 | 9th | [Ragnarok Strikers Xtreme #7](../../tournaments/ragna/ragnax7.md) | Major |
 | 22/09/2023 | 7th | [Siege of MUGEN Castle](../../tournaments/misc/mugen.md) | Minor |
 | 31/08/2023 | 13th | [Hades Garden #5](../../tournaments/hg/hg5.md) | Major |

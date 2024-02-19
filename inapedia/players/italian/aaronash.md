@@ -11,6 +11,7 @@ Aaronash's dash cancelling is unique in that he often dashes twice before cancel
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
+| 18/02/2024 | 7th |[Ragnarok Strikers Xtreme #8](../../tournaments/ragna/ragnax8.md) | Major |
 | 23/11/2023 | 5th |[Orfeo 2nd Anniversary Tournament](../../tournaments/misc/orfeoanni.md) | Minor |
 | 31/08/2023 | 9th | [Hades Garden #5](../../tournaments/hg/hg5.md) | Major |
 | 30/07/2023 | 5th | [Inazuma Eleven Strikers World Cup 2023](../../tournaments/worldcup23.md) | World Cup |

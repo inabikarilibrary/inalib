@@ -8,6 +8,7 @@ His playstyle is characteristic of the aggressive French style.
 
 | Date | Place | Tournament | Tier |
 | - | - | - | - |
+| 18/02/2024 |3rd :3rd_place_medal: |[Ragnarok Strikers Xtreme #8](../../tournaments/ragna/ragnax8.md) | Major |
 | 19/11/2023 |2nd :2nd_place_medal:| [Strikers FR Weekly 2](../../tournaments/weeklies/weekly2.md) | Minor |
 | 29/10/2023 |2nd :2nd_place_medal: | [ZENITH](../../tournaments/misc/zenith1.md) | Major |
 | 30/07/2023 |2nd :2nd_place_medal: | [Inazuma Eleven Strikers World Cup 2023](../../tournaments/worldcup23.md) | World Cup |

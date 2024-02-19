@@ -7,6 +7,7 @@ He was also previously a high-level Chain player.
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
+| 18/02/2024 | 4th |[Ragnarok Strikers Xtreme #8](../../tournaments/ragna/ragnax8.md) | Major |
 | 06/02/2024 | 4th | [Hades Garden 1st Anniversary Tournament](../../tournaments/hg/hganni.md) | Minor |
 | 23/11/2023 | 4th |[Orfeo 2nd Anniversary Tournament](../../tournaments/misc/orfeoanni.md) | Minor |
 | 19/11/2023 | 7th | [Ragnarok Strikers Xtreme #7](../../tournaments/ragna/ragnax7.md) | Major |

@@ -174,3 +174,8 @@ toc_label: "List of Players"
 
 - [KKOJJGSS](dutch/kkojjgss.md)
 - [Marcel](dutch/marcel.md)
+
+### Turkey :tr:
+
+- [$elow](french/$elow.md)
+- [Azyck](french/azyck.md)

@@ -7,6 +7,7 @@ they are considered the best in Italy.
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
+| 18/02/2024 | 7th |[Ragnarok Strikers Xtreme #8](../../tournaments/ragna/ragnax8.md) | Major |
 | 30/07/2023 | 5th | [Inazuma Eleven Strikers World Cup 2023](../../tournaments/worldcup23.md) | World Cup |
 | 24/06/2023 | 5th | [RTAXV5](../../tournaments/rtaxv/rtaxv5.md) | Minor |
 | 11/06/2023 | 5th | [Ragnarok Strikers Xtreme #5](../../tournaments/ragna/ragnax5.md) | Major |
