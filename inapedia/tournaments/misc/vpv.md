@@ -28,6 +28,7 @@ Tier: Other
 ### Standings
 
 |Place|Player|
+|-|-|
 |1st :1st_place_medal:|[Aaronash](../../players/italian/aaronash.md) :it:|
 |2nd :2nd_place_medal:|[Haku](../../players/german/haku.md) :de:|
 |3rd :3rd_place_medal:|[Giu](../../players/italian/giu.md) :it:|
