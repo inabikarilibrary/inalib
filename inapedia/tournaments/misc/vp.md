@@ -33,3 +33,8 @@ Tier: Other
 - [Challonge](https://challonge.com/vanillaparty)
 
 ### Gallery
+
+![image](https://github.com/inabikarilibrary/inalib/assets/110833255/0afb4a8f-9c1c-4b96-8635-6f204659e1db)
+
+![image](https://github.com/inabikarilibrary/inalib/assets/110833255/d9f7c2d5-0934-4ae4-8988-b099ba983f1e)
+
