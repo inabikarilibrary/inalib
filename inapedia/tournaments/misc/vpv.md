@@ -38,3 +38,6 @@ Tier: Other
 
 ### Gallery
 
+![Birthday Edition (1)](https://github.com/inabikarilibrary/inalib/assets/110833255/bdf52378-8361-4b87-9b7a-9c913ef5c8ac)
+
+![Vanilla Party](https://github.com/inabikarilibrary/inalib/assets/110833255/a57ec3ed-2e43-4f45-aacd-49e703e4e89b)
