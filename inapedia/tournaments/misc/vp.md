@@ -8,7 +8,9 @@
 |:desktop_computer:: Vanilla|
 |:1st_place_medal:: [Alexisl](../../players/french/alexisl.md) :fr:|
 
-Vanilla Party was a tournament organized by [Baamsushi](../../players/indonesian/baamsushi.md). As the name suggests, the original vanilla version of the game was played on.
+Vanilla Party was a tournament organized by [Baamsushi](../../players/indonesian/baamsushi.md). As the name suggests, the original vanilla version of the game was played on. 13 players participated.
+
+Tier: Other
 
 ## Overview
 
