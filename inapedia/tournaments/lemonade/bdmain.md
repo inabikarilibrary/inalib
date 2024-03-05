@@ -30,6 +30,7 @@ Backdraft is also the only tournament series to be held via Netplay, as opposed 
 
 - [XBackdraft #1](xbd1.md)
 - [X Goujin #2](xgoujin2.md)
+- [XBackdraft #2](xb2.md)
 - [X Goujin #3](xgoujin3.md)
 - [X Goujin #4](xgoujin4.md)
 - [X Goujin #5](xgoujin5.md)
