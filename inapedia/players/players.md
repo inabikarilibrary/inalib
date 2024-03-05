@@ -166,6 +166,7 @@ toc_label: "List of Players"
 - [Johnny](spanish/johnny.md)
 - [Jorge Lorenzo](spanish/jorge.md)
 - [Lucas](spanish/lucas.md)
+- [Polakito](spanish/polakito.md)
 - [Teca](spanish/teca.md)
 - [Unaii](spanish/unaii.md)
 - [Yesus0010](spanish/yesus.md)

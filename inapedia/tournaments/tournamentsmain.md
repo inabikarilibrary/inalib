@@ -23,6 +23,8 @@
 - [Shadow Xtreme Strikers](shadow/shadowmain.md)
 
 - [Strikers FR Weeklies](weeklies/weeklymain.md)
+
+- [Inazuma Eleven GO Strikers 2013 IT](italia/itmain.md)
   
 - [Miscellaneous](misc/miscmain.md)
 

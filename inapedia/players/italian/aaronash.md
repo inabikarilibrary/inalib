@@ -26,5 +26,6 @@ Aaronash's dash cancelling is unique in that he often dashes twice before cancel
 | 04/02/2023 | 5th | [Shadow Xtreme Strikers #3](../../tournaments/shadow/shadow3.md) | Minor |
 | 04/12/2022 | 13th | [Ragnarok Strikers Xtreme #2](../../tournaments/ragna/ragnax2.md) | Major |
 | 11/2022 | 4th | [PEGASUS Xtreme Draft](../../tournaments/draft/pegasusdraft.md) | Draft | 
- 10/2022 |3rd :3rd_place_medal:| [Orfeo League 2022](../../tournaments/misc/orfeoleague.md) | Minor | 
+| 10/2022 |3rd :3rd_place_medal:| [Orfeo League 2022](../../tournaments/misc/orfeoleague.md) | Minor | 
+| 02/09/2022 |1st :1st_place_medal:| [IE GO Strikers 2013 IT](../../tournaments/italia/it0.md) | Minor |
 

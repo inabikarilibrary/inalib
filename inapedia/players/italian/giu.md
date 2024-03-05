@@ -24,3 +24,4 @@ Giu plays a standard style of Chain. He often uses either of the miximax Chain d
 | 04/03/2023 | 5th | [RTAXV2](../../tournaments/rtaxv/rtaxv2.md) | Minor |
 | 04/02/2023 | 5th | [Shadow Xtreme Strikers #3](../../tournaments/shadow/shadow3.md) | Minor |
 | 13/01/2023 | 4th | [Shadow Xtreme Strikers #2](../../tournaments/shadow/shadow2.md) | Minor |
+| 02/09/2022 | 4th | [IE GO Strikers 2013 IT](../../tournaments/italia/it0.md) | Minor |

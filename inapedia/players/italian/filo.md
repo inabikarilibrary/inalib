@@ -22,5 +22,6 @@ they are considered the best in Italy.
 | 21/02/2023 |3rd :3rd_place_medal: | [Ragnarok Strikers Xtreme #3](../../tournaments/ragna/ragnax3.md) | Major |
 | 04/02/2023 |3rd :3rd_place_medal: | [Shadow Xtreme Strikers #3](../../tournaments/shadow/shadow3.md) | Minor |
 | 10/2022 | 8th | [Orfeo League 2022](../../tournaments/misc/orfeoleague.md) | Minor | 
+| 02/09/2022 |3rd :3rd_place_medal:| [IE GO Strikers 2013 IT](../../tournaments/italia/it0.md) | Minor |
 | 08/07/2022 | 13th | [PEGASUS STRIKERS #9](../../tournaments/pegasus/pegasus9.md) | | Major |
 
