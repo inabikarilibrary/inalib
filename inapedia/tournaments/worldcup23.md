@@ -44,7 +44,7 @@ Watch all the VODs [here](https://www.youtube.com/@Phase5fr).
 | 9th | Brazil :brazil: | [Hikky](../players/brazilian/hikky.md) / [jppb2005](../../players/brazilian/jppb2005.md) / [nicolau](../players/brazilian/nicolau.md) / [Panda](../players/brazilian/panda.md) / YeppON |
 | 9th | Poland :poland: | [Kobr3X](../players/polish/kobr3x.md) / [Bachor](../players/polish/bachor.md) / Kazuma Ito / Skrecik / [terewsant](../players/polish/terewsant.md) |
 | 9th | DACH :de::austria::switzerland: | [Milozaki](../players/german/milozaki.md) / [Dani11](../players/colombian/dani11.md) / [Skipper](../players/austrian/skipper.md) / [Haku](../players/german/haku.md) / Kaiser |
-| 9th | Spain :es: | Teca / [Jorge Lorenzo](../players/spanish/jorge.md) / Naka / Polakito / [Unaii](../players/spanish/unaii.md) |
+| 9th | Spain :es: | [Teca](../players/spanish/teca.md) / [Jorge Lorenzo](../players/spanish/jorge.md) / Naka / [Polakito](../players/spanish/polakito.md) / [Unaii](../players/spanish/unaii.md) |
 | 13th | Latin America :peru::argentina::guadeloupe::martinique:| [Rodrift](../players/peruvian/rodrift.md) / [SpaceGenesis](../players/french/spacegenesis.md) / [Dante Froste](../players/argentinian/dantefroste.md) / [585zeno](../players/french/585zeno.md) / [Killian11](../players/french/killian11.md) |
 | 13th | Benelux :belgium::netherlands::luxembourg:| [KKOJJGSS](../players/dutch/kkojjgss.md) / [Kireo](../players/french/kireo.md) / Nayel / [Noxyne](../players/french/noxyne.md) / [Wawa](../players/luxembourger/wawa.md) |
 | 13th | Eastern Europe :macedonia::romania::ru: | [Kemal](../players/french/kemal.md) / [CatalinW](../players/romanian/catalinw.md) / GAMMA24 |

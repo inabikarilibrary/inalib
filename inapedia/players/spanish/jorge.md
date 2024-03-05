@@ -18,6 +18,7 @@ Jorge Lorenzo is a Spanish :es: player, maining Nomash.
 | 10/11/2023 | 5th | [Strikers FR Weekly 1](../../tournaments/weeklies/weekly1.md) | Minor |
 | 31/10/2023 | 7th | [Icicle Palace](../../tournaments/misc/icicle.md) | Minor |
 | 29/10/2023 | 9th | [ZENITH](../../tournaments/misc/zenith1.md) | Major |
+| 21/10/2023 |1st :1st_place_medal:| [Inazuma Eleven GO Strikers 2013 Xtreme IT #5](../../tournaments/italia/it5.md) | Minor |
 | 06/10/2023 | 9th | [Hades Garden #6](../../tournaments/hg/hg6.md) | Major |
 | 22/09/2023 | 3rd :3rd_place_medal: | [Siege of MUGEN Castle](../../tournaments/misc/mugen.md) | Minor |
 | 07/09/2023 | 13th | [Ragnarok Strikers Xtreme #6](../../tournaments/ragna/ragnax6.md) | Major |

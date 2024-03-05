@@ -17,6 +17,7 @@ His Nomash style involves lots of side nomash techniques, such as the classic Ur
 | Date | Place | Tournament | Tier |
 | - | - | - | - |
 | 06/02/2024 | 7th | [Hades Garden 1st Anniversary Tournament](../../tournaments/hg/hganni.md) | Minor |
+| 10/01/2024 |2nd :2nd_place_medal:| [Inazuma Eleven GO Strikers 2013 Xtreme IT #6](../../tournaments/italia/it6.md) | Minor |
 | 06/01/2024 | 9th | [ZENITH 2](../../tournaments/misc/zenith2.md) | Major |
 | 03/12/2023 | 5th |[Strikers FR Weekly 4](../../tournaments/weeklies/weekly4.md) | Minor |
 | 26/11/2023 | 4th | [Strikers FR Weekly 3](../../tournaments/weeklies/weekly3.md.md) | Minor |
@@ -25,6 +26,7 @@ His Nomash style involves lots of side nomash techniques, such as the classic Ur
 | 19/11/2023 | 9th | [Ragnarok Strikers Xtreme #7](../../tournaments/ragna/ragnax7.md) | Major |
 | 31/10/2023 |3rd :3rd_place_medal:| [Icicle Palace](../../tournaments/misc/icicle.md) | Minor |
 | 29/10/2023 | 4th | [ZENITH](../../tournaments/misc/zenith1.md) | Major |
+| 21/10/2023 | 4th | [Inazuma Eleven GO Strikers 2013 Xtreme IT #5](../../tournaments/italia/it5.md) | Minor |
 | 06/10/2023 | 7th | [Hades Garden #6](../../tournaments/hg/hg6.md) | Major |
 | 07/09/2023 | 9th | [Ragnarok Strikers Xtreme #6](../../tournaments/ragna/ragnax6.md) | Major |
 | 31/08/2023 | 9th | [Hades Garden #5](../../tournaments/hg/hg5.md) | Major |
