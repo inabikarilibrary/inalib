@@ -15,7 +15,7 @@ Tier: Minor
 ## Overview
 
 ### Schedule
-- 5 March, 2024
+- March 5, 2024
 
 ### Format
 - Standard rules

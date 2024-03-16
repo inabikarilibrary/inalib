@@ -14,11 +14,12 @@ to handle his evasive movement.
 
 | Date | Place | Tournament | Tier |
 | - | - | - | - |
+| 14/03/2024 |1st :1st_place_medal: |[Orfeo: Farewell Inast!](../../tournaments/orfeo/orfeofarewell.md) | Minor |
 | 18/02/2024 |1st :1st_place_medal: |[Ragnarok Strikers Xtreme #8](../../tournaments/ragna/ragnax8.md) | Major |
 | 06/01/2024 |2nd :2nd_place_medal: | [ZENITH 2](../../tournaments/misc/zenith2.md) | Major |
 | 01/01/2024 |2nd :2nd_place_medal: | [Grand Celesta](../../tournaments/misc/grandcelesta.md) | Minor |
 | 26/11/2023 |2nd :2nd_place_medal:| [Hades Garden Xtreme Draft Cup](../../tournaments/draft/hgdraftx.md) | Draft | 
-| 23/11/2023 |3rd :3rd_place_medal:|[Orfeo 2nd Anniversary Tournament](../../tournaments/misc/orfeoanni.md) | Minor |
+| 23/11/2023 |3rd :3rd_place_medal:|[Orfeo 2nd Anniversary Tournament](../../tournaments/orfeo/orfeoanni.md) | Minor |
 | 19/11/2023 | 4th | [Ragnarok Strikers Xtreme #7](../../tournaments/ragna/ragnax7.md) | Major |
 | 31/10/2023 |1st :1st_place_medal:| [Icicle Palace](../../tournaments/misc/icicle.md) | Minor |
 | 29/10/2023 | 5th | [ZENITH](../../tournaments/misc/zenith1.md) | Major |
@@ -28,7 +29,7 @@ to handle his evasive movement.
 | 31/08/2023 | 5th | [Hades Garden #5](../../tournaments/hg/hg5.md) | Major |
 | 08/2023 | 5th | [RTAXV7](../../tournaments/rtaxv/rtaxv7.md) | Minor |
 | 30/07/2023 |2nd :2nd_place_medal: | [Inazuma Eleven Strikers World Cup 2023](../../tournaments/worldcup23.md) | World Cup |
-| 07/2023 |1st :1st_place_medal: | [Orfeo Inazuma Strikers World Cup 2023 Warm Up](../../tournaments/misc/orfeowc.md) | Major |
+| 07/2023 |1st :1st_place_medal: | [Orfeo Inazuma Strikers World Cup 2023 Warm Up](../../tournaments/orfeo/orfeowc.md) | Major |
 | 24/06/2023 |2nd :2nd_place_medal: | [RTAXV5](../../tournaments/rtaxv/rtaxv5.md) | Minor |
 | 05/2023 | 9th | [God Impact](../../tournaments/misc/godimpact.md) | Major |
 | 12/05/2023 |3rd :3rd_place_medal: | [Hades Garden #4](../../tournaments/hg/hg4.md) | Minor |
@@ -46,7 +47,7 @@ to handle his evasive movement.
 | 01/2023 |2nd :2nd_place_medal: | [Bulgarian Draft Xtreme](../../tournaments/draft/bgdraftx.md) | Draft |
 | 04/12/2022 | 5th | [Ragnarok Strikers Xtreme #2](../../tournaments/ragna/ragnax2.md) | Major |
 | 11/2022 |2nd :2nd_place_medal: | [PEGASUS Xtreme Draft](../../tournaments/draft/pegasusdraft.md) | Draft | 
-| 15/10/2022 | 4th | [Orfeo's World Pasta Day](../../tournaments/misc/orfeopasta.md) | Minor |
+| 15/10/2022 | 4th | [Orfeo's World Pasta Day](../../tournaments/orfeo/orfeopasta.md) | Minor |
 | 08/10/2022 | 4th | [Shadow Xtreme Strikers #1](../../tournaments/shadow/shadow1.md) | Minor |
 | 02/10/2022 | 7th | [Ragnarok Strikers Xtreme #1](../../tournaments/ragna/ragnax1.md) | Major |
 | 17/09/2022 | 4th | [PEGASUS STRIKERS XTREME](../../tournaments/pegasus/pegasusx.md) | Major |

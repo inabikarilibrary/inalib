@@ -21,19 +21,19 @@ to initiate his circle until the last moment.
 | - | - | - | - |
 | 01/01/2024 |1st :1st_place_medal: | [Grand Celesta](../../tournaments/misc/grandcelesta.md) | Minor |
 | 03/12/2023 |1st :1st_place_medal:|[Strikers FR Weekly 4](../../tournaments/weeklies/weekly4.md) | Minor |
-| 23/11/2023 |1st :1st_place_medal:|[Orfeo 2nd Anniversary Tournament](../../tournaments/misc/orfeoanni.md) | Minor |
+| 23/11/2023 |1st :1st_place_medal:|[Orfeo 2nd Anniversary Tournament](../../tournaments/orfeo/orfeoanni.md) | Minor |
 | 10/11/2023 |1st :1st_place_medal:| [Strikers FR Weekly 1](../../tournaments/weeklies/weekly1.md) | Minor |
 | 31/10/2023 |2nd :2nd_place_medal:| [Icicle Palace](../../tournaments/misc/icicle.md) | Minor |
 | 29/10/2023 | 9th | [ZENITH](../../tournaments/misc/zenith1.md) | Major |
 | 22/09/2023 |1st :1st_place_medal: | [Siege of MUGEN Castle](../../tournaments/misc/mugen.md) | Minor |
 | 07/09/2023 |2nd :2nd_place_medal: | [Ragnarok Strikers Xtreme #6](../../tournaments/ragna/ragnax6.md) | Major |
 | 30/07/2023 |1st :1st_place_medal: | [Inazuma Eleven Strikers World Cup 2023](../../tournaments/worldcup23.md) | World Cup |
-| 07/2023 |2nd :2nd_place_medal: | [Orfeo Inazuma Strikers World Cup 2023 Warm Up](../../tournaments/misc/orfeowc.md) | Major |
+| 07/2023 |2nd :2nd_place_medal: | [Orfeo Inazuma Strikers World Cup 2023 Warm Up](../../tournaments/orfeo/orfeowc.md) | Major |
 | 30/04/2023 | 3rd :3rd_place_medal: | [1st Ultimate Draft Cup](../../tournaments/jpdraft/jpudraft1.md) | National |
 | 27/03/2023 | 5th | [Hades Garden #3](../../tournaments/hg/hg3.md) | Minor |
 | 11/02/2023 |2nd :2nd_place_medal: | [Xtreme Frontier](../../tournaments/sf/xf.md) | Major |
 | 11/2022 |1st :1st_place_medal: | [PEGASUS Xtreme Draft](../../tournaments/draft/pegasusdraft.md) | Draft | 
-| 15/10/2022 |1st :1st_place_medal: | [Orfeo's World Pasta Day](../../tournaments/misc/orfeopasta.md) | Minor |
+| 15/10/2022 |1st :1st_place_medal: | [Orfeo's World Pasta Day](../../tournaments/orfeo/orfeopasta.md) | Minor |
 | 16/09/2022 |1st :1st_place_medal: | [Area Holy Road #2](../../tournaments/misc/holyroad2.md) | Major |
 | 07/2022 |1st :1st_place_medal: | [Bulgarian Draft](../../tournaments/draft/bgdraft.md) | Draft |
 | 04/12/2021 | 5th | [Strikers Frontier #3](../../tournaments/sf/sf3.md) | Minor |

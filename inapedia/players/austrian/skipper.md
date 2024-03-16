@@ -7,9 +7,10 @@ He was also previously a high-level Chain player.
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
+| 14/03/2024 | 4th |[Orfeo: Farewell Inast!](../../tournaments/orfeo/orfeofarewell.md) | Minor |
 | 18/02/2024 | 4th |[Ragnarok Strikers Xtreme #8](../../tournaments/ragna/ragnax8.md) | Major |
 | 06/02/2024 | 4th | [Hades Garden 1st Anniversary Tournament](../../tournaments/hg/hganni.md) | Minor |
-| 23/11/2023 | 4th |[Orfeo 2nd Anniversary Tournament](../../tournaments/misc/orfeoanni.md) | Minor |
+| 23/11/2023 | 4th |[Orfeo 2nd Anniversary Tournament](../../tournaments/orfeo/orfeoanni.md) | Minor |
 | 19/11/2023 | 7th | [Ragnarok Strikers Xtreme #7](../../tournaments/ragna/ragnax7.md) | Major |
 | 29/10/2023 | 9th | [ZENITH](../../tournaments/misc/zenith1.md) | Major |
 | 21/10/2023 |2nd :2nd_place_medal:| [Inazuma Eleven GO Strikers 2013 Xtreme IT #5](../../tournaments/italia/it5.md) | Minor |

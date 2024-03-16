@@ -8,11 +8,12 @@ His playstyle is characteristic of the aggressive French style.
 
 | Date | Place | Tournament | Tier |
 | - | - | - | - |
+| 14/03/2024 |3rd :3rd_place_medal: |[Orfeo: Farewell Inast!](../../tournaments/orfeo/orfeofarewell.md) | Minor |
 | 18/02/2024 |3rd :3rd_place_medal: |[Ragnarok Strikers Xtreme #8](../../tournaments/ragna/ragnax8.md) | Major |
 | 19/11/2023 |2nd :2nd_place_medal:| [Strikers FR Weekly 2](../../tournaments/weeklies/weekly2.md) | Minor |
 | 29/10/2023 |2nd :2nd_place_medal: | [ZENITH](../../tournaments/misc/zenith1.md) | Major |
 | 30/07/2023 |2nd :2nd_place_medal: | [Inazuma Eleven Strikers World Cup 2023](../../tournaments/worldcup23.md) | World Cup |
-| 07/2023 |3rd :3rd_place_medal: | [Orfeo Inazuma Strikers World Cup 2023 Warm Up](../../tournaments/misc/orfeowc.md) | Major |
+| 07/2023 |3rd :3rd_place_medal: | [Orfeo Inazuma Strikers World Cup 2023 Warm Up](../../tournaments/orfeo/orfeowc.md) | Major |
 | 24/06/2023 | 5th | [RTAXV5](../../tournaments/rtaxv/rtaxv5.md) | Minor |
 | 16/06/2023 |1st :1st_place_medal: | [RTAXV4](../../tournaments/rtaxv/rtaxv4.md) | Minor |
 | 12/05/2023 |2nd :2nd_place_medal: | [Hades Garden #4](../../tournaments/hg/hg4.md) | Minor |
@@ -25,7 +26,7 @@ His playstyle is characteristic of the aggressive French style.
 | 13/01/2023 |2nd :2nd_place_medal: | [Shadow Xtreme Strikers #2](../../tournaments/shadow/shadow2.md) | Minor |
 | 01/2023 |2nd :2nd_place_medal: | [MrCheeseTalisman Strikers](../../tournaments/misc/cheese1.md) | Minor |
 | 01/2023 |3rd :3rd_place_medal: | [RTAXV1](../../tournaments/rtaxv/rtaxv1.md) | Minor |
-| 15/10/2022 |2nd :2nd_place_medal: | [Orfeo's World Pasta Day](../../tournaments/misc/orfeopasta.md) | Minor |
+| 15/10/2022 |2nd :2nd_place_medal: | [Orfeo's World Pasta Day](../../tournaments/orfeo/orfeopasta.md) | Minor |
 | 08/10/2022 |1st :1st_place_medal: | [Shadow Xtreme Strikers #1](../../tournaments/shadow/shadow1.md) | Minor |
 | 02/10/2022 | 9th | [Ragnarok Strikers Xtreme #1](../../tournaments/ragna/ragnax1.md) | Major |
 | 16/09/2022 | 5th | [Area Holy Road #2](../../tournaments/misc/holyroad2.md) | Major |

@@ -16,7 +16,7 @@ His playstyle is characteristic of the aggressive French style.
 | 31/08/2023 | 5th | [Hades Garden #5](../../tournaments/hg/hg5.md) | Major |
 | 08/2023 |2nd :2nd_place_medal: | [RTAXV7](../../tournaments/rtaxv/rtaxv7.md) | Major |
 | 30/07/2023 |3rd :3rd_place_medal: | [Inazuma Eleven Strikers World Cup 2023](../../tournaments/worldcup23.md) | World Cup |
-| 07/2023 | 9th | [Orfeo Inazuma Strikers World Cup 2023 Warm Up](../../tournaments/misc/orfeowc.md) | Major |
+| 07/2023 | 9th | [Orfeo Inazuma Strikers World Cup 2023 Warm Up](../../tournaments/orfeo/orfeowc.md) | Major |
 | 16/06/2023 |3rd :3rd_place_medal: | [RTAXV4](../../tournaments/rtaxv/rtaxv4.md) | Minor |
 | 11/06/2023 | 7th | [Ragnarok Strikers Xtreme #5](../../tournaments/ragna/ragnax5.md) | Major |
 | 19/05/2023 |1st :1st_place_medal: | [RTAXV3](../../tournaments/rtaxv/rtaxv3.md) | Minor |

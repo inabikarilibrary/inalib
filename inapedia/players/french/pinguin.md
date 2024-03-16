@@ -16,7 +16,7 @@ He is also a streamer on Twitch.
 | 30/07/2023 |3rd :3rd_place_medal: | [Inazuma Eleven Strikers World Cup 2023](../../tournaments/worldcup23.md) | World Cup |
 | 16/06/2023 | 5th | [RTAXV4](../../tournaments/rtaxv/rtaxv4.md) | Minor |
 | 11/06/2023 | 13th | [Ragnarok Strikers Xtreme #5](../../tournaments/ragna/ragnax5.md) | Major |
-| 10/2022 | 5th | [Orfeo League 2022](../../tournaments/misc/orfeoleague.md) | Minor | 
+| 10/2022 | 5th | [Orfeo League 2022](../../tournaments/orfeo/orfeoleague.md) | Minor | 
 | 16/09/2022 | 9th | [Area Holy Road #2](../../tournaments/misc/holyroad2.md) | Major |
 | 26/08/2022 | 13th | [PEGASUS STRIKERS #10](../../tournaments/pegasus/pegasus10.md) | Major |
 | 23/04/2022 | 5th | [Strikers Frontier #5](../../tournaments/sf/sf5.md) | Major |

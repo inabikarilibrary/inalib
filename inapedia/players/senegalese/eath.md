@@ -16,7 +16,7 @@ Eath may be most notable for his Chain. He utilizes his great fundamentals to fi
 | 31/08/2023 | 7th | [Hades Garden #5](../../tournaments/hg/hg5.md) | Major |
 | 08/2023 |3rd :3rd_place_medal: | [RTAXV7](../../tournaments/rtaxv/rtaxv7.md) | Major |
 | 30/07/2023 | 5th | [Inazuma Eleven Strikers World Cup 2023](../../tournaments/worldcup23.md) | World Cup |
-| 07/2023 | 4th | [Orfeo Inazuma Strikers World Cup 2023 Warm Up](../../tournaments/misc/orfeowc.md) | Major |
+| 07/2023 | 4th | [Orfeo Inazuma Strikers World Cup 2023 Warm Up](../../tournaments/orfeo/orfeowc.md) | Major |
 | 24/06/2023 |1st :1st_place_medal: | [RTAXV5](../../tournaments/rtaxv/rtaxv5.md) | Minor |
 | 16/06/2023 |2nd :2nd_place_medal: | [RTAXV4](../../tournaments/rtaxv/rtaxv4.md) | Minor |
 | 26/08/2022 | 13th | [PEGASUS STRIKERS #10](../../tournaments/pegasus/pegasus10.md) | Major |

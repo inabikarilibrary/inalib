@@ -6,5 +6,7 @@ Alan is a French :fr: player.
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
+| 14/03/2024 | 7th |[Orfeo: Farewell Inast!](../../tournaments/orfeo/orfeofarewell.md) | Minor |
+| 05/03/2024 | 4th |[Inazuma Eleven GO Strikers Xtreme IT #7](../../tournaments/italia/it7.md) | Minor |
 | 03/12/2023 | 4th |[Strikers FR Weekly 4](../../tournaments/weeklies/weekly4.md) | Minor |
 | 26/11/2023 | 5th | [Strikers FR Weekly 3](../../tournaments/weeklies/weekly3.md.md) | Minor |

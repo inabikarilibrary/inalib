@@ -11,7 +11,7 @@ top Japanese player was participating.
 | - | - | - | - |
 | 29/10/2023 | 5th | [ZENITH](../../tournaments/misc/zenith1.md) | Major |
 | 16/10/2023 |1st :1st_place_medal: |[Rose Griffon Strikers](../../tournaments/misc/rosegriffon.md) | Minor |
-| 15/10/2023 |3rd :3rd_place_medal: | [Orfeo's World Pasta Day](../../tournaments/misc/orfeopasta.md) | Minor |
+| 15/10/2023 |3rd :3rd_place_medal: | [Orfeo's World Pasta Day](../../tournaments/orfeo/orfeopasta.md) | Minor |
 | 30/07/2023 |2nd :2nd_place_medal: | [Inazuma Eleven Strikers World Cup 2023](../../tournaments/worldcup23.md) | World Cup |
 | 04/03/2023 | 5th | [RTAXV2](../../tournaments/rtaxv/rtaxv2.md) | Minor |
 | 11/02/2023 |1st :1st_place_medal: | [Xtreme Frontier](../../tournaments/sf/xf.md) | Major |

@@ -20,14 +20,6 @@
 
 - [MrCheeseTalisman Subscriber Tournament](cheesesub.md)
 
-- [Orfeo 2nd Anniversary Tournament](orfeoanni.md)
-
-- [Orfeo Inazuma Strikers World Cup 2023 Warm Up](orfeowc.md)
-
-- [Orfeo League 2022](orfeoleague.md)
-
-- [Orfeo's World Pasta Day](orfeopasta.md)
-
 - [Rose Griffon Strikers](rosegriffon.md)
 
 - [Siege of MUGEN Castle](mugen.md)

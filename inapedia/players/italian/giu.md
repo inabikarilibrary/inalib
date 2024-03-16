@@ -10,12 +10,13 @@ Giu plays a standard style of Chain. He often uses either of the miximax Chain d
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
+| 05/03/2024 | 5th |[Inazuma Eleven GO Strikers Xtreme IT #7](../../tournaments/italia/it7.md) | Minor |
 | 18/02/2024 | 13th |[Ragnarok Strikers Xtreme #8](../../tournaments/ragna/ragnax8.md) | Major |
 | 19/11/2023 | 9th | [Ragnarok Strikers Xtreme #7](../../tournaments/ragna/ragnax7.md) | Major |
 | 22/09/2023 | 7th | [Siege of MUGEN Castle](../../tournaments/misc/mugen.md) | Minor |
 | 31/08/2023 | 13th | [Hades Garden #5](../../tournaments/hg/hg5.md) | Major |
 | 30/07/2023 | 5th | [Inazuma Eleven Strikers World Cup 2023](../../tournaments/worldcup23.md) | World Cup |
-| 07/2023 | 9th | [Orfeo Inazuma Strikers World Cup 2023 Warm Up](../../tournaments/misc/orfeowc.md) | Major |
+| 07/2023 | 9th | [Orfeo Inazuma Strikers World Cup 2023 Warm Up](../../tournaments/orfeo/orfeowc.md) | Major |
 | 19/05/2023 | 7th | [RTAXV3](../../tournaments/rtaxv/rtaxv3.md) | Minor |
 | 04/05/2023 | 9th | [Ragnarok Strikers Xtreme #4](../../tournaments/ragna/ragnax4.md) | Major |
 | 05/2023 | 13th | [God Impact](../../tournaments/misc/godimpact.md) | Major |

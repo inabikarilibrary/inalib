@@ -7,6 +7,7 @@ they are considered the best in Italy.
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
+| 05/03/2024 | 7th |[Inazuma Eleven GO Strikers Xtreme IT #7](../../tournaments/italia/it7.md) | Minor |
 | 18/02/2024 | 7th |[Ragnarok Strikers Xtreme #8](../../tournaments/ragna/ragnax8.md) | Major |
 | 10/01/2024 |3rd :3rd_place_medal:| [Inazuma Eleven GO Strikers 2013 Xtreme IT #6](../../tournaments/italia/it6.md) | Minor |
 | 21/10/2023 | 5th | [Inazuma Eleven GO Strikers 2013 Xtreme IT #5](../../tournaments/italia/it5.md) | Minor |
@@ -21,7 +22,7 @@ they are considered the best in Italy.
 | 27/03/2023 | 5th | [Hades Garden #3](../../tournaments/hg/hg3.md) | Minor |
 | 21/02/2023 |3rd :3rd_place_medal: | [Ragnarok Strikers Xtreme #3](../../tournaments/ragna/ragnax3.md) | Major |
 | 04/02/2023 |3rd :3rd_place_medal: | [Shadow Xtreme Strikers #3](../../tournaments/shadow/shadow3.md) | Minor |
-| 10/2022 | 8th | [Orfeo League 2022](../../tournaments/misc/orfeoleague.md) | Minor | 
+| 10/2022 | 8th | [Orfeo League 2022](../../tournaments/orfeo/orfeoleague.md) | Minor | 
 | 02/09/2022 |3rd :3rd_place_medal:| [IE GO Strikers 2013 IT](../../tournaments/italia/it0.md) | Minor |
 | 08/07/2022 | 13th | [PEGASUS STRIKERS #9](../../tournaments/pegasus/pegasus9.md) | | Major |
 

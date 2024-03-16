@@ -20,6 +20,8 @@
   
 - [Strikers Frontier](sf/sfmain.md)
 
+- [Orfeo](orfeo/orfeomain.md)
+
 - [Shadow Xtreme Strikers](shadow/shadowmain.md)
 
 - [Strikers FR Weeklies](weeklies/weeklymain.md)
