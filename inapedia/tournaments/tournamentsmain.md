@@ -27,6 +27,8 @@
 - [Strikers FR Weeklies](weeklies/weeklymain.md)
 
 - [Inazuma Eleven GO Strikers 2013 IT](italia/itmain.md)
+
+- [Inazuma Eleven Asia](asia/asiamain.md)
   
 - [Miscellaneous](misc/miscmain.md)
 
