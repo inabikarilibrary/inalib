@@ -12,3 +12,4 @@ Prior to the 5th Xtreme edition, its participants were exclusively Italian.
 - [Inazuma Eleven GO Strikers 2013 Xtreme IT #3](it3.md)
 - [Inazuma Eleven GO Strikers 2013 Xtreme IT #5](it5.md)
 - [Inazuma Eleven GO Strikers 2013 Xtreme IT #6](it6.md)
+- [Inazuma Eleven GO Strikers 2013 Xtreme IT #7](it7.md)

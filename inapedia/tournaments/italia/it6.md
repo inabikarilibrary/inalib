@@ -26,7 +26,7 @@ Tier: Minor
 |Place|Player|
 |-|-|
 |1st :1st_place_medal:|[Aaronash](../../players/italian/aaronash.md) :it:|
-|2nd :2nd_place_medal:|[Haku](../../players/german/haku.md) :de:||
+|2nd :2nd_place_medal:|[Haku](../../players/german/haku.md) :de:|
 |3rd :3rd_place_medal:|[filo](../../players/italian/filo.md) :it:|
 |4th|[Terewsant](../../players/polish/terewsant.md) :poland:|
 |5th|[Gioxxo](../../players/italian/gioxxo.md) :it:|
