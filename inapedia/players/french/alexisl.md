@@ -40,7 +40,7 @@ to handle his evasive movement.
 | 21/02/2023 | 5th | [Ragnarok Strikers Xtreme #3](../../tournaments/ragna/ragnax3.md) | Minor |
 | 11/02/2023 | 5th | [Xtreme Frontier](../../tournaments/sf/xf.md) | Major |
 | 04/02/2023 |1st :1st_place_medal: | [Shadow Xtreme Strikers #3](../../tournaments/shadow/shadow3.md) | Minor |
-| 15/01/2023 |2nd :2nd_place_medal: | [Inazuma Eleven Asia Xtreme #2](../../tournaments/misc/asiax2.md) | Minor |
+| 15/01/2023 |2nd :2nd_place_medal: | [Inazuma Eleven Asia Xtreme #2](../../tournaments/asia/asiax2.md) | Minor |
 | 13/01/2023 |1st :1st_place_medal: | [Shadow Xtreme Strikers #2](../../tournaments/shadow/shadow2.md) | Minor |
 | 01/2023 |1st :1st_place_medal: | [MrCheeseTalisman Strikers](../../tournaments/misc/cheese1.md) | Minor |
 | 01/2023 |2nd :2nd_place_medal: | [RTAXV1](../../tournaments/rtaxv/rtaxv1.md) | Minor|

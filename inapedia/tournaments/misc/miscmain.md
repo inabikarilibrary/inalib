@@ -8,13 +8,7 @@
 
 - [Grand Celesta](grandcelesta.md)
 
-- [Inast Asia](inastasia.md)
-
 - [Inasuto_108](108.md)
-
-- [Inazuma Eleven Asia Xtreme](asiax1.md)
-
-- [Inazuma Eleven Asia Xtreme #2](asiax2.md)
 
 - [MrCheeseTalisman Strikers](cheese1.md)
 
