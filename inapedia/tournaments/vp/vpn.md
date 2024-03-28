@@ -12,6 +12,8 @@ Vanilla Party: Nirvana was a tournament organized by [Baamsushi](../../players/i
 
 Special rules were implemented in this edition. 11 players participated.
 
+###### NOTE: Bachor withdrew before the start of the tournament, giving the slot to Vivi
+
 Tier: Other
 
 ## Overview
@@ -37,3 +39,7 @@ Tier: Other
 - [Challonge](https://challonge.com/vpnirvana)
 
 ### Gallery
+
+![Nirvāṇa (2)](https://github.com/inabikarilibrary/inalib/assets/110833255/483f2751-e56e-4a94-bc82-a1b48941c559)
+
+![Add a subheading](https://github.com/inabikarilibrary/inalib/assets/110833255/fa8e50ad-c780-427f-9176-d2804bb6a9b0)
