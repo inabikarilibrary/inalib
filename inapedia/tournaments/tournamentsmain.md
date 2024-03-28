@@ -22,6 +22,8 @@
 
 - [Orfeo](orfeo/orfeomain.md)
 
+- [Vanilla Party](vp/vpmain.md)
+
 - [Shadow Xtreme Strikers](shadow/shadowmain.md)
 
 - [Strikers FR Weeklies](weeklies/weeklymain.md)
