@@ -14,6 +14,7 @@ to handle his evasive movement.
 
 | Date | Place | Tournament | Tier |
 | - | - | - | - |
+| 22/03/2024 | 5th |[#3 Icicle Palace Skilled Tournament](../../tournaments/icicle/icicle3.md) | Minor |
 | 14/03/2024 |1st :1st_place_medal: |[Orfeo: Farewell Inast!](../../tournaments/orfeo/orfeofarewell.md) | Minor |
 | 18/02/2024 |1st :1st_place_medal: |[Ragnarok Strikers Xtreme #8](../../tournaments/ragna/ragnax8.md) | Major |
 | 06/01/2024 |2nd :2nd_place_medal: | [ZENITH 2](../../tournaments/misc/zenith2.md) | Major |

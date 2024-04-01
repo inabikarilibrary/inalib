@@ -6,6 +6,7 @@ Kobr3x is a Polish :poland: player, maining Nomash. He is considered to be the b
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
+| 22/03/2024 | 7th |[#3 Icicle Palace Skilled Tournament](../../tournaments/icicle/icicle3.md) | Minor |
 | 19/11/2023 | 13th | [Ragnarok Strikers Xtreme #7](../../tournaments/ragna/ragnax7.md) | Major |
 | 30/07/2023 | 9th | [Inazuma Eleven Strikers World Cup 2023](../../tournaments/worldcup23.md) | World Cup |
 | 02/10/2022 | 9th | [Ragnarok Strikers Xtreme #1](../../tournaments/ragna/ragnax1.md) | Major |

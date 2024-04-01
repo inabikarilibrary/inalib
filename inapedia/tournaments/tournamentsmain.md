@@ -22,6 +22,8 @@
 
 - [Orfeo](orfeo/orfeomain.md)
 
+- [Icicle Palace](icicle/iciclemain.md)
+
 - [Vanilla Party](vp/vpmain.md)
 
 - [Shadow Xtreme Strikers](shadow/shadowmain.md)

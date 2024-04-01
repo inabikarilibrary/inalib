@@ -8,7 +8,7 @@
 |:desktop_computer:: Xtreme|
 |:1st_place_medal:: [Alexisl](../../players/french/alexisl.md) :fr:|
 
-Icicle Palance was a tournament held by the Icicle Palace discord server.
+Icicle Palace was a tournament held by the Icicle Palace discord server.
 33 players participated.
 
 Tier: Minor
