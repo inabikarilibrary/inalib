@@ -3,13 +3,13 @@
 |Information|
 |-|
 |:calendar:: 12/01/24 - 17/02/24|
-|:busts_in_silhouette:: 15|
+|:busts_in_silhouette:: 27|
 |:trophy:: Other|
 |:desktop_computer:: Xtreme|
 |:1st_place_medal:: [Skipper](../../players/austrian/skipper.md) :austria:|
 
 Icicle Palace Triple Draft Tournament was a tournament with special rules held by the Icicle Palace discord server.
-15 players participated.
+27 players participated.
 
 Tier: Other
 
@@ -22,7 +22,7 @@ Tier: Other
 - Special rules
     - First Phase: 3 groups based on skill; draft within each group
         - Each player forms teams with 2 players, 1 from each of the other 2 groups
-        - Teams play one Best of 3; Winner advances to Second Phase
+        - Teams play three Best of 3s against different teams using their any of their three drafted picks; Winner advances to Second Phase
     - Second Phase
         - Groups; Swiss; Top 2 advances to Final Stage
         - Final Stage; Double Elimination
