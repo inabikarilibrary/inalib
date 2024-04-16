@@ -15,7 +15,7 @@ Tier: Other
 ## Overview
 
 ### Schedule
-- April 12, 2024 to April 16, 2024
+- April 12, 2024 to April 15, 2024
 
 ### Format
 - Standard rules
