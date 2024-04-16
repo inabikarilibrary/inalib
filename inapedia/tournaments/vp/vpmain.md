@@ -9,6 +9,7 @@ The distinguishing feature of VP is its use of the original Vanilla version of t
 ### Standard rules
 
 - [Vanilla Party](vp.md)
+- [Vanilla Party V2](vpv2.md)
 
 ### Special rules
 
