@@ -27,7 +27,7 @@ Tier: Other
 |-|-|
 |1st :1st_place_medal:|[Baamsushi](../../players/indonesian/baamsushi.md) :indonesia:|
 |2nd :2nd_place_medal:|[Caleb](../../players/bulgarian/caleb.md) :bulgaria:|
-|3rd :3rd_place_medal:|[Lucas](../../players/spanish/lucas.md) :spain:|
+|3rd :3rd_place_medal:|[Lucas](../../players/spanish/lucas.md) :es:|
 
 ### Bracket
 - [Challonge](https://challonge.com/7k6tkeye)
