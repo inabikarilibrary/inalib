@@ -10,6 +10,8 @@
 
 - [Inasuto_108](108.md)
 
+- [KIRASTAR CLUB Weekly #1](kirastar.md)
+
 - [MrCheeseTalisman Strikers](cheese1.md)
 
 - [MrCheeseTalisman Subscriber Tournament](cheesesub.md)
