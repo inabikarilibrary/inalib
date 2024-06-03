@@ -15,7 +15,9 @@
 - [RAGNAROK Strikers Xtreme](ragna/ragnaxmain.md)
   
 - [Hades Garden](hg/hgmain.md)
-  
+
+- [KIRASTAR CLUB](kirastar/kirastarmain.md)
+
 - [RTAXV](rtaxv/rtaxvmain.md)
   
 - [Strikers Frontier](sf/sfmain.md)
