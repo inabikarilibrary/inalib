@@ -47,7 +47,7 @@ Watch all the VODs [here](https://www.youtube.com/@Phase5fr).
 | 9th | Spain :es: | [Teca](../players/spanish/teca.md) / [Jorge Lorenzo](../players/spanish/jorge.md) / Naka / [Polakito](../players/spanish/polakito.md) / [Unaii](../players/spanish/unaii.md) |
 | 13th | Latin America :peru::argentina::guadeloupe::martinique:| [Rodrift](../players/peruvian/rodrift.md) / [SpaceGenesis](../players/french/spacegenesis.md) / [Dante Froste](../players/argentinian/dantefroste.md) / [585zeno](../players/french/585zeno.md) / [Killian11](../players/french/killian11.md) |
 | 13th | Benelux :belgium::netherlands::luxembourg:| [KKOJJGSS](../players/dutch/kkojjgss.md) / [Kireo](../players/french/kireo.md) / Nayel / [Noxyne](../players/french/noxyne.md) / [Wawa](../players/luxembourger/wawa.md) |
-| 13th | Eastern Europe :macedonia::romania::ru: | [Kemal](../players/french/kemal.md) / [CatalinW](../players/romanian/catalinw.md) / GAMMA24 |
+| 13th | Eastern Europe :macedonia::romania::ukraine: | [Kemal](../players/french/kemal.md) / [CatalinW](../players/romanian/catalinw.md) / GAMMA24 |
 | 13th | Portugal :portugal: | Foxi / Kake / Sr. Quax / Xeduh |
 
 ### Final Bracket
