@@ -1,5 +1,13 @@
 # Hades Garden #1
 
+|Information|
+|-|
+|:calendar:: 19/02/23 - 27/02/23|
+|:busts_in_silhouette:: 5|
+|:trophy:: Other|
+|:desktop_computer:: Xtreme|
+|:1st_place_medal:: [Haku](../../players/german/haku.md) :de:|
+
 Hades Garden #1 was the first edition of the [Hades Garden](hgmain.md) tournament series.
 5 players participated.
 

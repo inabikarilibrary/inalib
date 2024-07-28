@@ -1,5 +1,13 @@
 # Hades Garden #5
 
+|Information|
+|-|
+|:calendar:: 12/08/23 - 31/08/23|
+|:busts_in_silhouette:: 65|
+|:trophy:: Major|
+|:desktop_computer:: Xtreme|
+|:1st_place_medal:: [Paraly](../../players/japanese/paraly.md) :jp:|
+
 Hades Garden #5 was the fifth edition of the [Hades Garden](hgmain.md) tournament series.
 65 players participated.
 
@@ -8,7 +16,7 @@ Tier: Major
 ## Overview
 
 ### Schedule
-- August 12th, 2023 to August 31st, 2023
+- August 12, 2023 to August 31, 2023
 
 ### Format
 - Standard rules

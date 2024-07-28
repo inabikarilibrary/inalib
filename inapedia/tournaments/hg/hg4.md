@@ -1,5 +1,13 @@
 # Hades Garden 4
 
+|Information|
+|-|
+|:calendar:: 06/05/23 - 12/05/23|
+|:busts_in_silhouette:: 26|
+|:trophy:: Minor|
+|:desktop_computer:: Xtreme|
+|:1st_place_medal:: [Paraly](../../players/japanese/paraly.md) :jp:|
+
 Hades Garden #4 was the fourth edition of the 
 [Hades Garden](hgmain.md) tournament series.
 26 players participated.
@@ -9,7 +17,7 @@ Tier: Minor
 ## Overview
 
 ### Schedule
-- May 6th, 2023 to May 12th, 2023
+- May 6, 2023 to May 12, 2023
 
 ### Format
 - Standard rules

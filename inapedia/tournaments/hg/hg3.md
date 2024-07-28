@@ -1,5 +1,13 @@
 # Hades Garden #3
 
+|Information|
+|-|
+|:calendar:: 24/03/23 - 27/03/23|
+|:busts_in_silhouette:: 20|
+|:trophy:: Minor|
+|:desktop_computer:: Xtreme|
+|:1st_place_medal:: [Paraly](../../players/japanese/paraly.md) :jp:|
+
 Hades Garden #3 was the third edition of the [Hades Garden](hgmain.md) tournament series.
 20 players participated.
 
@@ -8,7 +16,7 @@ Tier: Minor
 ## Overview
 
 ### Schedule
-- March 24th, 2023 to March 27th, 2023
+- March 24, 2023 to March 27, 2023
 
 ### Format
 - Standard rules

@@ -1,5 +1,13 @@
 # Hades Garden 1st Anniversary Tournament
 
+|Information|
+|-|
+|:calendar:: 25/01/24 - 06/02/24|
+|:busts_in_silhouette:: 33|
+|:trophy:: Minor|
+|:desktop_computer:: Xtreme|
+|:1st_place_medal:: [Wawa](../../players/luxembourger/wawa.md) :luxembourg:|
+
 Hades Garden 1st Anniversary Tournament was a tournament held by the Hades Garden discord server to commemorate one year of the [Hades Garden](hgmain.md) tournament series.
 33 players participated.
 

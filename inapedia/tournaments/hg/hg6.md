@@ -1,5 +1,13 @@
 # Hades Garden #6
 
+|Information|
+|-|
+|:calendar:: 21/09/23 - 06/10/23|
+|:busts_in_silhouette:: 48|
+|:trophy:: Major|
+|:desktop_computer:: Xtreme|
+|:1st_place_medal:: [as7_9](../../players/japanese/as7_9.md) :jp:|
+
 Hades Garden #6 was the sixth edition of the [Hades Garden](hgmain.md) tournament series.
 48 players participated.
 
@@ -8,7 +16,7 @@ Tier: Major
 ## Overview
 
 ### Schedule
-- September 21st, 2023 to October 6th, 2023.
+- September 21, 2023 to October 6, 2023.
 
 ### Format
 - Standard rules

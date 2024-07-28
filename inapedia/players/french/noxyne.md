@@ -10,6 +10,7 @@ Noxyne plays the standard French style, heavily focusing on dash goals and aggre
 
 | Date | Place | Tournament | Tier |
 | - | - | - | - |
+| 10/06/2024 | 4th | [Hades Garden #7](../../tournaments/hg/hg7.md) | Minor |
 | 19/11/2023 | 7th | [Ragnarok Strikers Xtreme #7](../../tournaments/ragna/ragnax7.md) | Major |
 | 29/10/2023 |1st :1st_place_medal: | [ZENITH](../../tournaments/misc/zenith1.md) | Major |
 | 06/10/2023 | 13th | [Hades Garden #6](../../tournaments/hg/hg6.md) | Major |

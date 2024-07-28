@@ -9,6 +9,7 @@ Spanish player to win a Major.
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
 | 18/06/2024 |1st :1st_place_medal:| [Icicle Palace Fast Warm Up](../../tournaments/icicle/iciclewarmup.md) | Minor |
+| 10/06/2024 |1st :1st_place_medal:| [Hades Garden #7](../../tournaments/hg/hg7.md) | Minor |
 | 05/03/2024 |1st :1st_place_medal:| [Inazuma Eleven GO Strikers Xtreme IT #7](../../tournaments/italia/it7.md) | Minor |
 | 06/02/2024 | 7th | [Hades Garden 1st Anniversary Tournament](../../tournaments/hg/hganni.md) | Minor |
 | 06/01/2024 |1st :1st_place_medal: | [ZENITH 2](../../tournaments/misc/zenith2.md) | Major |
