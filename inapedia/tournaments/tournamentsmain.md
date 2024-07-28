@@ -28,6 +28,8 @@
 
 - [Icicle Palace](icicle/iciclemain.md)
 
+- [Area](area/areamain.md)
+
 - [Vanilla Party](vp/vpmain.md)
 
 - [Shadow Xtreme Strikers](shadow/shadowmain.md)
