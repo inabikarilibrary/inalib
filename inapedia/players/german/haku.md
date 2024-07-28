@@ -51,7 +51,7 @@ His Nomash style involves lots of side nomash techniques, such as the classic Ur
 | 02/10/2022 | 7th | [Ragnarok Strikers Xtreme #1](../../tournaments/ragna/ragnax1.md) | Major |
 | 10/2022 | 4th | [Orfeo League 2022](../../tournaments/orfeo/orfeoleague.md) | Minor | 
 | 17/09/2022 | 9th | [PEGASUS STRIKERS XTREME](../../tournaments/pegasus/pegasusx.md) | Major |
-| 16/09/2022 | 9th | [Area Holy Road #2](../../tournaments/misc/holyroad2.md) | Major |
+| 16/09/2022 | 9th | [Area Holy Road #2](../../tournaments/area/holyroad2.md) | Major |
 | 26/08/2022 | 5th | [PEGASUS STRIKERS #10](../../tournaments/pegasus/pegasus10.md) | Major | 
 | 24/07/2022 |2nd :2nd_place_medal: | [Ragnarok Strikers #5](../../tournaments/ragna/ragna5.md) | Major |
 | 08/07/2022 | 4th | [PEGASUS STRIKERS #9](../../tournaments/pegasus/pegasus9.md) | Major |

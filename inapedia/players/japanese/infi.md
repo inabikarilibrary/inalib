@@ -36,7 +36,7 @@ to initiate his circle until the last moment.
 | 11/02/2023 |2nd :2nd_place_medal: | [Xtreme Frontier](../../tournaments/sf/xf.md) | Major |
 | 11/2022 |1st :1st_place_medal: | [PEGASUS Xtreme Draft](../../tournaments/draft/pegasusdraft.md) | Draft | 
 | 15/10/2022 |1st :1st_place_medal: | [Orfeo's World Pasta Day](../../tournaments/orfeo/orfeopasta.md) | Minor |
-| 16/09/2022 |1st :1st_place_medal: | [Area Holy Road #2](../../tournaments/misc/holyroad2.md) | Major |
+| 16/09/2022 |1st :1st_place_medal: | [Area Holy Road #2](../../tournaments/area/holyroad2.md) | Major |
 | 07/2022 |1st :1st_place_medal: | [Bulgarian Draft](../../tournaments/draft/bgdraft.md) | Draft |
 | 04/12/2021 | 5th | [Strikers Frontier #3](../../tournaments/sf/sf3.md) | Minor |
 | 26/09/2021 |1st :1st_place_medal: | [Strikers Frontier #1](../../tournaments/sf/sf1.md) | Minor |

@@ -8,4 +8,4 @@ as well the [PEGASUS STRIKERS](../../tournaments/pegasus/pegasusmain.md) tournam
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
-| 18/06/2022 | 9th | [Area Holy Road #1](../../tournaments/misc/holyroad1.md) | Major |
+| 18/06/2022 | 9th | [Area Holy Road #1](../../tournaments/area/holyroad1.md) | Major |

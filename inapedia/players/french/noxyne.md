@@ -25,7 +25,7 @@ Noxyne plays the standard French style, heavily focusing on dash goals and aggre
 | 08/10/2022 | 5th | [Shadow Xtreme Strikers #1](../../tournaments/shadow/shadow1.md) | Minor |
 | 02/10/2022 | 5th | [Ragnarok Strikers Xtreme #1](../../tournaments/ragna/ragnax1.md) | Major |
 | 17/09/2022 | 9th | [PEGASUS STRIKERS XTREME](../../tournaments/pegasus/pegasusx.md) | Major |
-| 16/09/2022 | 5th | [Area Holy Road #2](../../tournaments/misc/holyroad2.md) | Major |
+| 16/09/2022 | 5th | [Area Holy Road #2](../../tournaments/area/holyroad2.md) | Major |
 | 26/08/2022 | 7th | [PEGASUS STRIKERS #10](../../tournaments/pegasus/pegasus10.md) | Major | 
 | 24/07/2022 | 7th | [Ragnarok Strikers #5](../../tournaments/ragna/ragna5.md) | Major |
 | 08/07/2022 | 13th | [PEGASUS STRIKERS #9](../../tournaments/pegasus/pegasus9.md) | Major |

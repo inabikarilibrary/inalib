@@ -28,7 +28,7 @@ After the release of Xtreme, Caleb began pivoting towards Chain, which he plays 
 | 02/10/2022 |2nd :2nd_place_medal: | [Ragnarok Strikers Xtreme #1](../../tournaments/ragna/ragnax1.md) | Major |
 | 10/2022 |1st :1st_place_medal:| [Orfeo League 2022](../../tournaments/orfeo/orfeoleague.md) | Minor | 
 | 07/2022 |3rd :3rd_place_medal: | [Bulgarian Draft](../../tournaments/draft/bgdraft.md) | Draft |
-| 18/06/2022 |1st :1st_place_medal: | [Area Holy Road #1](../../tournaments/misc/holyroad1.md) | Major |
+| 18/06/2022 |1st :1st_place_medal: | [Area Holy Road #1](../../tournaments/area/holyroad1.md) | Major |
 | 13/06/2022 | 13th | [Ragnarok Strikers #4](../../tournaments/ragna/ragna4.md) | Major |
 | 05/2022 | 4th | [MrCheeseTalisman Subscriber Tournament](../../tournaments/misc/cheesesub.md) | Minor |
 | 23/04/2022 |3rd :3rd_place_medal: | [Strikers Frontier #5](../../tournaments/sf/sf5.md) | Major |

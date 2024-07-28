@@ -16,7 +16,7 @@ She is also a prominent leader and content creator in the Brazilian community.
 | 01/2023 | 2nd :2nd_place_medal: | [XBackdraft](../../tournaments/lemonade/xbd1.md) | National |
 | 02/10/2022 | 13th | [Ragnarok Strikers Xtreme #1](../../tournaments/ragna/ragnax1.md) | Major |
 | 17/09/2022 | 9th | [PEGASUS STRIKERS XTREME](../../tournaments/pegasus/pegasusx.md) | Major |
-| 16/09/2022 | 9th | [Area Holy Road #2](../../tournaments/misc/holyroad2.md) | Major |
+| 16/09/2022 | 9th | [Area Holy Road #2](../../tournaments/area/holyroad2.md) | Major |
 | 24/07/2022 | 13th | [Ragnarok Strikers #5](../../tournaments/ragna/ragna5.md) | Major |
 | 08/07/2022 | 9th | [PEGASUS STRIKERS #9](../../tournaments/pegasus/pegasus9.md) | Major |
 | 10/2021 | 2nd :2nd_place_medal: | [Goujin V8](../../tournaments/lemonade/goujin8.md) | National |

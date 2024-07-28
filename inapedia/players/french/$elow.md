@@ -26,10 +26,10 @@ His playstyle is characteristic of the aggressive French style.
 | 01/2023 | 5th | [MrCheeseTalisman Strikers](../../tournaments/misc/cheese1.md) | Minor |
 | 02/10/2022 | 13th | [Ragnarok Strikers Xtreme #1](../../tournaments/ragna/ragnax1.md) | Major |
 | 17/09/2022 |3rd :3rd_place_medal: | [PEGASUS STRIKERS XTREME](../../tournaments/pegasus/pegasusx.md) | Major |
-| 16/09/2022 | 9th | [Area Holy Road #2](../../tournaments/misc/holyroad2.md) | Major |
+| 16/09/2022 | 9th | [Area Holy Road #2](../../tournaments/area/holyroad2.md) | Major |
 | 26/08/2022 | 9th | [PEGASUS STRIKERS #10](../../tournaments/pegasus/pegasus10.md) | Major |
 | 24/07/2022 |3rd :3rd_place_medal: | [Ragnarok Strikers #5](../../tournaments/ragna/ragna5.md) | Major | 
 | 08/07/2022 | 5th | [PEGASUS STRIKERS #9](../../tournaments/pegasus/pegasus9.md) | Major |
-| 18/06/2022 | 9th | [Area Holy Road #1](../../tournaments/misc/holyroad1.md) | Major |
+| 18/06/2022 | 9th | [Area Holy Road #1](../../tournaments/area/holyroad1.md) | Major |
 | 13/06/2022 | 5th | [Ragnarok Strikers #4](../../tournaments/ragna/ragna4.md) | Major |
 

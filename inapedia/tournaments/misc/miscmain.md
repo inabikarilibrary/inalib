@@ -1,9 +1,5 @@
 # Miscellaneous Tournaments
 
-- [Area Holy Road #1](holyroad1.md)
-
-- [Area Holy Road #2](holyroad2.md)
-
 - [God Impact](godimpact.md)
 
 - [Grand Celesta](grandcelesta.md)

@@ -17,7 +17,7 @@ Kinun is a Senegalese :senegal: player, maining Nomash.
 | 19/05/2023 | 4th | [RTAXV3](../../tournaments/rtaxv/rtaxv3.md) | Minor |
 | 24/07/2022 | 5th | [Ragnarok Strikers #5](../../tournaments/ragna/ragna5.md) | Major |
 | 08/07/2022 | 9th | [PEGASUS STRIKERS #9](../../tournaments/pegasus/pegasus9.md) | Major |
-| 18/06/2022 | 4th | [Area Holy Road #1](../../tournaments/misc/holyroad1.md) | Major |
+| 18/06/2022 | 4th | [Area Holy Road #1](../../tournaments/area/holyroad1.md) | Major |
 | 05/2022 | 7th | [MrCheeseTalisman Subscriber Tournament](../../tournaments/misc/cheesesub.md) | Minor |
 | 23/04/2022 | 4th | [Strikers Frontier #5](../../tournaments/sf/sf5.md) | Major |
 | 17/03/2022 | 5th | [Ragnarok Strikers #3](../../tournaments/ragna/ragna3.md) | Minor |

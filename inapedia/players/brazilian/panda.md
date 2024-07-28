@@ -14,5 +14,5 @@ Panda is a Brazilian :brazil: player, maining Nomash.
 | 04/12/2022 | 9th | [Ragnarok Strikers Xtreme #2](../../tournaments/ragna/ragnax2.md) | Major |
 | 24/07/2022 | 5th | [Ragnarok Strikers #5](../../tournaments/ragna/ragna5.md) | Major |
 | 07/2022 | 5th | [Bulgarian Draft](../../tournaments/draft/bgdraft.md) | Draft |
-| 18/06/2022 | 9th | [Area Holy Road #1](../../tournaments/misc/holyroad1.md) | Major |
+| 18/06/2022 | 9th | [Area Holy Road #1](../../tournaments/area/holyroad1.md) | Major |
 | 07/2021 | 4th | [Inazuma Eleven Strikers World Cup 2021](../../tournaments/worldcup21.md) | World Cup |
