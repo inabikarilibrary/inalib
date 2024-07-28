@@ -44,6 +44,22 @@ The Inazuma Eleven Strikers World Cup 2024 was the 2024 edition of the Inazuma E
 
 ### Group Stage
 
+![image](https://github.com/user-attachments/assets/ebec38df-d61e-4e71-8f5f-1f27d70aabbe)
+
+![image](https://github.com/user-attachments/assets/a913ce9f-3de1-42e4-884a-96e4fd9f8f06)
+
+![Untitled design (2)](https://github.com/user-attachments/assets/b554f0db-d0a0-4735-8987-1350b9b1be30)
+
+![Untitled design (4)](https://github.com/user-attachments/assets/53a631a2-e6bc-4670-a577-90229286af3a)
+
 ### Final Bracket
 
+![Untitled design (5)](https://github.com/user-attachments/assets/3027c133-2e59-4d05-83d6-25a191c5089a)
+
+![image](https://github.com/user-attachments/assets/4ba7a8ba-e76b-4693-b9ac-fe6f9714c5bf)
+
 ### Gallery
+
+![image](https://github.com/user-attachments/assets/de11924e-fd73-4081-8924-3fcc64a04340)
+
+![image](https://github.com/user-attachments/assets/4a5317b3-b28e-4e62-91af-2bb99653d994)
