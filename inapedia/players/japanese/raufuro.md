@@ -13,6 +13,7 @@ His signature character is Fran.
 
 | Date | Place | Tournament | Tier |
 | - | - | - | - |
+| 27/07/2024 | 7th | [Ragnarok Strikers Xtreme #9](../../tournaments/ragna/ragnax9.md) | Major |
 | 22/03/2024 | 5th |[#3 Icicle Palace Skilled Tournament](../../tournaments/icicle/icicle3.md) | Minor |
 | 06/02/2024 |3rd :3rd_place_medal:| [Hades Garden 1st Anniversary Tournament](../../tournaments/hg/hganni.md) | Minor |
 | 26/11/2023 | 5th | [Hades Garden Xtreme Draft Cup](../../tournaments/draft/hgdraftx.md) | Draft | 

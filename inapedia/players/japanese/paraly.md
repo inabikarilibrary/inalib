@@ -15,6 +15,7 @@ that is, at worse, neutral for him.
 
 | Date | Place | Tournament | Tier | 
 | - | - | - | - |
+| 27/07/2024 | 1st :1st_place_medal: | [Ragnarok Strikers Xtreme #9](../../tournaments/ragna/ragnax9.md) | Major |
 | 07/09/2023 | 1st :1st_place_medal: | [Ragnarok Strikers Xtreme #6](../../tournaments/ragna/ragnax6.md) | Major |
 | 31/08/2023 | 1st :1st_place_medal: | [Hades Garden #5](../../tournaments/hg/hg5.md) | Major |
 | 06/08/2023 | 1st :1st_place_medal: | [2nd Ultimate Draft Cup](../../tournaments/jpdraft/jpudraft2.md) | National |

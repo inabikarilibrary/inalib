@@ -7,6 +7,7 @@ He was also previously a high-level Chain player.
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
+| 27/07/2024 | 5th | [Ragnarok Strikers Xtreme #9](../../tournaments/ragna/ragnax9.md) | Major |
 | 22/03/2024 |3rd :3rd_place_medal:|[#3 Icicle Palace Skilled Tournament](../../tournaments/icicle/icicle3.md) | Minor |
 | 14/03/2024 | 4th |[Orfeo: Farewell Inast!](../../tournaments/orfeo/orfeofarewell.md) | Minor |
 | 18/02/2024 | 4th |[Ragnarok Strikers Xtreme #8](../../tournaments/ragna/ragnax8.md) | Major |

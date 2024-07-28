@@ -15,6 +15,7 @@ forcing through his opponent's defenses, often with brute force.
 
 | Date | Place | Tournament | Tier |
 | - | - | - | - |
+| 27/07/2024 |2nd :2nd_place_medal: | [Ragnarok Strikers Xtreme #9](../../tournaments/ragna/ragnax9.md) | Major |
 | 18/02/2024 |2nd :2nd_place_medal: |[Ragnarok Strikers Xtreme #8](../../tournaments/ragna/ragnax8.md) | Major |
 | 22/09/2023 | 5th | [Siege of MUGEN Castle](../../tournaments/misc/mugen.md) | Minor |
 | 31/08/2023 |2nd :2nd_place_medal: | [Hades Garden #5](../../tournaments/hg/hg5.md) | Major |
