@@ -8,7 +8,7 @@
 |:desktop_computer:: Xtreme|
 |:1st_place_medal:: [Wawa](../../players/luxembourger/wawa.md) :luxembourg:|
 
-Icicle Palace was a tournament held by the Icicle Palace discord server.
+Icicle Palace #3 was a tournament held by the Icicle Palace discord server.
 28 players participated.
 
 Tier: Minor
@@ -16,7 +16,7 @@ Tier: Minor
 ## Overview
 
 ### Schedule 
-- March 8, 2024 to March 22, 2023
+- March 8, 2024 to March 22, 2024
 
 ### Format
 - Standard rules

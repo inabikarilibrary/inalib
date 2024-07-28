@@ -8,6 +8,7 @@ putting Spain on the map for the first time in the Strikers scene.
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
+| 18/06/2024 |2nd :2nd_place_medal:| [Icicle Palace Fast Warm Up](../../tournaments/icicle/iciclewarmup.md) | Minor |
 | 18/02/2024 | 5th |[Ragnarok Strikers Xtreme #8](../../tournaments/ragna/ragnax8.md) | Major |
 | 06/01/2024 |3rd :3rd_place_medal: | [ZENITH 2](../../tournaments/misc/zenith2.md) | Major |
 | 01/01/2024 | 5th | [Grand Celesta](../../tournaments/misc/grandcelesta.md) | Minor |

@@ -6,6 +6,7 @@ Braxou is a French :fr: player, maining Nomash.
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
+| 18/06/2024 | 7th | [Icicle Palace Fast Warm Up](../../tournaments/icicle/iciclewarmup.md) | Minor |
 | 05/03/2024 | 7th |[Inazuma Eleven GO Strikers Xtreme IT #7](../../tournaments/italia/it7.md) | Minor |
 | 01/01/2024 | 4th | [Grand Celesta](../../tournaments/misc/grandcelesta.md) | Minor |
 | 26/11/2023 |2nd :2nd_place_medal:| [Strikers FR Weekly 3](../../tournaments/weeklies/weekly3.md) | Minor |
