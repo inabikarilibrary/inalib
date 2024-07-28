@@ -19,7 +19,8 @@ to initiate his circle until the last moment.
 
 | Date | Place | Tournament | Tier |
 | - | - | - | - |
-| 01/01/2024 |1st :1st_place_medal: | [Grand Celesta](../../tournaments/misc/grandcelesta.md) | Minor |
+| 13/07/2024 |1st :1st_place_medal:| [Inazuma Eleven Strikers World Cup 2024](../../tournaments/worldcup24.md) | World Cup |
+| 01/01/2024 |1st :1st_place_medal:| [Grand Celesta](../../tournaments/misc/grandcelesta.md) | Minor |
 | 03/12/2023 |1st :1st_place_medal:|[Strikers FR Weekly 4](../../tournaments/weeklies/weekly4.md) | Minor |
 | 23/11/2023 |1st :1st_place_medal:|[Orfeo 2nd Anniversary Tournament](../../tournaments/orfeo/orfeoanni.md) | Minor |
 | 10/11/2023 |1st :1st_place_medal:| [Strikers FR Weekly 1](../../tournaments/weeklies/weekly1.md) | Minor |

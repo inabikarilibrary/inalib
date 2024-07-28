@@ -13,6 +13,7 @@ in Vanilla. He is notorious for somehow constantly getting high RNG chains.
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
+| 13/07/2024 |3rd :3rd_place_medal:| [Inazuma Eleven Strikers World Cup 2024](../../tournaments/worldcup24.md) | World Cup |
 | 30/07/2023 |3rd :3rd_place_medal: | [Inazuma Eleven Strikers World Cup 2023](../../tournaments/worldcup23.md) | World Cup |
 | 08/10/2022 | 5th | [Shadow Xtreme Strikers #1](../../tournaments/shadow/shadow1.md) | Minor |
 | 02/10/2022 | 4th | [Ragnarok Strikers Xtreme #1](../../tournaments/ragna/ragnax1.md) | Major |

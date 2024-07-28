@@ -7,6 +7,7 @@ Kev'nox is a French :fr: player, maining Nomash.
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
 | 27/07/2024 | 9th | [Ragnarok Strikers Xtreme #9](../../tournaments/ragna/ragnax9.md) | Major |
+| 13/07/2024 |2nd :2nd_place_medal:| [Inazuma Eleven Strikers World Cup 2024](../../tournaments/worldcup24.md) | World Cup |
 | 18/06/2024 | 5th | [Icicle Palace Fast Warm Up](../../tournaments/icicle/iciclewarmup.md) | Minor |
 | 14/03/2024 | 7th |[Orfeo: Farewell Inast!](../../tournaments/orfeo/orfeofarewell.md) | Minor |
 | 05/03/2024 | 5th |[Inazuma Eleven GO Strikers Xtreme IT #7](../../tournaments/italia/it7.md) | Minor |

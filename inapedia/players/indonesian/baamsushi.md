@@ -12,6 +12,7 @@ In the past, he has played with unorthodox strategies such as Mugen no Kabe with
 
 | Date | Place | Tournament | Tier |
 | - | - | - | - |
+| 13/07/2024 | 5th | [Inazuma Eleven Strikers World Cup 2024](../../tournaments/worldcup24.md) | World Cup |
 | 18/06/2024 | 4th | [Icicle Palace Fast Warm Up](../../tournaments/icicle/iciclewarmup.md) | Minor |
 | 06/01/2024 | 5th | [ZENITH 2](../../tournaments/misc/zenith2.md) | Major |
 | 07/09/2023 | 9th | [Ragnarok Strikers Xtreme #6](../../tournaments/ragna/ragnax6.md) | Major |

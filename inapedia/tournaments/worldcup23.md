@@ -33,22 +33,22 @@ Watch all the VODs [here](https://www.youtube.com/@Phase5fr).
 
 | Place | Team | Players |
 | - | - | - |
-|1st :1st_place_medal: | Japan :jp: | [Paraly](../players/japanese/paraly.md) / [Infi](../players/japanese/infi.md) / [Miya](../players/japanese/miya.md) / [as7_9](../players/japanese/as7_9.md) / [Raufuro](../players/japanese/raufuro.md) |
-|2nd :2nd_place_medal: | France :fr: | [Vivi](../players/french/vivi.md) / [Alexisl](../players/french/alexisl.md) / [Azyck](../players/french/azyck.md) / [Mathiuze](../players/french/mathiuze.md) / [nayth](../players/french/nayth.md) |
-|3rd :3rd_place_medal: | Maghreb :morocco::algeria::tunisia::mauritania: | [$elow](../players/french/$elow.md) / [Abdel](../players/french/abdel.md) / [Luxie](../players/belgian/luxie.md) / [Pinguin](../players/french/pinguin.md) / [Saikyoo11](../players/french/saikyoo11.md) |
-| 4th | Southeast Asia :indonesia::vietnam: | [Baamsushi](../players/indonesian/baamsushi.md) / Minh / [Zuky](../players/german/zuky.md) |
-| 5th | China :cn: | [Dia](../players/chinese/dia.md) / [Kiyara](../players/chinese/kiyara.md) / Suzushina / Memex / [matcha](../players/chinese/matcha.md) |
-| 5th | Subsaharan Africa :senegal::cote_divoire::comoros: | [Kinun](../players/senegalese/kinun.md) / Banania / [Eath](../players/senegalese/eath.md) / [Kev'nox](../players/french/kevnox.md) / [SRAW](../players/french/sraw.md) |
-| 5th | Bulgaria :bulgaria: | [Caleb](../players/bulgarian/caleb.md) / Gabo / [Krizo](../players/bulgarian/krizo.md) / Jorito / Yabusosa |
-| 5th | Italy :it: | [Filo](../players/italian/filo.md) / [Aaronash](../players/italian/aaronash.md) / [Giu](../players/italian/giu.md) / Giovix-64 / [marinucci79](../players/italian/marinucci79.md) |
-| 9th | Brazil :brazil: | [Hikky](../players/brazilian/hikky.md) / [jppb2005](../../players/brazilian/jppb2005.md) / [nicolau](../players/brazilian/nicolau.md) / [Panda](../players/brazilian/panda.md) / YeppON |
-| 9th | Poland :poland: | [Kobr3X](../players/polish/kobr3x.md) / [Bachor](../players/polish/bachor.md) / Kazuma Ito / Skrecik / [terewsant](../players/polish/terewsant.md) |
-| 9th | DACH :de::austria::switzerland: | [Milozaki](../players/german/milozaki.md) / [Dani11](../players/colombian/dani11.md) / [Skipper](../players/austrian/skipper.md) / [Haku](../players/german/haku.md) / Kaiser |
-| 9th | Spain :es: | [Teca](../players/spanish/teca.md) / [Jorge Lorenzo](../players/spanish/jorge.md) / Naka / [Polakito](../players/spanish/polakito.md) / [Unaii](../players/spanish/unaii.md) |
-| 13th | Latin America :peru::argentina::guadeloupe::martinique:| [Rodrift](../players/peruvian/rodrift.md) / [SpaceGenesis](../players/french/spacegenesis.md) / [Dante Froste](../players/argentinian/dantefroste.md) / [585zeno](../players/french/585zeno.md) / [Killian11](../players/french/killian11.md) |
-| 13th | Benelux :belgium::netherlands::luxembourg:| [KKOJJGSS](../players/dutch/kkojjgss.md) / [Kireo](../players/french/kireo.md) / Nayel / [Noxyne](../players/french/noxyne.md) / [Wawa](../players/luxembourger/wawa.md) |
-| 13th | Eastern Europe :macedonia::romania::ukraine: | [Kemal](../players/french/kemal.md) / [CatalinW](../players/romanian/catalinw.md) / GAMMA24 |
-| 13th | Portugal :portugal: | Foxi / Kake / Sr. Quax / Xeduh |
+|1st :1st_place_medal: | Japan :jp: | [Paraly](../players/japanese/paraly.md) (C) / [Infi](../players/japanese/infi.md) / [Miya](../players/japanese/miya.md) / [as7_9](../players/japanese/as7_9.md) / [Raufuro](../players/japanese/raufuro.md) |
+|2nd :2nd_place_medal: | France :fr: | [Vivi](../players/french/vivi.md) (C) / [Alexisl](../players/french/alexisl.md) / [Azyck](../players/french/azyck.md) / [Mathiuze](../players/french/mathiuze.md) / [nayth](../players/french/nayth.md) |
+|3rd :3rd_place_medal: | Maghreb :morocco::algeria::tunisia::mauritania: | [$elow](../players/french/$elow.md) (C) / [Abdel](../players/french/abdel.md) / [Luxie](../players/belgian/luxie.md) / [Pinguin](../players/french/pinguin.md) / [Saikyoo11](../players/french/saikyoo11.md) |
+| 4th | Southeast Asia :indonesia::vietnam: | [Baamsushi](../players/indonesian/baamsushi.md) (C) / Minh / [Zuky](../players/german/zuky.md) |
+| 5th | China :cn: | [Dia](../players/chinese/dia.md) (C) / [Kiyara](../players/chinese/kiyara.md) / Suzushina / Memex / [matcha](../players/chinese/matcha.md) |
+| 5th | Subsaharan Africa :senegal::cote_divoire::comoros: | [Kinun](../players/senegalese/kinun.md) (C) / Banania / [Eath](../players/senegalese/eath.md) / [Kev'nox](../players/french/kevnox.md) / [SRAW](../players/french/sraw.md) |
+| 5th | Bulgaria :bulgaria: | [Caleb](../players/bulgarian/caleb.md) (C) / Gabo / [Krizo](../players/bulgarian/krizo.md) / Jorito / Yabusosa |
+| 5th | Italy :it: | [Filo](../players/italian/filo.md) (C) / [Aaronash](../players/italian/aaronash.md) / [Giu](../players/italian/giu.md) / Giovix-64 / [marinucci79](../players/italian/marinucci79.md) |
+| 9th | Brazil :brazil: | [Hikky](../players/brazilian/hikky.md) (C) / [jppb2005](../../players/brazilian/jppb2005.md) / [nicolau](../players/brazilian/nicolau.md) / [Panda](../players/brazilian/panda.md) / YeppON |
+| 9th | Poland :poland: | [Kobr3X](../players/polish/kobr3x.md) (C) / [Bachor](../players/polish/bachor.md) / Kazuma Ito / [Skrecik](../players/polish/kaiser.md) / [Terewsant](../players/polish/terewsant.md) |
+| 9th | DACH :de::austria::switzerland: | [Milozaki](../players/german/milozaki.md) (C) / [Dani11](../players/colombian/dani11.md) / [Skipper](../players/austrian/skipper.md) / [Haku](../players/german/haku.md) / Kaiser |
+| 9th | Spain :es: | [Teca](../players/spanish/teca.md) (C) / [Jorge Lorenzo](../players/spanish/jorge.md) / Naka / [Polakito](../players/spanish/polakito.md) / [Unaii](../players/spanish/unaii.md) |
+| 13th | Latin America :peru::argentina::guadeloupe::martinique:| [Rodrift](../players/peruvian/rodrift.md) (C) / [SpaceGenesis](../players/french/spacegenesis.md) / [Dante Froste](../players/argentinian/dantefroste.md) / [585zeno](../players/french/585zeno.md) / [Killian11](../players/french/killian11.md) |
+| 13th | Benelux :belgium::netherlands::luxembourg:| [KKOJJGSS](../players/dutch/kkojjgss.md) (C) / [Kireo](../players/french/kireo.md) / Nayel / [Noxyne](../players/french/noxyne.md) / [Wawa](../players/luxembourger/wawa.md) |
+| 13th | Eastern Europe :macedonia::romania::ukraine: | [Kemal](../players/french/kemal.md) (C) / [CatalinW](../players/romanian/catalinw.md) / GAMMA24 |
+| 13th | Portugal :portugal: | Foxi (C) / Kake / Sr. Quax / Xeduh |
 
 ### Final Bracket
 

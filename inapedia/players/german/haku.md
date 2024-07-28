@@ -16,6 +16,7 @@ His Nomash style involves lots of side nomash techniques, such as the classic Ur
 
 | Date | Place | Tournament | Tier |
 | - | - | - | - |
+| 13/07/2024 | 7th | [Inazuma Eleven Strikers World Cup 2024](../../tournaments/worldcup24.md) | World Cup |
 | 22/03/2024 |2nd :2nd_place_medal:|[#3 Icicle Palace Skilled Tournament](../../tournaments/icicle/icicle3.md) | Minor |
 | 14/03/2024 | 5th |[Orfeo: Farewell Inast!](../../tournaments/orfeo/orfeofarewell.md) | Minor |
 | 05/03/2024 |3rd :3rd_place_medal:|[Inazuma Eleven GO Strikers Xtreme IT #7](../../tournaments/italia/it7.md) | Minor |

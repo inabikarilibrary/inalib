@@ -1,11 +1,10 @@
-# Bachor
+# Kaiser
 
-Bachor is a Polish :poland: player, maining Nomash.
+Kaiser is a Polish :poland: player. He was previously known as Skrecik.
 
 ## Achievements
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
 | 13/07/2024 | 7th | [Inazuma Eleven Strikers World Cup 2024](../../tournaments/worldcup24.md) | World Cup |
-| 01/01/2024 | 7th | [Grand Celesta](../../tournaments/misc/grandcelesta.md) | Minor |
 | 30/07/2023 | 9th | [Inazuma Eleven Strikers World Cup 2023](../../tournaments/worldcup23.md) | World Cup |

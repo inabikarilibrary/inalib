@@ -4,6 +4,8 @@
 
 ## World Cups
 
+- [World Cup 2024](worldcup24.md)
+
 - [World Cup 2023](worldcup23.md)
   
 - [World Cup 2021](worldcup21.md)

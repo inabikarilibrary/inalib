@@ -6,6 +6,7 @@ Baptiste is a French :fr: player, maining Nomash.
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
+| 13/07/2024 |2nd :2nd_place_medal:| [Inazuma Eleven Strikers World Cup 2024](../../tournaments/worldcup24.md) | World Cup |
 | 01/01/2024 | 5th | [Grand Celesta](../../tournaments/misc/grandcelesta.md) | Minor |
 | 26/11/2023 |1st :1st_place_medal:| [Hades Garden Xtreme Draft Cup](../../tournaments/draft/hgdraftx.md) | Draft | 
 | 29/10/2023 | 9th | [ZENITH](../../tournaments/misc/zenith1.md) | Major |

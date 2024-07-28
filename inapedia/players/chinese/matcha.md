@@ -8,6 +8,7 @@ He also happens to be proficient with Chain and Hybrid.
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
+| 13/07/2024 | 5th | [Inazuma Eleven Strikers World Cup 2024](../../tournaments/worldcup24.md) | World Cup |
 | 10/06/2024 | 5th | [Hades Garden #7](../../tournaments/hg/hg7.md) | Minor |
 | 22/03/2024 | 4th |[#3 Icicle Palace Skilled Tournament](../../tournaments/icicle/icicle3.md) | Minor |
 | 18/02/2024 | 9th |[Ragnarok Strikers Xtreme #8](../../tournaments/ragna/ragnax8.md) | Major |

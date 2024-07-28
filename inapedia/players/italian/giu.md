@@ -10,6 +10,7 @@ Giu plays a standard style of Chain. He often uses either of the miximax Chain d
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
+| 13/07/2024 | 5th | [Inazuma Eleven Strikers World Cup 2024](../../tournaments/worldcup24.md) | World Cup |
 | 05/03/2024 | 5th |[Inazuma Eleven GO Strikers Xtreme IT #7](../../tournaments/italia/it7.md) | Minor |
 | 18/02/2024 | 13th |[Ragnarok Strikers Xtreme #8](../../tournaments/ragna/ragnax8.md) | Major |
 | 19/11/2023 | 9th | [Ragnarok Strikers Xtreme #7](../../tournaments/ragna/ragnax7.md) | Major |

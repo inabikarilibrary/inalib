@@ -154,8 +154,13 @@ toc_label: "List of Players"
 ### Poland :poland:
 
 - [Bachor](polish/bachor.md)
+- [Kaiser](polish/kaiser.md)
 - [Kobr3x](polish/kobr3x.md)
 - [Terewsant](polish/terewsant.md)
+
+### Portugal :portugal:
+
+- [Foxi](portuguese/foxi.md)
 
 ### Romania :romania:
 
@@ -173,6 +178,7 @@ toc_label: "List of Players"
 
 ### The Netherlands :netherlands:
 
+- [Ethias](dutch/ethias.md)
 - [KKOJJGSS](dutch/kkojjgss.md)
 - [Marcel](dutch/marcel.md)
 
@@ -180,3 +186,7 @@ toc_label: "List of Players"
 
 - [$elow](french/$elow.md)
 - [Azyck](french/azyck.md)
+
+### Ukraine :ukraine:
+
+- [GAMMA24](ukrainian/gamma.md)

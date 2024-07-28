@@ -11,6 +11,7 @@ Aaronash's dash cancelling is unique in that he often dashes twice before cancel
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
+| 13/07/2024 | 5th | [Inazuma Eleven Strikers World Cup 2024](../../tournaments/worldcup24.md) | World Cup |
 | 18/06/2024 |3rd :3rd_place_medal:| [Icicle Palace Fast Warm Up](../../tournaments/icicle/iciclewarmup.md) | Minor |
 | 10/06/2024 |2nd :2nd_place_medal:| [Hades Garden #7](../../tournaments/hg/hg7.md) | Minor |
 | 22/03/2024 | 7th |[#3 Icicle Palace Skilled Tournament](../../tournaments/icicle/icicle3.md) | Minor |

@@ -41,7 +41,7 @@ Tier: Major
 |9th|[Kev'nox](../../players/french/kevnox.md) :fr:|
 |13th|[Polakito](../../players/spanish/polakito.md) :es:|
 |13th|[MyssBH](../../players/brazilian/myssbh.md) :br:|
-|13th|[Kemal](../../players/french/kemal.md) :fr::north_macedonia:|
+|13th|[Kemal](../../players/french/kemal.md) :fr::macedonia:|
 |13th|[Yesus0010](../../players/spanish/yesus.md) :es:|
 
 ### Bracket
