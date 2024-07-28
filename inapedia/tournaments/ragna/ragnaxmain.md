@@ -18,3 +18,4 @@ It was previously [Ragnarok Strikers](ragnamain.md) before being renamed into Ra
 - [Ragnarok Strikers Xtreme #6](ragnax6.md)
 - [Ragnarok Strikers Xtreme #7](ragnax7.md)
 - [Ragnarok Strikers Xtreme #8](ragnax8.md)
+- [Ragnarok Strikers Xtreme #9](ragnax9.md)
