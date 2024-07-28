@@ -15,6 +15,7 @@ to handle his evasive movement.
 | Date | Place | Tournament | Tier |
 | - | - | - | - |
 | 13/07/2024 |2nd :2nd_place_medal:| [Inazuma Eleven Strikers World Cup 2024](../../tournaments/worldcup24.md) | World Cup |
+| 30/06/2024 |2nd :2nd_place_medal:| [Area Xtreme #1](../../tournaments/area/areax1.md) | Major |
 | 22/03/2024 | 5th |[#3 Icicle Palace Skilled Tournament](../../tournaments/icicle/icicle3.md) | Minor |
 | 14/03/2024 |1st :1st_place_medal: |[Orfeo: Farewell Inast!](../../tournaments/orfeo/orfeofarewell.md) | Minor |
 | 18/02/2024 |1st :1st_place_medal: |[Ragnarok Strikers Xtreme #8](../../tournaments/ragna/ragnax8.md) | Major |

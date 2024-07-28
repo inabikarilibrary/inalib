@@ -7,6 +7,7 @@ Jorge Lorenzo is a Spanish :es: player, maining Nomash.
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
 | 13/07/2024 |3rd :3rd_place_medal:| [Inazuma Eleven Strikers World Cup 2024](../../tournaments/worldcup24.md) | World Cup |
+| 30/06/2024 | 13th | [Area Xtreme #1](../../tournaments/area/areax1.md) | Major |
 | 10/06/2024 | 5th | [Hades Garden #7](../../tournaments/hg/hg7.md) | Minor |
 | 14/03/2024 |2nd :2nd_place_medal: |[Orfeo: Farewell Inast!](../../tournaments/orfeo/orfeofarewell.md) | Minor |
 | 18/02/2024 | 5th |[Ragnarok Strikers Xtreme #8](../../tournaments/ragna/ragnax8.md) | Major |

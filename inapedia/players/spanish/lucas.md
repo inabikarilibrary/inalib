@@ -9,6 +9,7 @@ Spanish player to win a Major.
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
 | 13/07/2024 |3rd :3rd_place_medal:| [Inazuma Eleven Strikers World Cup 2024](../../tournaments/worldcup24.md) | World Cup |
+| 30/06/2024 | 4th | [Area Xtreme #1](../../tournaments/area/areax1.md) | Major |
 | 18/06/2024 |1st :1st_place_medal:| [Icicle Palace Fast Warm Up](../../tournaments/icicle/iciclewarmup.md) | Minor |
 | 10/06/2024 |1st :1st_place_medal:| [Hades Garden #7](../../tournaments/hg/hg7.md) | Minor |
 | 05/03/2024 |1st :1st_place_medal:| [Inazuma Eleven GO Strikers Xtreme IT #7](../../tournaments/italia/it7.md) | Minor |

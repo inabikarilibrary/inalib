@@ -28,7 +28,7 @@ Tier: Minor
 |-|-|
 |1st:1st_place_medal:|[Johnny](../../players/spanish/johnny.md) :es:|
 |2nd:2nd_place_medal:|[Braxou](../../players/french/braxou.md) :fr:|
-|3rd:3rd_place_medal:|IDSI :fr:|
+|3rd:3rd_place_medal:|[IDSI](../../players/french/idsi.md) :fr:|
 |4th|[Kev'nox](../../players/french/kevnox.md) :fr:|
 |5th|[Alan](../../players/french/alan.md) :fr:|
 |5th|[Kemal](../../players/french/kemal.md) :fr:|

@@ -7,6 +7,7 @@ SRAW is a French :fr: player, maining Nomash.
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
 | 27/07/2024 | 9th | [Ragnarok Strikers Xtreme #9](../../tournaments/ragna/ragnax9.md) | Major |
+| 30/06/2024 | 5th | [Area Xtreme #1](../../tournaments/area/areax1.md) | Major |
 | 19/11/2023 |3rd :3rd_place_medal:| [Strikers FR Weekly 2](../../tournaments/weeklies/weekly2.md) | Minor |
 | 10/11/2023 | 7th | [Strikers FR Weekly 1](../../tournaments/weeklies/weekly1.md) | Minor |
 | 16/10/2023 | 5th |[Rose Griffon Strikers](../../tournaments/misc/rosegriffon.md) | Minor |

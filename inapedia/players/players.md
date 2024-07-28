@@ -109,6 +109,7 @@ toc_label: "List of Players"
 - [Baptiste](french/baptiste.md)
 - [Braxou](french/braxou.md)
 - [Cherry](french/cherry.md)
+- [IDSI](french/idsi.md)
 - [Ishido](french/ishido.md)
 - [Jin](french/jin.md)
 - [JiviZz](french/jivizz.md)
