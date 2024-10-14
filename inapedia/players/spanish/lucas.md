@@ -1,8 +1,11 @@
 # Lucas
 
 Lucas is a Spanish :es: player, maining Nomash. 
+His playstyle is characterized by aggression and fast offensive plays.
 His 1st place finish at [ZENITH 2](../../tournaments/misc/zenith2.md) marked him the first ever
-Spanish player to win a Major.
+Spanish player to win a Major. 
+
+His performances throughout 2024 put him in clear contention for the best player in Spain.
 
 ## Achievements
 

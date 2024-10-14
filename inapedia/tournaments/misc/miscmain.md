@@ -18,10 +18,6 @@
 
 - [Siege of MUGEN Castle](mugen.md)
 
-- [Vanilla Party](vp.md)
-
-- [Vanilla Party: Vintage](vpv.md)
-
 - [ZENITH](zenith1.md)
 
 - [ZENITH 2](zenith2.md)

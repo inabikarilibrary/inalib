@@ -1,6 +1,9 @@
 # Terewsant
 
-Terewsant is a Polish :poland: player, maining Nomash.
+Terewsant is a Polish :poland: player, maining Nomash. 
+He is known for utilizing off-meta character combinations, as well as for his aggressive scoring angles. 
+
+Terewsant is also a prominent TO, serving as main TO for the [Icicle Palace](../../tournaments/icicle/iciclemain.md) tournaments, as well as organizing several high profile tournaments, most notably the [2024 World Cup](../../tournaments/worldcup24.md).
 
 ## Achievements
 

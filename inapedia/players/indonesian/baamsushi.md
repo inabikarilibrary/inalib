@@ -2,6 +2,8 @@
 
 Baamsushi is an Indonesian :indonesia: player, maining Chain. He was previously a Nomash main. He is known for his unorthodox strategies and playstyle. 
 
+He has also served as TO, having organized the [2024 World Cup](../../tournaments/worldcup24.md) and the [Vanilla Party](../../tournaments/vp/vpmain.md) tournaments.
+
 ## Style of play
 
 Baamsushi may be most notably known for his S-chain style together with a Hollow composition in the 2nd half, both of which he was one of its pioneers. He noticeably utilizes a lot of Slip chains. 
