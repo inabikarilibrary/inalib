@@ -6,6 +6,7 @@ Kemal is a French/Macedonian :fr::macedonia: player.
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
+| 07/10/2024 | 5th | [Monthly Strikers #1](../../tournaments/misc/monthly1.md) | Minor |
 | 27/07/2024 | 13th | [Ragnarok Strikers Xtreme #9](../../tournaments/ragna/ragnax9.md) | Major |
 | 13/07/2024 | 9th | [Inazuma Eleven Strikers World Cup 2024](../../tournaments/worldcup24.md) | World Cup |
 | 08/07/2024 | 5th | [Kingdom Xtreme](../../tournaments/misc/kingdom.md) | Minor |

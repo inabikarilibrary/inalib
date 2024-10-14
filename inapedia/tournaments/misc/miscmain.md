@@ -12,6 +12,8 @@
 
 - [MrCheeseTalisman Subscriber Tournament](cheesesub.md)
 
+- [Monthly Strikers #1](monthly1.md)
+
 - [Rose Griffon Strikers](rosegriffon.md)
 
 - [Siege of MUGEN Castle](mugen.md)

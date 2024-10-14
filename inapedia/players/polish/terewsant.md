@@ -6,6 +6,7 @@ Terewsant is a Polish :poland: player, maining Nomash.
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
+| 07/10/2024 | 5th | [Monthly Strikers #1](../../tournaments/misc/monthly1.md) | Minor |
 | 27/07/2024 | 4th | [Ragnarok Strikers Xtreme #9](../../tournaments/ragna/ragnax9.md) | Major |
 | 13/07/2024 | 7th | [Inazuma Eleven Strikers World Cup 2024](../../tournaments/worldcup24.md) | World Cup |
 | 13/07/2024 | 5th | [Area Xtreme #2](../../tournaments/area/areax2.md) | Minor |

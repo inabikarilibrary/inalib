@@ -6,6 +6,7 @@ Johnny is a Spanish :es: player, maining Nomash.
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
+| 07/10/2024 |2nd :2nd_place_medal:| [Monthly Strikers #1](../../tournaments/misc/monthly1.md) | Minor |
 | 13/07/2024 |3rd :3rd_place_medal:| [Inazuma Eleven Strikers World Cup 2024](../../tournaments/worldcup24.md) | World Cup |
 | 08/07/2024 |1st :1st_place_medal:| [Kingdom Xtreme](../../tournaments/misc/kingdom.md) | Minor |
 | 30/06/2024 | 13th | [Area Xtreme #1](../../tournaments/area/areax1.md) | Major |
