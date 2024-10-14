@@ -8,7 +8,7 @@
 |:desktop_computer:: Xtreme|
 |:1st_place_medal:: [Lucas](../../players/spanish/lucas.md) :es:|
 
-Monthly Strikers #1 is a tournament held on the [monthly tournament](https://discord.gg/n9MYYfJqfE) Discord server.
+Monthly Strikers #1 was a tournament held on the [monthly tournament](https://discord.gg/n9MYYfJqfE) Discord server.
 24 players participated. 
 
 Tier: Minor
@@ -16,7 +16,7 @@ Tier: Minor
 ## Overview
 
 ### Schedule
-- October 3, 2024 to October 7, 2024
+- 3 October, 2024 to 7 October, 2024
 
 ### Format
 - Standard rules
