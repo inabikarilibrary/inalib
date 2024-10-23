@@ -4,7 +4,7 @@
 |-|
 |:calendar:: 11/10/24 - 13/10/24|
 |:busts_in_silhouette:: 34|
-|:trophy:: Major|
+|:trophy:: Minor|
 |:desktop_computer:: Xtreme|
 |:1st_place_medal:: [Paraly](../../players/japanese/paraly.md) :jp:|
 
