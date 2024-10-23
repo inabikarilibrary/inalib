@@ -1,6 +1,6 @@
 # Evo
 
-Evo is a French :fr: player, maining Nomash.
+Evo is a French :fr: player, maining Nomash. He was also a caster for the [2024 World Cup](../../tournaments/worldcup24.md).
 
 ## Achievements
 
