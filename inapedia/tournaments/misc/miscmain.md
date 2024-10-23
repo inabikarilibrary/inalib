@@ -1,5 +1,7 @@
 # Miscellaneous Tournaments
 
+- [Eclipse Eleven Tournament Strikers](eclipse.md)
+
 - [God Impact](godimpact.md)
 
 - [Grand Celesta](grandcelesta.md)
