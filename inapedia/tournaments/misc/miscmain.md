@@ -20,6 +20,8 @@
 
 - [Siege of MUGEN Castle](mugen.md)
 
+- [Strikers Masters](masters.md)
+
 - [ZENITH](zenith1.md)
 
 - [ZENITH 2](zenith2.md)

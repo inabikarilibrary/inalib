@@ -9,6 +9,7 @@ putting Spain on the map for the first time in the Strikers scene.
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
 | 21/10/2024 |3rd :3rd_place_medal:| [KIRASTAR CLUB Weekly #11](../../tournaments/kirastar/kirastar11.md) | Minor |
+| 20/10/2024 |2nd :2nd_place_medal:|[Strikers Masters](../../tournaments/misc/masters.md) | Minor |
 | 13/10/2024 | 5th | [Ragnarok Strikers Xtreme #10](../../tournaments/ragna/ragnax10.md) | Minor |
 | 13/07/2024 |3rd :3rd_place_medal:| [Inazuma Eleven Strikers World Cup 2024](../../tournaments/worldcup24.md) | World Cup |
 | 30/06/2024 |3rd :3rd_place_medal:| [Area Xtreme #1](../../tournaments/area/areax1.md) | Major |

@@ -20,6 +20,7 @@ to initiate his circle until the last moment.
 | Date | Place | Tournament | Tier |
 | - | - | - | - |
 | 21/10/2024 |2nd :2nd_place_medal:| [KIRASTAR CLUB Weekly #11](../../tournaments/kirastar/kirastar11.md) | Minor |
+| 20/10/2024 |1st :1st_place_medal:|[Strikers Masters](../../tournaments/misc/masters.md) | Minor |
 | 13/07/2024 |1st :1st_place_medal:| [Inazuma Eleven Strikers World Cup 2024](../../tournaments/worldcup24.md) | World Cup |
 | 30/06/2024 |1st :1st_place_medal:| [Area Xtreme #1](../../tournaments/area/areax1.md) | Major |
 | 01/01/2024 |1st :1st_place_medal:| [Grand Celesta](../../tournaments/misc/grandcelesta.md) | Minor |

@@ -7,6 +7,7 @@ Braxou is a French :fr: player, maining Nomash.
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
 | 21/10/2024 | 5th | [KIRASTAR CLUB Weekly #11](../../tournaments/kirastar/kirastar11.md) | Minor |
+| 20/10/2024 | 5th |[Strikers Masters](../../tournaments/misc/masters.md) | Minor |
 | 13/07/2024 |2nd :2nd_place_medal:| [Inazuma Eleven Strikers World Cup 2024](../../tournaments/worldcup24.md) | World Cup |
 | 13/07/2024 | 5th | [Area Xtreme #2](../../tournaments/area/areax2.md) | Minor |
 | 08/07/2024 |2nd :2nd_place_medal:| [Kingdom Xtreme](../../tournaments/misc/kingdom.md) | Minor |

@@ -16,6 +16,7 @@ His Nomash style involves lots of side nomash techniques, such as the classic Ur
 
 | Date | Place | Tournament | Tier |
 | - | - | - | - |
+| 20/10/2024 | 7th |[Strikers Masters](../../tournaments/misc/masters.md) | Minor |
 | 13/10/2024 | 5th | [Ragnarok Strikers Xtreme #10](../../tournaments/ragna/ragnax10.md) | Minor |
 | 07/10/2024 |3rd :3rd_place_medal:| [Monthly Strikers #1](../../tournaments/misc/monthly1.md) | Minor |
 | 13/07/2024 | 7th | [Inazuma Eleven Strikers World Cup 2024](../../tournaments/worldcup24.md) | World Cup |
