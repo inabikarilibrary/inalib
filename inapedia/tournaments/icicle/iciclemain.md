@@ -14,3 +14,4 @@ Icicle Palace is a [discord server](https://discord.gg/5wC4SWRaNS) that regularl
 
 - [Icicle Palace #2](icicle2.md)
 - [Icicle Palace Triple Draft Tournament](icicletriple.md)
+- [Just Inazuma Eleven Icicle Palace Tournament](iciclejust.md)
