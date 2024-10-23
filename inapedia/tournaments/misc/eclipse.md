@@ -8,8 +8,7 @@
 |:desktop_computer:: Xtreme|
 |:1st_place_medal:: [Milozaki](../../players/german/milozaki.md) :de:|
 
-Eclipse Eleven Tournament Strikers was a tournament held by the [Eclipse Eleven]
-(https://discord.gg/WpdHPWyfsT) discord server. 
+Eclipse Eleven Tournament Strikers was a tournament held by the [Eclipse Eleven](https://discord.gg/WpdHPWyfsT) discord server. 
 15 players participated.
 
 Tier: Minor
