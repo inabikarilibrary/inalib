@@ -32,7 +32,7 @@ Tier: Minor
 |3rd :3rd_place_medal:|Fehmi|
 |4th|DaRk_Proaso :es:|
 |5th|Sabueso|
-|5th|Evo :fr:|
+|5th|[Evo](../../players/french/evo.md) :fr:|
 |7th|OnyxStorm|
 |7th|SerYi|
 

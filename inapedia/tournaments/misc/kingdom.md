@@ -32,7 +32,7 @@ Tier: Minor
 |4th|[Kev'nox](../../players/french/kevnox.md) :fr:|
 |5th|[Alan](../../players/french/alan.md) :fr:|
 |5th|[Kemal](../../players/french/kemal.md) :fr:|
-|7th|Evo :fr:|
+|7th|[Evo](../../players/french/evo.md) :fr:|
 |7th|[Pinguin](../../players/french/pinguin.md) :algeria::fr:|
 
 ### Bracket
