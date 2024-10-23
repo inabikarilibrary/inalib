@@ -1,6 +1,6 @@
 # Evo
 
-Evo is a French :fr: player. 
+Evo is a French :fr: player, maining Nomash.
 
 ## Achievements
 
