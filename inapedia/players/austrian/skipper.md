@@ -7,6 +7,7 @@ He was also previously a high-level Chain player.
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
+| 13/10/2024 | 5th | [Ragnarok Strikers Xtreme #10](../../tournaments/ragna/ragnax10.md) | Minor |
 | 27/07/2024 | 5th | [Ragnarok Strikers Xtreme #9](../../tournaments/ragna/ragnax9.md) | Major |
 | 13/07/2024 | 7th | [Inazuma Eleven Strikers World Cup 2024](../../tournaments/worldcup24.md) | World Cup |
 | 22/03/2024 |3rd :3rd_place_medal:|[#3 Icicle Palace Skilled Tournament](../../tournaments/icicle/icicle3.md) | Minor |

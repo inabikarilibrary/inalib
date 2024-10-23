@@ -6,7 +6,7 @@
 |:busts_in_silhouette:: 44|
 |:trophy:: Major|
 |:desktop_computer:: Xtreme|
-|:1st_place_medal:: [Alexisl](../../players/french/alexisl.md) :fr:|
+|:1st_place_medal:: [Paraly](../../players/japanese/paraly.md) :jp:|
 
 Ragnarok Strikers Xtreme #9 was the 9th edition of the [Ragnarok Strikers Xtreme](ragnaxmain.md) tournament series.
 44 players participated.
