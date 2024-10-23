@@ -8,6 +8,7 @@ having founded the Ragnarok server and subsequently the [Ragnarok Strikers](../.
 
 | Date | Place | Tournament | Tier |
 | - | - | - | - |
+| 21/10/2024 | 7th | [KIRASTAR CLUB Weekly #11](../../tournaments/kirastar/kirastar11.md) | Minor |
 | 19/10/2024 |1st :1st_place_medal:| [Eclipse Eleven Tournament Strikers](../../tournaments/misc/eclipse.md) | Minor |
 | 13/07/2024 | 7th | [Inazuma Eleven Strikers World Cup 2024](../../tournaments/worldcup24.md) | World Cup |
 | 06/01/2024 | 9th | [ZENITH 2](../../tournaments/misc/zenith2.md) | Major |

@@ -9,6 +9,7 @@ Terewsant is also a prominent TO, serving as main TO for the [Icicle Palace](../
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
+| 21/10/2024 | 4th | [KIRASTAR CLUB Weekly #11](../../tournaments/kirastar/kirastar11.md) | Minor |
 | 07/10/2024 | 5th | [Monthly Strikers #1](../../tournaments/misc/monthly1.md) | Minor |
 | 27/07/2024 | 4th | [Ragnarok Strikers Xtreme #9](../../tournaments/ragna/ragnax9.md) | Major |
 | 13/07/2024 | 7th | [Inazuma Eleven Strikers World Cup 2024](../../tournaments/worldcup24.md) | World Cup |

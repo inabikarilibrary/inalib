@@ -17,3 +17,4 @@ Tournaments are held weekly, lasting from Friday to Sunday of each week.
 - [KIRASTAR CLUB WEEKLY #8](kirastar8.md)
 - [KIRASTAR CLUB WEEKLY #9](kirastar9.md)
 - [KIRASTAR CLUB WEEKLY #10](kirastar10.md)
+- [KIRASTAR CLUB WEEKLY #11](kirastar11.md)

@@ -11,6 +11,7 @@ His performances throughout 2024 put him in clear contention for the best player
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
+| 21/10/2024 |1st :1st_place_medal:| [KIRASTAR CLUB Weekly #11](../../tournaments/kirastar/kirastar11.md) | Minor |
 | 07/10/2024 |1st :1st_place_medal:| [Monthly Strikers #1](../../tournaments/misc/monthly1.md) | Minor |
 | 13/07/2024 |3rd :3rd_place_medal:| [Inazuma Eleven Strikers World Cup 2024](../../tournaments/worldcup24.md) | World Cup |
 | 30/06/2024 | 4th | [Area Xtreme #1](../../tournaments/area/areax1.md) | Major |
