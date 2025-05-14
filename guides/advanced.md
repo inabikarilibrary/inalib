@@ -2,6 +2,8 @@
 
 ## Theory
 
+- [Evaluation of Meta Team Compositions](textA/teameval.md)
+
 - [Kirafi Archetype](textA/kirafi.md)
 
 - [Principles of Dribble vs Block Hissatsus](https://infi-nity.hatenablog.com/entry/2021/09/25/021537)
@@ -21,3 +23,5 @@
 - [0.5/1.5 Tempo Dash Goals](https://youtu.be/UAxwUcVv2ao?si=XdZ_wWaazoybJ6aN&t=225)
 
 - [Rapid Circle Opening for SBing](https://youtu.be/Ky0uQSDvYI8)
+
+- [Multi-kills](https://youtu.be/npzYzU05ffM?si=-KzKxCMTWgwK0Duh)

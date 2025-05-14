@@ -34,7 +34,7 @@ Tier: Minor
 |5th|[Skipper](../../players/austrian/skipper.md) :austria:|
 |5th|[Alexisl](../../players/french/alexisl.md) :fr:|
 |7th|[Hikky](../../players/brazilian/hikky.md) :brazil:|
-|7th|[Naos]|
+|7th|Naos|
 
 ### Bracket
 - [Challonge](https://challonge.com/6cpcd1md)
