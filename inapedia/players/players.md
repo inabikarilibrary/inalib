@@ -114,6 +114,7 @@ toc_label: "List of Players"
 - [Ishido](french/ishido.md)
 - [Jin](french/jin.md)
 - [JiviZz](french/jivizz.md)
+- [Kanawaki](french/kanawaki.md)
 - [Kemal](french/kemal.md)
 - [Kenway](french/kenway.md)
 - [Kev'nox](french/kevnox.md)

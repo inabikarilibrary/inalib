@@ -34,7 +34,7 @@ Tier: Minor
 |5th|[Kev'nox](../../players/french/kevnox.md) :fr:|
 |5th|[Terewsant](../../players/polish/terewsant.md) :poland:|
 |7th|[Kemal](../../players/french/kemal.md) :fr::macedonia:|
-|7th|Kanawaki :fr:|
+|7th|[Kanawaki](../../players/french/kanawaki.md) :fr:|
 
 ### Bracket
 

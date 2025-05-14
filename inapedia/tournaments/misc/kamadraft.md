@@ -28,7 +28,7 @@ Tier: Draft
 |-|-|
 |1st:1st_place_medal:|[Skipper](../../players/austrian/skipper.md) :austria:|
 |2nd:2nd_place_medal:|[Kev'nox](../../players/french/kevnox.md) :fr:|
-|3rd:3rd_place_medal:|Kawanaki :fr:|
+|3rd:3rd_place_medal:|Kanawaki :fr:|
 |4th|[Terewsant](../../players/polish/terewsant.md) :poland:|
 |5th|[Evo](../../players/french/evo.md) :fr:|
 |5th|[Killian](../../players/french/killian11.md) :fr::martinique:|
