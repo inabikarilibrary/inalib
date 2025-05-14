@@ -47,6 +47,8 @@ A team's power and versatility indicates not just simply power, but also the abi
 
 ### S-chain
 
+![image](https://github.com/user-attachments/assets/87f39d7d-7aa0-4793-b56e-5d7b2b8013c2)
+
 #### Overview
 
 This team scores goals by chaining with chain characters with a [gauge speed](../textF/charge.md) of S. For example, this is typically done by double chaining from 1st Gouenji (mid chainer) to Minamizawa (final chainer). The other FW, typically a fire-[attribute](../textF/attributes.md) chainer like Ishido, serves as a counter to GKs like Maou Tachimukai that counter the two standard final chainers of Minamizawa and R1 Someoka. Einam is often used as a guard [keyman](../textF/keys.md) so that double chaining with gauge-S can still be done in the second half.
@@ -61,6 +63,8 @@ Not only do I personally evaluate S-chain as the best type of chain team, but it
 
 ### A-chain
 
+![image](https://github.com/user-attachments/assets/70221f53-d1bb-4000-afdd-c34d54ae4394)
+
 #### Overview
 
 A-chain teams aim to score with three gauge-A chain characters. The most common composition is using both adult Gouenjis (Ishido and ILJ Gouenji), the two strongest chain characters in terms of power, and a third wind-attribute chain character to offset the Gouenjis' weakness to earth-attribute GKs. In addition to the regular Middle Block formation, the Dot Prison formation can also be used in the second half to allow the ability to chain from all directions with a single chain.
@@ -74,6 +78,8 @@ Unlike S-chain, A-chain does not have the benefit of the gauge speed de-sync. A-
 Further, when doing a single chain with Dot Prison, success is determined heavily on the opponent's GK. Although not all teams bring a substitute GK, if the opponent brings out a GK that counters your solo chainer in the 2nd half, it becomes extremely difficult to score. On the other hand, if your solo chainer is not at a disadvantage against the opponent's GK, A-chain with Dot Prison can be as powerful as S-chain in the second half.
 
 ### Shuu-nomash
+
+![image](https://github.com/user-attachments/assets/807ce031-8d60-403e-bf3a-199a2de4602e)
 
 #### Overview
 
@@ -91,6 +97,8 @@ Further, in the 2nd half, several characters can stop Shuu, namely Kinako and S+
 
 ### Mephisto-nomash
 
+![image](https://github.com/user-attachments/assets/28677946-1e9b-45fd-9a4d-4e3fddb60d86)
+
 #### Overview
 
 This team aims to score via nomash with the an offensive core of Kitaki-T Tenma-Mephisto. Mephisto's Devil Ball can defeat Onizuka's Air Bullet and Torb's Hunting Lance even from behind, making him a good partner for Kitaki who struggles against those two. 
@@ -107,6 +115,8 @@ Devil Ball's circle and damage radius is small, making it difficult to create ch
 
 ### Winel-nomash
 
+![image](https://github.com/user-attachments/assets/a41fa5ac-1311-437d-b773-511d2b6fcaa2)
+
 #### Overview
 
 This team aims to score via nomash with an offensive core of Kitaki-T Tenma-Winel. Winel's Angel Ball can beat Onizuka's Air Bullet and ILJ Sakuma's Deep Jungle from behind. Plus, he charges really fast with his gauge-S stat. 
@@ -121,8 +131,9 @@ With a gauge-S dribbler like Winel, his high rotation rate works well with assis
 
 In addition, Winel's influence on determining the opponent's defensive strategy is greater than that of other dribblers. His presence often forces the use of Kinako (a counter to Winel), and limits Torb's opportunity to miximax. 
 
-
 ### Seidou-nomash
+
+![image](https://github.com/user-attachments/assets/2f3283dd-a087-4406-a862-8128e5ef0b9f)
 
 #### Overview
 
@@ -139,6 +150,8 @@ Seidou Dan has gauge-B, so it is not difficult to use. To use Seidou effectively
 Compared to Shuu, Seidou is slightly inferior in terms of its dribble rotation rate (due to a slower gauge speed), but it as an equal rank of A due to its high synergy with Mephisto.
 
 ### Hakuryuu-nomash
+
+![image](https://github.com/user-attachments/assets/38d64776-32c4-4265-823b-6d77592762c3)
 
 #### Overview
 
@@ -158,6 +171,8 @@ Further, because using him as a FW frees up a slot in the defensive midfield, th
 
 ### Kirafi-nomash
 
+![image](https://github.com/user-attachments/assets/ed38a651-379e-4e26-9c5e-d2ce6f2b09c1)
+
 #### Overview
 
 Kirafi (Killer Fields) relies on the use of the strongest Killer Fields duo of ILJ Fudou and ILJ Kidou to dismantle the opponent's midfield and backline, before leading into the usual Kitaki and T Tenma to commit for the final attack.
@@ -175,6 +190,8 @@ However, the lack of dashes makes them difficult to use, and counters to Kirafi 
 Recently, however, developments have been made to avoid this, such as by hiding the Kirafi duo on the bench and use them in the second half (most commonly in the form of JPN Fudou for his body keys and S+ body with supplements).
 
 ### Baddap-dribble
+
+![image](https://github.com/user-attachments/assets/0f929d52-a6dd-4f48-a96c-ec5f091e2e86)
 
 #### Overview
 
@@ -194,6 +211,8 @@ Though his dribbling power is second to none, his rotation rate is incredibly sl
 
 ### Ishido-hybrid
 
+![image](https://github.com/user-attachments/assets/aa3ab850-1b94-47c6-bcaf-0518fcfeade0)
+
 #### Overview
 
 This team uses the dribbling prowess of Kitaki and T Tenma together with the chaining of Ishido. Ishido's Maximum Fire is effective against anything that is not an earth-attribute GK, and single chains are often enough to score. When faced against an earth-attribute GK, Hakuryuu and T Tenma can abuse this weakness with their armed shoot techniques. 
@@ -211,6 +230,8 @@ Thus, Ishido with body supplement not only has the most powerful chaining power,
 In addition, because of the chain threat, the opponent cannot place a miximaxed Torb in the back line due to a lack of a shoot block. This gives Kitaki, Arthur Tenma, and Rei more space to attack freely. An opponent must also keep in mind the numerous angles of attack from an Ishido-hybird team. Meanwhile, the player using the Ishido-hybrid team does not have to worry about opponent counters that much, and gaps in the opponent's tactics can be easily exploited. This makes Ishido-hybrid the most complete team out of all the teams discussed here.
 
 ### Genius-hybrid
+
+![image](https://github.com/user-attachments/assets/5d13cca4-085d-42a6-9bdb-fa803ff6eaa7)
 
 #### Overview
 
@@ -232,6 +253,8 @@ However, Genius does have a block technique, meaning he can perform gauge adjust
 
 ### Fidio-hybrid
 
+![Uploading image.png…]()
+
 #### Overview
 
 This team uses a core of Kitaki-T Tenma-Fideo. Fidio's Odin Sword is second only to the likes of Ishido and Genius in firepower, and has a very versatile elemental combination which gives him a neutral matchup against almost all GKs in the game. This gives him a lot of opportunities to score in just one chain.
@@ -249,6 +272,8 @@ In addition, the Dot Prison hybrid team uses T Tenma in the midfield, mainly to 
 Fidio-hybrid is the perfect form of a chain-type hybrid team, though it is different in function from Ishido-hybrid. It is a highly versatile and powerful team. The downside to Fidio-hybrid is that Fidio is poor at dribbling (lack of dashes and weak dribble technique), so in the case of a body mirror in the second half, the team's power is greatly reduced. While this problem can be avoided by going guard 8 instead, it is important to be careful of always playing guard 8 when facing a nomash team.
 
 ### Someoka-hybrid
+
+![Uploading image.png…]()
 
 #### Overview
 
@@ -268,6 +293,8 @@ Essentially, the main mode of attack with Someoka is by chaining, but in cases o
 
 ### Yukimura-hybrid
 
+![Uploading image.png…]()
+
 #### Overview
 
 With a core of Kitaki-T Tenma-Yukimura, Yukimura's Panther Blizzard has the same power as ILJ Someoka, and his elements allow him to obliterate earth-attribute GKs. 
@@ -285,6 +312,8 @@ The reason why Yukimura-hybrid has such a low score is that not only does it get
 Nevertheless, in cases where Maou Tachimukai is not available for the opponent, Yukimura can be a better chain player than Genius or Fidio. In other words, you can only use Yukimura-hybrid if you can be sure that the opponent will never use Maou Tachimukai.
 
 ### Shindou-hybrid
+
+![Uploading image.png…]()
 
 #### Overview
 
