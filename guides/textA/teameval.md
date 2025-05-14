@@ -253,7 +253,7 @@ However, Genius does have a block technique, meaning he can perform gauge adjust
 
 ### Fidio-hybrid
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/e77a83dc-b9d4-4d81-8cc2-b37dd8b7cdf6)
 
 #### Overview
 
@@ -273,7 +273,7 @@ Fidio-hybrid is the perfect form of a chain-type hybrid team, though it is diffe
 
 ### Someoka-hybrid
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/885521c9-c1a3-442c-972b-021887032c45)
 
 #### Overview
 
@@ -293,7 +293,7 @@ Essentially, the main mode of attack with Someoka is by chaining, but in cases o
 
 ### Yukimura-hybrid
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/be22890e-b443-4ca2-9069-925d284d8fa4)
 
 #### Overview
 
@@ -313,7 +313,7 @@ Nevertheless, in cases where Maou Tachimukai is not available for the opponent, 
 
 ### Shindou-hybrid
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/3405e9ff-8525-432b-87cb-1a535bbd2357)
 
 #### Overview
 
