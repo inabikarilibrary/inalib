@@ -7,6 +7,8 @@ Alan is a French :fr: player.
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
 | 26/04/2025 | 5th | [Monthly Strikers #7](../../tournaments/monthly/monthly7.md) | Minor |
+| 05/04/2025 | 5th | [Sanctum #2](../../tournaments/sanctum/sanctum2.md) | Minor |
+| 03/04/2025 | 4th | [Eclipse Eleven #5](../../tournaments/eclipse/eclipse5.md) | Minor |
 | 27/03/2025 |2nd :2nd_place_medal:| [Monthly Strikers #6](../../tournaments/monthly/monthly6.md) | Minor |
 | 25/02/2025 |2nd :2nd_place_medal:| [Monthly Strikers #5](../../tournaments/monthly/monthly5.md) | Minor |
 | 27/07/2024 | 5th | [Ragnarok Strikers Xtreme #9](../../tournaments/ragna/ragnax9.md) | Major |

@@ -14,6 +14,7 @@ to handle his evasive movement.
 
 | Date | Place | Tournament | Tier |
 | - | - | - | - |
+| 02/02/2025 |3rd :3rd_place_medal:| [Sanctum #1](../../tournaments/sanctum/sanctum1.md) | Minor |
 | 02/01/2025 |2nd :2nd_place_medal:| [Icicle Palace #4](../../tournaments/icicle/icicle4.md) | Minor |
 | 23/12/2024 | 5th | [Ragnarok Strikers Xtreme #11](../../tournaments/ragna/ragnax11.md) | Minor |
 | 13/12/2024 |1st :1st_place_medal:| [Supernova Strikers](../../tournaments/misc/supernova.md) | Minor |

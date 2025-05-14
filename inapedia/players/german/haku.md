@@ -17,8 +17,11 @@ His Nomash style involves lots of side nomash techniques, such as the classic Ur
 | Date | Place | Tournament | Tier |
 | - | - | - | - |
 | 26/04/2025 | 5th | [Monthly Strikers #7](../../tournaments/monthly/monthly7.md) | Minor |
+| 05/04/2025 | 4th | [Sanctum #2](../../tournaments/sanctum/sanctum2.md) | Minor |
+| 03/04/2025 | 7th | [Eclipse Eleven #5](../../tournaments/eclipse/eclipse5.md) | Minor |
 | 27/03/2025 | 4th | [Monthly Strikers #6](../../tournaments/monthly/monthly6.md) | Minor |
 | 25/02/2025 | 4th | [Monthly Strikers #5](../../tournaments/monthly/monthly5.md) | Minor |
+| 02/02/2025 | 4th | [Sanctum #1](../../tournaments/sanctum/sanctum1.md) | Minor |
 | 26/01/2025 | 5th | [Eclipse Eleven #4](../../tournaments/eclipse/eclipse4.md) | Minor |
 | 10/01/2025 |1st :1st_place_medal:| [Monthly Strikers #4](../../tournaments/monthly/monthly4.md) | Minor |
 | 19/12/2024 |1st :1st_place_medal:| [Eclipse Eleven #3](../../tournaments/eclipse/eclipse3.md) | Minor |

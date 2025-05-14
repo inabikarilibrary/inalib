@@ -22,6 +22,8 @@
 
 - [Monthly Strikers](monthly/monthlymain.md)
 
+- [Sanctum](sanctum/sanctummain.md)
+
 - [RTAXV](rtaxv/rtaxvmain.md)
   
 - [Strikers Frontier](sf/sfmain.md)

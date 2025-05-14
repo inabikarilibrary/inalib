@@ -12,6 +12,7 @@ His performances throughout 2024 put him in clear contention for the best player
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
 | 27/03/2025 |3rd :3rd_place_medal:| [Monthly Strikers #6](../../tournaments/monthly/monthly6.md) | Minor |
+| 02/02/2025 |1st :1st_place_medal:| [Sanctum #1](../../tournaments/sanctum/sanctum1.md) | Minor |
 | 23/12/2024 |3rd :3rd_place_medal:| [Ragnarok Strikers Xtreme #11](../../tournaments/ragna/ragnax11.md) | Minor |
 | 03/12/2024 |2nd :2nd_place_medal:| [Hades Garden #10](../../tournaments/hg/hg10.md) | Minor |
 | 11/11/2024 |1st :1st_place_medal:| [Monthly Strikers #2](../../tournaments/monthly/monthly2.md) | Minor |
