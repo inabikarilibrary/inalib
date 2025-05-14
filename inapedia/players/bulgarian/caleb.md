@@ -14,6 +14,7 @@ After the release of Xtreme, Caleb began pivoting towards Chain, which he plays 
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
+| 26/04/2025 |2nd :2nd_place_medal:| [Monthly Strikers #7](../../tournaments/monthly/monthly7.md) | Minor |
 | 02/01/2025 |3rd :3rd_place_medal:| [Icicle Palace #4](../../tournaments/icicle/icicle4.md) | Minor |
 | 23/12/2024 | 7th | [Ragnarok Strikers Xtreme #11](../../tournaments/ragna/ragnax11.md) | Minor |
 | 01/11/2024 | 5th | [Hades Garden #9](../../tournaments/hg/hg9.md) | Minor |

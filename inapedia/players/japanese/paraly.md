@@ -15,6 +15,7 @@ that is, at worse, neutral for him.
 
 | Date | Place | Tournament | Tier | 
 | - | - | - | - |
+| 26/04/2025 | 1st :1st_place_medal: | [Monthly Strikers #7](../../tournaments/monthly/monthly7.md) | Minor |
 | 13/10/2024 | 1st :1st_place_medal: | [Ragnarok Strikers Xtreme #10](../../tournaments/ragna/ragnax10.md) | Minor |
 | 27/07/2024 | 1st :1st_place_medal: | [Ragnarok Strikers Xtreme #9](../../tournaments/ragna/ragnax9.md) | Major |
 | 07/09/2023 | 1st :1st_place_medal: | [Ragnarok Strikers Xtreme #6](../../tournaments/ragna/ragnax6.md) | Major |

@@ -7,6 +7,7 @@ He was also previously a high-level Chain player.
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
+| 26/04/2025 |3rd :3rd_place_medal:| [Monthly Strikers #7](../../tournaments/monthly/monthly7.md) | Minor |
 | 02/01/2025 | 5th | [Icicle Palace #4](../../tournaments/icicle/icicle4.md) | Minor |
 | 13/10/2024 | 5th | [Ragnarok Strikers Xtreme #10](../../tournaments/ragna/ragnax10.md) | Minor |
 | 27/07/2024 | 5th | [Ragnarok Strikers Xtreme #9](../../tournaments/ragna/ragnax9.md) | Major |

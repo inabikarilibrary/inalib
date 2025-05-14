@@ -10,3 +10,6 @@ Tournaments are organized once per month.
 - [Monthly Strikers #2](monthly2.md)
 - [Monthly Strikers #3](monthly3.md)
 - [Monthly Strikers #4](monthly4.md)
+- [Monthly Strikers #5](monthly5.md)
+- [Monthly Strikers #6](monthly6.md)
+- [Monthly Strikers #7](monthly7.md)

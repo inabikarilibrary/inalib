@@ -7,6 +7,7 @@ He is also a streamer on Twitch.
 
 |Date|Place|Tournament|Tier|
 |-|-|-|-|
+| 27/03/2025 | 7th | [Monthly Strikers #6](../../tournaments/monthly/monthly6.md) | Minor |
 | 08/07/2024 | 7th | [Kingdom Xtreme](../../tournaments/misc/kingdom.md) | Minor |
 | 30/06/2024 | 7th | [Area Xtreme #1](../../tournaments/area/areax1.md) | Major |
 | 18/02/2024 | 13th |[Ragnarok Strikers Xtreme #8](../../tournaments/ragna/ragnax8.md) | Major |
