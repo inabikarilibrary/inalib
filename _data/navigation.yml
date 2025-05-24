@@ -7,3 +7,5 @@ main:
     url: /guides/fundamentals.html
   - title: "Advanced"
     url: /guides/advanced.html
+  - title: "Tournaments"
+    url: /competitive/tournaments.html
