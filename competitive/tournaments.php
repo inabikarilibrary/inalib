@@ -1,3 +1,5 @@
+<?php
+
 {{DISPLAYTITLE:}}
 {{Infobox league
 |name=Ragnarok
@@ -119,3 +121,4 @@ Write down the tournament format here, ideally in a bullet point format.
 ==References==
 {{Reflist}}
 
+?>
