@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+
 <?php
 
 {{DISPLAYTITLE:}}
@@ -122,3 +126,6 @@ Write down the tournament format here, ideally in a bullet point format.
 {{Reflist}}
 
 ?>
+
+</body>
+</html>
